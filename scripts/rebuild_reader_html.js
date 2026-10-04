@@ -115,7 +115,43 @@ export const VERIFIED_TOC = [
 
 function generateReaderHtml() {
   const sortedPages = JSON.parse(readFileSync(join(process.cwd(), 'data', 'post_processed_pages.json'), 'utf-8'));
+  const locationsData = JSON.parse(readFileSync(join(process.cwd(), 'data', 'locations_dissertation.json'), 'utf-8'));
   const totalPages = 446;
+
+  // Build page-to-locations lookup map
+  const locationsByPage = {};
+  for (let p = 1; p <= totalPages; p++) {
+    locationsByPage[p] = [];
+  }
+
+  for (const loc of locationsData) {
+    if (Array.isArray(loc.all_pages)) {
+      for (const p of loc.all_pages) {
+        if (locationsByPage[p]) {
+          locationsByPage[p].push({
+            name: loc.location_name,
+            eng: loc.english_name || '',
+            heb_aliases: loc.hebrew_aliases || '',
+            eng_aliases: loc.english_aliases || '',
+            type: loc.site_type || 'Archaeological Site',
+            first_page: loc.first_page,
+            pages: loc.all_pages,
+            iaa_map: loc.iaa_survey_map || '',
+            iaa_id: loc.iaa_site_id || '',
+            iaa_url: loc.iaa_portal_url || '',
+            iaa_eng_url: loc.iaa_eng_portal_url || '',
+            lat: loc.latitude || '',
+            lon: loc.longitude || ''
+          });
+        }
+      }
+    }
+  }
+
+  // Sort locations on each page alphabetically by Hebrew name
+  for (let p = 1; p <= totalPages; p++) {
+    locationsByPage[p].sort((a, b) => a.name.localeCompare(b.name, 'he'));
+  }
 
   let pagesHtml = '';
   for (const p of sortedPages) {
@@ -129,6 +165,8 @@ function generateReaderHtml() {
       tocAnchorBadges += `<span class="toc-badge" id="${t.id}">${t.title}</span>`;
     });
 
+    const pageLocCount = locationsByPage[p.page_number]?.length || 0;
+
     pagesHtml += `
     <article id="page-${p.page_number}" class="page-container ${langClass}" dir="${textDir}" data-page="${p.page_number}">
       <a id="p${p.page_number}" class="anchor-link" aria-hidden="true"></a>
@@ -137,6 +175,7 @@ function generateReaderHtml() {
           <span class="page-badge">עמוד ${p.page_number}</span>
           ${tocAnchorBadges}
           ${p.section_title ? `<span class="section-tag">${p.section_title}</span>` : ''}
+          ${pageLocCount > 0 ? `<button class="page-loc-badge" onclick="showLocationsForPage(${p.page_number})" title="הצג ${pageLocCount} אתרים בעמוד זה">📍 ${pageLocCount} אתרים</button>` : ''}
         </div>
         <div class="page-actions">
           <button class="btn-action btn-copy-link" onclick="copyPageLink(${p.page_number})" title="העתק קישור ישיר לעמוד זה">
@@ -169,6 +208,8 @@ function generateReaderHtml() {
   });
   tocListHtml += '</ul>';
 
+  const clientJs = readFileSync(join(process.cwd(), 'scripts', 'reader_client.js'), 'utf-8');
+
   const fullHtml = `<!DOCTYPE html>
 <html lang="he" dir="rtl">
 <head>
@@ -178,19 +219,20 @@ function generateReaderHtml() {
   <meta name="description" content="מהדורה דיגיטלית מלאה ומעובדת של עבודת הדוקטורט מאת ד''ר צביקה צוק, אוניברסיטת תל אביב, 2000.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;600;700;800&family=Heebo:wght@300;400;500;700;800&family=Frank+Ruhl+Libre:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;500;600;700;800&family=Heebo:wght@300;400;500;700;800&family=Frank+Ruhl+Libre:wght@400;700&display=swap" rel="stylesheet">
   <style>
     :root {
       --bg-primary: #f8fafc;
       --bg-secondary: #ffffff;
-      --bg-sidebar: #0f172a;
+      --bg-sidebar-right: #0f172a;
+      --bg-sidebar-left: #ffffff;
       --bg-card: #ffffff;
       --text-primary: #1e293b;
       --text-secondary: #64748b;
       --text-sidebar: #cbd5e1;
-      --text-sidebar-hover: #38bdf8;
       --accent-color: #0284c7;
       --accent-hover: #0369a1;
+      --accent-soft: rgba(2, 132, 199, 0.08);
       --border-color: #e2e8f0;
       --highlight-bg: #fef08a;
       --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
@@ -198,19 +240,21 @@ function generateReaderHtml() {
       --font-body: 'Assistant', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       --font-heading: 'Heebo', sans-serif;
       --font-serif: 'Frank Ruhl Libre', serif;
-      --sidebar-width: 340px;
+      --sidebar-width: 330px;
       --header-height: 64px;
     }
 
     [data-theme="dark"] {
       --bg-primary: #090d16;
       --bg-secondary: #0f172a;
-      --bg-sidebar: #050811;
+      --bg-sidebar-right: #050811;
+      --bg-sidebar-left: #0f172a;
       --bg-card: #1e293b;
       --text-primary: #f1f5f9;
       --text-secondary: #94a3b8;
       --text-sidebar: #94a3b8;
       --border-color: #334155;
+      --accent-soft: rgba(56, 189, 248, 0.12);
       --highlight-bg: #854d0e;
     }
 
@@ -239,7 +283,7 @@ function generateReaderHtml() {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 16px;
       z-index: 1000;
       box-shadow: var(--shadow-sm);
     }
@@ -247,12 +291,12 @@ function generateReaderHtml() {
     .header-left, .header-right, .header-center {
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
     }
 
     .app-title {
       font-family: var(--font-heading);
-      font-size: 16px;
+      font-size: 15.5px;
       font-weight: 700;
       color: var(--accent-color);
       white-space: nowrap;
@@ -261,14 +305,29 @@ function generateReaderHtml() {
     .btn-toggle-sidebar {
       background: none;
       border: 1px solid var(--border-color);
-      padding: 8px 12px;
+      padding: 7px 11px;
       border-radius: 6px;
       cursor: pointer;
-      font-size: 16px;
+      font-size: 14px;
+      font-weight: 600;
       color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.15s;
+    }
+    .btn-toggle-sidebar:hover {
+      background: var(--accent-soft);
+      border-color: var(--accent-color);
+      color: var(--accent-color);
+    }
+    .btn-toggle-sidebar.active-btn {
+      background: var(--accent-color);
+      color: #fff;
+      border-color: var(--accent-color);
     }
 
-    /* Live Search Bar */
+    /* Search Box */
     .search-box {
       position: relative;
       display: flex;
@@ -276,20 +335,20 @@ function generateReaderHtml() {
     }
 
     .search-input {
-      width: 280px;
-      padding: 8px 36px 8px 12px;
+      width: 240px;
+      padding: 7px 34px 7px 12px;
       border-radius: 20px;
       border: 1px solid var(--border-color);
       background: var(--bg-primary);
       color: var(--text-primary);
       font-family: var(--font-body);
-      font-size: 14px;
+      font-size: 13.5px;
       transition: all 0.2s ease;
     }
     .search-input:focus {
       outline: none;
       border-color: var(--accent-color);
-      width: 340px;
+      width: 300px;
       box-shadow: 0 0 0 3px rgba(2, 132, 199, 0.15);
     }
 
@@ -303,20 +362,21 @@ function generateReaderHtml() {
     .search-count {
       font-size: 12px;
       color: var(--text-secondary);
-      margin-right: 8px;
+      margin-right: 6px;
+      white-space: nowrap;
     }
 
     /* Page Jump Input */
     .page-jump-container {
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
       font-size: 13px;
       color: var(--text-secondary);
     }
     .page-jump-input {
-      width: 60px;
-      padding: 6px 8px;
+      width: 54px;
+      padding: 5px 6px;
       text-align: center;
       border: 1px solid var(--border-color);
       border-radius: 6px;
@@ -325,66 +385,65 @@ function generateReaderHtml() {
       font-weight: 600;
     }
 
-    /* Action Buttons */
     .btn-control {
       background: var(--bg-primary);
       border: 1px solid var(--border-color);
       color: var(--text-primary);
-      padding: 6px 12px;
+      padding: 5px 10px;
       border-radius: 6px;
       cursor: pointer;
-      font-size: 13px;
+      font-size: 12.5px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 4px;
       transition: background 0.15s;
     }
     .btn-control:hover {
       background: var(--border-color);
     }
 
-    /* Sidebar Table of Contents */
-    .app-sidebar {
+    /* Right Sidebar (Table of Contents) */
+    .app-sidebar-right {
       position: fixed;
       top: var(--header-height);
       right: 0;
       bottom: 0;
       width: var(--sidebar-width);
-      background-color: var(--bg-sidebar);
+      background-color: var(--bg-sidebar-right);
       color: var(--text-sidebar);
       overflow-y: auto;
       z-index: 900;
       transition: transform 0.3s ease;
       border-left: 1px solid rgba(255,255,255,0.05);
     }
-    .app-sidebar.collapsed {
+    .app-sidebar-right.collapsed {
       transform: translateX(100%);
     }
 
     .sidebar-header {
-      padding: 16px 20px;
+      padding: 14px 18px;
       border-bottom: 1px solid rgba(255, 255, 255, 0.1);
       font-family: var(--font-heading);
-      font-size: 14px;
+      font-size: 13.5px;
       font-weight: 700;
       color: #38bdf8;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
     }
 
     .toc-tree {
       list-style: none;
-      padding: 12px 0 40px;
+      padding: 10px 0 40px;
     }
-
     .toc-tree li a {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 7px 20px;
+      padding: 6px 18px;
       color: var(--text-sidebar);
       text-decoration: none;
-      font-size: 13px;
+      font-size: 12.5px;
       transition: all 0.15s ease;
       border-right: 3px solid transparent;
     }
@@ -393,31 +452,269 @@ function generateReaderHtml() {
       background-color: rgba(255, 255, 255, 0.05);
       border-right-color: var(--accent-color);
     }
-
-    .toc-level-1 a { font-weight: 700; color: #f8fafc; font-size: 13.5px; margin-top: 6px; }
-    .toc-level-2 a { padding-right: 32px; font-weight: 500; color: #94a3b8; }
-    .toc-level-3 a { padding-right: 46px; font-size: 12.5px; color: #64748b; }
+    .toc-level-1 a { font-weight: 700; color: #f8fafc; font-size: 13px; margin-top: 5px; }
+    .toc-level-2 a { padding-right: 28px; font-weight: 500; color: #94a3b8; }
+    .toc-level-3 a { padding-right: 40px; font-size: 12px; color: #64748b; }
     .toc-page-num {
       font-size: 11px;
       background: rgba(255, 255, 255, 0.1);
-      padding: 2px 6px;
+      padding: 1px 5px;
       border-radius: 4px;
       color: #94a3b8;
+    }
+
+    /* Left Sidebar (Locations on Active Page) */
+    .app-sidebar-left {
+      position: fixed;
+      top: var(--header-height);
+      left: 0;
+      bottom: 0;
+      width: var(--sidebar-width);
+      background-color: var(--bg-sidebar-left);
+      border-right: 1px solid var(--border-color);
+      overflow-y: auto;
+      z-index: 900;
+      transition: transform 0.3s ease;
+      display: flex;
+      flex-direction: column;
+    }
+    .app-sidebar-left.collapsed {
+      transform: translateX(-100%);
+    }
+
+    .loc-sidebar-header {
+      padding: 14px 18px;
+      border-bottom: 1px solid var(--border-color);
+      background: var(--bg-secondary);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    .loc-header-title {
+      font-family: var(--font-heading);
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--accent-color);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .loc-page-pill {
+      background: var(--accent-color);
+      color: #fff;
+      padding: 2px 8px;
+      border-radius: 12px;
+      font-size: 11.5px;
+      font-weight: 700;
+    }
+
+    .loc-filter-box {
+      margin-top: 10px;
+    }
+    .loc-filter-input {
+      width: 100%;
+      padding: 6px 10px;
+      border-radius: 6px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      font-family: var(--font-body);
+      font-size: 12.5px;
+    }
+    .loc-filter-input:focus {
+      outline: none;
+      border-color: var(--accent-color);
+    }
+
+    .loc-list-container {
+      flex: 1;
+      padding: 10px 14px 40px;
+    }
+
+    .loc-empty-state {
+      padding: 30px 16px;
+      text-align: center;
+      color: var(--text-secondary);
+      font-size: 13.5px;
+    }
+
+    .loc-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      margin-bottom: 8px;
+      overflow: hidden;
+      transition: all 0.2s ease;
+    }
+    .loc-card:hover {
+      border-color: var(--accent-color);
+      box-shadow: var(--shadow-sm);
+    }
+    .loc-card.expanded {
+      border-color: var(--accent-color);
+      box-shadow: var(--shadow-md);
+    }
+
+    .loc-card-header {
+      padding: 10px 12px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      user-select: none;
+      background: var(--bg-secondary);
+      transition: background 0.15s;
+    }
+    .loc-card-header:hover {
+      background: var(--accent-soft);
+    }
+    .loc-card-title-group {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+    .loc-card-name {
+      font-weight: 700;
+      font-size: 14px;
+      color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .loc-card-eng {
+      font-size: 11.5px;
+      color: var(--text-secondary);
+    }
+    .loc-type-badge {
+      font-size: 10.5px;
+      padding: 2px 6px;
+      border-radius: 4px;
+      background: var(--accent-soft);
+      color: var(--accent-color);
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .loc-chevron {
+      font-size: 10px;
+      color: var(--text-secondary);
+      transition: transform 0.2s;
+    }
+    .loc-card.expanded .loc-chevron {
+      transform: rotate(180deg);
+      color: var(--accent-color);
+    }
+
+    /* Expandable Location Details Sub-List */
+    .loc-details-body {
+      display: none;
+      padding: 12px 14px;
+      border-top: 1px dashed var(--border-color);
+      background: var(--bg-primary);
+      font-size: 12.5px;
+      line-height: 1.6;
+    }
+    .loc-card.expanded .loc-details-body {
+      display: block;
+      animation: fadeIn 0.15s ease;
+    }
+
+    .loc-detail-row {
+      margin-bottom: 7px;
+      display: flex;
+      flex-direction: column;
+      gap: 1px;
+    }
+    .loc-detail-label {
+      font-weight: 700;
+      color: var(--text-secondary);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+    }
+    .loc-detail-value {
+      color: var(--text-primary);
+    }
+
+    .loc-page-badges-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+      margin-top: 3px;
+    }
+    .loc-page-chip {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border-color);
+      color: var(--accent-color);
+      font-weight: 700;
+      padding: 1px 6px;
+      border-radius: 4px;
+      font-size: 11px;
+      text-decoration: none;
+      transition: all 0.12s;
+    }
+    .loc-page-chip:hover {
+      background: var(--accent-color);
+      color: #fff;
+      border-color: var(--accent-color);
+    }
+    .loc-page-chip.active-page-chip {
+      background: var(--accent-color);
+      color: #fff;
+    }
+
+    .loc-links-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 6px;
+    }
+    .loc-btn-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-size: 11.5px;
+      font-weight: 600;
+      text-decoration: none;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border-color);
+      color: var(--text-primary);
+      transition: all 0.15s;
+    }
+    .loc-btn-link:hover {
+      background: var(--accent-color);
+      color: #ffffff;
+      border-color: var(--accent-color);
+    }
+    .loc-btn-link.iaa-link {
+      color: #0369a1;
+      border-color: #bae6fd;
+      background: #f0f9ff;
+    }
+    .loc-btn-link.iaa-link:hover {
+      background: #0284c7;
+      color: #fff;
     }
 
     /* Main Reading Content Area */
     .main-container {
       margin-top: var(--header-height);
       margin-right: var(--sidebar-width);
+      margin-left: var(--sidebar-width);
       flex: 1;
-      padding: 40px 24px 80px;
+      padding: 36px 20px 80px;
       display: flex;
       flex-direction: column;
       align-items: center;
-      transition: margin-right 0.3s ease;
+      transition: all 0.3s ease;
+      min-width: 0;
     }
-    .main-container.sidebar-closed {
+    .main-container.sidebar-right-closed {
       margin-right: 0;
+    }
+    .main-container.sidebar-left-closed {
+      margin-left: 0;
     }
 
     .reading-wrapper {
@@ -432,7 +729,7 @@ function generateReaderHtml() {
       border: 1px solid var(--border-color);
       box-shadow: var(--shadow-sm);
       margin-bottom: 32px;
-      padding: 36px 40px;
+      padding: 34px 38px;
       position: relative;
       transition: box-shadow 0.2s, border-color 0.2s;
     }
@@ -449,14 +746,14 @@ function generateReaderHtml() {
       justify-content: space-between;
       align-items: center;
       border-bottom: 1px solid var(--border-color);
-      padding-bottom: 14px;
-      margin-bottom: 24px;
+      padding-bottom: 12px;
+      margin-bottom: 22px;
     }
 
     .page-meta {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: wrap;
     }
 
@@ -465,16 +762,35 @@ function generateReaderHtml() {
       color: #ffffff;
       font-weight: 700;
       font-size: 12px;
-      padding: 4px 10px;
+      padding: 3px 9px;
       border-radius: 6px;
+    }
+
+    .page-loc-badge {
+      background: rgba(2, 132, 199, 0.12);
+      color: var(--accent-color);
+      font-weight: 700;
+      font-size: 11.5px;
+      padding: 3px 8px;
+      border-radius: 6px;
+      border: 1px solid rgba(2, 132, 199, 0.2);
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      transition: all 0.15s;
+    }
+    .page-loc-badge:hover {
+      background: var(--accent-color);
+      color: #fff;
     }
 
     .toc-badge {
       background: rgba(2, 132, 199, 0.1);
       color: var(--accent-color);
-      font-size: 12px;
+      font-size: 11.5px;
       font-weight: 600;
-      padding: 4px 10px;
+      padding: 3px 8px;
       border-radius: 6px;
     }
 
@@ -487,7 +803,7 @@ function generateReaderHtml() {
     .page-actions {
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
     }
 
     .btn-action {
@@ -496,7 +812,7 @@ function generateReaderHtml() {
       color: var(--text-primary);
       font-size: 12px;
       font-weight: 600;
-      padding: 5px 12px;
+      padding: 4px 10px;
       border-radius: 6px;
       cursor: pointer;
       display: flex;
@@ -516,7 +832,7 @@ function generateReaderHtml() {
       color: var(--text-secondary);
       text-decoration: none;
       font-size: 11px;
-      padding: 5px 8px;
+      padding: 4px 8px;
       border-radius: 6px;
     }
     .btn-nav:hover {
@@ -633,12 +949,18 @@ function generateReaderHtml() {
       to { opacity: 1; transform: translateY(0); }
     }
 
+    @media (max-width: 1200px) {
+      .app-sidebar-left { transform: translateX(-100%); }
+      .app-sidebar-left.open { transform: translateX(0); }
+      .main-container { margin-left: 0; }
+    }
+
     @media (max-width: 992px) {
-      .app-sidebar { transform: translateX(100%); }
-      .app-sidebar.open { transform: translateX(0); }
+      .app-sidebar-right { transform: translateX(100%); }
+      .app-sidebar-right.open { transform: translateX(0); }
       .main-container { margin-right: 0; padding: 20px 12px; }
-      .search-input { width: 180px; }
-      .search-input:focus { width: 220px; }
+      .search-input { width: 160px; }
+      .search-input:focus { width: 200px; }
     }
   </style>
 </head>
@@ -647,7 +969,9 @@ function generateReaderHtml() {
   <!-- Top Header Navigation -->
   <header class="app-header">
     <div class="header-right">
-      <button class="btn-toggle-sidebar" onclick="toggleSidebar()" title="פתח/סגור תוכן עניינים">☰</button>
+      <button class="btn-toggle-sidebar" id="btnToggleToc" onclick="toggleRightSidebar()" title="פתח/סגור תוכן עניינים">
+        <span>☰</span> <span>ראשי פרקים</span>
+      </button>
       <div class="app-title">מפעלי מים קדומים | ד"ר צביקה צוק</div>
     </div>
 
@@ -665,16 +989,35 @@ function generateReaderHtml() {
     </div>
 
     <div class="header-left">
+      <button class="btn-toggle-sidebar active-btn" id="btnToggleLocs" onclick="toggleLeftSidebar()" title="פתח/סגור רשימת אתרים">
+        <span>📍</span> <span>אתרים בעמוד</span>
+      </button>
       <button class="btn-control" onclick="changeFontSize(1)" title="הגדל גופן">א+</button>
       <button class="btn-control" onclick="changeFontSize(-1)" title="הקטן גופן">א-</button>
       <button class="btn-control" onclick="toggleDarkMode()" title="מצב לילה/יום">🌓</button>
     </div>
   </header>
 
-  <!-- Sidebar Table of Contents -->
-  <aside id="sidebar" class="app-sidebar">
+  <!-- Left Sidebar (Locations on Active Page) -->
+  <aside id="sidebarLeft" class="app-sidebar-left">
+    <div class="loc-sidebar-header">
+      <div class="loc-header-title">
+        <span>📍 אתרים בעמוד <span id="locCurrentPage">1</span></span>
+        <span id="locCountBadge" class="loc-page-pill">0 אתרים</span>
+      </div>
+      <div class="loc-filter-box">
+        <input type="text" id="locFilterInput" class="loc-filter-input" placeholder="סינון אתרים ברשימה..." oninput="filterLocationsList()">
+      </div>
+    </div>
+    <div id="locListContainer" class="loc-list-container">
+      <!-- Dynamic list of locations rendered via JS -->
+    </div>
+  </aside>
+
+  <!-- Right Sidebar (Table of Contents) -->
+  <aside id="sidebarRight" class="app-sidebar-right">
     <div class="sidebar-header">
-      תוכן העניינים וראשי פרקים
+      <span>תוכן העניינים וראשי פרקים</span>
     </div>
     ${tocListHtml}
   </aside>
@@ -690,124 +1033,17 @@ function generateReaderHtml() {
   <div id="toast" class="toast-notification">הקישור הועתק ללוח!</div>
 
   <script>
-    let currentFontSize = 16.5;
-    let isDark = false;
+    // Embedded Data: Locations per Page
+    const LOCATIONS_BY_PAGE = ${JSON.stringify(locationsByPage)};
 
-    function toggleSidebar() {
-      const sb = document.getElementById('sidebar');
-      const mc = document.getElementById('mainContainer');
-      sb.classList.toggle('collapsed');
-      mc.classList.toggle('sidebar-closed');
-    }
-
-    function toggleDarkMode() {
-      isDark = !isDark;
-      document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
-    }
-
-    function changeFontSize(delta) {
-      currentFontSize = Math.max(13, Math.min(24, currentFontSize + delta));
-      document.querySelectorAll('.page-content').forEach(el => {
-        el.style.fontSize = currentFontSize + 'px';
-      });
-    }
-
-    function copyPageLink(pageNum) {
-      const url = window.location.origin + window.location.pathname + '#page-' + pageNum;
-      navigator.clipboard.writeText(url).then(() => {
-        showToast('הקישור לעמוד ' + pageNum + ' הועתק ללוח: #page-' + pageNum);
-      });
-    }
-
-    function showToast(msg) {
-      const t = document.getElementById('toast');
-      t.textContent = msg;
-      t.style.display = 'block';
-      setTimeout(() => { t.style.display = 'none'; }, 3000);
-    }
-
-    function navigateToPage(pageNum) {
-      const el = document.getElementById('page-' + pageNum);
-      if (el) {
-        el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        highlightPage(el);
-        window.history.replaceState(null, null, '#page-' + pageNum);
-      }
-    }
-
-    function jumpToPageInput() {
-      const val = parseInt(document.getElementById('pageJumpInput').value, 10);
-      if (val >= 1 && val <= 446) {
-        navigateToPage(val);
-      }
-    }
-
-    function highlightPage(el) {
-      document.querySelectorAll('.page-container').forEach(p => p.classList.remove('highlighted-page'));
-      el.classList.add('highlighted-page');
-      setTimeout(() => el.classList.remove('highlighted-page'), 3000);
-    }
-
-    // Live search highlight across all pages
-    let searchDebounce = null;
-    function handleSearch() {
-      clearTimeout(searchDebounce);
-      searchDebounce = setTimeout(() => {
-        const query = document.getElementById('searchInput').value.trim();
-        const countSpan = document.getElementById('searchCount');
-        
-        // Remove existing highlights
-        document.querySelectorAll('.search-highlight').forEach(el => {
-          const parent = el.parentNode;
-          parent.replaceChild(document.createTextNode(el.textContent), el);
-          parent.normalize();
-        });
-
-        if (!query || query.length < 2) {
-          countSpan.textContent = '';
-          return;
-        }
-
-        let matchesCount = 0;
-        let firstMatch = null;
-        const regex = new RegExp('(' + query.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&') + ')', 'gi');
-
-        document.querySelectorAll('.page-content').forEach(pc => {
-          const paragraphs = pc.querySelectorAll('p, h2, h3, li, div');
-          paragraphs.forEach(p => {
-            if (p.textContent.toLowerCase().includes(query.toLowerCase())) {
-              p.innerHTML = p.innerHTML.replace(regex, '<mark class=\"search-highlight\">$1</mark>');
-              matchesCount++;
-              if (!firstMatch) firstMatch = p;
-            }
-          });
-        });
-
-        countSpan.textContent = matchesCount > 0 ? (matchesCount + ' תוצאות') : 'לא נמצאו תוצאות';
-        if (firstMatch) {
-          firstMatch.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        }
-      }, 300);
-    }
-
-    // Auto-scroll on initial hash load (#page-45 or #p45)
-    window.addEventListener('DOMContentLoaded', () => {
-      const hash = window.location.hash;
-      if (hash) {
-        const pageMatch = hash.match(/page-(\\d+)/) || hash.match(/p(\\d+)/);
-        if (pageMatch) {
-          const pageNum = parseInt(pageMatch[1], 10);
-          setTimeout(() => navigateToPage(pageNum), 200);
-        }
-      }
-    });
+    ${clientJs}
   </script>
 </body>
 </html>`;
 
   const outHtmlPath = join(process.cwd(), 'data', 'dissertation_reader.html');
   writeFileSync(outHtmlPath, fullHtml, 'utf-8');
-  console.log(`Saved updated Standalone HTML Reader with verified TOC: ${outHtmlPath} (${(fullHtml.length / 1024).toFixed(1)} KB)`);
+  console.log(`Saved updated Standalone HTML Reader with Left Locations Sidebar: ${outHtmlPath} (${(fullHtml.length / 1024).toFixed(1)} KB)`);
 
   try {
     console.log(`Syncing updated dissertation_reader.html to GCS (${OUTPUT_PREFIX})...`);
@@ -819,3 +1055,4 @@ function generateReaderHtml() {
 }
 
 generateReaderHtml();
+
