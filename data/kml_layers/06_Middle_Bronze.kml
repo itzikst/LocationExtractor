@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</name>
+    <description>תקופת הברונזה התיכונה (MB I-II) - 16 sites. From Dr. Zvika Tzuk's Dissertation.</description>
+    <Style id="style_Middle_Bronze">
+      <IconStyle>
+        <color>ff0000cc</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Bozrah (Busra) (בוצרה (סוריה))</name>
+      <description><![CDATA[<h3>Bozrah (Busra) (בוצרה (סוריה))</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Syria</p>
+<p><b>Dissertation Reference:</b> §2.6.13 (Pages 89)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>A well in the northern part of the tel, dated to the Middle Bronze Age, which was abandoned along with a house and garden it supplied with water.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Bozrah (Busra)</value></Data>
+        <Data name="Hebrew_Name"><value>בוצרה (סוריה)</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Syria</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.13</value></Data>
+        <Data name="Dissertation_Pages"><value>89</value></Data>
+        <Data name="Description"><value>A well in the northern part of the tel, dated to the Middle Bronze Age, which was abandoned along with a house and garden it supplied with water.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>36.475,32.516,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ebla (אבלה (סוריה))</name>
+      <description><![CDATA[<h3>Ebla (אבלה (סוריה))</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Syria</p>
+<p><b>Dissertation Reference:</b> §2.6.12 (Pages 88, 89)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>A very deep well in the lower city, connecting to a dome-roofed underground chamber, containing artifacts dated to around 2000 BCE.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Ebla</value></Data>
+        <Data name="Hebrew_Name"><value>אבלה (סוריה)</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Syria</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.12</value></Data>
+        <Data name="Dissertation_Pages"><value>88, 89</value></Data>
+        <Data name="Description"><value>A very deep well in the lower city, connecting to a dome-roofed underground chamber, containing artifacts dated to around 2000 BCE.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>36.809,35.793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jericho (יריחו)</name>
+      <description><![CDATA[<h3>Jericho (יריחו)</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Spring Cave Capture</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Jordan Valley</p>
+<p><b>Dissertation Reference:</b> §2.6.3 (Pages 75)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>During the Middle Bronze Age, the city of Jericho was fortified, and Elisha&apos;s Spring (Ein es-Sultan) was intentionally included within its city walls to provide a secure water source.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Jericho</value></Data>
+        <Data name="Hebrew_Name"><value>יריחו</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Region"><value>Jordan Valley</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.3</value></Data>
+        <Data name="Dissertation_Pages"><value>75</value></Data>
+        <Data name="Description"><value>During the Middle Bronze Age, the city of Jericho was fortified, and Elisha&apos;s Spring (Ein es-Sultan) was intentionally included within its city walls to provide a secure water source.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.4442,31.8706,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jerusalem (City of David) (ירושלים (עיר דוד))</name>
+      <description><![CDATA[<h3>Jerusalem (City of David) (ירושלים (עיר דוד))</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Spring Cave Capture</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Judean Hills</p>
+<p><b>Dissertation Reference:</b> §2.6.4 (Pages 76, 77, 78, 79, 80, 81)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>The Gihon Spring was the primary water source for Jerusalem from the Chalcolithic period, and its abundant flow was seven times greater than the city&apos;s needs during the Middle Bronze Age. Channel I, a plastered channel partly cut into rock and partly built, is considered the oldest water system in the area, possibly dating to the Middle Bronze Age or earlier, used for irrigating agricultural plots in the Kidron Valley. The central water system of Jerusalem, including Warren&apos;s Shaft (tunnel part), the Great Tower, a pool, and Channels II and III, was carved and built during Middle Bronze Age II to provide the city with an internal water source, especially during sieges.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Jerusalem (City of David)</value></Data>
+        <Data name="Hebrew_Name"><value>ירושלים (עיר דוד)</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Region"><value>Judean Hills</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.4</value></Data>
+        <Data name="Dissertation_Pages"><value>76, 77, 78, 79, 80, 81</value></Data>
+        <Data name="Description"><value>The Gihon Spring was the primary water source for Jerusalem from the Chalcolithic period, and its abundant flow was seven times greater than the city&apos;s needs during the Middle Bronze Age. Channel I, a plastered channel partly cut into rock and partly built, is considered the oldest water system in the area, possibly dating to the Middle Bronze Age or earlier, used for irrigating agricultural plots in the Kidron Valley. The central water system of Jerusalem, including Warren&apos;s Shaft (tunnel part), the Great Tower, a pool, and Channels II and III, was carved and built during Middle Bronze Age II to provide the city with an internal water source, especially during sieges.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.23584,31.77406,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mari (מארי)</name>
+      <description><![CDATA[<h3>Mari (מארי)</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Aqueduct Channel</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Mesopotamia</p>
+<p><b>Dissertation Reference:</b> §2.6.25 (Pages 94)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>Textual evidence from King Yahdun-Lim (18th century BCE) describes the construction of canals to bring water to Mari, potentially representing an early urban aqueduct, though no archaeological evidence has been found.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Mari</value></Data>
+        <Data name="Hebrew_Name"><value>מארי</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Aqueduct Channel</value></Data>
+        <Data name="Region"><value>Mesopotamia</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.25</value></Data>
+        <Data name="Dissertation_Pages"><value>94</value></Data>
+        <Data name="Description"><value>Textual evidence from King Yahdun-Lim (18th century BCE) describes the construction of canals to bring water to Mari, potentially representing an early urban aqueduct, though no archaeological evidence has been found.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>40.8897,34.5497,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Qatna (קטנה)</name>
+      <description><![CDATA[<h3>Qatna (קטנה)</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Spring Cave Capture</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Syria</p>
+<p><b>Dissertation Reference:</b> §2.6.5 (Pages 81)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>During Middle Bronze Age II, a spring was enclosed within the walls of the kingdom city of Qatna, while a stream outside the rampart may have filled a moat for defense.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Qatna</value></Data>
+        <Data name="Hebrew_Name"><value>קטנה</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Region"><value>Syria</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.5</value></Data>
+        <Data name="Dissertation_Pages"><value>81</value></Data>
+        <Data name="Description"><value>During Middle Bronze Age II, a spring was enclosed within the walls of the kingdom city of Qatna, while a stream outside the rampart may have filled a moat for defense.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>36.8656,34.8967,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sha&apos;albim (שעלבים)</name>
+      <description><![CDATA[<h3>Sha&apos;albim (שעלבים)</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Plastered Cistern</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Shephelah</p>
+<p><b>Dissertation Reference:</b> §2.6.22 (Pages 92)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>A burial cave from MB IIB was originally a rock-cut, mud-plastered water cistern, approximately 3m deep and 3m in diameter, with spiral steps for access.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Sha&apos;albim</value></Data>
+        <Data name="Hebrew_Name"><value>שעלבים</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Plastered Cistern</value></Data>
+        <Data name="Region"><value>Shephelah</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.22</value></Data>
+        <Data name="Dissertation_Pages"><value>92</value></Data>
+        <Data name="Description"><value>A burial cave from MB IIB was originally a rock-cut, mud-plastered water cistern, approximately 3m deep and 3m in diameter, with spiral steps for access.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.98519,31.86333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Dan (תל דן)</name>
+      <description><![CDATA[<h3>Tel Dan (תל דן)</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Spring Cave Capture</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Upper Galilee</p>
+<p><b>Dissertation Reference:</b> §2.6.2 (Pages 73, 74, 75)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>The city of Dan, enclosed by a massive rampart, incorporated the eastern springs of Dan within its fortifications during the Middle Bronze Age, serving as the primary water source. An artificial water passage (sinkhole) was likely constructed concurrently with the rampart to manage excess water.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Dan</value></Data>
+        <Data name="Hebrew_Name"><value>תל דן</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Region"><value>Upper Galilee</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.2</value></Data>
+        <Data name="Dissertation_Pages"><value>73, 74, 75</value></Data>
+        <Data name="Description"><value>The city of Dan, enclosed by a massive rampart, incorporated the eastern springs of Dan within its fortifications during the Middle Bronze Age, serving as the primary water source. An artificial water passage (sinkhole) was likely constructed concurrently with the rampart to manage excess water.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.65193,33.24836,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Gerisa (תל גריסה)</name>
+      <description><![CDATA[<h3>Tel Gerisa (תל גריסה)</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Water Tunnel Shaft</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Coastal Plain</p>
+<p><b>Dissertation Reference:</b> §2.6.6 (Pages 82, 83)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>A water system consisting of an elliptical vertical shaft with steps, cut into the kurkar rock, was constructed during Middle Bronze Age IIA within the fortified city of Tel Gerisa to reach groundwater, likely for use during sieges.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Gerisa</value></Data>
+        <Data name="Hebrew_Name"><value>תל גריסה</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Tunnel Shaft</value></Data>
+        <Data name="Region"><value>Coastal Plain</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.6</value></Data>
+        <Data name="Dissertation_Pages"><value>82, 83</value></Data>
+        <Data name="Description"><value>A water system consisting of an elliptical vertical shaft with steps, cut into the kurkar rock, was constructed during Middle Bronze Age IIA within the fortified city of Tel Gerisa to reach groundwater, likely for use during sieges.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.80648,32.09327,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Gezer (תל גזר)</name>
+      <description><![CDATA[<h3>Tel Gezer (תל גזר)</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Water Tunnel Shaft</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Shephelah</p>
+<p><b>Dissertation Reference:</b> §2.6.7, 2.6.23 (Pages 83, 84, 85, 86, 93, 94)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>An impressive water system was discovered within the fortifications of Tel Gezer, comprising an entrance, a sloping tunnel with steps, a collection basin, and a cave, dating to the Middle Bronze Age. A large, complex stepped water tunnel, 40m long and nearly 40m deep, leading to a natural spring/groundwater source. The author argues for its construction in the Middle Bronze Age. Numerous bottle-shaped, rock-cut, and often plastered cisterns were found, typically 4.9-7m deep, with drainage channels collecting runoff. Specific examples like 23089 and 34046 are dated to the Middle Bronze Age, with some reused into later periods.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Gezer</value></Data>
+        <Data name="Hebrew_Name"><value>תל גזר</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Tunnel Shaft</value></Data>
+        <Data name="Region"><value>Shephelah</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.7, 2.6.23</value></Data>
+        <Data name="Dissertation_Pages"><value>83, 84, 85, 86, 93, 94</value></Data>
+        <Data name="Description"><value>An impressive water system was discovered within the fortifications of Tel Gezer, comprising an entrance, a sloping tunnel with steps, a collection basin, and a cave, dating to the Middle Bronze Age. A large, complex stepped water tunnel, 40m long and nearly 40m deep, leading to a natural spring/groundwater source. The author argues for its construction in the Middle Bronze Age. Numerous bottle-shaped, rock-cut, and often plastered cisterns were found, typically 4.9-7m deep, with drainage channels collecting runoff. Specific examples like 23089 and 34046 are dated to the Middle Bronze Age, with some reused into later periods.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.91857,31.85882,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Haror (תל הרור)</name>
+      <description><![CDATA[<h3>Tel Haror (תל הרור)</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Northern Negev</p>
+<p><b>Dissertation Reference:</b> §2.6.11 (Pages 88)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>A 2m diameter, 11.5m deep well, lined with kurkar stones and rock-cut, located within the Middle Bronze Age city, intended to supply water during sieges. Dated by MB II pottery.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Haror</value></Data>
+        <Data name="Hebrew_Name"><value>תל הרור</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Northern Negev</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.11</value></Data>
+        <Data name="Dissertation_Pages"><value>88</value></Data>
+        <Data name="Description"><value>A 2m diameter, 11.5m deep well, lined with kurkar stones and rock-cut, located within the Middle Bronze Age city, intended to supply water during sieges. Dated by MB II pottery.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.60649,31.38362,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Hazor (תל חצור)</name>
+      <description><![CDATA[<h3>Tel Hazor (תל חצור)</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Water Tunnel Shaft</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Upper Galilee</p>
+<p><b>Dissertation Reference:</b> §2.6.8, 2.6.21 (Pages 87, 91, 92)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>A large depression in the lower city is suggested to be the top of a shaft dug to groundwater, used during the Middle Bronze and Late Bronze Ages. Six bottle-shaped, rock-cut cisterns (e.g., 9024, 9027, 6243) were found, dated to MB II by pottery, with some continuing into LB. They featured narrow necks, expanding bodies, and sometimes plaster, designed to collect rainwater runoff.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Hazor</value></Data>
+        <Data name="Hebrew_Name"><value>תל חצור</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Tunnel Shaft</value></Data>
+        <Data name="Region"><value>Upper Galilee</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.8, 2.6.21</value></Data>
+        <Data name="Dissertation_Pages"><value>87, 91, 92</value></Data>
+        <Data name="Description"><value>A large depression in the lower city is suggested to be the top of a shaft dug to groundwater, used during the Middle Bronze and Late Bronze Ages. Six bottle-shaped, rock-cut cisterns (e.g., 9024, 9027, 6243) were found, dated to MB II by pottery, with some continuing into LB. They featured narrow necks, expanding bodies, and sometimes plaster, designed to collect rainwater runoff.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.56828,33.01843,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Kabri (תל כברי)</name>
+      <description><![CDATA[<h3>Tel Kabri (תל כברי)</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Spring Cave Capture</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Western Galilee</p>
+<p><b>Dissertation Reference:</b> §2.6.1 (Pages 73)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>A large planned city from MB II (c. 1800 BCE) was built around the abundant Ein Shefa spring, which was enclosed within the city&apos;s rampart. Excess water was likely drained through a channel in the western gate.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Kabri</value></Data>
+        <Data name="Hebrew_Name"><value>תל כברי</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Region"><value>Western Galilee</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.1</value></Data>
+        <Data name="Dissertation_Pages"><value>73</value></Data>
+        <Data name="Description"><value>A large planned city from MB II (c. 1800 BCE) was built around the abundant Ein Shefa spring, which was enclosed within the city&apos;s rampart. Excess water was likely drained through a channel in the western gate.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.13976,33.00851,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Lachish (תל לכיש)</name>
+      <description><![CDATA[<h3>Tel Lachish (תל לכיש)</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Shephelah</p>
+<p><b>Dissertation Reference:</b> §2.6.10 (Pages 88)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>A 44m deep, 2.4m diameter cylindrical well, stone-lined and rock-cut, located within the city&apos;s Middle Bronze Age fortifications and used until the Iron Age.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Lachish</value></Data>
+        <Data name="Hebrew_Name"><value>תל לכיש</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Shephelah</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.10</value></Data>
+        <Data name="Dissertation_Pages"><value>88</value></Data>
+        <Data name="Description"><value>A 44m deep, 2.4m diameter cylindrical well, stone-lined and rock-cut, located within the city&apos;s Middle Bronze Age fortifications and used until the Iron Age.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.8478,31.56667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Megiddo (תל מגידו)</name>
+      <description><![CDATA[<h3>Tel Megiddo (תל מגידו)</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Water Tunnel Shaft</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Jezreel Valley</p>
+<p><b>Dissertation Reference:</b> §2.6.8 (Pages 87)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>A large depression in the northern part of the tel is hypothesized to be an early water system (MB, LB, possibly EB) reaching groundwater, potentially connected to Ein el-Qubi.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Megiddo</value></Data>
+        <Data name="Hebrew_Name"><value>תל מגידו</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Tunnel Shaft</value></Data>
+        <Data name="Region"><value>Jezreel Valley</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.8</value></Data>
+        <Data name="Dissertation_Pages"><value>87</value></Data>
+        <Data name="Description"><value>A large depression in the northern part of the tel is hypothesized to be an early water system (MB, LB, possibly EB) reaching groundwater, potentially connected to Ein el-Qubi.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.18275,32.5847,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Nami (תל נאמי)</name>
+      <description><![CDATA[<h3>Tel Nami (תל נאמי)</h3>
+<p><b>Period:</b> 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Coastal Plain</p>
+<p><b>Dissertation Reference:</b> §2.6.9 (Pages 87)</p>
+<hr/>
+<p><b>Archaeological Description (06. Middle Bronze Age):</b></p>
+<p>An unfortified settlement featured a rectangular/oval well, 2.3m deep, lined with fieldstones, dated to MB IIA. Its bottom is 1.2m below current sea level, indicating a lower sea level in the MB period.</p>]]></description>
+      <styleUrl>#style_Middle_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Nami</value></Data>
+        <Data name="Hebrew_Name"><value>תל נאמי</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Coastal Plain</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.9</value></Data>
+        <Data name="Dissertation_Pages"><value>87</value></Data>
+        <Data name="Description"><value>An unfortified settlement featured a rectangular/oval well, 2.3m deep, lined with fieldstones, dated to MB IIA. Its bottom is 1.2m below current sea level, indicating a lower sea level in the MB period.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.9245,32.66045,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

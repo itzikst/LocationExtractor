@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</name>
+    <description>תקופת הברונזה הקדומה (EB I-IV) - 19 sites. From Dr. Zvika Tzuk's Dissertation.</description>
+    <Style id="style_Early_Bronze">
+      <IconStyle>
+        <color>ff0088ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Ai (et-Tell) (העי (א-תל))</name>
+      <description><![CDATA[<h3>Ai (et-Tell) (העי (א-תל))</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Water Reservoir</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Judean Hills</p>
+<p><b>Dissertation Reference:</b> §2.5.10, 2.5 (Pages 59, 71)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>A large open-air reservoir in Area K, exceeding 1800 cubic meters in volume, 25m wide, and 2.5m deep. It was designed to collect runoff water from the upper city via channels, featuring a stone floor on clay and a thick dam wall, dating to EB 1-3. The only known instance of plaster from this period is from a water pool at Ai, where impermeable clayey soil was used as a hydraulic material to line the reservoir.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Ai (et-Tell)</value></Data>
+        <Data name="Hebrew_Name"><value>העי (א-תל)</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Reservoir</value></Data>
+        <Data name="Region"><value>Judean Hills</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.10, 2.5</value></Data>
+        <Data name="Dissertation_Pages"><value>59, 71</value></Data>
+        <Data name="Description"><value>A large open-air reservoir in Area K, exceeding 1800 cubic meters in volume, 25m wide, and 2.5m deep. It was designed to collect runoff water from the upper city via channels, featuring a stone floor on clay and a thick dam wall, dating to EB 1-3. The only known instance of plaster from this period is from a water pool at Ai, where impermeable clayey soil was used as a hydraulic material to line the reservoir.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.2611,31.9167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barqa (ברקת)</name>
+      <description><![CDATA[<h3>Barqa (ברקת)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 3: Approximate Village / Spring Area (&lt; 500m)</p>
+<p><b>Region:</b> Shephelah</p>
+<p><b>Dissertation Reference:</b> §2.5 (Pages 68)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>The site shows evidence of rainwater storage in soft chalk bedrock, indicating the use of rock-cut cisterns during the Early Bronze Age.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Barqa</value></Data>
+        <Data name="Hebrew_Name"><value>ברקת</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Shephelah</value></Data>
+        <Data name="Location_Precision"><value>Tier 3: Approximate Village / Spring Area (&lt; 500m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5</value></Data>
+        <Data name="Dissertation_Pages"><value>68</value></Data>
+        <Data name="Description"><value>The site shows evidence of rainwater storage in soft chalk bedrock, indicating the use of rock-cut cisterns during the Early Bronze Age.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.9352,31.9795,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ein Qadis (עין קדיס)</name>
+      <description><![CDATA[<h3>Ein Qadis (עין קדיס)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Spring Cave Capture</p>
+<p><b>Location Precision:</b> Tier 3: Approximate Village / Spring Area (&lt; 500m)</p>
+<p><b>Region:</b> Negev</p>
+<p><b>Dissertation Reference:</b> §2.5.9 (Pages 59)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>A permanent spring in the Western Negev Highlands, serving as a crucial water source around which Early Bronze Age settlements were concentrated.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Ein Qadis</value></Data>
+        <Data name="Hebrew_Name"><value>עין קדיס</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Region"><value>Negev</value></Data>
+        <Data name="Location_Precision"><value>Tier 3: Approximate Village / Spring Area (&lt; 500m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.9</value></Data>
+        <Data name="Dissertation_Pages"><value>59</value></Data>
+        <Data name="Description"><value>A permanent spring in the Western Negev Highlands, serving as a crucial water source around which Early Bronze Age settlements were concentrated.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.4695,30.5512,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jawa (ג&apos;ווה)</name>
+      <description><![CDATA[<h3>Jawa (ג&apos;ווה)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Water Reservoir</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Jordan</p>
+<p><b>Dissertation Reference:</b> §2.5.12 (Pages 65, 66)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>Three water collection systems and two modified natural pools (P3, P4) with a total capacity of 1800 cubic meters. The system involved diverting water from Wadi Rajil with a diversion dam and channels to fill the pools, dated to the Early Bronze Age.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Jawa</value></Data>
+        <Data name="Hebrew_Name"><value>ג&apos;ווה</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Reservoir</value></Data>
+        <Data name="Region"><value>Jordan</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.12</value></Data>
+        <Data name="Dissertation_Pages"><value>65, 66</value></Data>
+        <Data name="Description"><value>Three water collection systems and two modified natural pools (P3, P4) with a total capacity of 1800 cubic meters. The system involved diverting water from Wadi Rajil with a diversion dam and channels to fill the pools, dated to the Early Bronze Age.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>37.0068,32.3364,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kadesh Barnea (Ein el-Gudeirat) (קדש ברנע (עין אל-קודייראת))</name>
+      <description><![CDATA[<h3>Kadesh Barnea (Ein el-Gudeirat) (קדש ברנע (עין אל-קודייראת))</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Spring Cave Capture</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Negev</p>
+<p><b>Dissertation Reference:</b> §2.5.9 (Pages 59)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>A permanent spring in the Western Negev Highlands, serving as a crucial water source around which Early Bronze Age settlements were concentrated.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Kadesh Barnea (Ein el-Gudeirat)</value></Data>
+        <Data name="Hebrew_Name"><value>קדש ברנע (עין אל-קודייראת)</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Region"><value>Negev</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.9</value></Data>
+        <Data name="Dissertation_Pages"><value>59</value></Data>
+        <Data name="Description"><value>A permanent spring in the Western Negev Highlands, serving as a crucial water source around which Early Bronze Age settlements were concentrated.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.4235,30.6558,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Khirbet Zeiraqoun (חירבת זירקון)</name>
+      <description><![CDATA[<h3>Khirbet Zeiraqoun (חירבת זירקון)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Water Tunnel Shaft</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Jordan</p>
+<p><b>Dissertation Reference:</b> §2.5.3 (Pages 56, 57)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>Three stepped shafts were excavated, leading to a groundwater level approximately 60m deep. One shaft is 100m long, reaching the bottom of Wadi Shallala. Horizontal tunnels and connecting stepped tunnels were proposed to bring water into the city, dated to EB 2-3.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Khirbet Zeiraqoun</value></Data>
+        <Data name="Hebrew_Name"><value>חירבת זירקון</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Tunnel Shaft</value></Data>
+        <Data name="Region"><value>Jordan</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.3</value></Data>
+        <Data name="Dissertation_Pages"><value>56, 57</value></Data>
+        <Data name="Description"><value>Three stepped shafts were excavated, leading to a groundwater level approximately 60m deep. One shaft is 100m long, reaching the bottom of Wadi Shallala. Horizontal tunnels and connecting stepped tunnels were proposed to bring water into the city, dated to EB 2-3.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.9864,32.5975,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mezer (מצר)</name>
+      <description><![CDATA[<h3>Mezer (מצר)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Coastal Plain</p>
+<p><b>Dissertation Reference:</b> §2.5.15 (Pages 68)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>Multiple rock-cut cisterns, including a large one (B3) 5m deep and another (D7) with niches, were used for rainwater collection via rock-cut channels. These cisterns were unplastered due to the impermeable Nari and chalk bedrock.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Mezer</value></Data>
+        <Data name="Hebrew_Name"><value>מצר</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Coastal Plain</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.15</value></Data>
+        <Data name="Dissertation_Pages"><value>68</value></Data>
+        <Data name="Description"><value>Multiple rock-cut cisterns, including a large one (B3) 5m deep and another (D7) with niches, were used for rainwater collection via rock-cut channels. These cisterns were unplastered due to the impermeable Nari and chalk bedrock.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.03584,32.47469,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Midiya (מידיא)</name>
+      <description><![CDATA[<h3>Midiya (מידיא)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 3: Approximate Village / Spring Area (&lt; 500m)</p>
+<p><b>Region:</b> Samaria</p>
+<p><b>Dissertation Reference:</b> §2.5.14 (Pages 67, 68)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>This Early Bronze Age settlement, like others in Western Samaria, utilized unplastered cisterns carved into soft chalk bedrock to collect rainwater, compensating for the absence of nearby springs.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Midiya</value></Data>
+        <Data name="Hebrew_Name"><value>מידיא</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Samaria</value></Data>
+        <Data name="Location_Precision"><value>Tier 3: Approximate Village / Spring Area (&lt; 500m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.14</value></Data>
+        <Data name="Dissertation_Pages"><value>67, 68</value></Data>
+        <Data name="Description"><value>This Early Bronze Age settlement, like others in Western Samaria, utilized unplastered cisterns carved into soft chalk bedrock to collect rainwater, compensating for the absence of nearby springs.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.0118,31.9325,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nahal Horasha Illit (Well) (נחל חורשה עילי (באר))</name>
+      <description><![CDATA[<h3>Nahal Horasha Illit (Well) (נחל חורשה עילי (באר))</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 3: Approximate Village / Spring Area (&lt; 500m)</p>
+<p><b>Region:</b> Negev</p>
+<p><b>Dissertation Reference:</b> §2.5.9 (Pages 59)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>A well near Mount Ramon, possibly originating in the Early Bronze Age (or even Pre-Pottery Neolithic) when the water table was higher, despite its later Ottoman reconstruction.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Nahal Horasha Illit (Well)</value></Data>
+        <Data name="Hebrew_Name"><value>נחל חורשה עילי (באר)</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Negev</value></Data>
+        <Data name="Location_Precision"><value>Tier 3: Approximate Village / Spring Area (&lt; 500m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.9</value></Data>
+        <Data name="Dissertation_Pages"><value>59</value></Data>
+        <Data name="Description"><value>A well near Mount Ramon, possibly originating in the Early Bronze Age (or even Pre-Pottery Neolithic) when the water table was higher, despite its later Ottoman reconstruction.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.542,30.5345,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ovda Valley (בקעת עובדה)</name>
+      <description><![CDATA[<h3>Ovda Valley (בקעת עובדה)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Negev</p>
+<p><b>Dissertation Reference:</b> §2.5.1, 2.5.13 (Pages 55, 66)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>Four wells were discovered, cut into a water-bearing layer. One well, well-preserved, has a 1.5-1m opening, is bell-shaped, 1.5m deep, and lined with stones. Its dating to the Chalcolithic and Early Bronze Age is based on nearby flint tools. Two methods of water storage were identified: &apos;granot&apos; (runoff collection basins), dams, and depressions in clay, in addition to wells. These systems were associated with Early Bronze Age 2 settlement clusters.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Ovda Valley</value></Data>
+        <Data name="Hebrew_Name"><value>בקעת עובדה</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Negev</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.1, 2.5.13</value></Data>
+        <Data name="Dissertation_Pages"><value>55, 66</value></Data>
+        <Data name="Description"><value>Four wells were discovered, cut into a water-bearing layer. One well, well-preserved, has a 1.5-1m opening, is bell-shaped, 1.5m deep, and lined with stones. Its dating to the Chalcolithic and Early Bronze Age is based on nearby flint tools. Two methods of water storage were identified: &apos;granot&apos; (runoff collection basins), dams, and depressions in clay, in addition to wells. These systems were associated with Early Bronze Age 2 settlement clusters.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.975,29.932,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shabtin (שבתין)</name>
+      <description><![CDATA[<h3>Shabtin (שבתין)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 3: Approximate Village / Spring Area (&lt; 500m)</p>
+<p><b>Region:</b> Samaria</p>
+<p><b>Dissertation Reference:</b> §2.5.14 (Pages 67, 68)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>This Early Bronze Age settlement, located near a spring, also featured unplastered cisterns carved into soft chalk bedrock for rainwater collection, a common practice in Western Samaria.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Shabtin</value></Data>
+        <Data name="Hebrew_Name"><value>שבתין</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Samaria</value></Data>
+        <Data name="Location_Precision"><value>Tier 3: Approximate Village / Spring Area (&lt; 500m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.14</value></Data>
+        <Data name="Dissertation_Pages"><value>67, 68</value></Data>
+        <Data name="Description"><value>This Early Bronze Age settlement, located near a spring, also featured unplastered cisterns carved into soft chalk bedrock for rainwater collection, a common practice in Western Samaria.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.0685,31.9542,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Arad (תל ערד)</name>
+      <description><![CDATA[<h3>Tel Arad (תל ערד)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Negev</p>
+<p><b>Dissertation Reference:</b> §2.5.2, 2.5.11, 2.5 (Pages 55, 56, 60, 61, 62, 63, 64, 65, 70, 71)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>A well is located in the heart of the Early Bronze Age city. Although re-used in the Iron Age, it is suggested that its initial excavation dates to the Early Bronze Age as part of a larger runoff water collection system. An open-air pool/reservoir in the city center, formed by collecting rainwater runoff through radial streets into a natural depression, covering about one dunam. Water collection from rooftops into large pithoi is also suggested for this EB city. Arad had central water pools for collecting runoff, and large storage jars (pithoi) were used within houses for water storage. Clayey soil was used as a hydraulic plaster for water installations.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Arad</value></Data>
+        <Data name="Hebrew_Name"><value>תל ערד</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Negev</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.2, 2.5.11, 2.5</value></Data>
+        <Data name="Dissertation_Pages"><value>55, 56, 60, 61, 62, 63, 64, 65, 70, 71</value></Data>
+        <Data name="Description"><value>A well is located in the heart of the Early Bronze Age city. Although re-used in the Iron Age, it is suggested that its initial excavation dates to the Early Bronze Age as part of a larger runoff water collection system. An open-air pool/reservoir in the city center, formed by collecting rainwater runoff through radial streets into a natural depression, covering about one dunam. Water collection from rooftops into large pithoi is also suggested for this EB city. Arad had central water pools for collecting runoff, and large storage jars (pithoi) were used within houses for water storage. Clayey soil was used as a hydraulic plaster for water installations.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.12535,31.28173,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Bet Yerah (בית ירח)</name>
+      <description><![CDATA[<h3>Tel Bet Yerah (בית ירח)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Aqueduct Channel</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Jordan Valley</p>
+<p><b>Dissertation Reference:</b> §2.5.17 (Pages 70)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>A basalt-lined tunnel, roofed with basalt slabs, was discovered on the southern edge of Tel Bet Yerah. It is interpreted as part of an Early Bronze Age III water system, possibly an aqueduct bringing water from mountain springs or a channel collecting runoff within the city.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Bet Yerah</value></Data>
+        <Data name="Hebrew_Name"><value>בית ירח</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Aqueduct Channel</value></Data>
+        <Data name="Region"><value>Jordan Valley</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.17</value></Data>
+        <Data name="Dissertation_Pages"><value>70</value></Data>
+        <Data name="Description"><value>A basalt-lined tunnel, roofed with basalt slabs, was discovered on the southern edge of Tel Bet Yerah. It is interpreted as part of an Early Bronze Age III water system, possibly an aqueduct bringing water from mountain springs or a channel collecting runoff within the city.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.56921,32.71635,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Dalit (תל דלית)</name>
+      <description><![CDATA[<h3>Tel Dalit (תל דלית)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Judean Hills</p>
+<p><b>Dissertation Reference:</b> §2.5.16 (Pages 68, 69, 70)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>A fortified Early Bronze Age settlement with several rock-cut cisterns in soft chalk bedrock, designed to collect rainwater. One examined cistern was irregular, 2.2m deep to the chamber, with a rectangular chamber 2.6x2.0m, showing no signs of plaster due to the impermeable chalk. Shallow wells in nearby wadis likely supplemented water supply during peacetime.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Dalit</value></Data>
+        <Data name="Hebrew_Name"><value>תל דלית</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Judean Hills</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.16</value></Data>
+        <Data name="Dissertation_Pages"><value>68, 69, 70</value></Data>
+        <Data name="Description"><value>A fortified Early Bronze Age settlement with several rock-cut cisterns in soft chalk bedrock, designed to collect rainwater. One examined cistern was irregular, 2.2m deep to the chamber, with a rectangular chamber 2.6x2.0m, showing no signs of plaster due to the impermeable chalk. Shallow wells in nearby wadis likely supplemented water supply during peacetime.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.96053,31.98326,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Megiddo (תל מגידו)</name>
+      <description><![CDATA[<h3>Tel Megiddo (תל מגידו)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Ancient City Water System</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Jezreel Valley</p>
+<p><b>Dissertation Reference:</b> §2.5 (Pages 71)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>Despite massive city walls, an Early Bronze Age water system was likely present, possibly a depression in the northern part of the tel, though specific details are scarce due to later archaeological layers.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Megiddo</value></Data>
+        <Data name="Hebrew_Name"><value>תל מגידו</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Ancient City Water System</value></Data>
+        <Data name="Region"><value>Jezreel Valley</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5</value></Data>
+        <Data name="Dissertation_Pages"><value>71</value></Data>
+        <Data name="Description"><value>Despite massive city walls, an Early Bronze Age water system was likely present, possibly a depression in the northern part of the tel, though specific details are scarce due to later archaeological layers.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.18275,32.5847,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Mizpon le-Fahma (תל מצפון לפחמה)</name>
+      <description><![CDATA[<h3>Tel Mizpon le-Fahma (תל מצפון לפחמה)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 3: Approximate Village / Spring Area (&lt; 500m)</p>
+<p><b>Region:</b> Samaria</p>
+<p><b>Dissertation Reference:</b> §2.5.14 (Pages 67, 68)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>This Early Bronze Age settlement, like others in Western Samaria, utilized unplastered cisterns carved into soft chalk bedrock to collect rainwater, compensating for the absence of nearby springs.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Mizpon le-Fahma</value></Data>
+        <Data name="Hebrew_Name"><value>תל מצפון לפחמה</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Samaria</value></Data>
+        <Data name="Location_Precision"><value>Tier 3: Approximate Village / Spring Area (&lt; 500m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.14</value></Data>
+        <Data name="Dissertation_Pages"><value>67, 68</value></Data>
+        <Data name="Description"><value>This Early Bronze Age settlement, like others in Western Samaria, utilized unplastered cisterns carved into soft chalk bedrock to collect rainwater, compensating for the absence of nearby springs.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.1842,32.4125,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel near Bazariya (תל ליד בזריה)</name>
+      <description><![CDATA[<h3>Tel near Bazariya (תל ליד בזריה)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 3: Approximate Village / Spring Area (&lt; 500m)</p>
+<p><b>Region:</b> Samaria</p>
+<p><b>Dissertation Reference:</b> §2.5.14 (Pages 67, 68)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>This Early Bronze Age settlement, like others in Western Samaria, utilized unplastered cisterns carved into soft chalk bedrock to collect rainwater, compensating for the absence of nearby springs.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel near Bazariya</value></Data>
+        <Data name="Hebrew_Name"><value>תל ליד בזריה</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Samaria</value></Data>
+        <Data name="Location_Precision"><value>Tier 3: Approximate Village / Spring Area (&lt; 500m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.14</value></Data>
+        <Data name="Dissertation_Pages"><value>67, 68</value></Data>
+        <Data name="Description"><value>This Early Bronze Age settlement, like others in Western Samaria, utilized unplastered cisterns carved into soft chalk bedrock to collect rainwater, compensating for the absence of nearby springs.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.161,32.3025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Yarmut (תל ירמות)</name>
+      <description><![CDATA[<h3>Tel Yarmut (תל ירמות)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Water Reservoir</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Shephelah</p>
+<p><b>Dissertation Reference:</b> §2.5 (Pages 71)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>Although no formal water system has been discovered for the Early Bronze Age, a clear topographical depression at the lowest point of the 150-dunam city likely served to collect runoff water.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Yarmut</value></Data>
+        <Data name="Hebrew_Name"><value>תל ירמות</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Reservoir</value></Data>
+        <Data name="Region"><value>Shephelah</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5</value></Data>
+        <Data name="Dissertation_Pages"><value>71</value></Data>
+        <Data name="Description"><value>Although no formal water system has been discovered for the Early Bronze Age, a clear topographical depression at the lowest point of the 150-dunam city likely served to collect runoff water.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.97501,31.70914,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tepe Gawra (טפה גאורה)</name>
+      <description><![CDATA[<h3>Tepe Gawra (טפה גאורה)</h3>
+<p><b>Period:</b> 05. Early Bronze Age (EB) (-3300 to -2200 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Mesopotamia</p>
+<p><b>Dissertation Reference:</b> §2.5.4 (Pages 57)</p>
+<hr/>
+<p><b>Archaeological Description (05. Early Bronze Age):</b></p>
+<p>Two wells were found. The older well (Layer VIIIb, Late Uruk/EB) was 2.8m in diameter, excavated to 24m, plastered with mud, and featured steps, connected to a bitumen-lined drainage channel. A second well (Layer VI, early 3rd millennium BCE) also had a drainage channel leading to it.</p>]]></description>
+      <styleUrl>#style_Early_Bronze</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tepe Gawra</value></Data>
+        <Data name="Hebrew_Name"><value>טפה גאורה</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Mesopotamia</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.4</value></Data>
+        <Data name="Dissertation_Pages"><value>57</value></Data>
+        <Data name="Description"><value>Two wells were found. The older well (Layer VIIIb, Late Uruk/EB) was 2.8m in diameter, excavated to 24m, plastered with mud, and featured steps, connected to a bitumen-lined drainage channel. A second well (Layer VI, early 3rd millennium BCE) also had a drainage channel leading to it.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>43.2083,36.5567,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

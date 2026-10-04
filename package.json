@@ -1,0 +1,10 @@
+{
+  "name": "ple",
+  "version": "1.0.0",
+  "description": "Precise Location Extraction (PLE) from Archaeological Dissertation",
+  "type": "module",
+  "scripts": {
+    "extract": "node scripts/extract_chapter2_eras.js",
+    "build": "node scripts/build_mymaps_exports.js"
+  }
+}

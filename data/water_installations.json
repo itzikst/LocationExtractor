@@ -1,0 +1,9 @@
+{
+  "repo": "water_installations",
+  "dataFile": "data/water_installations.csv",
+  "header": "Water Installations",
+  "geologyType": "hybrid",
+  "lowResGeology": "data/israel_geology.geojson",
+  "highResGeology": "https://egozi.gsi.gov.il/arcgis/rest/services/Hosted/All_A_ZDissolove_g1_2/VectorTileServer",
+  "zoomThreshold": 11
+}

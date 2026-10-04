@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>10. Classical &amp; Later Periods (-586 to +638 CE)</name>
+    <description>התקופות הקלאסיות (פרסית, הלניסטית, רומית, ביזנטית) - 8 sites. From Dr. Zvika Tzuk's Dissertation.</description>
+    <Style id="style_Classical_Later">
+      <IconStyle>
+        <color>ff333333</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Acre (עכו)</name>
+      <description><![CDATA[<h3>Acre (עכו)</h3>
+<p><b>Period:</b> 10. Classical &amp; Later Periods (-586 to +638 CE)</p>
+<p><b>Installation Type:</b> Aqueduct Channel</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Coastal Plain</p>
+<p><b>Dissertation Reference:</b> §3.7 (Pages 212)</p>
+<hr/>
+<p><b>Archaeological Description (10. Classical &amp; Later Periods):</b></p>
+<p>A Hellenistic aqueduct consisting of tunnels and shafts, approximately 13 km long, built in the 3rd century BCE.</p>]]></description>
+      <styleUrl>#style_Classical_Later</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Acre</value></Data>
+        <Data name="Hebrew_Name"><value>עכו</value></Data>
+        <Data name="Era"><value>10. Classical &amp; Later Periods (-586 to +638 CE)</value></Data>
+        <Data name="Installation_Type"><value>Aqueduct Channel</value></Data>
+        <Data name="Region"><value>Coastal Plain</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-586 to 638 CE</value></Data>
+        <Data name="Chapter_Section"><value>3.7</value></Data>
+        <Data name="Dissertation_Pages"><value>212</value></Data>
+        <Data name="Description"><value>A Hellenistic aqueduct consisting of tunnels and shafts, approximately 13 km long, built in the 3rd century BCE.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.0756,32.9244,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Athens (Acropolis) (אתונה (יוון))</name>
+      <description><![CDATA[<h3>Athens (Acropolis) (אתונה (יוון))</h3>
+<p><b>Period:</b> 10. Classical &amp; Later Periods (-586 to +638 CE)</p>
+<p><b>Installation Type:</b> Aqueduct Channel</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Greece</p>
+<p><b>Dissertation Reference:</b> §3.7 (Pages 212)</p>
+<hr/>
+<p><b>Archaeological Description (10. Classical &amp; Later Periods):</b></p>
+<p>A clay pipe and tunnel system, 17 km long, built in the 6th century BCE.</p>]]></description>
+      <styleUrl>#style_Classical_Later</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Athens (Acropolis)</value></Data>
+        <Data name="Hebrew_Name"><value>אתונה (יוון)</value></Data>
+        <Data name="Era"><value>10. Classical &amp; Later Periods (-586 to +638 CE)</value></Data>
+        <Data name="Installation_Type"><value>Aqueduct Channel</value></Data>
+        <Data name="Region"><value>Greece</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-586 to 638 CE</value></Data>
+        <Data name="Chapter_Section"><value>3.7</value></Data>
+        <Data name="Dissertation_Pages"><value>212</value></Data>
+        <Data name="Description"><value>A clay pipe and tunnel system, 17 km long, built in the 6th century BCE.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>23.7257,37.9715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Olynthus (אולינתוס)</name>
+      <description><![CDATA[<h3>Olynthus (אולינתוס)</h3>
+<p><b>Period:</b> 10. Classical &amp; Later Periods (-586 to +638 CE)</p>
+<p><b>Installation Type:</b> Aqueduct Channel</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Greece</p>
+<p><b>Dissertation Reference:</b> §3.7 (Pages 212)</p>
+<hr/>
+<p><b>Archaeological Description (10. Classical &amp; Later Periods):</b></p>
+<p>An underground aqueduct, 13 km long, built in the 5th century BCE.</p>]]></description>
+      <styleUrl>#style_Classical_Later</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Olynthus</value></Data>
+        <Data name="Hebrew_Name"><value>אולינתוס</value></Data>
+        <Data name="Era"><value>10. Classical &amp; Later Periods (-586 to +638 CE)</value></Data>
+        <Data name="Installation_Type"><value>Aqueduct Channel</value></Data>
+        <Data name="Region"><value>Greece</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-586 to 638 CE</value></Data>
+        <Data name="Chapter_Section"><value>3.7</value></Data>
+        <Data name="Dissertation_Pages"><value>212</value></Data>
+        <Data name="Description"><value>An underground aqueduct, 13 km long, built in the 5th century BCE.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>23.2681,40.2925,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rome (Anio Vetus) (רומא (אניו וטוס))</name>
+      <description><![CDATA[<h3>Rome (Anio Vetus) (רומא (אניו וטוס))</h3>
+<p><b>Period:</b> 10. Classical &amp; Later Periods (-586 to +638 CE)</p>
+<p><b>Installation Type:</b> Aqueduct Channel</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Italy</p>
+<p><b>Dissertation Reference:</b> §3.7 (Pages 212)</p>
+<hr/>
+<p><b>Archaeological Description (10. Classical &amp; Later Periods):</b></p>
+<p>The Anio Vetus, an underground aqueduct, 64 km long, built in 272 BCE.</p>]]></description>
+      <styleUrl>#style_Classical_Later</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Rome (Anio Vetus)</value></Data>
+        <Data name="Hebrew_Name"><value>רומא (אניו וטוס)</value></Data>
+        <Data name="Era"><value>10. Classical &amp; Later Periods (-586 to +638 CE)</value></Data>
+        <Data name="Installation_Type"><value>Aqueduct Channel</value></Data>
+        <Data name="Region"><value>Italy</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-586 to 638 CE</value></Data>
+        <Data name="Chapter_Section"><value>3.7</value></Data>
+        <Data name="Dissertation_Pages"><value>212</value></Data>
+        <Data name="Description"><value>The Anio Vetus, an underground aqueduct, 64 km long, built in 272 BCE.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>12.4964,41.9028,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rome (Aqua Appia) (רומא (אקווה אפיה))</name>
+      <description><![CDATA[<h3>Rome (Aqua Appia) (רומא (אקווה אפיה))</h3>
+<p><b>Period:</b> 10. Classical &amp; Later Periods (-586 to +638 CE)</p>
+<p><b>Installation Type:</b> Aqueduct Channel</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Italy</p>
+<p><b>Dissertation Reference:</b> §3.7 (Pages 212)</p>
+<hr/>
+<p><b>Archaeological Description (10. Classical &amp; Later Periods):</b></p>
+<p>The Aqua Appia, an underground aqueduct, 17.6 km long, built in 312 BCE.</p>]]></description>
+      <styleUrl>#style_Classical_Later</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Rome (Aqua Appia)</value></Data>
+        <Data name="Hebrew_Name"><value>רומא (אקווה אפיה)</value></Data>
+        <Data name="Era"><value>10. Classical &amp; Later Periods (-586 to +638 CE)</value></Data>
+        <Data name="Installation_Type"><value>Aqueduct Channel</value></Data>
+        <Data name="Region"><value>Italy</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-586 to 638 CE</value></Data>
+        <Data name="Chapter_Section"><value>3.7</value></Data>
+        <Data name="Dissertation_Pages"><value>212</value></Data>
+        <Data name="Description"><value>The Aqua Appia, an underground aqueduct, 17.6 km long, built in 312 BCE.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>12.4964,41.9028,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rome (Aqua Marcia) (רומא (אקווה מרקיה))</name>
+      <description><![CDATA[<h3>Rome (Aqua Marcia) (רומא (אקווה מרקיה))</h3>
+<p><b>Period:</b> 10. Classical &amp; Later Periods (-586 to +638 CE)</p>
+<p><b>Installation Type:</b> Aqueduct Channel</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Italy</p>
+<p><b>Dissertation Reference:</b> §3.7 (Pages 211)</p>
+<hr/>
+<p><b>Archaeological Description (10. Classical &amp; Later Periods):</b></p>
+<p>The Aqua Marcia, an aqueduct 91 km long (10 km on arches), built between 144-140 BCE, supplying water to Rome.</p>]]></description>
+      <styleUrl>#style_Classical_Later</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Rome (Aqua Marcia)</value></Data>
+        <Data name="Hebrew_Name"><value>רומא (אקווה מרקיה)</value></Data>
+        <Data name="Era"><value>10. Classical &amp; Later Periods (-586 to +638 CE)</value></Data>
+        <Data name="Installation_Type"><value>Aqueduct Channel</value></Data>
+        <Data name="Region"><value>Italy</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-586 to 638 CE</value></Data>
+        <Data name="Chapter_Section"><value>3.7</value></Data>
+        <Data name="Dissertation_Pages"><value>211</value></Data>
+        <Data name="Description"><value>The Aqua Marcia, an aqueduct 91 km long (10 km on arches), built between 144-140 BCE, supplying water to Rome.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>12.4964,41.9028,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Samos (Eupalinos Tunnel) (מנהרת אופלינוס (סמוס))</name>
+      <description><![CDATA[<h3>Samos (Eupalinos Tunnel) (מנהרת אופלינוס (סמוס))</h3>
+<p><b>Period:</b> 10. Classical &amp; Later Periods (-586 to +638 CE)</p>
+<p><b>Installation Type:</b> Water Tunnel Shaft</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Greece</p>
+<p><b>Dissertation Reference:</b> §3.7 (Pages 212)</p>
+<hr/>
+<p><b>Archaeological Description (10. Classical &amp; Later Periods):</b></p>
+<p>The Eupalinos Tunnel, a 2 km long tunnel with 60 shafts, built in 524 BCE.</p>]]></description>
+      <styleUrl>#style_Classical_Later</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Samos (Eupalinos Tunnel)</value></Data>
+        <Data name="Hebrew_Name"><value>מנהרת אופלינוס (סמוס)</value></Data>
+        <Data name="Era"><value>10. Classical &amp; Later Periods (-586 to +638 CE)</value></Data>
+        <Data name="Installation_Type"><value>Water Tunnel Shaft</value></Data>
+        <Data name="Region"><value>Greece</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-586 to 638 CE</value></Data>
+        <Data name="Chapter_Section"><value>3.7</value></Data>
+        <Data name="Dissertation_Pages"><value>212</value></Data>
+        <Data name="Description"><value>The Eupalinos Tunnel, a 2 km long tunnel with 60 shafts, built in 524 BCE.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>26.93,37.69,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sidon (צידון)</name>
+      <description><![CDATA[<h3>Sidon (צידון)</h3>
+<p><b>Period:</b> 10. Classical &amp; Later Periods (-586 to +638 CE)</p>
+<p><b>Installation Type:</b> Aqueduct Channel</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Lebanon</p>
+<p><b>Dissertation Reference:</b> §3.7 (Pages 212)</p>
+<hr/>
+<p><b>Archaeological Description (10. Classical &amp; Later Periods):</b></p>
+<p>An underground aqueduct and tunnel with shafts, 24 km long, dating to the 6th century BCE.</p>]]></description>
+      <styleUrl>#style_Classical_Later</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Sidon</value></Data>
+        <Data name="Hebrew_Name"><value>צידון</value></Data>
+        <Data name="Era"><value>10. Classical &amp; Later Periods (-586 to +638 CE)</value></Data>
+        <Data name="Installation_Type"><value>Aqueduct Channel</value></Data>
+        <Data name="Region"><value>Lebanon</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-586 to 638 CE</value></Data>
+        <Data name="Chapter_Section"><value>3.7</value></Data>
+        <Data name="Dissertation_Pages"><value>212</value></Data>
+        <Data name="Description"><value>An underground aqueduct and tunnel with shafts, 24 km long, dating to the 6th century BCE.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.3719,33.5608,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

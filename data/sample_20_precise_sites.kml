@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sample 20 Precise Water Installations (for Review)</name>
+    <description>20 randomly sampled archaeological water installation sites with verified precise coordinates from Dr. Zvika Tzuk's dissertation.</description>
+    <Placemark>
+      <name>Tel Hazor (תל חצור)</name>
+      <description>A large, complex water system was constructed in the 10th-9th century BCE (Iron Age IIA) in the southwestern corner of the tel. It consists of an entrance, a deep shaft (approx. 30m), and a 25m long tunnel leading to the underground water table, designed to secure water supply during sieges. Mentioned as a site with an underground water system where a pulley could have been used, similar to the one depicted in an Assyrian relief, suggesting a sophisticated water supply during sieges. A well was found at Tel Hazor, dated to the Iron Age II period. Cisterns or pools were possibly identified at Tel Hazor during the Iron Age II, though their identification is noted with some uncertainty. A major water system, cut to a spring or groundwater within the fortified city, was found at Tel Hazor, dating to the Iron Age II.&#10;&#10;Installation: Water Tunnel Shaft&#10;Era: 09. Iron Age II (-1000 to -586 BCE)&#10;Region: Upper Galilee&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.9.1, 2.9.51&#10;Pages: 119, 120, 121, 185, 187, 191</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>1</value></Data>
+        <Data name="Era"><value>09. Iron Age II (-1000 to -586 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Tunnel Shaft</value></Data>
+        <Data name="Hebrew_Name"><value>תל חצור</value></Data>
+        <Data name="Region"><value>Upper Galilee</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-1000 to -586 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.9.1, 2.9.51</value></Data>
+        <Data name="Dissertation_Pages"><value>119, 120, 121, 185, 187, 191</value></Data>
+        <Data name="Summary"><value>A large, complex water system was constructed in the 10th-9th century BCE (Iron Age IIA) in the southwestern corner of the tel. It consists of an entrance, a deep shaft (approx. 30m), and a 25m long tunnel leading to the underground water table, designed to secure water supply during sieges. Mentioned as a site with an underground water system where a pulley could have been used, similar to the one depicted in an Assyrian relief, suggesting a sophisticated water supply during sieges. A well was found at Tel Hazor, dated to the Iron Age II period. Cisterns or pools were possibly identified at Tel Hazor during the Iron Age II, though their identification is noted with some uncertainty. A major water system, cut to a spring or groundwater within the fortified city, was found at Tel Hazor, dating to the Iron Age II.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.5681,33.0175,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Khirbet Halukim (חורבת חלוקים)</name>
+      <description>Two open cisterns, part of the Iron Age II water supply in the Negev Highlands. One cistern has a volume of approximately 300 cubic meters.&#10;&#10;Installation: Deep Well&#10;Era: 09. Iron Age II (-1000 to -586 BCE)&#10;Region: Negev&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.9.36&#10;Pages: 171</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>2</value></Data>
+        <Data name="Era"><value>09. Iron Age II (-1000 to -586 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Hebrew_Name"><value>חורבת חלוקים</value></Data>
+        <Data name="Region"><value>Negev</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-1000 to -586 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.9.36</value></Data>
+        <Data name="Dissertation_Pages"><value>171</value></Data>
+        <Data name="Summary"><value>Two open cisterns, part of the Iron Age II water supply in the Negev Highlands. One cistern has a volume of approximately 300 cubic meters.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.84,30.88,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kerem es-Samra (Kerem el-Ajez) (כרם א-סמרא (כרם אל עג&apos;ז))</name>
+      <description>A large pool measuring 22x18m, located in the southwest of the fortress, with collapsed walls. It served as a water reservoir for the Iron Age II fortress.&#10;&#10;Installation: Water Reservoir&#10;Era: 09. Iron Age II (-1000 to -586 BCE)&#10;Region: Judean Desert&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.9.30&#10;Pages: 167</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>3</value></Data>
+        <Data name="Era"><value>09. Iron Age II (-1000 to -586 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Reservoir</value></Data>
+        <Data name="Hebrew_Name"><value>כרם א-סמרא (כרם אל עג&apos;ז)</value></Data>
+        <Data name="Region"><value>Judean Desert</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-1000 to -586 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.9.30</value></Data>
+        <Data name="Dissertation_Pages"><value>167</value></Data>
+        <Data name="Summary"><value>A large pool measuring 22x18m, located in the southwest of the fortress, with collapsed walls. It served as a water reservoir for the Iron Age II fortress.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.3911,31.7166,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beisamoun (בייסמון)</name>
+      <description>A settlement established in clear proximity to the stable and abundant Einan springs, which remain significant water sources today.&#10;&#10;Installation: Spring Cave Capture&#10;Era: 02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)&#10;Region: Upper Galilee&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.2&#10;Pages: 46</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>4</value></Data>
+        <Data name="Era"><value>02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Hebrew_Name"><value>בייסמון</value></Data>
+        <Data name="Region"><value>Upper Galilee</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-8300 to -5500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.2</value></Data>
+        <Data name="Dissertation_Pages"><value>46</value></Data>
+        <Data name="Summary"><value>A settlement established in clear proximity to the stable and abundant Einan springs, which remain significant water sources today.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.584,33.076,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Khirbet el-Khuwwakh (Etam) (חורבת אל-ח&apos;וחי (עיטם))</name>
+      <description>A reservoir with an external feeding system was identified at Ayyats during the Iron Age II. A large natural karstic cave, 42m long, 4m wide, and 2m high, with an estimated capacity of 300 cubic meters. It was plastered with two layers of plaster dating to Iron Age II, indicating its use as a water reservoir, with an entrance for drawing water and another for collecting runoff or spring water. Listed as one of 17 sites in Iron Age II Israel with a monumental water system, likely involving a tunnel or shaft to access groundwater within the fortified city.&#10;&#10;Installation: Water Reservoir&#10;Era: 09. Iron Age II (-1000 to -586 BCE)&#10;Region: Judean Hills&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.9.11, Summary (186)&#10;Pages: 151, 186, 191</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>5</value></Data>
+        <Data name="Era"><value>09. Iron Age II (-1000 to -586 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Reservoir</value></Data>
+        <Data name="Hebrew_Name"><value>חורבת אל-ח&apos;וחי (עיטם)</value></Data>
+        <Data name="Region"><value>Judean Hills</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-1000 to -586 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.9.11, Summary (186)</value></Data>
+        <Data name="Dissertation_Pages"><value>151, 186, 191</value></Data>
+        <Data name="Summary"><value>A reservoir with an external feeding system was identified at Ayyats during the Iron Age II. A large natural karstic cave, 42m long, 4m wide, and 2m high, with an estimated capacity of 300 cubic meters. It was plastered with two layers of plaster dating to Iron Age II, indicating its use as a water reservoir, with an entrance for drawing water and another for collecting runoff or spring water. Listed as one of 17 sites in Iron Age II Israel with a monumental water system, likely involving a tunnel or shaft to access groundwater within the fortified city.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.178,31.6885,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abu Huf (אבו חוף)</name>
+      <description>A round well, 1.5-1.55m in inner diameter and 2.45m deep, constructed of dry-laid fieldstones. It was dug into gravel alluvium next to a wadi channel and was associated with a building and courtyard.&#10;&#10;Installation: Deep Well&#10;Era: 04. Chalcolithic Period (-4500 to -3300 BCE)&#10;Region: Shephelah&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.4.1&#10;Pages: 52, 54</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>6</value></Data>
+        <Data name="Era"><value>04. Chalcolithic Period (-4500 to -3300 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Hebrew_Name"><value>אבו חוף</value></Data>
+        <Data name="Region"><value>Shephelah</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-4500 to -3300 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.4.1</value></Data>
+        <Data name="Dissertation_Pages"><value>52, 54</value></Data>
+        <Data name="Summary"><value>A round well, 1.5-1.55m in inner diameter and 2.45m deep, constructed of dry-laid fieldstones. It was dug into gravel alluvium next to a wadi channel and was associated with a building and courtyard.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.845,31.402,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mezer (מצר)</name>
+      <description>Multiple rock-cut cisterns, including a large one (B3) 5m deep and another (D7) with niches, were used for rainwater collection via rock-cut channels. These cisterns were unplastered due to the impermeable Nari and chalk bedrock.&#10;&#10;Installation: Deep Well&#10;Era: 05. Early Bronze Age (EB) (-3300 to -2200 BCE)&#10;Region: Coastal Plain&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.5.15&#10;Pages: 68</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>7</value></Data>
+        <Data name="Era"><value>05. Early Bronze Age (EB) (-3300 to -2200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Hebrew_Name"><value>מצר</value></Data>
+        <Data name="Region"><value>Coastal Plain</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-3300 to -2200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.5.15</value></Data>
+        <Data name="Dissertation_Pages"><value>68</value></Data>
+        <Data name="Summary"><value>Multiple rock-cut cisterns, including a large one (B3) 5m deep and another (D7) with niches, were used for rainwater collection via rock-cut channels. These cisterns were unplastered due to the impermeable Nari and chalk bedrock.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.05,32.4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Hazor (תל חצור)</name>
+      <description>A large underground water reservoir (No. 357) in the Upper City, within the Late Bronze Age palace area (Stratum XIV). It features a built entrance corridor with a corbelled arch and a rock-cut section extending 30m to a depth of 8.5m, ending in a cruciform shape. It was plastered and had carved steps, with a capacity of about 150 cubic meters. Initially, it might have been a burial cave (Stratum XV) before being converted to a reservoir. A bottle-shaped cistern, dated to the Late Bronze Age, found in the western part of the Iron Age water system entrance. Its neck was destroyed during the Iron Age construction, but it contained many intact Late Bronze Age vessels.&#10;&#10;Installation: Water Reservoir&#10;Era: 07. Late Bronze Age (LB) (-1550 to -1200 BCE)&#10;Region: Upper Galilee&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.7.5&#10;Pages: 101, 102</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>8</value></Data>
+        <Data name="Era"><value>07. Late Bronze Age (LB) (-1550 to -1200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Reservoir</value></Data>
+        <Data name="Hebrew_Name"><value>תל חצור</value></Data>
+        <Data name="Region"><value>Upper Galilee</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-1550 to -1200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.7.5</value></Data>
+        <Data name="Dissertation_Pages"><value>101, 102</value></Data>
+        <Data name="Summary"><value>A large underground water reservoir (No. 357) in the Upper City, within the Late Bronze Age palace area (Stratum XIV). It features a built entrance corridor with a corbelled arch and a rock-cut section extending 30m to a depth of 8.5m, ending in a cruciform shape. It was plastered and had carved steps, with a capacity of about 150 cubic meters. Initially, it might have been a burial cave (Stratum XV) before being converted to a reservoir. A bottle-shaped cistern, dated to the Late Bronze Age, found in the western part of the Iron Age water system entrance. Its neck was destroyed during the Iron Age construction, but it contained many intact Late Bronze Age vessels.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.5681,33.0275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kfar Samir (כפר סמיר)</name>
+      <description>A rectangular pit (1x0.8m) dug to 2m depth, constructed with alternating layers of stone and oak wood, widening at the bottom. It is identified as a well, unique in its construction method, and possibly used for capturing fresh water springs.&#10;&#10;Installation: Deep Well&#10;Era: 03. Pottery Neolithic (PN) (-5500 to -4500 BCE)&#10;Region: Coastal Plain&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.3.1.א&#10;Pages: 49, 51</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>9</value></Data>
+        <Data name="Era"><value>03. Pottery Neolithic (PN) (-5500 to -4500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Hebrew_Name"><value>כפר סמיר</value></Data>
+        <Data name="Region"><value>Coastal Plain</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-5500 to -4500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.3.1.א</value></Data>
+        <Data name="Dissertation_Pages"><value>49, 51</value></Data>
+        <Data name="Summary"><value>A rectangular pit (1x0.8m) dug to 2m depth, constructed with alternating layers of stone and oak wood, widening at the bottom. It is identified as a well, unique in its construction method, and possibly used for capturing fresh water springs.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.9565,32.7885,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Khirbet Marjameh (חורבת מרג&apos;מה)</name>
+      <description>A rock-cut cistern opening was found near the 8th-century BCE fortifications, though its size and plaster type are unknown. The primary water source for the city was the large Ein Samia spring nearby. Cisterns or pools were found at Qala&apos; Marjama, dated to the Iron Age II period.&#10;&#10;Installation: Plastered Cistern&#10;Era: 09. Iron Age II (-1000 to -586 BCE)&#10;Region: Samaria&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.9.22&#10;Pages: 162, 191</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>10</value></Data>
+        <Data name="Era"><value>09. Iron Age II (-1000 to -586 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Plastered Cistern</value></Data>
+        <Data name="Hebrew_Name"><value>חורבת מרג&apos;מה</value></Data>
+        <Data name="Region"><value>Samaria</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-1000 to -586 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.9.22</value></Data>
+        <Data name="Dissertation_Pages"><value>162, 191</value></Data>
+        <Data name="Summary"><value>A rock-cut cistern opening was found near the 8th-century BCE fortifications, though its size and plaster type are unknown. The primary water source for the city was the large Ein Samia spring nearby. Cisterns or pools were found at Qala&apos; Marjama, dated to the Iron Age II period.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.34,32.015,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel en-Nasbeh (תל א-נצבה)</name>
+      <description>The site contains numerous water cisterns, distinguished from granaries by their waterproof plaster, indicating their function for water storage during Iron Age II.&#10;&#10;Installation: Plastered Cistern&#10;Era: 09. Iron Age II (-1000 to -586 BCE)&#10;Region: Judean Hills&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.9.23&#10;Pages: 162</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>11</value></Data>
+        <Data name="Era"><value>09. Iron Age II (-1000 to -586 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Plastered Cistern</value></Data>
+        <Data name="Hebrew_Name"><value>תל א-נצבה</value></Data>
+        <Data name="Region"><value>Judean Hills</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-1000 to -586 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.9.23</value></Data>
+        <Data name="Dissertation_Pages"><value>162</value></Data>
+        <Data name="Summary"><value>The site contains numerous water cisterns, distinguished from granaries by their waterproof plaster, indicating their function for water storage during Iron Age II.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.21,31.89,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Khirbet Tov (חורבת טוב)</name>
+      <description>A fortress from the 7th century BCE with a water system comprising a well (3.9m diameter and depth) located 46m from the fortress, and a channel passing through the fortress wall, likely for collecting runoff and possibly supplemented by the well. An unlocated water reservoir within the fortress is hypothesized. Listed as one of 17 sites in Iron Age II Israel with a monumental water system, likely involving a tunnel or shaft to access groundwater within the fortified city. Wells were found at Khirbet Tov, which are dated with high probability to the Iron Age II period. A reservoir with an external feeding system was possibly identified at Khirbet Tov during the Iron Age II, though its identification is noted with some uncertainty.&#10;&#10;Installation: Ancient City Water System&#10;Era: 09. Iron Age II (-1000 to -586 BCE)&#10;Region: Negev&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.9.16, Summary (186)&#10;Pages: 158, 186, 187, 191</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>12</value></Data>
+        <Data name="Era"><value>09. Iron Age II (-1000 to -586 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Ancient City Water System</value></Data>
+        <Data name="Hebrew_Name"><value>חורבת טוב</value></Data>
+        <Data name="Region"><value>Negev</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-1000 to -586 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.9.16, Summary (186)</value></Data>
+        <Data name="Dissertation_Pages"><value>158, 186, 187, 191</value></Data>
+        <Data name="Summary"><value>A fortress from the 7th century BCE with a water system comprising a well (3.9m diameter and depth) located 46m from the fortress, and a channel passing through the fortress wall, likely for collecting runoff and possibly supplemented by the well. An unlocated water reservoir within the fortress is hypothesized. Listed as one of 17 sites in Iron Age II Israel with a monumental water system, likely involving a tunnel or shaft to access groundwater within the fortified city. Wells were found at Khirbet Tov, which are dated with high probability to the Iron Age II period. A reservoir with an external feeding system was possibly identified at Khirbet Tov during the Iron Age II, though its identification is noted with some uncertainty.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.105,30.985,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kfar Galim North (כפר גלים צפון)</name>
+      <description>Five circular pits were found, one of which was excavated to 0.7m depth, dug into hard clay and lined with kurkar and limestone. It had an outer diameter of 1.5m and an inner diameter of 0.8-0.9m, identified as a well.&#10;&#10;Installation: Deep Well&#10;Era: 03. Pottery Neolithic (PN) (-5500 to -4500 BCE)&#10;Region: Coastal Plain&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.3.1.ב&#10;Pages: 49</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>13</value></Data>
+        <Data name="Era"><value>03. Pottery Neolithic (PN) (-5500 to -4500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Hebrew_Name"><value>כפר גלים צפון</value></Data>
+        <Data name="Region"><value>Coastal Plain</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-5500 to -4500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.3.1.ב</value></Data>
+        <Data name="Dissertation_Pages"><value>49</value></Data>
+        <Data name="Summary"><value>Five circular pits were found, one of which was excavated to 0.7m depth, dug into hard clay and lined with kurkar and limestone. It had an outer diameter of 1.5m and an inner diameter of 0.8-0.9m, identified as a well.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.953,32.766,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Horbat Radum (חורבת רדום)</name>
+      <description>Two depressions, approximately 2m in diameter, were found outside the northern wall of this late Iron Age II fortress. These are identified as likely blocked cisterns that served the fortification. Cisterns or pools were found at Radum, dated to the Iron Age II period.&#10;&#10;Installation: Plastered Cistern&#10;Era: 09. Iron Age II (-1000 to -586 BCE)&#10;Region: Negev&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.9.35&#10;Pages: 170, 191</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>14</value></Data>
+        <Data name="Era"><value>09. Iron Age II (-1000 to -586 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Plastered Cistern</value></Data>
+        <Data name="Hebrew_Name"><value>חורבת רדום</value></Data>
+        <Data name="Region"><value>Negev</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-1000 to -586 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.9.35</value></Data>
+        <Data name="Dissertation_Pages"><value>170, 191</value></Data>
+        <Data name="Summary"><value>Two depressions, approximately 2m in diameter, were found outside the northern wall of this late Iron Age II fortress. These are identified as likely blocked cisterns that served the fortification. Cisterns or pools were found at Radum, dated to the Iron Age II period.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.1681,31.1928,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Ashdod (תל אשדוד)</name>
+      <description>A plastered pool (4162) measuring 3.2x1.5m, found in Area G within a governor&apos;s house or palace (Strata XIV-XVII, Late Bronze Age II). It had two phases, with a brick layer beneath the plaster floor, and a drainage channel leading to a stone-lined drainage pit. Water likely collected from roofs or was manually brought from a well.&#10;&#10;Installation: Water Reservoir&#10;Era: 07. Late Bronze Age (LB) (-1550 to -1200 BCE)&#10;Region: Coastal Plain&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.7.8&#10;Pages: 103, 104</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>15</value></Data>
+        <Data name="Era"><value>07. Late Bronze Age (LB) (-1550 to -1200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Reservoir</value></Data>
+        <Data name="Hebrew_Name"><value>תל אשדוד</value></Data>
+        <Data name="Region"><value>Coastal Plain</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-1550 to -1200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.7.8</value></Data>
+        <Data name="Dissertation_Pages"><value>103, 104</value></Data>
+        <Data name="Summary"><value>A plastered pool (4162) measuring 3.2x1.5m, found in Area G within a governor&apos;s house or palace (Strata XIV-XVII, Late Bronze Age II). It had two phases, with a brick layer beneath the plaster floor, and a drainage channel leading to a stone-lined drainage pit. Water likely collected from roofs or was manually brought from a well.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.64,31.77,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Gamma (תל ג&apos;מה)</name>
+      <description>A sealed well, evidenced by large stones with rope marks and a depression that fills with water, located 400m southwest of Nahal Besor, at the foot of the acropolis. Possibly dates to the initial phase of the lower city in the Late Bronze Age.&#10;&#10;Installation: Deep Well&#10;Era: 07. Late Bronze Age (LB) (-1550 to -1200 BCE)&#10;Region: Negev&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.7.2&#10;Pages: 98</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>16</value></Data>
+        <Data name="Era"><value>07. Late Bronze Age (LB) (-1550 to -1200 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Hebrew_Name"><value>תל ג&apos;מה</value></Data>
+        <Data name="Region"><value>Negev</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-1550 to -1200 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.7.2</value></Data>
+        <Data name="Dissertation_Pages"><value>98</value></Data>
+        <Data name="Summary"><value>A sealed well, evidenced by large stones with rope marks and a depression that fills with water, located 400m southwest of Nahal Besor, at the foot of the acropolis. Possibly dates to the initial phase of the lower city in the Late Bronze Age.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.5097,31.3347,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mitzad Hatira (מצודת חתירה)</name>
+      <description>One open cistern, part of the Iron Age II water supply in the Negev Highlands, designed to collect runoff water.&#10;&#10;Installation: Deep Well&#10;Era: 09. Iron Age II (-1000 to -586 BCE)&#10;Region: Negev&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.9.36&#10;Pages: 171</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>17</value></Data>
+        <Data name="Era"><value>09. Iron Age II (-1000 to -586 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Hebrew_Name"><value>מצודת חתירה</value></Data>
+        <Data name="Region"><value>Negev</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-1000 to -586 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.9.36</value></Data>
+        <Data name="Dissertation_Pages"><value>171</value></Data>
+        <Data name="Summary"><value>One open cistern, part of the Iron Age II water supply in the Negev Highlands, designed to collect runoff water.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.84,30.88,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gibeon (el-Jib) (גבעון (אל-ג&apos;יב))</name>
+      <description>A system comprising a horizontal tunnel from a spring to a collection chamber, and a 52m long stepped tunnel ascending into the fortified city, dated by the author to the 10th or 9th century BCE (early Iron Age II). A large circular stepped shaft, 11.3m in diameter and 24m deep, cut into rock with a spiral staircase, designed to access groundwater. The author dates its construction to the 7th century BCE (late Iron Age II). Mentioned as a site with an underground water system where a pulley could have been used, similar to the one depicted in an Assyrian relief, suggesting a sophisticated water supply during sieges. Listed as one of 17 sites in Iron Age II Israel with two monumental water systems, likely involving tunnels or shafts to access groundwater within the fortified city. A water system, cut to a spring or groundwater within the fortified city, was found at Gibeon, dating to the Iron Age II.&#10;&#10;Installation: Water Tunnel Shaft&#10;Era: 09. Iron Age II (-1000 to -586 BCE)&#10;Region: Judean Hills&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.9.5, 2.9.51, Summary (186)&#10;Pages: 128, 129, 130, 131, 185, 186, 187, 191</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>18</value></Data>
+        <Data name="Era"><value>09. Iron Age II (-1000 to -586 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Tunnel Shaft</value></Data>
+        <Data name="Hebrew_Name"><value>גבעון (אל-ג&apos;יב)</value></Data>
+        <Data name="Region"><value>Judean Hills</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-1000 to -586 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.9.5, 2.9.51, Summary (186)</value></Data>
+        <Data name="Dissertation_Pages"><value>128, 129, 130, 131, 185, 186, 187, 191</value></Data>
+        <Data name="Summary"><value>A system comprising a horizontal tunnel from a spring to a collection chamber, and a 52m long stepped tunnel ascending into the fortified city, dated by the author to the 10th or 9th century BCE (early Iron Age II). A large circular stepped shaft, 11.3m in diameter and 24m deep, cut into rock with a spiral staircase, designed to access groundwater. The author dates its construction to the 7th century BCE (late Iron Age II). Mentioned as a site with an underground water system where a pulley could have been used, similar to the one depicted in an Assyrian relief, suggesting a sophisticated water supply during sieges. Listed as one of 17 sites in Iron Age II Israel with two monumental water systems, likely involving tunnels or shafts to access groundwater within the fortified city. A water system, cut to a spring or groundwater within the fortified city, was found at Gibeon, dating to the Iron Age II.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.174,31.859,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Halif (תל חליף)</name>
+      <description>A rectangular, well-plastered cistern, measuring 9x4x3.5m, was uncovered in Area IV. It is dated to the Iron Age II period. Cisterns or pools were found at Tel Halif, dated to the Iron Age II period.&#10;&#10;Installation: Plastered Cistern&#10;Era: 09. Iron Age II (-1000 to -586 BCE)&#10;Region: Shephelah&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.9.32&#10;Pages: 168, 191</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>19</value></Data>
+        <Data name="Era"><value>09. Iron Age II (-1000 to -586 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Plastered Cistern</value></Data>
+        <Data name="Hebrew_Name"><value>תל חליף</value></Data>
+        <Data name="Region"><value>Shephelah</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-1000 to -586 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.9.32</value></Data>
+        <Data name="Dissertation_Pages"><value>168, 191</value></Data>
+        <Data name="Summary"><value>A rectangular, well-plastered cistern, measuring 9x4x3.5m, was uncovered in Area IV. It is dated to the Iron Age II period. Cisterns or pools were found at Tel Halif, dated to the Iron Age II period.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.866,31.3838,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jericho (יריחו)</name>
+      <description>During the Middle Bronze Age, the city of Jericho was fortified, and Elisha&apos;s Spring (Ein es-Sultan) was intentionally included within its city walls to provide a secure water source.&#10;&#10;Installation: Spring Cave Capture&#10;Era: 06. Middle Bronze Age (MB) (-2200 to -1550 BCE)&#10;Region: Jordan Valley&#10;Precision: Exact Archaeological Site / IAA Grid&#10;Section: 2.6.3&#10;Pages: 75</description>
+      <Style>
+        <IconStyle>
+          <color>ff0000ff</color>
+          <scale>1.2</scale>
+          <Icon>
+            <href>https://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="Sample_Number"><value>20</value></Data>
+        <Data name="Era"><value>06. Middle Bronze Age (MB) (-2200 to -1550 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Hebrew_Name"><value>יריחו</value></Data>
+        <Data name="Region"><value>Jordan Valley</value></Data>
+        <Data name="Location_Precision"><value>Exact Archaeological Site / IAA Grid</value></Data>
+        <Data name="Dates"><value>-2200 to -1550 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.6.3</value></Data>
+        <Data name="Dissertation_Pages"><value>75</value></Data>
+        <Data name="Summary"><value>During the Middle Bronze Age, the city of Jericho was fortified, and Elisha&apos;s Spring (Ein es-Sultan) was intentionally included within its city walls to provide a secure water source.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.443,31.865,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

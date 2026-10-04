@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</name>
+    <description>התקופה הניאוליתית הקדם-קרמית - 9 sites. From Dr. Zvika Tzuk's Dissertation.</description>
+    <Style id="style_Pre_Pottery_Neolithic">
+      <IconStyle>
+        <color>ff993300</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Ain Ghazal / Ibn el-Ghazzi (עין ע&apos;זאל / אבן אל-ע&apos;אזי)</name>
+      <description><![CDATA[<h3>Ain Ghazal / Ibn el-Ghazzi (עין ע&apos;זאל / אבן אל-ע&apos;אזי)</h3>
+<p><b>Period:</b> 02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</p>
+<p><b>Installation Type:</b> Water Reservoir</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Jordan</p>
+<p><b>Dissertation Reference:</b> §2.2.3, 2.2 (Pages 45, 46, 48)</p>
+<hr/>
+<p><b>Archaeological Description (02. Pre-Pottery Neolithic):</b></p>
+<p>A complex water system including artificial channels (two long, two short) leading to &apos;wells&apos; (interpreted as reservoirs/basins) in a shallow depression. This system was designed to collect and store runoff water from a catchment area of about 29 dunams, potentially holding up to 13,900 cubic meters. A settlement located on the eastern outskirts of Amman, Jordan, near a spring.</p>]]></description>
+      <styleUrl>#style_Pre_Pottery_Neolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Ain Ghazal / Ibn el-Ghazzi</value></Data>
+        <Data name="Hebrew_Name"><value>עין ע&apos;זאל / אבן אל-ע&apos;אזי</value></Data>
+        <Data name="Era"><value>02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Reservoir</value></Data>
+        <Data name="Region"><value>Jordan</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-8300 to -5500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.2.3, 2.2</value></Data>
+        <Data name="Dissertation_Pages"><value>45, 46, 48</value></Data>
+        <Data name="Description"><value>A complex water system including artificial channels (two long, two short) leading to &apos;wells&apos; (interpreted as reservoirs/basins) in a shallow depression. This system was designed to collect and store runoff water from a catchment area of about 29 dunams, potentially holding up to 13,900 cubic meters. A settlement located on the eastern outskirts of Amman, Jordan, near a spring.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>36.833,31.883,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Atlit-Yam (עתלית ים)</name>
+      <description><![CDATA[<h3>Atlit-Yam (עתלית ים)</h3>
+<p><b>Period:</b> 02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Coastal Plain</p>
+<p><b>Dissertation Reference:</b> §2.2 (Pages 45, 48)</p>
+<hr/>
+<p><b>Archaeological Description (02. Pre-Pottery Neolithic):</b></p>
+<p>A well, approximately 6 meters deep, demonstrating advanced hydrological and engineering knowledge, construction capabilities, and quarrying skills of the inhabitants. Another well at the site was only partially excavated.</p>]]></description>
+      <styleUrl>#style_Pre_Pottery_Neolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Atlit-Yam</value></Data>
+        <Data name="Hebrew_Name"><value>עתלית ים</value></Data>
+        <Data name="Era"><value>02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Coastal Plain</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-8300 to -5500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.2</value></Data>
+        <Data name="Dissertation_Pages"><value>45, 48</value></Data>
+        <Data name="Description"><value>A well, approximately 6 meters deep, demonstrating advanced hydrological and engineering knowledge, construction capabilities, and quarrying skills of the inhabitants. Another well at the site was only partially excavated.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.9315,32.71089,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beidha (ביידא)</name>
+      <description><![CDATA[<h3>Beidha (ביידא)</h3>
+<p><b>Period:</b> 02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</p>
+<p><b>Installation Type:</b> Spring Cave Capture</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Jordan</p>
+<p><b>Dissertation Reference:</b> §2.2.6 (Pages 47, 48)</p>
+<hr/>
+<p><b>Archaeological Description (02. Pre-Pottery Neolithic):</b></p>
+<p>A settlement where travertine deposits near Bir Abu Rujha and along a sandstone cliff indicate the presence of a now-dry spring that supplied water. The site&apos;s location in a valley allowed for rainwater collection and channeling to create moist soil conditions, and water cisterns might also have been used.</p>]]></description>
+      <styleUrl>#style_Pre_Pottery_Neolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Beidha</value></Data>
+        <Data name="Hebrew_Name"><value>ביידא</value></Data>
+        <Data name="Era"><value>02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Region"><value>Jordan</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-8300 to -5500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.2.6</value></Data>
+        <Data name="Dissertation_Pages"><value>47, 48</value></Data>
+        <Data name="Description"><value>A settlement where travertine deposits near Bir Abu Rujha and along a sandstone cliff indicate the presence of a now-dry spring that supplied water. The site&apos;s location in a valley allowed for rainwater collection and channeling to create moist soil conditions, and water cisterns might also have been used.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.467,30.4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beisamoun (בייסמון)</name>
+      <description><![CDATA[<h3>Beisamoun (בייסמון)</h3>
+<p><b>Period:</b> 02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</p>
+<p><b>Installation Type:</b> Spring Cave Capture</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Upper Galilee</p>
+<p><b>Dissertation Reference:</b> §2.2 (Pages 46)</p>
+<hr/>
+<p><b>Archaeological Description (02. Pre-Pottery Neolithic):</b></p>
+<p>A settlement established in clear proximity to the stable and abundant Einan springs, which remain significant water sources today.</p>]]></description>
+      <styleUrl>#style_Pre_Pottery_Neolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Beisamoun</value></Data>
+        <Data name="Hebrew_Name"><value>בייסמון</value></Data>
+        <Data name="Era"><value>02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Region"><value>Upper Galilee</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-8300 to -5500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.2</value></Data>
+        <Data name="Dissertation_Pages"><value>46</value></Data>
+        <Data name="Description"><value>A settlement established in clear proximity to the stable and abundant Einan springs, which remain significant water sources today.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.61037,33.08605,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gilgal I (גלגל 1)</name>
+      <description><![CDATA[<h3>Gilgal I (גלגל 1)</h3>
+<p><b>Period:</b> 02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</p>
+<p><b>Installation Type:</b> Spring Cave Capture</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Jordan Valley</p>
+<p><b>Dissertation Reference:</b> §2.2 (Pages 46, 47)</p>
+<hr/>
+<p><b>Archaeological Description (02. Pre-Pottery Neolithic):</b></p>
+<p>A prehistoric settlement where travertine deposits up to 3 meters thick indicate the presence of an ancient spring, now dry, which served as the water source for the community.</p>]]></description>
+      <styleUrl>#style_Pre_Pottery_Neolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Gilgal I</value></Data>
+        <Data name="Hebrew_Name"><value>גלגל 1</value></Data>
+        <Data name="Era"><value>02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Region"><value>Jordan Valley</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-8300 to -5500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.2</value></Data>
+        <Data name="Dissertation_Pages"><value>46, 47</value></Data>
+        <Data name="Description"><value>A prehistoric settlement where travertine deposits up to 3 meters thick indicate the presence of an ancient spring, now dry, which served as the water source for the community.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.45701,31.89579,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jericho (יריחו)</name>
+      <description><![CDATA[<h3>Jericho (יריחו)</h3>
+<p><b>Period:</b> 02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</p>
+<p><b>Installation Type:</b> Spring Cave Capture</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Jordan Valley</p>
+<p><b>Dissertation Reference:</b> §2.2 (Pages 46)</p>
+<hr/>
+<p><b>Archaeological Description (02. Pre-Pottery Neolithic):</b></p>
+<p>A settlement from the Pre-Pottery Neolithic A period, located near the Elisha Spring in the Jordan Valley.</p>]]></description>
+      <styleUrl>#style_Pre_Pottery_Neolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Jericho</value></Data>
+        <Data name="Hebrew_Name"><value>יריחו</value></Data>
+        <Data name="Era"><value>02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Region"><value>Jordan Valley</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-8300 to -5500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.2</value></Data>
+        <Data name="Dissertation_Pages"><value>46</value></Data>
+        <Data name="Description"><value>A settlement from the Pre-Pottery Neolithic A period, located near the Elisha Spring in the Jordan Valley.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.4442,31.8706,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Khirbet Jarassur (ח&apos;רבת ג&apos;אראסור)</name>
+      <description><![CDATA[<h3>Khirbet Jarassur (ח&apos;רבת ג&apos;אראסור)</h3>
+<p><b>Period:</b> 02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Mesopotamia</p>
+<p><b>Dissertation Reference:</b> §2.2 (Pages 45)</p>
+<hr/>
+<p><b>Archaeological Description (02. Pre-Pottery Neolithic):</b></p>
+<p>A well, briefly reported from Northern Iraq, without detailed information, dimensions, or drawings. It was considered the oldest well in the world by some researchers before the discovery at Atlit-Yam.</p>]]></description>
+      <styleUrl>#style_Pre_Pottery_Neolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Khirbet Jarassur</value></Data>
+        <Data name="Hebrew_Name"><value>ח&apos;רבת ג&apos;אראסור</value></Data>
+        <Data name="Era"><value>02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Mesopotamia</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-8300 to -5500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.2</value></Data>
+        <Data name="Dissertation_Pages"><value>45</value></Data>
+        <Data name="Description"><value>A well, briefly reported from Northern Iraq, without detailed information, dimensions, or drawings. It was considered the oldest well in the world by some researchers before the discovery at Atlit-Yam.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>38.95,36.25,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Netiv HaGdud (נתיב הגדוד)</name>
+      <description><![CDATA[<h3>Netiv HaGdud (נתיב הגדוד)</h3>
+<p><b>Period:</b> 02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</p>
+<p><b>Installation Type:</b> Water Reservoir</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Jordan Valley</p>
+<p><b>Dissertation Reference:</b> §2.2.5 (Pages 47, 48)</p>
+<hr/>
+<p><b>Archaeological Description (02. Pre-Pottery Neolithic):</b></p>
+<p>A settlement established near a freshwater lake (Lake Salibiya), which formed as the Lisan Lake receded, indicating a wetter climate than today.</p>]]></description>
+      <styleUrl>#style_Pre_Pottery_Neolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Netiv HaGdud</value></Data>
+        <Data name="Hebrew_Name"><value>נתיב הגדוד</value></Data>
+        <Data name="Era"><value>02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Water Reservoir</value></Data>
+        <Data name="Region"><value>Jordan Valley</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-8300 to -5500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.2.5</value></Data>
+        <Data name="Dissertation_Pages"><value>47, 48</value></Data>
+        <Data name="Description"><value>A settlement established near a freshwater lake (Lake Salibiya), which formed as the Lisan Lake receded, indicating a wetter climate than today.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.44661,31.96793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yiftah&apos;el (יפתחאל)</name>
+      <description><![CDATA[<h3>Yiftah&apos;el (יפתחאל)</h3>
+<p><b>Period:</b> 02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</p>
+<p><b>Installation Type:</b> Spring Cave Capture</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Lower Galilee</p>
+<p><b>Dissertation Reference:</b> §2.2 (Pages 46)</p>
+<hr/>
+<p><b>Archaeological Description (02. Pre-Pottery Neolithic):</b></p>
+<p>A settlement located near the Ein Yiftah&apos;el spring in the Lower Galilee.</p>]]></description>
+      <styleUrl>#style_Pre_Pottery_Neolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Yiftah&apos;el</value></Data>
+        <Data name="Hebrew_Name"><value>יפתחאל</value></Data>
+        <Data name="Era"><value>02. Pre-Pottery Neolithic (PPN) (-8300 to -5500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Region"><value>Lower Galilee</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-8300 to -5500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.2</value></Data>
+        <Data name="Dissertation_Pages"><value>46</value></Data>
+        <Data name="Description"><value>A settlement located near the Ein Yiftah&apos;el spring in the Lower Galilee.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.22763,32.75491,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

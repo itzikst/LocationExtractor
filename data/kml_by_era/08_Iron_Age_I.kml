@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>08. Iron Age I (-1200 to -1000 BCE)</name>
+    <description>תקופת הברזל 1 (Iron I) - 10 sites. From Dr. Zvika Tzuk's Dissertation.</description>
+    <Style id="style_Iron_Age_I">
+      <IconStyle>
+        <color>ffbb0077</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Ai (et-Tell) (העי (א-תל))</name>
+      <description><![CDATA[<h3>Ai (et-Tell) (העי (א-תל))</h3>
+<p><b>Period:</b> 08. Iron Age I (-1200 to -1000 BCE)</p>
+<p><b>Installation Type:</b> Plastered Cistern</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Judean Hills</p>
+<p><b>Dissertation Reference:</b> §2.8.8 (Pages 113)</p>
+<hr/>
+<p><b>Archaeological Description (08. Iron Age I):</b></p>
+<p>Bell-shaped cisterns cut into the soft chalk rock, located beneath or near houses. One cistern was connected to two others, possibly for sedimentation, and was sealed when the house was abandoned around 3000 years ago (Iron Age I).</p>]]></description>
+      <styleUrl>#style_Iron_Age_I</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Ai (et-Tell)</value></Data>
+        <Data name="Hebrew_Name"><value>העי (א-תל)</value></Data>
+        <Data name="Era"><value>08. Iron Age I (-1200 to -1000 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Plastered Cistern</value></Data>
+        <Data name="Region"><value>Judean Hills</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-1200 to -1000 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.8.8</value></Data>
+        <Data name="Dissertation_Pages"><value>113</value></Data>
+        <Data name="Description"><value>Bell-shaped cisterns cut into the soft chalk rock, located beneath or near houses. One cistern was connected to two others, possibly for sedimentation, and was sealed when the house was abandoned around 3000 years ago (Iron Age I).</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.2611,31.9167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Khirbet Raddana (חורבת רדנה)</name>
+      <description><![CDATA[<h3>Khirbet Raddana (חורבת רדנה)</h3>
+<p><b>Period:</b> 08. Iron Age I (-1200 to -1000 BCE)</p>
+<p><b>Installation Type:</b> Plastered Cistern</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Judean Hills</p>
+<p><b>Dissertation Reference:</b> §2.8.8 (Pages 113)</p>
+<hr/>
+<p><b>Archaeological Description (08. Iron Age I):</b></p>
+<p>Bell-shaped cisterns cut into the soft chalk rock, located beneath or near houses. These cisterns were crucial due to the distant and small local spring, providing sufficient water for the Iron Age I inhabitants.</p>]]></description>
+      <styleUrl>#style_Iron_Age_I</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Khirbet Raddana</value></Data>
+        <Data name="Hebrew_Name"><value>חורבת רדנה</value></Data>
+        <Data name="Era"><value>08. Iron Age I (-1200 to -1000 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Plastered Cistern</value></Data>
+        <Data name="Region"><value>Judean Hills</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-1200 to -1000 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.8.8</value></Data>
+        <Data name="Dissertation_Pages"><value>113</value></Data>
+        <Data name="Description"><value>Bell-shaped cisterns cut into the soft chalk rock, located beneath or near houses. These cisterns were crucial due to the distant and small local spring, providing sufficient water for the Iron Age I inhabitants.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.2083,31.9167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Beersheba (תל באר שבע)</name>
+      <description><![CDATA[<h3>Tel Beersheba (תל באר שבע)</h3>
+<p><b>Period:</b> 08. Iron Age I (-1200 to -1000 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Negev</p>
+<p><b>Dissertation Reference:</b> §2.8.4 (Pages 109, 110, 111)</p>
+<hr/>
+<p><b>Archaeological Description (08. Iron Age I):</b></p>
+<p>An ancient well located on the southeastern side of the tel. Its upper part is associated with the early layers (VI-IX) of Tel Beersheba, dating to Iron Age I (11th century BCE). The well is very deep, reaching 69m, and was likely connected to the earliest settlement.</p>]]></description>
+      <styleUrl>#style_Iron_Age_I</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Beersheba</value></Data>
+        <Data name="Hebrew_Name"><value>תל באר שבע</value></Data>
+        <Data name="Era"><value>08. Iron Age I (-1200 to -1000 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Negev</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-1200 to -1000 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.8.4</value></Data>
+        <Data name="Dissertation_Pages"><value>109, 110, 111</value></Data>
+        <Data name="Description"><value>An ancient well located on the southeastern side of the tel. Its upper part is associated with the early layers (VI-IX) of Tel Beersheba, dating to Iron Age I (11th century BCE). The well is very deep, reaching 69m, and was likely connected to the earliest settlement.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.83643,31.24566,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Beit Shemesh (תל בית שמש)</name>
+      <description><![CDATA[<h3>Tel Beit Shemesh (תל בית שמש)</h3>
+<p><b>Period:</b> 08. Iron Age I (-1200 to -1000 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Shephelah</p>
+<p><b>Dissertation Reference:</b> §2.8.3 (Pages 109)</p>
+<hr/>
+<p><b>Archaeological Description (08. Iron Age I):</b></p>
+<p>A large well, 3.3m in diameter, discovered north of the city gate. Its upper part is built with large stones. Mackenzie attributed it to the Philistine fortified city, dating its use to Iron Age I.</p>]]></description>
+      <styleUrl>#style_Iron_Age_I</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Beit Shemesh</value></Data>
+        <Data name="Hebrew_Name"><value>תל בית שמש</value></Data>
+        <Data name="Era"><value>08. Iron Age I (-1200 to -1000 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Shephelah</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-1200 to -1000 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.8.3</value></Data>
+        <Data name="Dissertation_Pages"><value>109</value></Data>
+        <Data name="Description"><value>A large well, 3.3m in diameter, discovered north of the city gate. Its upper part is built with large stones. Mackenzie attributed it to the Philistine fortified city, dating its use to Iron Age I.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.97173,31.74972,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Dor (תל דור)</name>
+      <description><![CDATA[<h3>Tel Dor (תל דור)</h3>
+<p><b>Period:</b> 08. Iron Age I (-1200 to -1000 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Coastal Plain</p>
+<p><b>Dissertation Reference:</b> §2.8.1 (Pages 107, 108)</p>
+<hr/>
+<p><b>Archaeological Description (08. Iron Age I):</b></p>
+<p>A rectangular well cut into kurkar rock, reaching the shallow water table. It underwent three construction phases, with pottery dating its use from the late 13th to early 11th century BCE (Iron Age I). It was built with ashlar stones and protected from sea waves.</p>]]></description>
+      <styleUrl>#style_Iron_Age_I</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Dor</value></Data>
+        <Data name="Hebrew_Name"><value>תל דור</value></Data>
+        <Data name="Era"><value>08. Iron Age I (-1200 to -1000 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Coastal Plain</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-1200 to -1000 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.8.1</value></Data>
+        <Data name="Dissertation_Pages"><value>107, 108</value></Data>
+        <Data name="Description"><value>A rectangular well cut into kurkar rock, reaching the shallow water table. It underwent three construction phases, with pottery dating its use from the late 13th to early 11th century BCE (Iron Age I). It was built with ashlar stones and protected from sea waves.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.9225,32.61807,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Gerisa (תל גריסה)</name>
+      <description><![CDATA[<h3>Tel Gerisa (תל גריסה)</h3>
+<p><b>Period:</b> 08. Iron Age I (-1200 to -1000 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Coastal Plain</p>
+<p><b>Dissertation Reference:</b> §2.8.2 (Pages 108, 109)</p>
+<hr/>
+<p><b>Archaeological Description (08. Iron Age I):</b></p>
+<p>An Iron Age I well built into an older Middle Bronze Age water system. It is a rectangular vertical shaft, constructed with large, roughly hewn stones, and its use is attributed to the Philistine settlement from the 11th century BCE.</p>]]></description>
+      <styleUrl>#style_Iron_Age_I</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Gerisa</value></Data>
+        <Data name="Hebrew_Name"><value>תל גריסה</value></Data>
+        <Data name="Era"><value>08. Iron Age I (-1200 to -1000 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Coastal Plain</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-1200 to -1000 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.8.2</value></Data>
+        <Data name="Dissertation_Pages"><value>108, 109</value></Data>
+        <Data name="Description"><value>An Iron Age I well built into an older Middle Bronze Age water system. It is a rectangular vertical shaft, constructed with large, roughly hewn stones, and its use is attributed to the Philistine settlement from the 11th century BCE.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.80648,32.09327,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Hazor (תל חצור)</name>
+      <description><![CDATA[<h3>Tel Hazor (תל חצור)</h3>
+<p><b>Period:</b> 08. Iron Age I (-1200 to -1000 BCE)</p>
+<p><b>Installation Type:</b> Aqueduct Channel</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Upper Galilee</p>
+<p><b>Dissertation Reference:</b> §2.8.11 (Pages 114)</p>
+<hr/>
+<p><b>Archaeological Description (08. Iron Age I):</b></p>
+<p>Two rock-cut aqueducts (northern and southern) were found west and southwest of the tel. They are unplastered and their early date is suggested by sherds in their fill, possibly dating to the Iron Age or even Early Bronze Age II.</p>]]></description>
+      <styleUrl>#style_Iron_Age_I</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Hazor</value></Data>
+        <Data name="Hebrew_Name"><value>תל חצור</value></Data>
+        <Data name="Era"><value>08. Iron Age I (-1200 to -1000 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Aqueduct Channel</value></Data>
+        <Data name="Region"><value>Upper Galilee</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-1200 to -1000 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.8.11</value></Data>
+        <Data name="Dissertation_Pages"><value>114</value></Data>
+        <Data name="Description"><value>Two rock-cut aqueducts (northern and southern) were found west and southwest of the tel. They are unplastered and their early date is suggested by sherds in their fill, possibly dating to the Iron Age or even Early Bronze Age II.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.56828,33.01843,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Shiloh (תל שילה)</name>
+      <description><![CDATA[<h3>Tel Shiloh (תל שילה)</h3>
+<p><b>Period:</b> 08. Iron Age I (-1200 to -1000 BCE)</p>
+<p><b>Installation Type:</b> Plastered Cistern</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Samaria</p>
+<p><b>Dissertation Reference:</b> §2.8.7 (Pages 113)</p>
+<hr/>
+<p><b>Archaeological Description (08. Iron Age I):</b></p>
+<p>A rock-cut and plastered cistern (Cistern 1320) found in the courtyard of an Iron Age I house (Layer V and IV).</p>]]></description>
+      <styleUrl>#style_Iron_Age_I</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Shiloh</value></Data>
+        <Data name="Hebrew_Name"><value>תל שילה</value></Data>
+        <Data name="Era"><value>08. Iron Age I (-1200 to -1000 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Plastered Cistern</value></Data>
+        <Data name="Region"><value>Samaria</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-1200 to -1000 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.8.7</value></Data>
+        <Data name="Dissertation_Pages"><value>113</value></Data>
+        <Data name="Description"><value>A rock-cut and plastered cistern (Cistern 1320) found in the courtyard of an Iron Age I house (Layer V and IV).</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.29103,32.0554,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tel Taanach (תל תענך)</name>
+      <description><![CDATA[<h3>Tel Taanach (תל תענך)</h3>
+<p><b>Period:</b> 08. Iron Age I (-1200 to -1000 BCE)</p>
+<p><b>Installation Type:</b> Plastered Cistern</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Jezreel Valley</p>
+<p><b>Dissertation Reference:</b> §2.8.6 (Pages 113)</p>
+<hr/>
+<p><b>Archaeological Description (08. Iron Age I):</b></p>
+<p>A cistern located beneath a courtyard of a building dated to the late 12th century BCE. It is 13.3m deep, with a built neck of 7m, and was fed by a plastered drainage channel from the courtyard.</p>]]></description>
+      <styleUrl>#style_Iron_Age_I</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tel Taanach</value></Data>
+        <Data name="Hebrew_Name"><value>תל תענך</value></Data>
+        <Data name="Era"><value>08. Iron Age I (-1200 to -1000 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Plastered Cistern</value></Data>
+        <Data name="Region"><value>Jezreel Valley</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-1200 to -1000 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.8.6</value></Data>
+        <Data name="Dissertation_Pages"><value>113</value></Data>
+        <Data name="Description"><value>A cistern located beneath a courtyard of a building dated to the late 12th century BCE. It is 13.3m deep, with a built neck of 7m, and was fed by a plastered drainage channel from the courtyard.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.22005,32.52158,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tell es-Sa&apos;idiyeh (תל א-סעידיה)</name>
+      <description><![CDATA[<h3>Tell es-Sa&apos;idiyeh (תל א-סעידיה)</h3>
+<p><b>Period:</b> 08. Iron Age I (-1200 to -1000 BCE)</p>
+<p><b>Installation Type:</b> Spring Cave Capture</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Jordan Valley</p>
+<p><b>Dissertation Reference:</b> §2.8.5 (Pages 111, 112)</p>
+<hr/>
+<p><b>Archaeological Description (08. Iron Age I):</b></p>
+<p>A monumental stepped water system with 95 preserved steps, leading down to a hidden spring. It was covered to conceal it from enemies. The system includes a small semi-circular pool and a plastered underground channel, dating its initial use to the mid-12th century BCE (Iron Age I).</p>]]></description>
+      <styleUrl>#style_Iron_Age_I</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tell es-Sa&apos;idiyeh</value></Data>
+        <Data name="Hebrew_Name"><value>תל א-סעידיה</value></Data>
+        <Data name="Era"><value>08. Iron Age I (-1200 to -1000 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Region"><value>Jordan Valley</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-1200 to -1000 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.8.5</value></Data>
+        <Data name="Dissertation_Pages"><value>111, 112</value></Data>
+        <Data name="Description"><value>A monumental stepped water system with 95 preserved steps, leading down to a hidden spring. It was covered to conceal it from enemies. The system includes a small semi-circular pool and a plastered underground channel, dating its initial use to the mid-12th century BCE (Iron Age I).</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.5806,32.2989,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

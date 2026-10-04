@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>01. Paleolithic &amp; Epi-Paleolithic (-20000 to -10000 BCE)</name>
+    <description>התקופה הפליאוליתית והאפי-פליאוליתית - 2 sites. From Dr. Zvika Tzuk's Dissertation.</description>
+    <Style id="style_Paleolithic_Epipaleolithic">
+      <IconStyle>
+        <color>ff800000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Atlit-Yam (עתלית ים)</name>
+      <description><![CDATA[<h3>Atlit-Yam (עתלית ים)</h3>
+<p><b>Period:</b> 01. Paleolithic &amp; Epi-Paleolithic (-20000 to -10000 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Coastal Plain</p>
+<p><b>Dissertation Reference:</b> §2.2.1 (Pages 43, 44)</p>
+<hr/>
+<p><b>Archaeological Description (01. Paleolithic &amp; Epi-Paleolithic):</b></p>
+<p>An ancient well, dated to the early 6th millennium BCE (5900 BCE), found submerged 10m below current sea level. It was a cylindrical shaft 1.5m in diameter and 5.7m deep, dug through clay and into kurkar. A second well was found 100m north, dug into clay and lined with stone.</p>]]></description>
+      <styleUrl>#style_Paleolithic_Epipaleolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Atlit-Yam</value></Data>
+        <Data name="Hebrew_Name"><value>עתלית ים</value></Data>
+        <Data name="Era"><value>01. Paleolithic &amp; Epi-Paleolithic (-20000 to -10000 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Coastal Plain</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-20000 to -10000 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.2.1</value></Data>
+        <Data name="Dissertation_Pages"><value>43, 44</value></Data>
+        <Data name="Description"><value>An ancient well, dated to the early 6th millennium BCE (5900 BCE), found submerged 10m below current sea level. It was a cylindrical shaft 1.5m in diameter and 5.7m deep, dug through clay and into kurkar. A second well was found 100m north, dug into clay and lined with stone.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.9315,32.71089,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Khirbet Jarassur (ח&apos;רבת ג&apos;אראסור)</name>
+      <description><![CDATA[<h3>Khirbet Jarassur (ח&apos;רבת ג&apos;אראסור)</h3>
+<p><b>Period:</b> 01. Paleolithic &amp; Epi-Paleolithic (-20000 to -10000 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Syria</p>
+<p><b>Dissertation Reference:</b> §2.2.2 (Pages 44)</p>
+<hr/>
+<p><b>Archaeological Description (01. Paleolithic &amp; Epi-Paleolithic):</b></p>
+<p>A well found at a Halafian culture site (5200 BCE), considered by Campbell to be the oldest well in the world. Most of its upper part was destroyed during the excavation of an irrigation channel.</p>]]></description>
+      <styleUrl>#style_Paleolithic_Epipaleolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Khirbet Jarassur</value></Data>
+        <Data name="Hebrew_Name"><value>ח&apos;רבת ג&apos;אראסור</value></Data>
+        <Data name="Era"><value>01. Paleolithic &amp; Epi-Paleolithic (-20000 to -10000 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Syria</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-20000 to -10000 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.2.2</value></Data>
+        <Data name="Dissertation_Pages"><value>44</value></Data>
+        <Data name="Description"><value>A well found at a Halafian culture site (5200 BCE), considered by Campbell to be the oldest well in the world. Most of its upper part was destroyed during the excavation of an irrigation channel.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>38.95,36.25,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

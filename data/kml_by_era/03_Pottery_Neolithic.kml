@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>03. Pottery Neolithic (PN) (-5500 to -4500 BCE)</name>
+    <description>התקופה הניאוליתית הקירמית - 5 sites. From Dr. Zvika Tzuk's Dissertation.</description>
+    <Style id="style_Pottery_Neolithic">
+      <IconStyle>
+        <color>ffcc6600</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Hacilar (הצ&apos;ילר (תורכיה))</name>
+      <description><![CDATA[<h3>Hacilar (הצ&apos;ילר (תורכיה))</h3>
+<p><b>Period:</b> 03. Pottery Neolithic (PN) (-5500 to -4500 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Turkey</p>
+<p><b>Dissertation Reference:</b> §2.3.2 (Pages 50)</p>
+<hr/>
+<p><b>Archaeological Description (03. Pottery Neolithic):</b></p>
+<p>Two wells were found. One from layer VI (5750-5600 BCE) is a circular, stone-lined well, 3.2m deep, with a diameter of 1.5m at the top, narrowing to 1.25m at the bottom. The second from layer II (5400-5250 BCE) is a rectangular, stone-lined well located in a courtyard within a fortress. Both had evidence of water drawing mechanisms.</p>]]></description>
+      <styleUrl>#style_Pottery_Neolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Hacilar</value></Data>
+        <Data name="Hebrew_Name"><value>הצ&apos;ילר (תורכיה)</value></Data>
+        <Data name="Era"><value>03. Pottery Neolithic (PN) (-5500 to -4500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Turkey</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-5500 to -4500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.3.2</value></Data>
+        <Data name="Dissertation_Pages"><value>50</value></Data>
+        <Data name="Description"><value>Two wells were found. One from layer VI (5750-5600 BCE) is a circular, stone-lined well, 3.2m deep, with a diameter of 1.5m at the top, narrowing to 1.25m at the bottom. The second from layer II (5400-5250 BCE) is a rectangular, stone-lined well located in a courtyard within a fortress. Both had evidence of water drawing mechanisms.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>30.15,37.6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kfar Galim North (כפר גלים צפון)</name>
+      <description><![CDATA[<h3>Kfar Galim North (כפר גלים צפון)</h3>
+<p><b>Period:</b> 03. Pottery Neolithic (PN) (-5500 to -4500 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Coastal Plain</p>
+<p><b>Dissertation Reference:</b> §2.3.1.ב (Pages 49)</p>
+<hr/>
+<p><b>Archaeological Description (03. Pottery Neolithic):</b></p>
+<p>Five circular pits were found, one of which was excavated to 0.7m depth, dug into hard clay and lined with kurkar and limestone. It had an outer diameter of 1.5m and an inner diameter of 0.8-0.9m, identified as a well.</p>]]></description>
+      <styleUrl>#style_Pottery_Neolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Kfar Galim North</value></Data>
+        <Data name="Hebrew_Name"><value>כפר גלים צפון</value></Data>
+        <Data name="Era"><value>03. Pottery Neolithic (PN) (-5500 to -4500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Coastal Plain</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-5500 to -4500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.3.1.ב</value></Data>
+        <Data name="Dissertation_Pages"><value>49</value></Data>
+        <Data name="Description"><value>Five circular pits were found, one of which was excavated to 0.7m depth, dug into hard clay and lined with kurkar and limestone. It had an outer diameter of 1.5m and an inner diameter of 0.8-0.9m, identified as a well.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.95513,32.76955,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kfar Samir (כפר סמיר)</name>
+      <description><![CDATA[<h3>Kfar Samir (כפר סמיר)</h3>
+<p><b>Period:</b> 03. Pottery Neolithic (PN) (-5500 to -4500 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Coastal Plain</p>
+<p><b>Dissertation Reference:</b> §2.3.1.א (Pages 49, 51)</p>
+<hr/>
+<p><b>Archaeological Description (03. Pottery Neolithic):</b></p>
+<p>A rectangular pit (1x0.8m) dug to 2m depth, constructed with alternating layers of stone and oak wood, widening at the bottom. It is identified as a well, unique in its construction method, and possibly used for capturing fresh water springs.</p>]]></description>
+      <styleUrl>#style_Pottery_Neolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Kfar Samir</value></Data>
+        <Data name="Hebrew_Name"><value>כפר סמיר</value></Data>
+        <Data name="Era"><value>03. Pottery Neolithic (PN) (-5500 to -4500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Coastal Plain</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-5500 to -4500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.3.1.א</value></Data>
+        <Data name="Dissertation_Pages"><value>49, 51</value></Data>
+        <Data name="Description"><value>A rectangular pit (1x0.8m) dug to 2m depth, constructed with alternating layers of stone and oak wood, widening at the bottom. It is identified as a well, unique in its construction method, and possibly used for capturing fresh water springs.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.9572,32.7921,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Megadim (מגדים)</name>
+      <description><![CDATA[<h3>Megadim (מגדים)</h3>
+<p><b>Period:</b> 03. Pottery Neolithic (PN) (-5500 to -4500 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Coastal Plain</p>
+<p><b>Dissertation Reference:</b> §2.3.1.ג (Pages 49)</p>
+<hr/>
+<p><b>Archaeological Description (03. Pottery Neolithic):</b></p>
+<p>Three pits were found, one of which was partially excavated to 0.4m depth. These pits are considered potential wells or water collection points, possibly for capturing fresh water springs.</p>]]></description>
+      <styleUrl>#style_Pottery_Neolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Megadim</value></Data>
+        <Data name="Hebrew_Name"><value>מגדים</value></Data>
+        <Data name="Era"><value>03. Pottery Neolithic (PN) (-5500 to -4500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Coastal Plain</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-5500 to -4500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.3.1.ג</value></Data>
+        <Data name="Dissertation_Pages"><value>49</value></Data>
+        <Data name="Description"><value>Three pits were found, one of which was partially excavated to 0.4m depth. These pits are considered potential wells or water collection points, possibly for capturing fresh water springs.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.9515,32.72627,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tepe Gawra (טפה גאורה)</name>
+      <description><![CDATA[<h3>Tepe Gawra (טפה גאורה)</h3>
+<p><b>Period:</b> 03. Pottery Neolithic (PN) (-5500 to -4500 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Iraq</p>
+<p><b>Dissertation Reference:</b> §2.3.3 (Pages 50)</p>
+<hr/>
+<p><b>Archaeological Description (03. Pottery Neolithic):</b></p>
+<p>A bottle-shaped well, 5m deep, dug into virgin soil at the base of the tel, dating to the Halafian culture (6th millennium BCE). It had an oval opening (1.5x1.2m) and a maximum diameter of 3.1m in the middle, with pottery showing signs of prolonged water exposure.</p>]]></description>
+      <styleUrl>#style_Pottery_Neolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tepe Gawra</value></Data>
+        <Data name="Hebrew_Name"><value>טפה גאורה</value></Data>
+        <Data name="Era"><value>03. Pottery Neolithic (PN) (-5500 to -4500 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Iraq</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-5500 to -4500 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.3.3</value></Data>
+        <Data name="Dissertation_Pages"><value>50</value></Data>
+        <Data name="Description"><value>A bottle-shaped well, 5m deep, dug into virgin soil at the base of the tel, dating to the Halafian culture (6th millennium BCE). It had an oval opening (1.5x1.2m) and a maximum diameter of 3.1m in the middle, with pottery showing signs of prolonged water exposure.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>43.2083,36.5567,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>04. Chalcolithic Period (-4500 to -3300 BCE)</name>
+    <description>התקופה הכלקוליתית - 5 sites. From Dr. Zvika Tzuk's Dissertation.</description>
+    <Style id="style_Chalcolithic">
+      <IconStyle>
+        <color>ff008800</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Abu Huf (אבו חוף)</name>
+      <description><![CDATA[<h3>Abu Huf (אבו חוף)</h3>
+<p><b>Period:</b> 04. Chalcolithic Period (-4500 to -3300 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Shephelah</p>
+<p><b>Dissertation Reference:</b> §2.4.1 (Pages 52, 54)</p>
+<hr/>
+<p><b>Archaeological Description (04. Chalcolithic Period):</b></p>
+<p>A round well, 1.5-1.55m in inner diameter and 2.45m deep, constructed of dry-laid fieldstones. It was dug into gravel alluvium next to a wadi channel and was associated with a building and courtyard.</p>]]></description>
+      <styleUrl>#style_Chalcolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Abu Huf</value></Data>
+        <Data name="Hebrew_Name"><value>אבו חוף</value></Data>
+        <Data name="Era"><value>04. Chalcolithic Period (-4500 to -3300 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Shephelah</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-4500 to -3300 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.4.1</value></Data>
+        <Data name="Dissertation_Pages"><value>52, 54</value></Data>
+        <Data name="Description"><value>A round well, 1.5-1.55m in inner diameter and 2.45m deep, constructed of dry-laid fieldstones. It was dug into gravel alluvium next to a wadi channel and was associated with a building and courtyard.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.85371,31.39985,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ein Gedi (עין גדי)</name>
+      <description><![CDATA[<h3>Ein Gedi (עין גדי)</h3>
+<p><b>Period:</b> 04. Chalcolithic Period (-4500 to -3300 BCE)</p>
+<p><b>Installation Type:</b> Spring Cave Capture</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Judean Hills</p>
+<p><b>Dissertation Reference:</b> §2.4 Summary (Pages 54)</p>
+<hr/>
+<p><b>Archaeological Description (04. Chalcolithic Period):</b></p>
+<p>A Chalcolithic temple complex demonstrating a strong connection to the natural springs in its vicinity. The proximity to these springs suggests their cultic significance and use during this period.</p>]]></description>
+      <styleUrl>#style_Chalcolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Ein Gedi</value></Data>
+        <Data name="Hebrew_Name"><value>עין גדי</value></Data>
+        <Data name="Era"><value>04. Chalcolithic Period (-4500 to -3300 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Spring Cave Capture</value></Data>
+        <Data name="Region"><value>Judean Hills</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-4500 to -3300 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.4 Summary</value></Data>
+        <Data name="Dissertation_Pages"><value>54</value></Data>
+        <Data name="Description"><value>A Chalcolithic temple complex demonstrating a strong connection to the natural springs in its vicinity. The proximity to these springs suggests their cultic significance and use during this period.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>35.39268,31.46297,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Horbat Beter (חורבת בתר)</name>
+      <description><![CDATA[<h3>Horbat Beter (חורבת בתר)</h3>
+<p><b>Period:</b> 04. Chalcolithic Period (-4500 to -3300 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</p>
+<p><b>Region:</b> Negev</p>
+<p><b>Dissertation Reference:</b> §2.4.2 (Pages 52, 54)</p>
+<hr/>
+<p><b>Archaeological Description (04. Chalcolithic Period):</b></p>
+<p>A cylindrical well, 2m in diameter and 3m deep, excavated into loess soil down to the ancient streambed of Nahal Beersheba. Two steps were cut into its upper walls, and it was intentionally filled at a later stage.</p>]]></description>
+      <styleUrl>#style_Chalcolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Horbat Beter</value></Data>
+        <Data name="Hebrew_Name"><value>חורבת בתר</value></Data>
+        <Data name="Era"><value>04. Chalcolithic Period (-4500 to -3300 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Negev</value></Data>
+        <Data name="Location_Precision"><value>Tier 1: High Precision (Pinpoint Well/Installation &lt; 50m)</value></Data>
+        <Data name="Dates"><value>-4500 to -3300 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.4.2</value></Data>
+        <Data name="Dissertation_Pages"><value>52, 54</value></Data>
+        <Data name="Description"><value>A cylindrical well, 2m in diameter and 3m deep, excavated into loess soil down to the ancient streambed of Nahal Beersheba. Two steps were cut into its upper walls, and it was intentionally filled at a later stage.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>34.77868,31.23844,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rajajil (ראג&apos;אג&apos;יל (ערב הסעודית))</name>
+      <description><![CDATA[<h3>Rajajil (ראג&apos;אג&apos;יל (ערב הסעודית))</h3>
+<p><b>Period:</b> 04. Chalcolithic Period (-4500 to -3300 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Saudi Arabia</p>
+<p><b>Dissertation Reference:</b> §2.4.4 (Pages 53, 54)</p>
+<hr/>
+<p><b>Archaeological Description (04. Chalcolithic Period):</b></p>
+<p>An abandoned well, located about 1 km west of the megalithic complex, characterized by small stones, troughs, and rope marks. Its Chalcolithic dating is suggested but not definitively confirmed without excavation.</p>]]></description>
+      <styleUrl>#style_Chalcolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Rajajil</value></Data>
+        <Data name="Hebrew_Name"><value>ראג&apos;אג&apos;יל (ערב הסעודית)</value></Data>
+        <Data name="Era"><value>04. Chalcolithic Period (-4500 to -3300 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Saudi Arabia</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-4500 to -3300 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.4.4</value></Data>
+        <Data name="Dissertation_Pages"><value>53, 54</value></Data>
+        <Data name="Description"><value>An abandoned well, located about 1 km west of the megalithic complex, characterized by small stones, troughs, and rope marks. Its Chalcolithic dating is suggested but not definitively confirmed without excavation.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>39.904,29.809,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tepe Gawra (טפה גאורה)</name>
+      <description><![CDATA[<h3>Tepe Gawra (טפה גאורה)</h3>
+<p><b>Period:</b> 04. Chalcolithic Period (-4500 to -3300 BCE)</p>
+<p><b>Installation Type:</b> Deep Well</p>
+<p><b>Location Precision:</b> Tier 4: International Comparative Site (&lt; 100m - 1km)</p>
+<p><b>Region:</b> Mesopotamia</p>
+<p><b>Dissertation Reference:</b> §2.4.3 (Pages 53, 54)</p>
+<hr/>
+<p><b>Archaeological Description (04. Chalcolithic Period):</b></p>
+<p>An Ubaid period well, 1.15m in diameter at its rim, excavated to a depth of 12-13m. It was found a few centimeters below the holy of holies floor of the northern temple of Layer XIII, and its water was used by the city&apos;s acropolis.</p>]]></description>
+      <styleUrl>#style_Chalcolithic</styleUrl>
+      <ExtendedData>
+        <Data name="Site_Name"><value>Tepe Gawra</value></Data>
+        <Data name="Hebrew_Name"><value>טפה גאורה</value></Data>
+        <Data name="Era"><value>04. Chalcolithic Period (-4500 to -3300 BCE)</value></Data>
+        <Data name="Installation_Type"><value>Deep Well</value></Data>
+        <Data name="Region"><value>Mesopotamia</value></Data>
+        <Data name="Location_Precision"><value>Tier 4: International Comparative Site (&lt; 100m - 1km)</value></Data>
+        <Data name="Dates"><value>-4500 to -3300 BCE</value></Data>
+        <Data name="Chapter_Section"><value>2.4.3</value></Data>
+        <Data name="Dissertation_Pages"><value>53, 54</value></Data>
+        <Data name="Description"><value>An Ubaid period well, 1.15m in diameter at its rim, excavated to a depth of 12-13m. It was found a few centimeters below the holy of holies floor of the northern temple of Layer XIII, and its water was used by the city&apos;s acropolis.</value></Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>43.2083,36.5567,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
