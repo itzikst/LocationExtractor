@@ -90,13 +90,26 @@ function getSiteIcon(type) {
   return '📍';
 }
 
+const EXCLUDED_TYPES = new Set([
+  'region',
+  'valley',
+  'mountain',
+  'river',
+  'lake',
+  'bay',
+  'fortifications',
+  'sea'
+]);
+
 // Render Locations in Left Sidebar
 function showLocationsForPage(pageNum) {
   activePageNumber = pageNum;
   const pageLabel = document.getElementById('locCurrentPage');
   if (pageLabel) pageLabel.textContent = pageNum;
   
-  const locList = (typeof LOCATIONS_BY_PAGE !== 'undefined' && LOCATIONS_BY_PAGE[pageNum]) ? LOCATIONS_BY_PAGE[pageNum] : [];
+  const rawLocList = (typeof LOCATIONS_BY_PAGE !== 'undefined' && LOCATIONS_BY_PAGE[pageNum]) ? LOCATIONS_BY_PAGE[pageNum] : [];
+  const locList = rawLocList.filter(l => !EXCLUDED_TYPES.has((l.type || '').toLowerCase().trim()));
+  
   const badge = document.getElementById('locCountBadge');
   if (badge) badge.textContent = locList.length + ' אתרים';
 

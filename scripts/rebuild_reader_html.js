@@ -118,6 +118,17 @@ function generateReaderHtml() {
   const locationsData = JSON.parse(readFileSync(join(process.cwd(), 'data', 'locations_dissertation.json'), 'utf-8'));
   const totalPages = 446;
 
+  const EXCLUDED_TYPES = new Set([
+    'region',
+    'valley',
+    'mountain',
+    'river',
+    'lake',
+    'bay',
+    'fortifications',
+    'sea'
+  ]);
+
   // Build page-to-locations lookup map
   const locationsByPage = {};
   for (let p = 1; p <= totalPages; p++) {
@@ -125,6 +136,9 @@ function generateReaderHtml() {
   }
 
   for (const loc of locationsData) {
+    const typeLower = (loc.site_type || '').toLowerCase().trim();
+    if (EXCLUDED_TYPES.has(typeLower)) continue;
+
     if (Array.isArray(loc.all_pages)) {
       for (const p of loc.all_pages) {
         if (locationsByPage[p]) {
