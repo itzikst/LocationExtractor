@@ -1,0 +1,819 @@
+[
+  {
+    "canonical_hebrew": "הגליל",
+    "canonical_english": "Galilee",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 41,
+    "context_summary": "בגליל שרר במרבית התקופה הפליאוליתית המאוחרת אקלים קר ויבש."
+  },
+  {
+    "canonical_hebrew": "הנגב",
+    "canonical_english": "Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 41,
+    "context_summary": "בנגב שרר ברוב התקופה הפליאוליתית המאוחרת אקלים קר ולח."
+  },
+  {
+    "canonical_hebrew": "מישור החוף",
+    "canonical_english": "Coastal Plain",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 41,
+    "context_summary": "מישור החוף התרחב ב-15-10 ק\"מ לפני כ-18,000 שנים עקב ירידת פני האוקיינוסים והימים."
+  },
+  {
+    "canonical_hebrew": "הכרמל",
+    "canonical_english": "Carmel",
+    "hebrew_aliases": [
+      "מערות הכרמל"
+    ],
+    "english_aliases": [
+      "Carmel Caves"
+    ],
+    "site_type": "Mountain",
+    "page_number": 41,
+    "context_summary": "מערות הכרמל היו בין האזורים הנמוכים בהם התקיימה התרבות הכבארית."
+  },
+  {
+    "canonical_hebrew": "פצאל",
+    "canonical_english": "Fasael",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 41,
+    "context_summary": "פצאל נמנה בין האזורים הנמוכים בהם התקיימה התרבות הכבארית."
+  },
+  {
+    "canonical_hebrew": "ואדי מליח",
+    "canonical_english": "Wadi Malih",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 41,
+    "context_summary": "ואדי מליח נמנה בין האזורים הנמוכים בהם התקיימה התרבות הכבארית."
+  },
+  {
+    "canonical_hebrew": "עין גב",
+    "canonical_english": "Ein Gev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 41,
+    "context_summary": "עין גב נמנה בין האזורים הנמוכים בהם התקיימה התרבות הכבארית."
+  },
+  {
+    "canonical_hebrew": "מערת היונים",
+    "canonical_english": "Hayonim Cave",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 41,
+    "context_summary": "מערת היונים הייתה מיושבת כנראה רק בקיץ בתקופה הכבארית."
+  },
+  {
+    "canonical_hebrew": "סיני",
+    "canonical_english": "Sinai",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 41,
+    "context_summary": "אתרי התרבות הכבארית הגיאומטרית הוקמו גם באזורים הצחיחים כגון סיני."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 41,
+    "context_summary": "אתרי התרבות הכבארית הגיאומטרית הוקמו גם באזורים הצחיחים כגון הר הנגב, שם נקראת התרבות מושאבית."
+  },
+  {
+    "canonical_hebrew": "בקעת באר שבע",
+    "canonical_english": "Be'er Sheva Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 41,
+    "context_summary": "אתרי התרבות הנאטופית הקדומה מצויים בעיקר מצפון לבקעת באר שבע."
+  },
+  {
+    "canonical_hebrew": "הר הלבנון",
+    "canonical_english": "Mount Lebanon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 41,
+    "context_summary": "אתרי התרבות הנאטופית הקדומה מצויים מדרום להר הלבנון."
+  },
+  {
+    "canonical_hebrew": "הר חריף",
+    "canonical_english": "Mount Harif",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 41,
+    "context_summary": "אתרי התרבות הנאטופית המאוחרת מצויים מהר חריף שבהר הנגב בדרום."
+  },
+  {
+    "canonical_hebrew": "עמק הפרת",
+    "canonical_english": "Euphrates Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 41,
+    "context_summary": "אתרי התרבות הנאטופית המאוחרת מצויים עד עמק הפרת בצפון."
+  },
+  {
+    "canonical_hebrew": "בארות מים",
+    "canonical_english": "Water Wells",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 41,
+    "context_summary": "מקורות המים הראשונים בעולם הקדום בהם ניכר מעשה יד אדם הם בארות המים."
+  },
+  {
+    "canonical_hebrew": "חולות צפון סיני",
+    "canonical_english": "North Sinai Sands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 42,
+    "context_summary": "בחודשי החורף ירדו קבוצות ציידים-לקטים למקומות נמוכים יותר, לחולות צפון סיני והנגב המערבי."
+  },
+  {
+    "canonical_hebrew": "הנגב המערבי",
+    "canonical_english": "Western Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 42,
+    "context_summary": "בחודשי החורף ירדו קבוצות ציידים-לקטים למקומות נמוכים יותר, לחולות צפון סיני והנגב המערבי."
+  },
+  {
+    "canonical_hebrew": "השפלה הדרומית",
+    "canonical_english": "Southern Shephelah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 42,
+    "context_summary": "הנוף בתקופה האפי-פליאוליתית בהר הנגב היה דומה לזה של השפלה הדרומית."
+  },
+  {
+    "canonical_hebrew": "באר התורכית בנחל חורשה עילי",
+    "canonical_english": "Turkish Well in Upper Nahal Horasha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 42,
+    "context_summary": "הבאר התורכית בנחל חורשה עילי, אשר מצויים בה מים כיום, מאפשרת להניח כי היו מקורות מים כדוגמתה גם אז."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 42,
+    "context_summary": "האדם הקדמון בארץ ישראל היה נווד עד שלהי התקופה האפי-פליאוליתית."
+  },
+  {
+    "canonical_hebrew": "עתלית ים",
+    "canonical_english": "Atlit-Yam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 43,
+    "context_summary": "הכפר של עתלית ים מצוי כ-10 ק\"מ מדרום לחיפה וכ-400-200 מ' מצפון לחצי האי של עתלית, בעומק של 18-8 מ' מתחת לפני המים."
+  },
+  {
+    "canonical_hebrew": "חיפה",
+    "canonical_english": "Haifa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 43,
+    "context_summary": "הכפר של עתלית ים מצוי כ-10 ק\"מ מדרום לחיפה."
+  },
+  {
+    "canonical_hebrew": "חצי האי של עתלית",
+    "canonical_english": "Atlit Peninsula",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 43,
+    "context_summary": "הכפר של עתלית ים מצוי כ-400-200 מ' מצפון לחצי האי של עתלית."
+  },
+  {
+    "canonical_hebrew": "באר עתלית ים",
+    "canonical_english": "Atlit-Yam Well",
+    "hebrew_aliases": [
+      "באר"
+    ],
+    "english_aliases": [
+      "well"
+    ],
+    "site_type": "Well",
+    "page_number": 43,
+    "context_summary": "באתר עתלית ים נתגלתה ונחשפה באר הנחשבת לאחת הקדומות בעולם, המתוארכת לראשית האלף השישי לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "עין ע'זל",
+    "canonical_english": "Ain Ghazal",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 43,
+    "context_summary": "רולפסון שחפר בעין ע'זל הציע לקרוא לפרק זמן זה התקופה הניאוליתית הקדם קירמית ג'."
+  },
+  {
+    "canonical_hebrew": "ח'רבת ג'אראסור",
+    "canonical_english": "Khirbet Jarassur",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 44,
+    "context_summary": "באתר ח'רבת ג'אראסור בצפון עירק נמצאה באר שלדעת קמפבל היא הקדומה ביותר בעולם (5200 לפנה\"ס)."
+  },
+  {
+    "canonical_hebrew": "צפון סוריה",
+    "canonical_english": "Northern Syria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 44,
+    "context_summary": "בסקרים וחפירות בצפון סוריה, צפון עירק ודרום תורכיה נתגלו יישובים בני התרבות החלפית."
+  },
+  {
+    "canonical_hebrew": "צפון עירק",
+    "canonical_english": "Northern Iraq",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 44,
+    "context_summary": "בסקרים וחפירות בצפון סוריה, צפון עירק ודרום תורכיה נתגלו יישובים בני התרבות החלפית."
+  },
+  {
+    "canonical_hebrew": "דרום תורכיה",
+    "canonical_english": "Southern Turkey",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 44,
+    "context_summary": "בסקרים וחפירות בצפון סוריה, צפון עירק ודרום תורכיה נתגלו יישובים בני התרבות החלפית."
+  },
+  {
+    "canonical_hebrew": "באר ח'רבת ג'אראסור",
+    "canonical_english": "Khirbet Jarassur Well",
+    "hebrew_aliases": [
+      "באר"
+    ],
+    "english_aliases": [
+      "well"
+    ],
+    "site_type": "Well",
+    "page_number": 44,
+    "context_summary": "באתר ח'רבת ג'אראסור נמצאה באר שלדעת קמפבל היא הקדומה ביותר בעולם (5200 לפנה\"ס)."
+  },
+  {
+    "canonical_hebrew": "תעלת השקיה",
+    "canonical_english": "Irrigation Canal",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 44,
+    "context_summary": "בתמונה המלווה את המאמר על ח'רבת ג'אראסור נראית דמות אדם ליד חפירה של הבור וליד תעלת השקיה."
+  },
+  {
+    "canonical_hebrew": "אבן אל-גאזי",
+    "canonical_english": "Ayn al-Ghazal",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 45,
+    "context_summary": "הישוב הקטן אבן אל-גאזי, המצוי במזרח ירדן כ-75 ק\"מ מזרחית לאזרק, מתוארך לתקופה הניאוליתית הקדם קרמית ב'."
+  },
+  {
+    "canonical_hebrew": "מזרח ירדן",
+    "canonical_english": "Eastern Jordan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 45,
+    "context_summary": "הישוב הקטן אבן אל-גאזי מצוי במזרח ירדן כ-75 ק\"מ מזרחית לאזרק."
+  },
+  {
+    "canonical_hebrew": "אזרק",
+    "canonical_english": "Azraq",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 45,
+    "context_summary": "הישוב הקטן אבן אל-גאזי מצוי במזרח ירדן כ-75 ק\"מ מזרחית לאזרק."
+  },
+  {
+    "canonical_hebrew": "תעלות מלאכותיות (אבן אל-גאזי)",
+    "canonical_english": "Artificial Channels (Ayn al-Ghazal)",
+    "hebrew_aliases": [
+      "תעלות"
+    ],
+    "english_aliases": [
+      "channels"
+    ],
+    "site_type": "Aqueduct",
+    "page_number": 45,
+    "context_summary": "שרידי תעלות מלאכותיות, בארי אחת לפחות ו\"בריכה\" המצויים בשקע ובסמוך לאתר אבן אל-גאזי רומזים כי נעשה ניסיון לאסוף ולאגור מים."
+  },
+  {
+    "canonical_hebrew": "בארי (אבן אל-גאזי)",
+    "canonical_english": "Bari (Ayn al-Ghazal)",
+    "hebrew_aliases": [
+      "\"בארי\""
+    ],
+    "english_aliases": [
+      "'Bari'"
+    ],
+    "site_type": "Installation",
+    "page_number": 45,
+    "context_summary": "שרידי תעלות מלאכותיות, בארי אחת לפחות ו\"בריכה\" המצויים בשקע ובסמוך לאתר אבן אל-גאזי רומזים כי נעשה ניסיון לאסוף ולאגור מים."
+  },
+  {
+    "canonical_hebrew": "בריכה (אבן אל-גאזי)",
+    "canonical_english": "Pool (Ayn al-Ghazal)",
+    "hebrew_aliases": [
+      "\"בריכה\""
+    ],
+    "english_aliases": [
+      "'pool'"
+    ],
+    "site_type": "Pool",
+    "page_number": 45,
+    "context_summary": "שרידי תעלות מלאכותיות, בארי אחת לפחות ו\"בריכה\" המצויים בשקע ובסמוך לאתר אבן אל-גאזי רומזים כי נעשה ניסיון לאסוף ולאגור מים."
+  },
+  {
+    "canonical_hebrew": "בייסמון",
+    "canonical_english": "Beisamoun",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 45,
+    "context_summary": "בייסמון הוא יישוב ניאוליתי שנוסד בזיקה למעיינות עינן בגליל המזרחי."
+  },
+  {
+    "canonical_hebrew": "מעיינות עינן",
+    "canonical_english": "Einan Springs",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 45,
+    "context_summary": "בייסמון הוא יישוב ניאוליתי שנוסד בזיקה למעיינות עינן בגליל המזרחי."
+  },
+  {
+    "canonical_hebrew": "הגליל המזרחי",
+    "canonical_english": "Eastern Galilee",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 45,
+    "context_summary": "בייסמון הוא יישוב ניאוליתי שנוסד בזיקה למעיינות עינן בגליל המזרחי."
+  },
+  {
+    "canonical_hebrew": "יריחו",
+    "canonical_english": "Jericho",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 45,
+    "context_summary": "יריחו בתקופה הניאוליתית הקדם-קירמית א' נוסדה בזיקה למעיינות קבועים."
+  },
+  {
+    "canonical_hebrew": "רבי",
+    "canonical_english": "Rabi",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 45,
+    "context_summary": "רבי הוא יישוב ניאוליתי בסמוך למעיין אלישע בבקעת הירדן."
+  },
+  {
+    "canonical_hebrew": "מעיין אלישע",
+    "canonical_english": "Elisha Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 45,
+    "context_summary": "רבי הוא יישוב ניאוליתי בסמוך למעיין אלישע בבקעת הירדן."
+  },
+  {
+    "canonical_hebrew": "בקעת הירדן",
+    "canonical_english": "Jordan Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 45,
+    "context_summary": "רבי הוא יישוב ניאוליתי בסמוך למעיין אלישע בבקעת הירדן."
+  },
+  {
+    "canonical_hebrew": "יפתחאל",
+    "canonical_english": "Yiftah'el",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 45,
+    "context_summary": "אתר יפתחאל הוא יישוב ניאוליתי בסמוך לעין יפתחאל בגליל התחתון."
+  },
+  {
+    "canonical_hebrew": "עין יפתחאל",
+    "canonical_english": "Ein Yiftah'el",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 45,
+    "context_summary": "אתר יפתחאל הוא יישוב ניאוליתי בסמוך לעין יפתחאל בגליל התחתון."
+  },
+  {
+    "canonical_hebrew": "הגליל התחתון",
+    "canonical_english": "Lower Galilee",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 45,
+    "context_summary": "אתר יפתחאל הוא יישוב ניאוליתי בסמוך לעין יפתחאל בגליל התחתון."
+  },
+  {
+    "canonical_hebrew": "עמאן",
+    "canonical_english": "Amman",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 45,
+    "context_summary": "עין ע'זל הוא יישוב ניאוליתי במבואות המזרחיים של עמאן בירדן."
+  },
+  {
+    "canonical_hebrew": "ירדן",
+    "canonical_english": "Jordan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 45,
+    "context_summary": "עין ע'זל הוא יישוב ניאוליתי במבואות המזרחיים של עמאן בירדן."
+  },
+  {
+    "canonical_hebrew": "Ibaba",
+    "canonical_english": "Ibaba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 46,
+    "context_summary": "יישוב Ibaba מהתקופה הניאוליתית הקדם-קירמית א' הוקם באזור בו שררו תנאים לחים יותר, עם מעיין ואגם סמוך."
+  },
+  {
+    "canonical_hebrew": "ואדי אל-בקר",
+    "canonical_english": "Wadi al-Baqar",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 46,
+    "context_summary": "שקע סליביה נחסם מצפון על-ידי רכס שמקורו בהצטברות סדימנטים ממניפת סחף של ואדי אל-בקר."
+  },
+  {
+    "canonical_hebrew": "מעיין (Ibaba)",
+    "canonical_english": "Spring (Ibaba)",
+    "hebrew_aliases": [
+      "מקור מים קדום"
+    ],
+    "english_aliases": [
+      "ancient water source"
+    ],
+    "site_type": "Spring",
+    "page_number": 46,
+    "context_summary": "משקעי טרברטין מעידים על מקור מים קדום (מעיין) ששימש את יישוב Ibaba הפרהיסטורי."
+  },
+  {
+    "canonical_hebrew": "אגם (Ibaba)",
+    "canonical_english": "Lake (Ibaba)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 46,
+    "context_summary": "ככל הנראה מקור המים של יישוב Ibaba היה מעיין ובסמוך אליו היה אגם."
+  },
+  {
+    "canonical_hebrew": "נתיב הגדוד",
+    "canonical_english": "Netiv HaGdud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 47,
+    "context_summary": "תל נתיב הגדוד הוא יישוב קבע מהתקופה הניאוליתית הקדם-קירמית א' המצוי בבקעת הירדן כ-12 ק\"מ מצפון ליריחו."
+  },
+  {
+    "canonical_hebrew": "גלגל",
+    "canonical_english": "Gilgal",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 47,
+    "context_summary": "מחקרים שונים (ראה לעיל, אתר גלגל) מצביעים על כך שבאזור נתיב הגדוד שרר אקלים אחר ובסמוך היה אגם מים מתוקים."
+  },
+  {
+    "canonical_hebrew": "ימת הלשון",
+    "canonical_english": "Lisan Lake",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 47,
+    "context_summary": "ירידת המפלס של ימת הלשון הותירה מספר אגמים רדודים ומתוקים בשולי בקעת הירדן."
+  },
+  {
+    "canonical_hebrew": "אגם סליביה",
+    "canonical_english": "Salibiya Lake",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 47,
+    "context_summary": "לצד אגם סליביה נוסדו יישובים בתקופה הניאוליתית הקדם-קירמית א'."
+  },
+  {
+    "canonical_hebrew": "ביידא",
+    "canonical_english": "Beidha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 47,
+    "context_summary": "ביידא הוא תל נמוך ששטחו כחצי דונם המצוי כ-5 ק\"מ מצפון לפטרה, עם שכבות נאטופיות וניאוליתיות."
+  },
+  {
+    "canonical_hebrew": "פטרה",
+    "canonical_english": "Petra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 47,
+    "context_summary": "ביידא הוא תל נמוך המצוי כ-5 ק\"מ מצפון לפטרה."
+  },
+  {
+    "canonical_hebrew": "מעיין דיבדיבה",
+    "canonical_english": "Dibdiba Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 47,
+    "context_summary": "מקור המים הקרוב ביותר לביידא הוא מעיין דיבדיבה, במרחק של כ-3 ק\"מ ממזרח."
+  },
+  {
+    "canonical_hebrew": "ביר אבו רוג'ה",
+    "canonical_english": "Bir Abu Rujeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 47,
+    "context_summary": "ליד ביר אבו רוג'ה במורד הנחל ובסמוך לאתר ביידא, נמצאו משקעי טרברטין המעידים על מעיין קדום."
+  },
+  {
+    "canonical_hebrew": "מעיין (ביידא)",
+    "canonical_english": "Spring (Beidha)",
+    "hebrew_aliases": [
+      "מעיין שיבש"
+    ],
+    "english_aliases": [
+      "dried spring"
+    ],
+    "site_type": "Spring",
+    "page_number": 47,
+    "context_summary": "בדיקות הפולן מסייעות להנחה כי בעת ההתיישבות הקדומה במקום נבע כאן מעיין שיבש."
+  },
+  {
+    "canonical_hebrew": "בורות מים (ביידא)",
+    "canonical_english": "Water Pits (Beidha)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Cistern System",
+    "page_number": 47,
+    "context_summary": "יתכן גם כי תושבי ביידא השתמשו בבורות מים אף כי אלה לא נמצאו בחפירה."
+  },
+  {
+    "canonical_hebrew": "ישראל",
+    "canonical_english": "Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 48,
+    "context_summary": "מלבד הבארות בעתלית ים, טרם נמצאו בארות נוספות כה קדומות בישראל, אלא רק בירדן ובעיראק."
+  },
+  {
+    "canonical_hebrew": "עיראק",
+    "canonical_english": "Iraq",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 48,
+    "context_summary": "מלבד הבארות בעתלית ים, טרם נמצאו בארות נוספות כה קדומות בישראל, אלא רק בירדן ובעיראק."
+  },
+  {
+    "canonical_hebrew": "חוף הכרמל",
+    "canonical_english": "Carmel Coast",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 49,
+    "context_summary": "שרידים של שישה יישובים מהתקופה הניאוליתית הקירמית נמצאו במרחק של 200-100 מ' מחוף הכרמל."
+  },
+  {
+    "canonical_hebrew": "כפר סמיר",
+    "canonical_english": "Kfar Samir",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 49,
+    "context_summary": "כפר סמיר הוא אחד מששת היישובים הניאוליתיים הקירמיים שנמצאו בחוף הכרמל, בו נתגלה בור מלבני מדופן באבנים ועץ."
+  },
+  {
+    "canonical_hebrew": "כפר גלים צפון",
+    "canonical_english": "Kfar Galim North",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 49,
+    "context_summary": "כפר גלים צפון הוא אחד מששת היישובים הניאוליתיים הקירמיים שנמצאו בחוף הכרמל, בו נחשפו חמישה בורות עגולים."
+  },
+  {
+    "canonical_hebrew": "כפר גלים",
+    "canonical_english": "Kfar Galim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 49,
+    "context_summary": "כפר גלים הוא אחד מששת היישובים הניאוליתיים הקירמיים שנמצאו בחוף הכרמל."
+  },
+  {
+    "canonical_hebrew": "תל חריז",
+    "canonical_english": "Tel Hreiz",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 49,
+    "context_summary": "תל חריז הוא אחד מששת היישובים הניאוליתיים הקירמיים שנמצאו בחוף הכרמל."
+  },
+  {
+    "canonical_hebrew": "מגדים",
+    "canonical_english": "Megadim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 49,
+    "context_summary": "מגדים הוא אחד מששת היישובים הניאוליתיים הקירמיים שנמצאו בחוף הכרמל, בו נמצאו שלושה בורות."
+  },
+  {
+    "canonical_hebrew": "נווה ים",
+    "canonical_english": "Neve Yam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 49,
+    "context_summary": "נווה ים הוא אחד מששת היישובים הניאוליתיים הקירמיים שנמצאו בחוף הכרמל."
+  },
+  {
+    "canonical_hebrew": "בורות (חוף הכרמל)",
+    "canonical_english": "Pits (Carmel Coast)",
+    "hebrew_aliases": [
+      "בורות מדופנים באבנים",
+      "בורות מדופנים באבנים וקורות עץ",
+      "בורות החפורים לתוך אדמת החרסית ללא דיפון"
+    ],
+    "english_aliases": [
+      "stone-lined pits",
+      "stone and wood-lined pits",
+      "unlined pits"
+    ],
+    "site_type": "Installation",
+    "page_number": 49,
+    "context_summary": "בסקר ובחפירות תת-ימיות בחוף הכרמל תועדו 25 בורות עגולים משלושה טיפוסים, ששימשו כמחסני מזון או בארות רדודות."
+  },
+  {
+    "canonical_hebrew": "בור מלבני (כפר סמיר)",
+    "canonical_english": "Rectangular Pit (Kfar Samir)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 49,
+    "context_summary": "בקצה הצפון-מערבי של אתר כפר סמיר נתגלה בור מלבני שממדיו 1X0.8 מ', הבנוי בנדבכי אבן ועץ אלון לסירוגין."
+  },
+  {
+    "canonical_hebrew": "בורות עגולים (כפר גלים צפון)",
+    "canonical_english": "Circular Pits (Kfar Galim North)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 49,
+    "context_summary": "בכפר גלים צפון נחשפו חמישה בורות עגולים במרחק של 50 מ' מהאתר, כ-100 מ' מהחוף ובעומק של 3.5-3 מ'."
+  },
+  {
+    "canonical_hebrew": "הצ'ילר",
+    "canonical_english": "Hacilar",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 50,
+    "context_summary": "באתר הצ'ילר במרכז טורקיה נחשפו שרידי יישובים ומצודות מהתקופה הניאוליתית הקירמית, ובו התגלו שתי בארות."
+  },
+  {
+    "canonical_hebrew": "טורקיה",
+    "canonical_english": "Turkey",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 50,
+    "context_summary": "הצ'ילר הוא אתר המצוי במרכז החלק המערבי של טורקיה, ליד בורדור."
+  },
+  {
+    "canonical_hebrew": "בורדור",
+    "canonical_english": "Burdur",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 50,
+    "context_summary": "הצ'ילר הוא אתר המצוי במרכז החלק המערבי של טורקיה, ליד בורדור."
+  },
+  {
+    "canonical_hebrew": "באר עגולה (הצ'ילר VI)",
+    "canonical_english": "Circular Well (Hacilar VI)",
+    "hebrew_aliases": [
+      "באר"
+    ],
+    "english_aliases": [
+      "well"
+    ],
+    "site_type": "Well",
+    "page_number": 50,
+    "context_summary": "בשכבה VI בהצ'ילר, בצמוד לקיר המערבי של בנין 24, מצויה באר עגולה בקוטר של 1.5 מ' ובעומק 3.2 מ'."
+  },
+  {
+    "canonical_hebrew": "באר רבועה (הצ'ילר II)",
+    "canonical_english": "Square Well (Hacilar II)",
+    "hebrew_aliases": [
+      "באר"
+    ],
+    "english_aliases": [
+      "well"
+    ],
+    "site_type": "Well",
+    "page_number": 50,
+    "context_summary": "בשכבה II בהצ'ילר, שהיא מצודה, מצויה חצר ובה באר רבועה בנויה בנדבכי אבן."
+  },
+  {
+    "canonical_hebrew": "טפה גאורה",
+    "canonical_english": "Tepe Gawra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 50,
+    "context_summary": "טפה גאורה הוא תל קדום המצוי לצד הנהר חוסר, כ-24 ק\"מ צפון-צפון-מזרח ממוסול, בו נמצאה באר מוקדמת."
+  },
+  {
+    "canonical_hebrew": "נהר חוסר",
+    "canonical_english": "Khosr River",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 50,
+    "context_summary": "טפה גאורה הוא תל קדום המצוי לצד הנהר חוסר."
+  },
+  {
+    "canonical_hebrew": "מוסול",
+    "canonical_english": "Mosul",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 50,
+    "context_summary": "טפה גאורה הוא תל קדום המצוי כ-24 ק\"מ צפון-צפון-מזרח ממוסול."
+  },
+  {
+    "canonical_hebrew": "נהר החידקל",
+    "canonical_english": "Tigris River",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 50,
+    "context_summary": "טפה גאורה הוא תל קדום המצוי כ-24 ק\"מ צפון-צפון-מזרח מנהר החידקל."
+  },
+  {
+    "canonical_hebrew": "באר טפה גאורה",
+    "canonical_english": "Tepe Gawra Well",
+    "hebrew_aliases": [
+      "בור מים"
+    ],
+    "english_aliases": [
+      "water pit"
+    ],
+    "site_type": "Well",
+    "page_number": 50,
+    "context_summary": "בטפה גאורה נמצאה בבסיס התל באר מוקדמת התרבות החלאפית, שהייתה בור חפור לעומק 5 מ' וצורתה כצורת בקבוק."
+  }
+]

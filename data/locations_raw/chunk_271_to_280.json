@@ -1,0 +1,234 @@
+[
+  {
+    "canonical_hebrew": "אירביד",
+    "canonical_english": "Irbid",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 271,
+    "context_summary": "Irbid is mentioned as a general geographical reference near Khrbet Zeragun."
+  },
+  {
+    "canonical_hebrew": "חירבת זירקון",
+    "canonical_english": "Khrbet Zeragun",
+    "hebrew_aliases": [
+      "זירקון"
+    ],
+    "english_aliases": [
+      "Zeragun"
+    ],
+    "site_type": "Settlement",
+    "page_number": 271,
+    "context_summary": "The page features a schematic drawing of the water tunnels and the site of Khrbet Zeragun."
+  },
+  {
+    "canonical_hebrew": "ואדי שלאלח",
+    "canonical_english": "Wadi Shalalh",
+    "hebrew_aliases": [
+      "הוואדי"
+    ],
+    "english_aliases": [
+      "WADI SHALALH"
+    ],
+    "site_type": "Valley",
+    "page_number": 271,
+    "context_summary": "Wadi Shalalh is mentioned in relation to the water system of Khrbet Zeragun, where the entrance to the water system is accessed from the wadi."
+  },
+  {
+    "canonical_hebrew": "מנהרות המים של חירבת זירקון",
+    "canonical_english": "Water Tunnels of Khrbet Zeragun",
+    "hebrew_aliases": [
+      "מנהרות המים",
+      "מנהרה ראשית",
+      "מנהרת אוורור",
+      "מנהרה נוספת"
+    ],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 271,
+    "context_summary": "A schematic drawing illustrates the water tunnels at Khrbet Zeragun, detailing their structure, length, and function, including main tunnels, ventilation tunnels, and blocked sections."
+  },
+  {
+    "canonical_hebrew": "חירבת זירקון",
+    "canonical_english": "Khrbet Zeragun",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 272,
+    "context_summary": "The page presents photographs of tunnel sections and blocked tunnels at Khrbet Zeragun."
+  },
+  {
+    "canonical_hebrew": "מנהרות חירבת זירקון",
+    "canonical_english": "Tunnels of Khrbet Zeragun",
+    "hebrew_aliases": [
+      "קטעי מנהרה",
+      "מנהרות חסומות"
+    ],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 272,
+    "context_summary": "Photographs show two sections of tunnels and blocked tunnels at Khrbet Zeragun, some constructed and some filled with earth."
+  },
+  {
+    "canonical_hebrew": "טפה גאורה",
+    "canonical_english": "Tepe Gawra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 273,
+    "context_summary": "The page displays plans of the site of Tepe Gawra, specifically showing Layer VIII and Layer VI, which include a well."
+  },
+  {
+    "canonical_hebrew": "הבאר בטפה גאורה",
+    "canonical_english": "The Well at Tepe Gawra",
+    "hebrew_aliases": [
+      "הבאר"
+    ],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 273,
+    "context_summary": "Plans of Tepe Gawra show the location and design of a well within Layer VIII and Layer VI of the site."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Negev Mountains"
+    ],
+    "site_type": "Region",
+    "page_number": 274,
+    "context_summary": "The page discusses Early Bronze Age sites in the Negev Highlands and their distribution based on distance from water sources."
+  },
+  {
+    "canonical_hebrew": "העי",
+    "canonical_english": "Ai",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 275,
+    "context_summary": "The page presents a plan of the site of Ai, showing the location of a storage pool, and a photograph of the pool itself."
+  },
+  {
+    "canonical_hebrew": "בריכת האגירה בהעי",
+    "canonical_english": "The Storage Pool at Ai",
+    "hebrew_aliases": [
+      "בריכת האגירה"
+    ],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 275,
+    "context_summary": "A plan of Ai indicates the location of a storage pool within the site, and a photograph provides a visual of this pool."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [
+      "העיר הכנענית הקדומה של ערד"
+    ],
+    "english_aliases": [
+      "ARAD",
+      "Early Canaanite City of Arad"
+    ],
+    "site_type": "Settlement",
+    "page_number": 276,
+    "context_summary": "The page features plans and a reconstruction of the Early Canaanite city of Arad, including its Early Bronze Age city and Iron Age II fortress mound."
+  },
+  {
+    "canonical_hebrew": "תל המצודות (ערד)",
+    "canonical_english": "Tel Ha-Miẓudot (Arad)",
+    "hebrew_aliases": [
+      "תל המצודות"
+    ],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 276,
+    "context_summary": "Tel Ha-Miẓudot, dating to Iron Age II, is mentioned as a feature within or associated with the plans of Arad."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 277,
+    "context_summary": "The page shows a plan of structures surrounding the water pool at Arad."
+  },
+  {
+    "canonical_hebrew": "בריכת המים בערד",
+    "canonical_english": "The Water Pool at Arad",
+    "hebrew_aliases": [
+      "בריכת המים"
+    ],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 277,
+    "context_summary": "A plan illustrates the buildings surrounding the water pool at Arad, indicating its central role in the settlement."
+  },
+  {
+    "canonical_hebrew": "ג'ווה",
+    "canonical_english": "Jawa",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "JAWA"
+    ],
+    "site_type": "Settlement",
+    "page_number": 278,
+    "context_summary": "The page presents a plan and a reconstructed perspective view of the town of Jawa."
+  },
+  {
+    "canonical_hebrew": "ואדי ראג'יל",
+    "canonical_english": "Wadi Rajil",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "WADI RAJIL"
+    ],
+    "site_type": "Valley",
+    "page_number": 278,
+    "context_summary": "Wadi Rajil is depicted on the plan of Jawa as a revetted water course, indicating its importance to the town's water supply."
+  },
+  {
+    "canonical_hebrew": "ג'ווה",
+    "canonical_english": "Jawa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 279,
+    "context_summary": "The page shows the location of natural pools within Jawa and a schematic plan of Jawa's water systems."
+  },
+  {
+    "canonical_hebrew": "ואדי ראג'יל",
+    "canonical_english": "Wadi Rajil",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Wādi Rājil"
+    ],
+    "site_type": "Valley",
+    "page_number": 279,
+    "context_summary": "Wadi Rajil is shown on plans illustrating the natural pools and the overall water systems of Jawa."
+  },
+  {
+    "canonical_hebrew": "הבריכות הטבעיות בג'ווה",
+    "canonical_english": "Natural Pools at Jawa",
+    "hebrew_aliases": [
+      "הבריכות הטבעיות"
+    ],
+    "english_aliases": [
+      "NATURAL POOL"
+    ],
+    "site_type": "Pool",
+    "page_number": 279,
+    "context_summary": "A plan illustrates the location of natural pools at Jawa, which are integral to the site's water management system."
+  },
+  {
+    "canonical_hebrew": "מערכת המים של ג'ווה",
+    "canonical_english": "Water Systems of Jawa",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "JAWA WATER SYSTEMS"
+    ],
+    "site_type": "Installation",
+    "page_number": 279,
+    "context_summary": "A schematic plan details the various components of Jawa's water systems, including conduits, pools, and deflection areas."
+  }
+]

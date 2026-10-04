@@ -1,0 +1,601 @@
+[
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 201,
+    "context_summary": "בחצור אין קשר בין מפעל המים של תקופת הברונזה המאוחרת לזה של תקופת הברזל 2, על אף שהמפעל המאוחר מפותח יותר מהקדום. אתר צפוני עם מעיינות בבסיס התל."
+  },
+  {
+    "canonical_hebrew": "מגידו",
+    "canonical_english": "Tel Megiddo",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 201,
+    "context_summary": "במגידו ניתן להצביע על התפתחות טיפולוגית: מפעל המים מהמאה ה-10 לפנה\"ס (\"הגלריה\") התפתח למפעל מים חצוב מתוך התל במאה ה-9. אתר צפוני עם מעיינות בבסיס התל."
+  },
+  {
+    "canonical_hebrew": "מגידו \"הגלריה\"",
+    "canonical_english": "Megiddo \"The Gallery\"",
+    "hebrew_aliases": [
+      "הגלריה"
+    ],
+    "english_aliases": [
+      "The Gallery"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 201,
+    "context_summary": "מפעל המים במגידו מהמאה ה-10 לפנה\"ס, שהיה חשוף להתקפת אויב."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 201,
+    "context_summary": "בגבעון ניתן לראות התפתחות כאשר \"הבריכה\" מאוחרת יותר ומבטלת את השימוש במנהרה. אתר צפוני עם מעיינות בבסיס התל."
+  },
+  {
+    "canonical_hebrew": "גבעון הבריכה",
+    "canonical_english": "Gibeon Pool",
+    "hebrew_aliases": [
+      "הבריכה"
+    ],
+    "english_aliases": [
+      "The Pool"
+    ],
+    "site_type": "Pool",
+    "page_number": 201,
+    "context_summary": "הבריכה בגבעון מאוחרת יותר מהמנהרה ולא איפשרה לאויב גישה אל מקור המים."
+  },
+  {
+    "canonical_hebrew": "גבעון המנהרה",
+    "canonical_english": "Gibeon Tunnel",
+    "hebrew_aliases": [
+      "המנהרה"
+    ],
+    "english_aliases": [
+      "The Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 201,
+    "context_summary": "המנהרה בגבעון הייתה בעלת גישה מבחוץ ולכן היוותה נקודת תורפה בעת התקפה."
+  },
+  {
+    "canonical_hebrew": "ממלכת יהודה",
+    "canonical_english": "Kingdom of Judah",
+    "hebrew_aliases": [
+      "יהודה"
+    ],
+    "english_aliases": [
+      "Judah"
+    ],
+    "site_type": "Region",
+    "page_number": 201,
+    "context_summary": "בממלכת יהודה לא נמצאו מדרום לירושלים מפעלי מים מטיפוסים 1א-ג, והותאמו בה מפעלי מים לאופי הצחיח יותר של המרחב."
+  },
+  {
+    "canonical_hebrew": "ממלכת ישראל",
+    "canonical_english": "Kingdom of Israel",
+    "hebrew_aliases": [
+      "ישראל"
+    ],
+    "english_aliases": [
+      "Israel"
+    ],
+    "site_type": "Region",
+    "page_number": 201,
+    "context_summary": "בממלכת ישראל לא התגלו מפעלים מטיפוסים 2ב-ד, ורוב מפעלי המים הושתתו על מי תהום ומעיינות."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 201,
+    "context_summary": "בירושלים, הסמוכה לגבול הדרומי של ממלכת ישראל, נבנו מפעלי מים כמו בממלכת ישראל בשל כמות משקעים גבוהה."
+  },
+  {
+    "canonical_hebrew": "לכיש",
+    "canonical_english": "Lachish",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 201,
+    "context_summary": "בלכיש התגלתה באר קדומה בממלכת יהודה בעומק 44 מ'."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 201,
+    "context_summary": "בערד התגלתה באר קדומה בממלכת יהודה בעומק 16 מ'."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Beer Sheva",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 201,
+    "context_summary": "בבאר שבע התגלתה באר קדומה בממלכת יהודה בעומק 70 מ', ונוצלו בה מי נגר מהסביבה או מי שטפונות של נחל חברון."
+  },
+  {
+    "canonical_hebrew": "יקנעם",
+    "canonical_english": "Yoqne'am",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 201,
+    "context_summary": "יקנעם מוזכרת כאתר צפוני עם מעיינות בבסיס התל."
+  },
+  {
+    "canonical_hebrew": "יבלעם",
+    "canonical_english": "Ibleam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 201,
+    "context_summary": "יבלעם מוזכרת כאתר צפוני עם מעיינות בבסיס התל."
+  },
+  {
+    "canonical_hebrew": "נחל חברון",
+    "canonical_english": "Nahal Hebron",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 201,
+    "context_summary": "נחל חברון מוזכר כמקור למי שטפונות שנוצלו בבאר שבע."
+  },
+  {
+    "canonical_hebrew": "תל א-סעידיה",
+    "canonical_english": "Tell es-Sa'idiyeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 202,
+    "context_summary": "תל א-סעידיה מופיע בטבלה 10 כאתר עם מפעל מים מטיפוס 1א מתוארך למאה ה-12 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "ירושלים פיר \"וורן\"",
+    "canonical_english": "Jerusalem Warren's Shaft",
+    "hebrew_aliases": [
+      "פיר \"וורן\""
+    ],
+    "english_aliases": [
+      "Warren's Shaft"
+    ],
+    "site_type": "Shaft",
+    "page_number": 202,
+    "context_summary": "פיר וורן בירושלים מופיע בטבלה 10 כאתר עם מפעל מים מטיפוס 1ב מתוארך למאה ה-18 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "תל גריסה",
+    "canonical_english": "Tel Gerisa",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Gerisa"
+    ],
+    "site_type": "Tell",
+    "page_number": 202,
+    "context_summary": "תל גריסה מופיע בטבלה 10 כאתר עם מפעל מים מטיפוס 1ג מתוארך למאה ה-18 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Tel Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Gezer"
+    ],
+    "site_type": "Tell",
+    "page_number": 202,
+    "context_summary": "גזר מופיע בטבלה 10 כאתר עם מפעל מים מטיפוס 1ג מתוארך למאה ה-18 לפנה\"ס, וגם מטיפוס 2ג."
+  },
+  {
+    "canonical_hebrew": "ירושלים נקבת חזקיהו",
+    "canonical_english": "Jerusalem Hezekiah's Tunnel",
+    "hebrew_aliases": [
+      "נקבת חזקיהו"
+    ],
+    "english_aliases": [
+      "Hezekiah's Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 202,
+    "context_summary": "נקבת חזקיהו בירושלים מופיעה בטבלה 10 כאתר עם מפעל מים מטיפוס 2א מתוארך למאה ה-8 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "עמאן",
+    "canonical_english": "Amman",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 202,
+    "context_summary": "עמאן מופיעה בטבלה 10 כאתר עם מפעל מים מטיפוס 2ב מתוארך למאה ה-8 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "קדש ברנע",
+    "canonical_english": "Kadesh Barnea",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 202,
+    "context_summary": "קדש ברנע מופיעה בטבלה 10 כאתר עם מפעל מים מטיפוס 2ב מתוארך לתקופת הברזל 2, מוזן מעין קובי."
+  },
+  {
+    "canonical_hebrew": "עיטס",
+    "canonical_english": "Etam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 202,
+    "context_summary": "עיטס מופיע בטבלה 10 כאתר עם מפעל מים מטיפוס 2ב מתוארך למאה ה-8 לפנה\"ס, מוזן מעין עטן."
+  },
+  {
+    "canonical_hebrew": "עין קובי",
+    "canonical_english": "Ein Qobi",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 202,
+    "context_summary": "עין קובי מוזכר כמקור מים עבור מפעל המים בקדש ברנע."
+  },
+  {
+    "canonical_hebrew": "עין עטן",
+    "canonical_english": "Ein Atan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 202,
+    "context_summary": "עין עטן מוזכר כמקור מים עבור מפעל המים בעיטס."
+  },
+  {
+    "canonical_hebrew": "עין קודיראת",
+    "canonical_english": "Ein Qudirat",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 202,
+    "context_summary": "עין קודיראת מוזכר כמקור מים עבור מפעל מים לא מזוהה מתוארך למאה ה-9 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "חורבת טוב",
+    "canonical_english": "Khirbet Tuv",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 202,
+    "context_summary": "חורבת טוב מופיעה בטבלה 10 כאתר עם מפעל מים מטיפוס 2ג מתוארך למאה ה-14 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "בית שמש",
+    "canonical_english": "Bet Shemesh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 202,
+    "context_summary": "בית שמש מופיעה בטבלה 10 כאתר עם מפעל מים מטיפוס 2ג מתוארך לתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "חשבון",
+    "canonical_english": "Heshbon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 202,
+    "context_summary": "חשבון מופיעה בטבלה 10 כאתר עם מפעל מים מטיפוס 2ג מתוארך למאה ה-10 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "ערוער",
+    "canonical_english": "Aroer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 202,
+    "context_summary": "ערוער מופיעה בטבלה 10 כאתר עם מפעל מים מטיפוס 2ד מתוארך למאה ה-7 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "תל א-נצבה",
+    "canonical_english": "Tell en-Nasbeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 204,
+    "context_summary": "תל א-נצבה מוזכר כאתר בו התגלו 61 בורות מים בתקופת הברזל 2, עם נפח ממוצע של 20 מייק."
+  },
+  {
+    "canonical_hebrew": "אום אל ביארה",
+    "canonical_english": "Umm al-Biyara",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 204,
+    "context_summary": "אום אל ביארה מוזכר כאתר בו התגלו 8 בורות מים בתקופת הברזל 2, עם נפח ממוצע של 33 מייק."
+  },
+  {
+    "canonical_hebrew": "יזרעאל",
+    "canonical_english": "Jezreel",
+    "hebrew_aliases": [
+      "תל יזרעאל"
+    ],
+    "english_aliases": [
+      "Tel Jezreel"
+    ],
+    "site_type": "Tell",
+    "page_number": 204,
+    "context_summary": "יזרעאל מופיע בטבלה 11 עם בורות מים מס' 51 ו-52, ונפח ממוצע של 48-46 מייק."
+  },
+  {
+    "canonical_hebrew": "חירבת בנת בר",
+    "canonical_english": "Khirbet Banat Bar",
+    "hebrew_aliases": [
+      "ח'רבת בנת בר"
+    ],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 204,
+    "context_summary": "חירבת בנת בר מופיעה בטבלה 11 עם \"בריכה\" ו-3-2 בורות, ונפח ממוצע של 48-46 מייק."
+  },
+  {
+    "canonical_hebrew": "חירבת אל-כיף",
+    "canonical_english": "Khirbet el-Kif",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 204,
+    "context_summary": "חירבת אל-כיף מופיעה בטבלה 11 עם בור מים אחד בנפח 15 מייק."
+  },
+  {
+    "canonical_hebrew": "חירבת אבו-טווין",
+    "canonical_english": "Khirbet Abu-Tuwein",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 204,
+    "context_summary": "חירבת אבו-טווין מופיעה בטבלה 11 עם בור מים אחד בנפח 250 מייק."
+  },
+  {
+    "canonical_hebrew": "קומראן",
+    "canonical_english": "Qumran",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 204,
+    "context_summary": "קומראן מופיע בטבלה 11 עם בור עגול בנפח 136 מייק."
+  },
+  {
+    "canonical_hebrew": "חורבת עוזה (ואדי)",
+    "canonical_english": "Khirbet Uza (Wadi)",
+    "hebrew_aliases": [
+      "חורבת עוזה"
+    ],
+    "english_aliases": [
+      "Khirbet Uza"
+    ],
+    "site_type": "Settlement",
+    "page_number": 204,
+    "context_summary": "חורבת עוזה מופיעה בטבלה 11 עם בור T (נפח 400 מייק) והבור המזרחי (נפח 300 מייק)."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 204,
+    "context_summary": "הר הנגב מוזכר כאזור עם בורות פתוחים רבים בנפח 300-1250 מייק."
+  },
+  {
+    "canonical_hebrew": "תולילאת עיסול",
+    "canonical_english": "Teleilat Ghassul",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Ghassul"
+    ],
+    "site_type": "Settlement",
+    "page_number": 205,
+    "context_summary": "תולילאת עיסול מוזכר כאתר מהתקופה הכלקוליתית בו קירות צופו במספר שכבות טיח."
+  },
+  {
+    "canonical_hebrew": "העי",
+    "canonical_english": "Ai",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 205,
+    "context_summary": "העי מוזכר כאתר מתקופת הברונזה הקדומה בו השתמשו בטיח לאיטום מאגר מים, וגם כאתר עם בורות לא מטויחים בברזל 1."
+  },
+  {
+    "canonical_hebrew": "מיקנה",
+    "canonical_english": "Mycenae",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 205,
+    "context_summary": "מיקנה מוזכרת כאתר מתקופת הברונזה המאוחרת בו נמצאו מאגרים מטויחים."
+  },
+  {
+    "canonical_hebrew": "תענך",
+    "canonical_english": "Ta'anakh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 205,
+    "context_summary": "בתענך נתגלו בורות מים מטויחים בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "אשדוד",
+    "canonical_english": "Ashdod",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 205,
+    "context_summary": "באשדוד נתגלו בורות מים מטויחים בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "שילה",
+    "canonical_english": "Shiloh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 205,
+    "context_summary": "שילה מוזכרת כאתר עם בורות מים בתקופת הברזל 1, יתכן שלא מטויחים."
+  },
+  {
+    "canonical_hebrew": "חירבת רדנה",
+    "canonical_english": "Khirbet Raddana",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 205,
+    "context_summary": "חירבת רדנה מוזכרת כאתר עם בורות מים בתקופת הברזל 1, יתכן שלא מטויחים."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 205,
+    "context_summary": "ארץ ישראל מובילה בעולם העתיק בתחום הפיתוח של מפעלי מים בשל דלותה במים."
+  },
+  {
+    "canonical_hebrew": "עבר הירדן",
+    "canonical_english": "Transjordan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 205,
+    "context_summary": "עבר הירדן נכלל בהגדרת ארץ ישראל לצורך הדיון הגיאוגרפי."
+  },
+  {
+    "canonical_hebrew": "מצרים",
+    "canonical_english": "Egypt",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 205,
+    "context_summary": "מצרים מוזכרת כארץ עם נהרות אדירים בהם קל להשיג מים."
+  },
+  {
+    "canonical_hebrew": "מסופוטמיה",
+    "canonical_english": "Mesopotamia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 205,
+    "context_summary": "מסופוטמיה מוזכרת כארץ עם נהרות אדירים בהם קל להשיג מים."
+  },
+  {
+    "canonical_hebrew": "אנטוליה",
+    "canonical_english": "Anatolia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 205,
+    "context_summary": "באנטוליה קיים משטר אקלימי הדומה לאקלים הים תיכוני של ארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "יוון",
+    "canonical_english": "Greece",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 205,
+    "context_summary": "ביוון (ממלכת מיקנה הקדומה) קיים משטר אקלימי הדומה לאקלים הים תיכוני של ארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "עתלית ים",
+    "canonical_english": "Atlit-Yam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 205,
+    "context_summary": "עתלית ים מוזכרת כאתר ניאוליתי עם שתי בארות קדומות ביותר בעולם."
+  },
+  {
+    "canonical_hebrew": "עירק",
+    "canonical_english": "Iraq",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 205,
+    "context_summary": "עירק מוזכרת כארץ שכנה עם באר ניאוליתית."
+  },
+  {
+    "canonical_hebrew": "ירדן",
+    "canonical_english": "Jordan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 205,
+    "context_summary": "ירדן מוזכרת כארץ שכנה עם באר ניאוליתית ואתרי ברונזה קדומה עם מפעלי מים."
+  },
+  {
+    "canonical_hebrew": "גריסה",
+    "canonical_english": "Gerisa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 205,
+    "context_summary": "מפעלי המים המרכזיים בגריסה מהווים פריצת דרך בטכניקה של חדירה אל מי תהום."
+  },
+  {
+    "canonical_hebrew": "אשור",
+    "canonical_english": "Assyria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 206,
+    "context_summary": "באשור החלו להתפתח מפעלי מים מסוג אמות מים הבאות ממרחק בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "אוררטו",
+    "canonical_english": "Urartu",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 206,
+    "context_summary": "באוררטו החלו להתפתח מפעלי מים מסוג אמות מים הבאות ממרחק בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "נינוה",
+    "canonical_english": "Nineveh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 206,
+    "context_summary": "נינוה מוזכרת כבירה אליה נבנתה אמת מים ארוכה בימי המלך סנחריב."
+  },
+  {
+    "canonical_hebrew": "תל אפק",
+    "canonical_english": "Tel Aphek",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Aphek"
+    ],
+    "site_type": "Tell",
+    "page_number": 206,
+    "context_summary": "הטיח מהגתות מתקופת הברונזה המאוחרת בתל אפק צבעו לבן."
+  },
+  {
+    "canonical_hebrew": "קלע",
+    "canonical_english": "Qala",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 207,
+    "context_summary": "קלע מופיע בטבלה 12 עם בדיקת טיח מבור מים מתקופת הברזל 2."
+  }
+]

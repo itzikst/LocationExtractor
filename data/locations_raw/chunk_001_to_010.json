@@ -1,0 +1,801 @@
+[
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 1,
+    "context_summary": "מפעלי מים קדומים ביישובים בארץ ישראל מהתקופה הניאוליתית ועד שלהי תקופת הברזל."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 3,
+    "context_summary": "מפעלי מים עתיקים ביישובים בארץ ישראל מהתתקופה הניאוליתית ועד שלהי תקופת הברזל."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 5,
+    "context_summary": "מפעלי מים קדומים ביישובים בארץ ישראל מהתקופה הניאוליתית ועד שלהי תקופת הברזל."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 7,
+    "context_summary": "האקלים בארץ ישראל כיום ושינויי אקלים בארץ ישראל בתקופות המחקר."
+  },
+  {
+    "canonical_hebrew": "מעיין",
+    "canonical_english": "Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Water Installation",
+    "page_number": 7,
+    "context_summary": "מוזכר כאחד ממקורות המים הטבעיים."
+  },
+  {
+    "canonical_hebrew": "נחל/נהר",
+    "canonical_english": "Stream/River",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Water Installation",
+    "page_number": 7,
+    "context_summary": "מוזכר כאחד ממקורות המים הטבעיים."
+  },
+  {
+    "canonical_hebrew": "גב",
+    "canonical_english": "Pothole",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Water Installation",
+    "page_number": 7,
+    "context_summary": "מוזכר כאחד ממקורות המים הטבעיים."
+  },
+  {
+    "canonical_hebrew": "תמילה",
+    "canonical_english": "Tmila",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Water Installation",
+    "page_number": 7,
+    "context_summary": "מוזכר כאחד ממקורות המים המלאכותיים."
+  },
+  {
+    "canonical_hebrew": "באר",
+    "canonical_english": "Well",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Water Installation",
+    "page_number": 7,
+    "context_summary": "מוזכר כאחד ממקורות המים המלאכותיים."
+  },
+  {
+    "canonical_hebrew": "מפעל מים החצוב אל מי תהום",
+    "canonical_english": "Water system carved to groundwater",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Water Installation",
+    "page_number": 7,
+    "context_summary": "מוזכר כאחד ממקורות המים המלאכותיים."
+  },
+  {
+    "canonical_hebrew": "בארות שרשרת",
+    "canonical_english": "Chain wells",
+    "hebrew_aliases": [
+      "קנאוואט",
+      "פוגרות"
+    ],
+    "english_aliases": [
+      "Qanawat",
+      "Foggara"
+    ],
+    "site_type": "Water Installation",
+    "page_number": 7,
+    "context_summary": "מוזכר כאחד ממקורות המים המלאכותיים."
+  },
+  {
+    "canonical_hebrew": "מעיין חתום",
+    "canonical_english": "Sealed spring",
+    "hebrew_aliases": [
+      "נביעה",
+      "נבעה"
+    ],
+    "english_aliases": [
+      "Nabi'a",
+      "Naba'a"
+    ],
+    "site_type": "Water Installation",
+    "page_number": 7,
+    "context_summary": "מוזכר כאחד ממקורות המים המלאכותיים."
+  },
+  {
+    "canonical_hebrew": "בור",
+    "canonical_english": "Cistern",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Water Installation",
+    "page_number": 7,
+    "context_summary": "מוזכר כאחד ממתקני המים."
+  },
+  {
+    "canonical_hebrew": "מאגר תת קרקעי",
+    "canonical_english": "Underground reservoir",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Water Installation",
+    "page_number": 7,
+    "context_summary": "מוזכר כאחד ממתקני המים."
+  },
+  {
+    "canonical_hebrew": "בריכה וסכר",
+    "canonical_english": "Pool and Dam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Water Installation",
+    "page_number": 7,
+    "context_summary": "מוזכר כאחד ממתקני המים."
+  },
+  {
+    "canonical_hebrew": "אמת מים",
+    "canonical_english": "Aqueduct",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Water Installation",
+    "page_number": 7,
+    "context_summary": "מוזכר כאחד ממתקני המים."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 8,
+    "context_summary": "התרבות החריפאית בהר הנגב בתקופה האפי-פליאוליתית."
+  },
+  {
+    "canonical_hebrew": "עתלית ים",
+    "canonical_english": "Atlit-Yam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 8,
+    "context_summary": "בארות בתקופה הניאוליתית הקדם-קרמית."
+  },
+  {
+    "canonical_hebrew": "חירבת ג'אראסור",
+    "canonical_english": "Khirbet Jarassur",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 8,
+    "context_summary": "בארות בתקופה הניאוליתית הקדם-קרמית, ממוקמת בעיראק."
+  },
+  {
+    "canonical_hebrew": "עיראק",
+    "canonical_english": "Iraq",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 8,
+    "context_summary": "מדינה בה ממוקמת חירבת ג'אראסור וטפה גאורה."
+  },
+  {
+    "canonical_hebrew": "אבן אל-גאזי",
+    "canonical_english": "Ibn al-Ghazi",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 8,
+    "context_summary": "בארות בתקופה הניאוליתית הקדם-קרמית, ממוקמת בירדן."
+  },
+  {
+    "canonical_hebrew": "ירדן",
+    "canonical_english": "Jordan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 8,
+    "context_summary": "מדינה בה ממוקמת אבן אל-גאזי וביידא."
+  },
+  {
+    "canonical_hebrew": "גלגל I",
+    "canonical_english": "Gilgal I",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 8,
+    "context_summary": "מעיינות בתקופה הניאוליתית הקדם-קרמית."
+  },
+  {
+    "canonical_hebrew": "נתיב הגדוד",
+    "canonical_english": "Netiv HaGdud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 8,
+    "context_summary": "מעיינות בתקופה הניאוליתית הקדם-קרמית."
+  },
+  {
+    "canonical_hebrew": "ביידא",
+    "canonical_english": "Beidha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 8,
+    "context_summary": "מעיינות בתקופה הניאוליתית הקדם-קרמית, ממוקמת בירדן."
+  },
+  {
+    "canonical_hebrew": "חוף הכרמל",
+    "canonical_english": "Carmel Coast",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 8,
+    "context_summary": "בארות בתקופה הניאוליתית הקרמית."
+  },
+  {
+    "canonical_hebrew": "כפר סמיר",
+    "canonical_english": "Kfar Samir",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 8,
+    "context_summary": "בארות בחוף הכרמל בתקופה הניאוליתית הקרמית."
+  },
+  {
+    "canonical_hebrew": "כפר גלים צפון",
+    "canonical_english": "Kfar Galim North",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 8,
+    "context_summary": "בארות בחוף הכרמל בתקופה הניאוליתית הקרמית."
+  },
+  {
+    "canonical_hebrew": "מגדים",
+    "canonical_english": "Megadim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 8,
+    "context_summary": "בארות בחוף הכרמל בתקופה הניאוליתית הקרמית."
+  },
+  {
+    "canonical_hebrew": "הצ'ילר",
+    "canonical_english": "Çatalhöyük",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 8,
+    "context_summary": "אתר בתורכיה המוזכר בהקשר לבארות בתקופה הניאוליתית הקרמית."
+  },
+  {
+    "canonical_hebrew": "תורכיה",
+    "canonical_english": "Turkey",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 8,
+    "context_summary": "מדינה בה ממוקם האתר הצ'ילר."
+  },
+  {
+    "canonical_hebrew": "טפה גאורה",
+    "canonical_english": "Tepe Gawra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 8,
+    "context_summary": "אתר בעיראק המוזכר בהקשר לבארות בתקופה הניאוליתית הקרמית ובתקופה הכלקוליתית."
+  },
+  {
+    "canonical_hebrew": "אבן חוף",
+    "canonical_english": "Even Hof",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 8,
+    "context_summary": "בארות בתקופה הכלקוליתית."
+  },
+  {
+    "canonical_hebrew": "חורבת בתר",
+    "canonical_english": "Horvat Batar",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 8,
+    "context_summary": "בארות בתקופה הכלקוליתית."
+  },
+  {
+    "canonical_hebrew": "ראג'אג'יל",
+    "canonical_english": "Rajajil",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 8,
+    "context_summary": "בארות בתקופה הכלקוליתית, ממוקמת בערב הסעודית."
+  },
+  {
+    "canonical_hebrew": "ערב הסעודית",
+    "canonical_english": "Saudi Arabia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 8,
+    "context_summary": "מדינה בה ממוקם האתר ראג'אג'יל."
+  },
+  {
+    "canonical_hebrew": "בקעת עובדה",
+    "canonical_english": "Uvda Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 9,
+    "context_summary": "בארות ומפעלים החצובים אל מי תהום בתקופת הברונזה הקדומה, וכן מתקנים לתפיסת נגר עילי."
+  },
+  {
+    "canonical_hebrew": "תל ערד",
+    "canonical_english": "Tel Arad",
+    "hebrew_aliases": [
+      "ערד"
+    ],
+    "english_aliases": [
+      "Arad"
+    ],
+    "site_type": "Tell",
+    "page_number": 9,
+    "context_summary": "באר בתקופת הברונזה הקדומה, וכן מתקנים לתפיסת נגר עילי."
+  },
+  {
+    "canonical_hebrew": "חירבת זירקון",
+    "canonical_english": "Khirbet Zirqun",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 9,
+    "context_summary": "מנהרות למי תהום בתקופת הברונזה הקדומה, ממוקמת בגלעד (ירדן)."
+  },
+  {
+    "canonical_hebrew": "גלעד",
+    "canonical_english": "Gilead",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 9,
+    "context_summary": "אזור בירדן בו ממוקמת חירבת זירקון."
+  },
+  {
+    "canonical_hebrew": "טפה גאורה",
+    "canonical_english": "Tepe Gawra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 9,
+    "context_summary": "בארות בתקופת הברונזה הקדומה, ממוקמת בעיראק."
+  },
+  {
+    "canonical_hebrew": "הר מנשה",
+    "canonical_english": "Mount Manasseh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 9,
+    "context_summary": "נבעים בתקופת הברונזה הקדומה, וכן סקרים רגיונאליים."
+  },
+  {
+    "canonical_hebrew": "קער שכם",
+    "canonical_english": "Qara Shechem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 9,
+    "context_summary": "אזור בסקר הר מנשה א' בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "העמקים המזרחיים",
+    "canonical_english": "Eastern Valleys",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 9,
+    "context_summary": "אזור בסקר הר מנשה ב' בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "ספר המדבר",
+    "canonical_english": "Desert Fringe",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 9,
+    "context_summary": "אזור בסקר הר מנשה ב' בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "מפת לכיש",
+    "canonical_english": "Lachish Map",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 9,
+    "context_summary": "סקר רגיונאלי בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "מערב הר הנגב",
+    "canonical_english": "Western Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 9,
+    "context_summary": "סקר רגיונאלי בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "הער",
+    "canonical_english": "Ha'Ayar",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 9,
+    "context_summary": "מתקנים לתפיסת נגר עילי בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "ג'ווה",
+    "canonical_english": "Jawa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 9,
+    "context_summary": "מתקנים לתפיסת נגר עילי בתקופת הברונזה הקדומה, ממוקמת בירדן."
+  },
+  {
+    "canonical_hebrew": "מערב השומרון",
+    "canonical_english": "Western Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 9,
+    "context_summary": "בורות חצובים בקרטון בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "מצר",
+    "canonical_english": "Metzer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 9,
+    "context_summary": "בורות מים בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "תל דלית",
+    "canonical_english": "Tel Dalit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 9,
+    "context_summary": "בורות מים בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "בית ירח",
+    "canonical_english": "Bet Yerah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 9,
+    "context_summary": "מוזכר בקטגוריית 'שונות' בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "תל כברי",
+    "canonical_english": "Tel Kabri",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 9,
+    "context_summary": "מעיינות טבעיים בתחום חומות העיר בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "תל דן",
+    "canonical_english": "Tel Dan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 9,
+    "context_summary": "מעיינות טבעיים בתחום חומות העיר בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "יריחו",
+    "canonical_english": "Jericho",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 9,
+    "context_summary": "מעיינות טבעיים בתחום חומות העיר בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 9,
+    "context_summary": "מעיינות טבעיים בתחום חומות העיר בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "קטנה",
+    "canonical_english": "Qatna",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 9,
+    "context_summary": "מעיינות טבעיים בתחום חומות העיר בתקופת הברונזה התיכונה, ממוקמת בסוריה."
+  },
+  {
+    "canonical_hebrew": "סוריה",
+    "canonical_english": "Syria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 9,
+    "context_summary": "מדינה בה ממוקמת קטנה."
+  },
+  {
+    "canonical_hebrew": "תל גריסה",
+    "canonical_english": "Tel Gerisa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 10,
+    "context_summary": "מפעלי מים החצובים אל מי תהום בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 10,
+    "context_summary": "מפעלי מים החצובים אל מי תהום ובורות מים בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 10,
+    "context_summary": "שקעים שאולי היו מפעלי מים ובורות מים בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "מגידו",
+    "canonical_english": "Megiddo",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 10,
+    "context_summary": "שקעים שאולי היו מפעלי מים בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "תל נאמי",
+    "canonical_english": "Tel Nami",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 10,
+    "context_summary": "בארות בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "לכיש",
+    "canonical_english": "Lachish",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 10,
+    "context_summary": "בארות בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "תל הרור",
+    "canonical_english": "Tel Haror",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 10,
+    "context_summary": "בארות בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "אבלה",
+    "canonical_english": "Ebla",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 10,
+    "context_summary": "בארות בתקופת הברונזה התיכונה, ממוקמת בסוריה."
+  },
+  {
+    "canonical_hebrew": "בוצרה",
+    "canonical_english": "Bozra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 10,
+    "context_summary": "בארות בתקופת הברונזה התיכונה, ממוקמת בסוריה."
+  },
+  {
+    "canonical_hebrew": "ארץ גארו",
+    "canonical_english": "Land of Garu",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 10,
+    "context_summary": "בארות הנזכרות במגילת שאנח'ת, ייתכן באזור הגולן או החורן."
+  },
+  {
+    "canonical_hebrew": "הגולן",
+    "canonical_english": "Golan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 10,
+    "context_summary": "אזור המוזכר כאפשרות למיקום ארץ גארו."
+  },
+  {
+    "canonical_hebrew": "החורן",
+    "canonical_english": "Hauran",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 10,
+    "context_summary": "אזור המוזכר כאפשרות למיקום ארץ גארו."
+  },
+  {
+    "canonical_hebrew": "ארץ בנימין",
+    "canonical_english": "Land of Benjamin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 10,
+    "context_summary": "סקר רגיונאלי בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "קער שכם",
+    "canonical_english": "Qara Shechem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 10,
+    "context_summary": "סקר רגיונאלי של מנשה א' בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "העמקים המזרחיים",
+    "canonical_english": "Eastern Valleys",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 10,
+    "context_summary": "סקר רגיונאלי של מנשה ב' בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "ספר המדבר",
+    "canonical_english": "Desert Fringe",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 10,
+    "context_summary": "סקר רגיונאלי של מנשה ב' בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "הר מנשה",
+    "canonical_english": "Mount Manasseh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 10,
+    "context_summary": "סקר רגיונאלי בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "מפת אורים",
+    "canonical_english": "Urim Map",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 10,
+    "context_summary": "סקר רגיונאלי בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 10,
+    "context_summary": "סקר רגיונאלי בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "שעלבים",
+    "canonical_english": "Sha'alabim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 10,
+    "context_summary": "בורות מים בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "יהודה ושומרון",
+    "canonical_english": "Judea and Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 10,
+    "context_summary": "בורות מים בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "מארי",
+    "canonical_english": "Mari",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 10,
+    "context_summary": "אמת מים אפשרית בתקופת הברונזה התיכונה, ממוקמת בסוריה."
+  },
+  {
+    "canonical_hebrew": "בית שאן",
+    "canonical_english": "Bet She'an",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 10,
+    "context_summary": "בארות, מעיינות ומפעלי מים החצובים אל מפלס מי תהום בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "תל גמה",
+    "canonical_english": "Tel Gamma",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 10,
+    "context_summary": "בארות, מעיינות ומפעלי מים החצובים אל מפלס מי תהום בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "יוון",
+    "canonical_english": "Greece",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 10,
+    "context_summary": "מדינה בה נמצאים מפעלי מים מיקניים."
+  },
+  {
+    "canonical_hebrew": "אתונה",
+    "canonical_english": "Athens",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 10,
+    "context_summary": "מפעלי מים מיקניים ביוון בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "מיקנה",
+    "canonical_english": "Mycenae",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 10,
+    "context_summary": "מפעלי מים מיקניים ביוון בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "טירינס",
+    "canonical_english": "Tiryns",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 10,
+    "context_summary": "מפעלי מים מיקניים ביוון בתקופת הברונזה המאוחרת."
+  }
+]

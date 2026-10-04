@@ -1,0 +1,862 @@
+[
+  {
+    "canonical_hebrew": "מפת אורים",
+    "canonical_english": "Urim Map (Survey Area)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 91,
+    "context_summary": "בסקר מפת אורים נתגלו 12 אתרים מתקופת הברונזה התיכונה 1 לאורך נחל הבשור."
+  },
+  {
+    "canonical_hebrew": "נחל הבשור",
+    "canonical_english": "Nahal Besor",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Wadi Ghazzeh"
+    ],
+    "site_type": "River",
+    "page_number": 91,
+    "context_summary": "בסקר מפת אורים נתגלו אתרים לאורך נחל הבשור, בו מקורות מים קבועים כל השנה."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Har HaNegev"
+    ],
+    "site_type": "Region",
+    "page_number": 91,
+    "context_summary": "סקר הר הנגב מתאר יישובים מתקופת הברונזה התיכונה 1 שהוקמו בקרבת מקורות מים קבועים."
+  },
+  {
+    "canonical_hebrew": "הר הנגב הצפוני",
+    "canonical_english": "Northern Negev Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 91,
+    "context_summary": "היישובים המרכזיים מתקופת הברונזה התיכונה 1 בהר הנגב הצפוני הוקמו בקרבת מקורות מים קבועים."
+  },
+  {
+    "canonical_hebrew": "משאבי שדה",
+    "canonical_english": "Mashabei Sadeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 91,
+    "context_summary": "משאבי שדה מוזכר כאחד ממקורות המים הקבועים בהר הנגב הצפוני."
+  },
+  {
+    "canonical_hebrew": "עין זיק",
+    "canonical_english": "Ein Ziq",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 91,
+    "context_summary": "עין זיק מוזכר כאחד ממקורות המים הקבועים בהר הנגב הצפוני."
+  },
+  {
+    "canonical_hebrew": "באר רסיסים",
+    "canonical_english": "Be'er Resisim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 91,
+    "context_summary": "באר רסיסים מוזכרת כאחד ממקורות המים הקבועים בהר הנגב הצפוני."
+  },
+  {
+    "canonical_hebrew": "נחל ניצנה",
+    "canonical_english": "Nahal Nitzana",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 91,
+    "context_summary": "נחל ניצנה מוזכר כאחד ממקורות המים הקבועים בהר הנגב הצפוני."
+  },
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 91,
+    "context_summary": "בחצור נחשפו שישה בורות מים דמויי בקבוק, ששימשו לאגירת מים בתקופות הברונזה התיכונה והמאוחרת."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Gezer"
+    ],
+    "site_type": "Tell",
+    "page_number": 91,
+    "context_summary": "בורות המים שנחשפו בחפירות חצור ובחפירות גזר הם הבורות הקדומים ביותר שטויחו בחלקם."
+  },
+  {
+    "canonical_hebrew": "שעלבים",
+    "canonical_english": "Sha'alvim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 92,
+    "context_summary": "מערת קבורה בשעלבים, שנחפרה ב-1981, הייתה במקורה בור מים מתקופת הברונזה התיכונה 2ב."
+  },
+  {
+    "canonical_hebrew": "תל אל-יהודייה",
+    "canonical_english": "Tell el-Yahudiyeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 93,
+    "context_summary": "בין כלי החרס שהתגלו בבור בשעלבים היו שברי פכיות מטיפוס תל אל-יהודייה."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Gezer"
+    ],
+    "site_type": "Tell",
+    "page_number": 93,
+    "context_summary": "מקליסטר מצא כי גבעת גזר מנוקבת בבורות מים רבים, ודיוור חשף מערכת איסוף מי נגר שהובילה לשני בורות מים עמוקים."
+  },
+  {
+    "canonical_hebrew": "יהודה ושומרון",
+    "canonical_english": "Judea and Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 94,
+    "context_summary": "בסיכום סקר שנערך ביהודה ושומרון בשנת תשכ\"ח נאמר כי במספר יישובים נחצבו בורות מים."
+  },
+  {
+    "canonical_hebrew": "שכם",
+    "canonical_english": "Shechem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 94,
+    "context_summary": "שכם מוזכרת כאחת הערים המבוצרות החדשות שהוקמו בתקופה הכנענית התיכונה II."
+  },
+  {
+    "canonical_hebrew": "שכה",
+    "canonical_english": "Sikha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 94,
+    "context_summary": "שכה מוזכרת כאחת הערים המבוצרות החדשות שהוקמו בתקופה הכנענית התיכונה II."
+  },
+  {
+    "canonical_hebrew": "חירבת מסעוד",
+    "canonical_english": "Khirbet Mas'ud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 94,
+    "context_summary": "חירבת מסעוד מוזכרת כאחד היישובים החדשים באזור ההררי התלול ביהודה ושומרון."
+  },
+  {
+    "canonical_hebrew": "יעבד",
+    "canonical_english": "Ya'bad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 94,
+    "context_summary": "חירבת מסעוד ממוקמת 6 ק\"מ ממערב ליעבד."
+  },
+  {
+    "canonical_hebrew": "חירבת זעתרה",
+    "canonical_english": "Khirbet Za'tara",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 94,
+    "context_summary": "חירבת זעתרה מוזכרת כאחד היישובים החדשים באזור ההררי התלול ביהודה ושומרון."
+  },
+  {
+    "canonical_hebrew": "ג'נין",
+    "canonical_english": "Jenin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 94,
+    "context_summary": "חירבת זעתרה ממוקמת 4 ק\"מ מדרום לג'נין."
+  },
+  {
+    "canonical_hebrew": "עגיה",
+    "canonical_english": "Agiya",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 94,
+    "context_summary": "עגיה (כפר ליד סנור) מוזכרת כאחד היישובים החדשים באזור ההררי התלול ביהודה ושומרון."
+  },
+  {
+    "canonical_hebrew": "סנור",
+    "canonical_english": "Sanur",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 94,
+    "context_summary": "עגיה היא כפר ליד סנור."
+  },
+  {
+    "canonical_hebrew": "אל ח'שנה",
+    "canonical_english": "Al-Khushna",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 94,
+    "context_summary": "אל ח'שנה ממזרח לענבתה מוזכרת כאחד היישובים החדשים באזור ההררי התלול ביהודה ושומרון."
+  },
+  {
+    "canonical_hebrew": "ענבתה",
+    "canonical_english": "Anabta",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 94,
+    "context_summary": "אל ח'שנה ממוקמת ממזרח לענבתה."
+  },
+  {
+    "canonical_hebrew": "חירבת רס כור",
+    "canonical_english": "Khirbet Ras Kour",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 94,
+    "context_summary": "חירבת רס כור (מדרום לכפר לבד) מוזכרת כאחד היישובים החדשים באזור ההררי התלול ביהודה ושומרון."
+  },
+  {
+    "canonical_hebrew": "כפר לבד",
+    "canonical_english": "Kafr Labad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 94,
+    "context_summary": "חירבת רס כור ממוקמת מדרום לכפר לבד."
+  },
+  {
+    "canonical_hebrew": "חירבת א-תל",
+    "canonical_english": "Khirbet et-Tell",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 94,
+    "context_summary": "חירבת א-תל בכפר חרס מוזכרת כאחד היישובים החדשים באזור ההררי התלול ביהודה ושומרון."
+  },
+  {
+    "canonical_hebrew": "כפר חרס",
+    "canonical_english": "Kafr Haris",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 94,
+    "context_summary": "חירבת א-תל ממוקמת בכפר חרס."
+  },
+  {
+    "canonical_hebrew": "הרי שומרון",
+    "canonical_english": "Samarian Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 94,
+    "context_summary": "פיזורו הרחב של היישוב בתקופה הכנענית התיכונה II בכל תחומי הרי שומרון רומז על חציבת בורות מים."
+  },
+  {
+    "canonical_hebrew": "מארי",
+    "canonical_english": "Mari",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 94,
+    "context_summary": "מלך מארי יחדנלם בנה תעלות להבאת מים, מה שעשוי לרמוז לאמת המים העירונית הראשונה בעולם."
+  },
+  {
+    "canonical_hebrew": "סוריה",
+    "canonical_english": "Syria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 94,
+    "context_summary": "מארי ממוקמת בסוריה, לצד הפרת התיכון."
+  },
+  {
+    "canonical_hebrew": "הפרת התיכון",
+    "canonical_english": "Middle Euphrates",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 94,
+    "context_summary": "מארי השוכנת לצד הפרת התיכון נהנתה ממעיינות שבהרים שבקרבתה."
+  },
+  {
+    "canonical_hebrew": "נמרוד",
+    "canonical_english": "Nimrud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 94,
+    "context_summary": "האמה העירונית הראשונה בעולם היא האמה לנמרוד בממלכת אשור מימי המלך אשורנצירפל ה-II."
+  },
+  {
+    "canonical_hebrew": "אשור",
+    "canonical_english": "Assyria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 94,
+    "context_summary": "האמה העירונית הראשונה בעולם היא האמה לנמרוד בממלכת אשור."
+  },
+  {
+    "canonical_hebrew": "כברי",
+    "canonical_english": "Kabri",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Kabri"
+    ],
+    "site_type": "Settlement",
+    "page_number": 95,
+    "context_summary": "כברי היא אחת הערים בהן מופיע לראשונה מפעל מים הכולל מעיין בתחום חומות העיר."
+  },
+  {
+    "canonical_hebrew": "דן",
+    "canonical_english": "Dan",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Dan"
+    ],
+    "site_type": "Settlement",
+    "page_number": 95,
+    "context_summary": "דן היא אחת הערים בהן מופיע לראשונה מפעל מים הכולל מעיין בתחום חומות העיר."
+  },
+  {
+    "canonical_hebrew": "יריחו",
+    "canonical_english": "Jericho",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Jericho"
+    ],
+    "site_type": "Settlement",
+    "page_number": 95,
+    "context_summary": "יריחו היא אחת הערים בהן מופיע לראשונה מפעל מים הכולל מעיין בתחום חומות העיר."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 95,
+    "context_summary": "ירושלים היא אחת הערים בהן מופיע לראשונה מפעל מים הכולל מעיין בתחום חומות העיר."
+  },
+  {
+    "canonical_hebrew": "קטנה",
+    "canonical_english": "Qatna",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tell Mishrifeh"
+    ],
+    "site_type": "Comparative Site",
+    "page_number": 95,
+    "context_summary": "קטנה היא הקדומה מבין הערים בהן מופיע מפעל מים הכולל מעיין בתחום חומות העיר, ומקורה בסוריה."
+  },
+  {
+    "canonical_hebrew": "סוריה",
+    "canonical_english": "Syria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 95,
+    "context_summary": "מקור התכנון העירוני החדש של מפעלי מים הכוללים מעיינות הוא בסוריה של ראשית האלף השני לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "עין שפע",
+    "canonical_english": "Ein Shefa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 95,
+    "context_summary": "עין שפע הוא המעיין המשויך לעיר כברי, עם שפיעה של 4,630,000 מ\"ק לשנה."
+  },
+  {
+    "canonical_hebrew": "מעיינות הדן",
+    "canonical_english": "Dan Springs",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 95,
+    "context_summary": "מעיינות הדן הם מקור המים המשויך לעיר דן, עם שפיעה של 25,000,000 מ\"ק לשנה."
+  },
+  {
+    "canonical_hebrew": "מעיין אלישע",
+    "canonical_english": "Ein Elisha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 95,
+    "context_summary": "מעיין אלישע הוא מקור המים המשויך לעיר יריחו, עם שפיעה של 530,000 מ\"ק לשנה."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 95,
+    "context_summary": "מעיין הגיחון הוא מקור המים המשויך לעיר ירושלים, עם שפיעה של 750,000 מ\"ק לשנה."
+  },
+  {
+    "canonical_hebrew": "פיר וורן",
+    "canonical_english": "Warren's Shaft",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 96,
+    "context_summary": "בירושלים, בגלל היות האזור הררי ומיקום המעיין למרגלות גבעת העיר, נמצא פתרון ייחודי בדמות מנהרת פיר וורן."
+  },
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 96,
+    "context_summary": "אפשר שהופעתן של מנהרות תת-קרקעיות חצובות בסלע בחצור מרמזת על מפעלי מים חצובים."
+  },
+  {
+    "canonical_hebrew": "אבלה",
+    "canonical_english": "Ebla",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tell Mardikh"
+    ],
+    "site_type": "Comparative Site",
+    "page_number": 96,
+    "context_summary": "אפשר שהופעתן של מנהרות תת-קרקעיות חצובות בסלע באבלה מרמזת על מפעלי מים חצובים."
+  },
+  {
+    "canonical_hebrew": "תל גריסה",
+    "canonical_english": "Tel Gerisa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 96,
+    "context_summary": "מפעל מים חצוב היורד למפלס מי התהום נתגלה בשנים האחרונות בתל גריסה."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Gezer"
+    ],
+    "site_type": "Tell",
+    "page_number": 96,
+    "context_summary": "אנו נוטים לייחס לתקופה זו גם את מפעל המים בגזר."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 96,
+    "context_summary": "מפעל המים של ירושלים משלב למעשה את החציבה מצד אחד ואת הכנסת המעיין לעיר מצד שני."
+  },
+  {
+    "canonical_hebrew": "מגידו",
+    "canonical_english": "Megiddo",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 96,
+    "context_summary": "שקעים שנראים לכאורה טבעיים בחצור ובמגידו מעידים אולי על קיומם של מפעלי מים נוספים."
+  },
+  {
+    "canonical_hebrew": "תל נאמי",
+    "canonical_english": "Tel Nami",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 96,
+    "context_summary": "בתל נאמי, מקור המים היו מי התהום הסמוכים מאוד אל פני השטח."
+  },
+  {
+    "canonical_hebrew": "לכיש",
+    "canonical_english": "Lachish",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Lachish"
+    ],
+    "site_type": "Tell",
+    "page_number": 96,
+    "context_summary": "בלכיש נמצאה באר בעומק 44 מ', העמוקה ביותר הידועה לנו מתקופה כה קדומה."
+  },
+  {
+    "canonical_hebrew": "תל הרור",
+    "canonical_english": "Tel Haror",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 96,
+    "context_summary": "בתל הרור, עומק מי התהום היה כ-11 מ'."
+  },
+  {
+    "canonical_hebrew": "בוצרה",
+    "canonical_english": "Bozrah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 96,
+    "context_summary": "עדות לבארות אחרות התגלתה בבוצרה שבסוריה."
+  },
+  {
+    "canonical_hebrew": "סוריה",
+    "canonical_english": "Syria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 96,
+    "context_summary": "עדות לבארות אחרות התגלתה בבוצרה ובאבלה שבסוריה."
+  },
+  {
+    "canonical_hebrew": "ארץ גארי",
+    "canonical_english": "Land of Gari",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 96,
+    "context_summary": "במגילת שאנהת נמצא מידע ברור על בארות אחדות בארץ גארי או בסמוך לה."
+  },
+  {
+    "canonical_hebrew": "הר מנשה",
+    "canonical_english": "Mount Manasseh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 96,
+    "context_summary": "במחקריו של זרטל בהר מנשה (השומרון) הובחנה זיקה ברורה בין היישובים למקורות המים הקבועים."
+  },
+  {
+    "canonical_hebrew": "השומרון",
+    "canonical_english": "Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 96,
+    "context_summary": "במחקריו של זרטל בהר מנשה (השומרון) הובחנה זיקה ברורה בין היישובים למקורות המים הקבועים."
+  },
+  {
+    "canonical_hebrew": "הנגב הצפוני",
+    "canonical_english": "Northern Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 96,
+    "context_summary": "כאשר מדרימים אל הנגב הצפוני והר הנגב בולט הקשר בין היישובים למקורות מים."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Har HaNegev"
+    ],
+    "site_type": "Region",
+    "page_number": 96,
+    "context_summary": "כאשר מדרימים אל הנגב הצפוני והר הנגב בולט הקשר בין היישובים למקורות מים."
+  },
+  {
+    "canonical_hebrew": "נחל הבשור",
+    "canonical_english": "Nahal Besor",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Wadi Ghazzeh"
+    ],
+    "site_type": "River",
+    "page_number": 96,
+    "context_summary": "הקשר בין היישובים למקורות מים בולט באתרים שלאורך נחל הבשור."
+  },
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 97,
+    "context_summary": "בורות המים שהתגלו בחפירות חצור מצביעים על ראשית הדרך של איסוף מי נגר."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Gezer"
+    ],
+    "site_type": "Tell",
+    "page_number": 97,
+    "context_summary": "בורות המים שהתגלו בחפירות גזר מעידים על מגמה ברורה של איסוף מי נגר לתוכם."
+  },
+  {
+    "canonical_hebrew": "יהודה ושומרון",
+    "canonical_english": "Judea and Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 97,
+    "context_summary": "בורות המים שנבדקו בסקר יהודה ושומרון מעידים על מגמה ברורה של איסוף מי נגר לתוכם."
+  },
+  {
+    "canonical_hebrew": "מארי",
+    "canonical_english": "Mari",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 97,
+    "context_summary": "אולי אמת מים ראשונה במארי מייחדת את תקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Gezer"
+    ],
+    "site_type": "Tell",
+    "page_number": 98,
+    "context_summary": "בגזר, למשל, נעשה שימוש בביצורים של התקופה הקודמת גם בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "בית שאן",
+    "canonical_english": "Bet She'an",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Beth Shean"
+    ],
+    "site_type": "Settlement",
+    "page_number": 98,
+    "context_summary": "בחלק הדרום-מזרחי של תל בית שאן נחשפה באר עמוקה המתוארכת למאה ה-14 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "תל בית שאן",
+    "canonical_english": "Tel Bet She'an",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tell el-Husn"
+    ],
+    "site_type": "Tell",
+    "page_number": 98,
+    "context_summary": "בחלק הדרום-מזרחי של תל בית שאן נחשפה באר עמוקה."
+  },
+  {
+    "canonical_hebrew": "תל ג'מה",
+    "canonical_english": "Tel Gamma",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tell Jemmeh"
+    ],
+    "site_type": "Tell",
+    "page_number": 98,
+    "context_summary": "תל ג'מה שוכן בגדה השמאלית של נחל הבשור, ובסמוך לו מצויה באר שנסתמה."
+  },
+  {
+    "canonical_hebrew": "נחל הבשור",
+    "canonical_english": "Nahal Besor",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Wadi Ghazzeh"
+    ],
+    "site_type": "River",
+    "page_number": 98,
+    "context_summary": "תל ג'מה שוכן בגדה השמאלית של נחל הבשור אשר בנגב הצפוני."
+  },
+  {
+    "canonical_hebrew": "הנגב הצפוני",
+    "canonical_english": "Northern Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 98,
+    "context_summary": "תל ג'מה שוכן בגדה השמאלית של נחל הבשור אשר בנגב הצפוני."
+  },
+  {
+    "canonical_hebrew": "יוון",
+    "canonical_english": "Greece",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 99,
+    "context_summary": "בשלוש ערים מיקניות ביוון נתגלו מפעלי מים: באתונה, במיקנה ובטירינס."
+  },
+  {
+    "canonical_hebrew": "אתונה",
+    "canonical_english": "Athens",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 99,
+    "context_summary": "באקרופוליס של אתונה נתגלתה מערה שהיוותה כניסה לפרוזדור תת-קרקעי ובו מעיין."
+  },
+  {
+    "canonical_hebrew": "אקרופוליס של אתונה",
+    "canonical_english": "Acropolis of Athens",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 99,
+    "context_summary": "בחפירות באקרופוליס של אתונה נתגלתה מערה שהובילה למעיין."
+  },
+  {
+    "canonical_hebrew": "מיקנה",
+    "canonical_english": "Mycenae",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 99,
+    "context_summary": "במיקנה נתגלה מפעל מים המבוסס על מעיין פרסיאה, ומערכת תת-קרקעית להזרמת מים."
+  },
+  {
+    "canonical_hebrew": "טירינס",
+    "canonical_english": "Tiryns",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 99,
+    "context_summary": "בטירינס נתגלו שני מעברים תת-קרקעיים שהובילו לבורות תת-קרקעיים שהוזנו על-ידי מעיינות."
+  },
+  {
+    "canonical_hebrew": "חצי האי פלופונס",
+    "canonical_english": "Peloponnese Peninsula",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Peloponnese"
+    ],
+    "site_type": "Region",
+    "page_number": 99,
+    "context_summary": "מיקנה וטירינס ממוקמות בחצי האי פלופונס."
+  },
+  {
+    "canonical_hebrew": "מעיין פרסיאה",
+    "canonical_english": "Perseia Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 99,
+    "context_summary": "מפעל המים במיקנה ראשיתו במעיין פרסיאה המצוי במרחק 360 מטרים מהעיר."
+  },
+  {
+    "canonical_hebrew": "בית אגרטל הלוחם",
+    "canonical_english": "Warrior Vase House",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 99,
+    "context_summary": "במיקנה, באר אחת נמצאה בצמוד לבית אגרטל הלוחם, ונועדה להגן עליה."
+  },
+  {
+    "canonical_hebrew": "מיקנה",
+    "canonical_english": "Mycenae",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 100,
+    "context_summary": "בתחום חומות מיקנה נמצאו שתי בארות ונראה שבנוסף להן היו גם בורות מים."
+  },
+  {
+    "canonical_hebrew": "פגדי העליון",
+    "canonical_english": "Upper Pegadi",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 100,
+    "context_summary": "מחוץ לחומות מיקנה ישנם שני מעיינות הנקראים פגדי העליון ופגדי התחתון."
+  },
+  {
+    "canonical_hebrew": "פגדי התחתון",
+    "canonical_english": "Lower Pegadi",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 100,
+    "context_summary": "מחוץ לחומות מיקנה ישנם שני מעיינות הנקראים פגדי העליון ופגדי התחתון."
+  },
+  {
+    "canonical_hebrew": "אוצר אטריאוסי",
+    "canonical_english": "Treasury of Atreus",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 100,
+    "context_summary": "המעיינות פגדי מצויים בין הרכס של \"אוצר אטריאוסי\" וגבעת קלקני."
+  },
+  {
+    "canonical_hebrew": "גבעת קלקני",
+    "canonical_english": "Kalkani Hill",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 100,
+    "context_summary": "המעיינות פגדי מצויים בין הרכס של \"אוצר אטריאוסי\" וגבעת קלקני."
+  },
+  {
+    "canonical_hebrew": "טירינס",
+    "canonical_english": "Tiryns",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 100,
+    "context_summary": "בטירינס שני מעברים תת-קרקעיים הוליכו דרך החומות אל שני בורות תת-קרקעיים שהוזנו על-ידי מעיינות."
+  },
+  {
+    "canonical_hebrew": "כפר הפועלים, דיר אל מדינה",
+    "canonical_english": "Workers' Village, Deir el-Medina",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Deir el-Medina"
+    ],
+    "site_type": "Comparative Site",
+    "page_number": 100,
+    "context_summary": "כפר הפועלים דיר אל מדינה היה יישוב בתקופת הממלכה החדשה במצרים, בו נחצב מפעל מים עמוק."
+  },
+  {
+    "canonical_hebrew": "מצרים",
+    "canonical_english": "Egypt",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 100,
+    "context_summary": "כפר הפועלים דיר אל מדינה היה יישוב בתקופת הממלכה החדשה במצרים."
+  },
+  {
+    "canonical_hebrew": "עמק המלכים",
+    "canonical_english": "Valley of the Kings",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 100,
+    "context_summary": "בכפר הפועלים דיר אל מדינה גרו פועלים שעיצבו את קברי המלכים בעמק המלכים."
+  },
+  {
+    "canonical_hebrew": "הנילוס",
+    "canonical_english": "The Nile",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 100,
+    "context_summary": "הריחוק מהנילוס חייב אספקת מים קבועה לכפר הפועלים דיר אל מדינה, כנראה על-ידי שיירה שהביאה מים מהנילוס."
+  }
+]

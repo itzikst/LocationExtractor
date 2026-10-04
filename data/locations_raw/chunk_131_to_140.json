@@ -1,0 +1,685 @@
+[
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 131,
+    "context_summary": "מפעל המים הקדום בגבעון מתוארך לזמנם של ביצורי גבעון, ככל הנראה למאה ה-10 או ה-9 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "מפעל המים בגבעון",
+    "canonical_english": "Gibeon Water System",
+    "hebrew_aliases": [
+      "המנהרה והמעיין",
+      "הבריכה"
+    ],
+    "english_aliases": [
+      "Gibeon Tunnel and Spring",
+      "Gibeon Pool"
+    ],
+    "site_type": "Installation",
+    "page_number": 131,
+    "context_summary": "הדיון מתמקד ביחס בין המנהרה והמעיין לבין הבריכה במפעל המים בגבעון, ותיארוך שלביהם השונים."
+  },
+  {
+    "canonical_hebrew": "תל מגידו",
+    "canonical_english": "Tel Megiddo",
+    "hebrew_aliases": [
+      "מגידו"
+    ],
+    "english_aliases": [
+      "Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 131,
+    "context_summary": "יש דמיון בין מפעל המים בגבעון למפעלי המים במגידו."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [
+      "העיר"
+    ],
+    "english_aliases": [
+      "The City"
+    ],
+    "site_type": "Settlement",
+    "page_number": 132,
+    "context_summary": "ירושלים בתקופת הברזל 2 הפכה מעיר קטנה לעיר ענק, עם מספר מפעלי מים."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [
+      "ניקבת חזקיהו"
+    ],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 132,
+    "context_summary": "נקבת חזקיהו היא מפעל המים העיקרי בירושלים של תקופת הברזל 2, שמקורה במעיין הגיחון."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [
+      "המעיין הראשי של העיר",
+      "הגיחון"
+    ],
+    "english_aliases": [
+      "The City's Main Spring",
+      "Gihon"
+    ],
+    "site_type": "Spring",
+    "page_number": 132,
+    "context_summary": "מעיין הגיחון סיפק את רוב תצרוכת המים של תושבי ירושלים והיה מקור המים החשוב והעיקרי של העיר."
+  },
+  {
+    "canonical_hebrew": "התעלה החשמונאית",
+    "canonical_english": "Hasmonean Channel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 132,
+    "context_summary": "אפשר שגם 'התעלה החשמונאית' ניתנת לייחוס לתקופה זו בירושלים."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [
+      "העיר"
+    ],
+    "english_aliases": [
+      "The City"
+    ],
+    "site_type": "Settlement",
+    "page_number": 133,
+    "context_summary": "המעיין שימש למשיחת המלך שלמה, ונקבת חזקיהו הייתה מפעל המים העיקרי של ירושלים בשלהי תקופת הברזל."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [
+      "הגיחון"
+    ],
+    "english_aliases": [
+      "Gihon"
+    ],
+    "site_type": "Spring",
+    "page_number": 133,
+    "context_summary": "מעיין הגיחון היה מקור המים העיקרי של ירושלים, ונקבת חזקיהו מתחילה בו."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [
+      "נקבת חזקיהו",
+      "תעלה VIII של וינסאן",
+      "תעלה ה של הקר",
+      "המנהרה"
+    ],
+    "english_aliases": [
+      "Hezekiah's Tunnel",
+      "Vincent's Channel VIII",
+      "Ha-Qar's Channel H",
+      "The Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 133,
+    "context_summary": "תיאור מפורט של נקבת חזקיהו, אורכה, רוחבה, גובהה, שיפועה, ושינויי הכיוון שלה."
+  },
+  {
+    "canonical_hebrew": "בריכת השילוח",
+    "canonical_english": "Siloam Pool",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 133,
+    "context_summary": "נקבת חזקיהו מתחילה במעיין הגיחון וסיומה בבריכת השילוח."
+  },
+  {
+    "canonical_hebrew": "פיר וורן",
+    "canonical_english": "Warren's Shaft",
+    "hebrew_aliases": [
+      "פיר וורן העילי"
+    ],
+    "english_aliases": [
+      "Upper Warren's Shaft"
+    ],
+    "site_type": "Installation",
+    "page_number": 133,
+    "context_summary": "אפשר להציע כי בפרק זמן זה היה המגדל הקדום מרכיב ההגנה היחיד מעל המעיין ובעת צרה ירדו אל המעיין דרך המערכת של פיר וורן העילי."
+  },
+  {
+    "canonical_hebrew": "גבעת עיר דוד",
+    "canonical_english": "City of David Hill",
+    "hebrew_aliases": [
+      "עיר דוד"
+    ],
+    "english_aliases": [
+      "City of David"
+    ],
+    "site_type": "Settlement",
+    "page_number": 134,
+    "context_summary": "מפעל המים איפשר להכניס מים אל החלק המערבי של גבעת עיר דוד, ולכלול שטח נמוך יותר בתחום העיר המבוצרת."
+  },
+  {
+    "canonical_hebrew": "גיא הטרופיאון",
+    "canonical_english": "Tyropoeon Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 134,
+    "context_summary": "מפעל המים הביא את המים אל קצהו הדרומי של גיא הטרופיאון."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [
+      "הגיחון"
+    ],
+    "english_aliases": [
+      "Gihon"
+    ],
+    "site_type": "Spring",
+    "page_number": 134,
+    "context_summary": "מי הגיחון הוטו אל העיר באמצעות הבריכה, וניתן היה לסתום את מוצא הגיחון."
+  },
+  {
+    "canonical_hebrew": "בריכת השילוח",
+    "canonical_english": "Siloam Pool",
+    "hebrew_aliases": [
+      "הבריכה",
+      "הבריכה התחתונה",
+      "הבריכה הנוכחית",
+      "הבריכה הקדומה"
+    ],
+    "english_aliases": [
+      "The Pool",
+      "Lower Pool",
+      "Current Pool",
+      "Ancient Pool"
+    ],
+    "site_type": "Pool",
+    "page_number": 134,
+    "context_summary": "מי הגיחון הוטו אל העיר באמצעות בריכת השילוח, ששרידיה נחקרו ומידותיה השתנו בתקופות שונות."
+  },
+  {
+    "canonical_hebrew": "נחל קדרון",
+    "canonical_english": "Kidron Valley",
+    "hebrew_aliases": [
+      "הקדרון"
+    ],
+    "english_aliases": [
+      "Kidron"
+    ],
+    "site_type": "Valley",
+    "page_number": 134,
+    "context_summary": "תעלה ו' הובילה מים לכיוון נחל קדרון."
+  },
+  {
+    "canonical_hebrew": "בירכת אל-חמרה",
+    "canonical_english": "Birkat al-Hamra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 134,
+    "context_summary": "שתי תעלות הסתעפו מתעלה ו' לכיוון בירכת אל-חמרה."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [
+      "הנקבה",
+      "המנהרה"
+    ],
+    "english_aliases": [
+      "The Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 134,
+    "context_summary": "רובינסון וסמית גילו לראשונה את נקבת חזקיהו בשנת 1838, ונחקרה על ידי וורן, שיק, גותה, בליס ודיקי, ומשלחת פארקר."
+  },
+  {
+    "canonical_hebrew": "מוזיאון הארכיאולוגי באיסטנבול",
+    "canonical_english": "Archaeological Museum in Istanbul",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 134,
+    "context_summary": "כתובת השילוח מוצגת כיום במוזיאון הארכיאולוגי באיסטנבול."
+  },
+  {
+    "canonical_hebrew": "פיר וורן",
+    "canonical_english": "Warren's Shaft",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 134,
+    "context_summary": "אין טיח בקטע המתחבר לפיר וורן."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [
+      "הנקבה",
+      "המנהרה"
+    ],
+    "english_aliases": [
+      "The Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 135,
+    "context_summary": "בנקבת חזקיהו הובחנו שני מפלסי חציבה, חללים טבעיים, ותעלות שונות, והיא נחצבה כחלק מההכנות למצור סנחריב."
+  },
+  {
+    "canonical_hebrew": "פיר וורן",
+    "canonical_english": "Warren's Shaft",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 135,
+    "context_summary": "תעלה VI נחצבה ממערב למזרח - מכיוון פיר וורן אל המעיין."
+  },
+  {
+    "canonical_hebrew": "מערת חריטון",
+    "canonical_english": "Haritoun Cave",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 135,
+    "context_summary": "חללים BCDE הם טבעיים וניכרת בהם המסה פריאטית קדומה (כמו במערת חריטון)."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [
+      "המעיין"
+    ],
+    "english_aliases": [
+      "The Spring"
+    ],
+    "site_type": "Spring",
+    "page_number": 135,
+    "context_summary": "הנקבה נועדה להכניס את מי הגיחון אל תוך העיר בגרביטאציה."
+  },
+  {
+    "canonical_hebrew": "גבעת עיר דוד",
+    "canonical_english": "City of David Hill",
+    "hebrew_aliases": [
+      "עיר דוד"
+    ],
+    "english_aliases": [
+      "City of David"
+    ],
+    "site_type": "Settlement",
+    "page_number": 135,
+    "context_summary": "הנקבה הכניסה את המים מהצד המזרחי של גבעת עיר דוד אל צדה המערבי."
+  },
+  {
+    "canonical_hebrew": "הגבעה המערבית",
+    "canonical_english": "Western Hill",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 135,
+    "context_summary": "ה'גבעה המערבית' הייתה מיושבת בתקופה זו ומוקפת חומה, והנקבה נועדה לספק מים לתושביה."
+  },
+  {
+    "canonical_hebrew": "גיא הטירופיאון",
+    "canonical_english": "Tyropoeon Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 135,
+    "context_summary": "הגעה חיצונית במסלול הנוח של גיא הטירופיאון אל בריכת השילוח."
+  },
+  {
+    "canonical_hebrew": "בריכת השילוח",
+    "canonical_english": "Siloam Pool",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 135,
+    "context_summary": "הגעה חיצונית במסלול הנוח של גיא הטירופיאון אל בריכת השילוח."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [
+      "הנקבה"
+    ],
+    "english_aliases": [
+      "The Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 136,
+    "context_summary": "הסברים שונים ניתנו לסטיות הגדולות של נקבת חזקיהו, כולל עקיפת קברים מלכותיים וסלע קשה."
+  },
+  {
+    "canonical_hebrew": "קברי המלכים",
+    "canonical_english": "Tombs of the Kings",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 136,
+    "context_summary": "הקבוצה שחצבה מדרום עקפה את הקברים המלכותיים."
+  },
+  {
+    "canonical_hebrew": "עיר דוד",
+    "canonical_english": "City of David",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 136,
+    "context_summary": "החוצבים נזהרו שלא להתקרב אל קברי המלכים אשר בקצה הדרומי של עיר דוד."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [
+      "המעיין"
+    ],
+    "english_aliases": [
+      "The Spring"
+    ],
+    "site_type": "Spring",
+    "page_number": 136,
+    "context_summary": "הקבוצה הצפונית חצבה מהמעיין היישר מערבה אל פנים העיר."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [
+      "הנקבה",
+      "המנהרה"
+    ],
+    "english_aliases": [
+      "The Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 137,
+    "context_summary": "הפיתולים הרבים בנקבת חזקיהו פורשו כתוצאה של טעויות אנוש, ניצול סדקים טבעיים, או הרחבת חללים קרסטיים."
+  },
+  {
+    "canonical_hebrew": "קברי המלכים",
+    "canonical_english": "Tombs of the Kings",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 137,
+    "context_summary": "החוצבים נזהרו שלא להתקרב אל קברי המלכים אשר בקצה הדרומי של עיר דוד."
+  },
+  {
+    "canonical_hebrew": "עיר דוד",
+    "canonical_english": "City of David",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 137,
+    "context_summary": "החוצבים נזהרו שלא להתקרב אל קברי המלכים אשר בקצה הדרומי של עיר דוד."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [
+      "הגיחון"
+    ],
+    "english_aliases": [
+      "Gihon"
+    ],
+    "site_type": "Spring",
+    "page_number": 137,
+    "context_summary": "שאלת הגובה נפתרה בזכות תעלת השילוח החצובה במקביל לנחל ומובילה לעיתים מים מהגיחון לבירכת אל-חמרה."
+  },
+  {
+    "canonical_hebrew": "תעלת השילוח",
+    "canonical_english": "Siloam Channel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 137,
+    "context_summary": "תעלת השילוח החצובה במקביל לנחל ומובילה לעיתים מים מהגיחון לבירכת אל-חמרה, יכלה לשמש את חוצבי הנקבה למדידות גובה."
+  },
+  {
+    "canonical_hebrew": "בירכת אל-חמרה",
+    "canonical_english": "Birkat al-Hamra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 137,
+    "context_summary": "תעלת השילוח מובילה לעיתים מים מהגיחון לבירכת אל-חמרה."
+  },
+  {
+    "canonical_hebrew": "פיר וורן",
+    "canonical_english": "Warren's Shaft",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 137,
+    "context_summary": "המהנדסים נעזרו בשתי נקודות: הפיר הדרומי ופיר וורן."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [
+      "הנקבה",
+      "המנהרה"
+    ],
+    "english_aliases": [
+      "The Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 138,
+    "context_summary": "הנקבה נחצבה מכל צד בקו ישר, ועם התקרבות החוצבים נעשו תיקוני כיוון רבים לפי השמיעה."
+  },
+  {
+    "canonical_hebrew": "פיר וורן",
+    "canonical_english": "Warren's Shaft",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 138,
+    "context_summary": "הנקודה בה פיר וורן עובר מעל הנקבה היא ברום 657.50 מ' מעל פני הים והנקבה נמוכה ב-22 מ'."
+  },
+  {
+    "canonical_hebrew": "בירכת אל-חמרה",
+    "canonical_english": "Birkat al-Hamra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 138,
+    "context_summary": "הקמת סכר בבירכת אל-חמרה והרמת מפלס המים קבעה את מפלס הנקבה בסיומה."
+  },
+  {
+    "canonical_hebrew": "בריכת השילוח",
+    "canonical_english": "Siloam Pool",
+    "hebrew_aliases": [
+      "הבריכה"
+    ],
+    "english_aliases": [
+      "The Pool"
+    ],
+    "site_type": "Pool",
+    "page_number": 138,
+    "context_summary": "ממדי בריכת השילוח הם כיום 15x6 מ' אך בעבר הייתה גדולה יותר: 30x23 מ' בתקופה הרומית, 15x15 מ' בתקופת בית ראשון."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [
+      "הגיחון"
+    ],
+    "english_aliases": [
+      "Gihon"
+    ],
+    "site_type": "Spring",
+    "page_number": 138,
+    "context_summary": "מכיוון מעיין הגיחון היה צורך להתחבר אל הבור השקוע הנמצא כ-70 מ' מערבית לגיחון."
+  },
+  {
+    "canonical_hebrew": "מנהרת אופלינוס בסמוס",
+    "canonical_english": "Tunnel of Eupalinos in Samos",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 138,
+    "context_summary": "גרייוה שלל את דעתו של גיל והביא כדוגמא את מנהרת אופלינוס בסמוס, בה בוצעה חציבה משני כיוונים ללא בעיות של חוסר אויר והמנהרה תוכננה מראש."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [
+      "הנקבה",
+      "המנהרה"
+    ],
+    "english_aliases": [
+      "The Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 139,
+    "context_summary": "החציבה של נקבת חזקיהו ארכה בין חצי שנה לתשעה חודשים, וכללה הוצאת 675 מ\"ק סלע."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [
+      "המעיין"
+    ],
+    "english_aliases": [
+      "The Spring"
+    ],
+    "site_type": "Spring",
+    "page_number": 139,
+    "context_summary": "המנהרות הרבות באזור המעיין פורסמו לראשונה על ידי וינסאן, והיו ניסיונות להגדיל את ספיקת המעיין."
+  },
+  {
+    "canonical_hebrew": "בריכת גבעון",
+    "canonical_english": "Gibeon Pool",
+    "hebrew_aliases": [
+      "הבריכה בגבעון"
+    ],
+    "english_aliases": [
+      "The Pool in Gibeon"
+    ],
+    "site_type": "Pool",
+    "page_number": 139,
+    "context_summary": "פריצ'רד חישב כי מהבריכה בגבעון הוציאו 1083 מ\"ק אבן במשקל 2982 טון."
+  },
+  {
+    "canonical_hebrew": "בריכת השילוח",
+    "canonical_english": "Siloam Pool",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 139,
+    "context_summary": "חציבת בריכת השילוח לעומק של כ-4 מ' הוסיפה עוד 900 מ\"ק."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [
+      "המעיין"
+    ],
+    "english_aliases": [
+      "The Spring"
+    ],
+    "site_type": "Spring",
+    "page_number": 140,
+    "context_summary": "המחקר החדש של רייך ושוקרון התמקד במנהרות הרבות באזור מעיין הגיחון, כולל תעלות II ו-III והחדר העגול."
+  },
+  {
+    "canonical_hebrew": "תעלה II",
+    "canonical_english": "Channel II",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 140,
+    "context_summary": "מערכת המנהרות הזו קדמה לשלב שבוצע בתקופת הברונזה התיכונה וכלל את תעלות II ו-III והחדר העגול."
+  },
+  {
+    "canonical_hebrew": "תעלה III",
+    "canonical_english": "Channel III",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 140,
+    "context_summary": "מערכת המנהרות הזו קדמה לשלב שבוצע בתקופת הברונזה התיכונה וכלל את תעלות II ו-III והחדר העגול."
+  },
+  {
+    "canonical_hebrew": "החדר העגול",
+    "canonical_english": "The Round Chamber",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 140,
+    "context_summary": "מערכת המנהרות הזו קדמה לשלב שבוצע בתקופת הברונזה התיכונה וכלל את תעלות II ו-III והחדר העגול."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [
+      "הנקבה"
+    ],
+    "english_aliases": [
+      "The Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 140,
+    "context_summary": "בתקופת הברזל 2 הוחלט לחצוב את נקבת חזקיהו וכך הועמקה המנהרה מתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "פיר וורן",
+    "canonical_english": "Warren's Shaft",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 140,
+    "context_summary": "נתגלה חלקו העליון של פיר וורן, ושני סדקים טבעיים המצטלבים בו סייעו לחציבה."
+  },
+  {
+    "canonical_hebrew": "תעלה VII",
+    "canonical_english": "Channel VII",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 140,
+    "context_summary": "נעשה ניסיון להתחבר למעיין בחציבת מנהרה VII, אך ניסיון זה נעצר לאחר כ-3 מ'."
+  },
+  {
+    "canonical_hebrew": "תעלה IV",
+    "canonical_english": "Channel IV",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 140,
+    "context_summary": "בהמשך נעשה ניסיון נוסף ונחצבה תעלה IV אשר הובילה ל'חדר העגול'."
+  },
+  {
+    "canonical_hebrew": "תעלה V",
+    "canonical_english": "Channel V",
+    "hebrew_aliases": [
+      "מנהרה V"
+    ],
+    "english_aliases": [
+      "Tunnel V"
+    ],
+    "site_type": "Aqueduct",
+    "page_number": 140,
+    "context_summary": "בהמשך החציבה מצויה מנהרה ללא מוצא (תעלה V) ומולה שתי התחלות של חציבות לכיוון מזרח."
+  },
+  {
+    "canonical_hebrew": "תעלה VI",
+    "canonical_english": "Channel VI",
+    "hebrew_aliases": [
+      "מנהרה VI"
+    ],
+    "english_aliases": [
+      "Tunnel VI"
+    ],
+    "site_type": "Aqueduct",
+    "page_number": 140,
+    "context_summary": "החציבה בוצעה מפיר וורן לכיוון המעיין, ומנהרה VI של וינסאן היא חציבה זו."
+  }
+]

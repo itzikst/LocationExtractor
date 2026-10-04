@@ -1,0 +1,527 @@
+[
+  {
+    "canonical_hebrew": "תל ירמות",
+    "canonical_english": "Tel Yarmut",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 71,
+    "context_summary": "בתל ירמות, בו טרם נתגלה מפעל מים, ניתן להצביע על שקע טופוגרפי ברור אשר שימש ככל הנראה לאיסוף מי נגר."
+  },
+  {
+    "canonical_hebrew": "מגידו",
+    "canonical_english": "Megiddo",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 71,
+    "context_summary": "במגידו, בה נבנתה חומה אדירה, היה כנראה מפעל מים, והסבירות לגילוי מפעל מים בה נמוכה בשל שכבות מאוחרות."
+  },
+  {
+    "canonical_hebrew": "מצר",
+    "canonical_english": "Mitzpe",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Mezzer"
+    ],
+    "site_type": "Settlement",
+    "page_number": 71,
+    "context_summary": "בורות מים לאיסוף נגר נתגלו בבירור במצר."
+  },
+  {
+    "canonical_hebrew": "תל דלית",
+    "canonical_english": "Tel Dalit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 71,
+    "context_summary": "בורות מים לאיסוף נגר נתגלו בבירור בתל דלית."
+  },
+  {
+    "canonical_hebrew": "בריכת המים בהעי",
+    "canonical_english": "Ai Water Pool",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 71,
+    "context_summary": "הטיח היחיד מתקופת הברונזה הקדומה שנמצא עד כה הוא מבריכת המים בהעי."
+  },
+  {
+    "canonical_hebrew": "העי",
+    "canonical_english": "Ai",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Et-Tell"
+    ],
+    "site_type": "Tell",
+    "page_number": 71,
+    "context_summary": "הטיח היחיד מתקופה זו שנמצא עד כה הוא מבריכת המים בהעי."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Arad"
+    ],
+    "site_type": "Tell",
+    "page_number": 71,
+    "context_summary": "הוצעה סברה כי תושבי ערד עזבו את עירם בקיץ להר חברון, ובערד נמצאו קנקנים גדולים לאגירת מים."
+  },
+  {
+    "canonical_hebrew": "הר חברון",
+    "canonical_english": "Hebron Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 71,
+    "context_summary": "הוצעה סברה כי תושבי ערד עזבו את עירם בקיץ ועלו להר חברון."
+  },
+  {
+    "canonical_hebrew": "בורות מים",
+    "canonical_english": "Cisterns",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Cistern System",
+    "page_number": 71,
+    "context_summary": "סוג אחר של איסוף מי נגר היה אל בורות מים, שנמצאו במצר ובתל דלית, וקשורים לסלע הקרטון הרך."
+  },
+  {
+    "canonical_hebrew": "בארות",
+    "canonical_english": "Wells",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 72,
+    "context_summary": "קשה להסביר מדוע לא נמצאו בארות מהתקופה הנידונה, אך אין ספק שהיו קיימות."
+  },
+  {
+    "canonical_hebrew": "אפק",
+    "canonical_english": "Aphek",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Aphek"
+    ],
+    "site_type": "Tell",
+    "page_number": 72,
+    "context_summary": "העיר אפק הוקמה על מי הירקון, מוקפת באגם של מעיינות מתוקים."
+  },
+  {
+    "canonical_hebrew": "נחל הירקון",
+    "canonical_english": "Yarkon River",
+    "hebrew_aliases": [
+      "הירקון"
+    ],
+    "english_aliases": [
+      "Nahal Yarkon"
+    ],
+    "site_type": "Region",
+    "page_number": 72,
+    "context_summary": "העיר אפק הוקמה על מי הירקון, מוקפת באגם של מעיינות מתוקים."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 72,
+    "context_summary": "ירושלים הוקמה על בסיס מעיין, אף כי טרם נבנתה בה חומה."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל-סוריה",
+    "canonical_english": "Land of Israel-Syria",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Syro-Palestine"
+    ],
+    "site_type": "Region",
+    "page_number": 73,
+    "context_summary": "בחמש ערים עתיקות במרחב של ארץ ישראל-סוריה הובחנו מפעלי מים שהם מעיינות טבעיים הכלואים בתחום חומות העיר."
+  },
+  {
+    "canonical_hebrew": "דן",
+    "canonical_english": "Dan",
+    "hebrew_aliases": [
+      "תל דן"
+    ],
+    "english_aliases": [
+      "Tel Dan"
+    ],
+    "site_type": "Tell",
+    "page_number": 73,
+    "context_summary": "דן היא אחת מחמש הערים העתיקות בארץ ישראל-סוריה בהן הובחנו מפעלי מים שהם מעיינות טבעיים הכלואים בתחום חומות העיר."
+  },
+  {
+    "canonical_hebrew": "כברי",
+    "canonical_english": "Kabri",
+    "hebrew_aliases": [
+      "תל כברי"
+    ],
+    "english_aliases": [
+      "Tel Kabri"
+    ],
+    "site_type": "Tell",
+    "page_number": 73,
+    "context_summary": "כברי היא אחת מחמש הערים העתיקות בארץ ישראל-סוריה בהן הובחנו מפעלי מים שהם מעיינות טבעיים הכלואים בתחום חומות העיר."
+  },
+  {
+    "canonical_hebrew": "יריחו",
+    "canonical_english": "Jericho",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Jericho"
+    ],
+    "site_type": "Tell",
+    "page_number": 73,
+    "context_summary": "יריחו היא אחת מחמש הערים העתיקות בארץ ישראל-סוריה בהן הובחנו מפעלי מים שהם מעיינות טבעיים הכלואים בתחום חומות העיר."
+  },
+  {
+    "canonical_hebrew": "קטנה",
+    "canonical_english": "Qatna",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 73,
+    "context_summary": "קטנה (סוריה) היא אחת מחמש הערים העתיקות בארץ ישראל-סוריה בהן הובחנו מפעלי מים שהם מעיינות טבעיים הכלואים בתחום חומות העיר."
+  },
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 73,
+    "context_summary": "קיימת אפשרות שהיו מפעלי מים של מעיינות טבעיים הכלואים בתחום חומות העיר גם בחצור."
+  },
+  {
+    "canonical_hebrew": "תל זרעה",
+    "canonical_english": "Tel Zera'a",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 73,
+    "context_summary": "קיימת אפשרות שהיו מפעלי מים של מעיינות טבעיים הכלואים בתחום חומות העיר גם בתל זרעה שבגלעד."
+  },
+  {
+    "canonical_hebrew": "גלעד",
+    "canonical_english": "Gilead",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 73,
+    "context_summary": "תל זרעה שבגלעד הוא אתר בו ייתכן והיו מפעלי מים מסוג מעיינות כלואים."
+  },
+  {
+    "canonical_hebrew": "עין שפע",
+    "canonical_english": "Ein Shefa",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Kabri Spring"
+    ],
+    "site_type": "Spring",
+    "page_number": 73,
+    "context_summary": "במרכז תל כברי נמצא המעיין עין שפע, שסיפק את כל צרכי העיר ומימיו העודפים הוזרמו בתעלה."
+  },
+  {
+    "canonical_hebrew": "עין גיח",
+    "canonical_english": "Ein Giah",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Kabri Spring"
+    ],
+    "site_type": "Spring",
+    "page_number": 73,
+    "context_summary": "עין גיח לא נכלל בתחומי העיר כברי, ומימיו זרמו לשדות שממזרח ומדרום לה."
+  },
+  {
+    "canonical_hebrew": "ליש",
+    "canonical_english": "Laish",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 73,
+    "context_summary": "העיר דן (ליש) הוקפה בסוללת ענק שתחמה שטח של כ-200 דונם."
+  },
+  {
+    "canonical_hebrew": "מעיינות הדן",
+    "canonical_english": "Dan Springs",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 74,
+    "context_summary": "בצד הצפון-מערבי של תל דן נובעים המעיינות הגדולים ביותר בארץ ישראל - מעיינות הדן, ששימשו כמקור המים של העיר."
+  },
+  {
+    "canonical_hebrew": "בולען תל דן",
+    "canonical_english": "Tel Dan Sinkhole",
+    "hebrew_aliases": [
+      "בולען"
+    ],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 74,
+    "context_summary": "בצד המערבי של תל דן קיים בולען שבו נבלעים המים ונעלמים מתחת לפני השטח, וייתכן שהיה מעבר מים מלאכותי."
+  },
+  {
+    "canonical_hebrew": "תעלה בתל דן",
+    "canonical_english": "Tel Dan Channel",
+    "hebrew_aliases": [
+      "תעלה"
+    ],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 74,
+    "context_summary": "התעלה המוציאה כיום את מרבית מי המעיינות המזרחיים מתחום תל דן היא תוצר מאוחר הקשור לשינוי פני השטח וניקוזם."
+  },
+  {
+    "canonical_hebrew": "בית מרחץ בתל דן",
+    "canonical_english": "Tel Dan Bathhouse",
+    "hebrew_aliases": [
+      "בית מרחץ"
+    ],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 74,
+    "context_summary": "באזור המעיין העליון בתל דן נתגלו מתקנים מתקופות מאוחרות יותר המעידים על שימוש במים, כגון בית מרחץ."
+  },
+  {
+    "canonical_hebrew": "נימפיאון בתל דן",
+    "canonical_english": "Tel Dan Nymphaeum",
+    "hebrew_aliases": [
+      "נימפיאון"
+    ],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 74,
+    "context_summary": "באזור המעיין העליון בתל דן נתגלו מתקנים מתקופות מאוחרות יותר המעידים על שימוש במים, כגון נימפיאון קטן מהתקופה הרומית."
+  },
+  {
+    "canonical_hebrew": "מעיין אלישע",
+    "canonical_english": "Elisha Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 75,
+    "context_summary": "המעיין של יריחו - מעיין אלישע - היה בתחום חומות העיר, ומימיו מנוצלים כיום על ידי העיר יריחו."
+  },
+  {
+    "canonical_hebrew": "מי יריחו",
+    "canonical_english": "Waters of Jericho",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 75,
+    "context_summary": "המעיין נזכר במקרא כ\"מי יריחו\" וכמעיין עם מים רעים שאלישע הנביא ריפא."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 76,
+    "context_summary": "מעיין הגיחון היה מקור המים העיקרי של ירושלים בעת העתיקה, מצוי באפיק נחל קדרון וסיפק מים רבים לעיר."
+  },
+  {
+    "canonical_hebrew": "נחל קדרון",
+    "canonical_english": "Kidron Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 76,
+    "context_summary": "מעיין הגיחון מצוי באפיק נחל קדרון בעומק של כ-10 מטרים מתחת לפני השטח הנוכחיים."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 76,
+    "context_summary": "נקבת חזקיהו נועדה להעביר את המים מצד אחד של הגבעה לצד השני ולאחר מכן גם להיפטר מעודפי המים."
+  },
+  {
+    "canonical_hebrew": "בריכת השילוח",
+    "canonical_english": "Pool of Siloam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 76,
+    "context_summary": "בימי בית שני חשבו כי מוצא ניקבת חזקיהו הוא המעיין הטבעי, ורוב המים יצאו בבריכת השילוח."
+  },
+  {
+    "canonical_hebrew": "עין השילוח",
+    "canonical_english": "Siloam Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Ein HaShiloah"
+    ],
+    "site_type": "Spring",
+    "page_number": 76,
+    "context_summary": "המעיין שקיבל את השם 'שילוח' נקרא 'עין השילוח' לאחר סתימת מעיין הגיחון בימי בית שני."
+  },
+  {
+    "canonical_hebrew": "עין התנין",
+    "canonical_english": "Ein HaTanin",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Dragon Spring"
+    ],
+    "site_type": "Spring",
+    "page_number": 77,
+    "context_summary": "ברסלבי הציע כי עין התנין הנזכר אצל נחמיה הוא קצה ניקבת חזקיהו."
+  },
+  {
+    "canonical_hebrew": "עין אום דרג'",
+    "canonical_english": "Ein Umm Daraj",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 77,
+    "context_summary": "במאה ה-14 לספירה הגיחו מי הגיחון ממקום סתימתם, ומכאן מקור השם 'עין אום דרג''."
+  },
+  {
+    "canonical_hebrew": "עין סית מרים",
+    "canonical_english": "Ein Sitt Maryam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 77,
+    "context_summary": "הנוצרים קידשו את המעיין כי על פי המסורת כיבסה כאן מרים את חיתולי ישו ומכאן השם 'עין סית מרים'."
+  },
+  {
+    "canonical_hebrew": "תעלה I (גיחון)",
+    "canonical_english": "Channel I (Gihon)",
+    "hebrew_aliases": [
+      "תעלה I"
+    ],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 77,
+    "context_summary": "תעלה I מסתעפת מן הקצה המזרחי של בריכת המעיין, חלקה חצוב בסלע וחלקה בנוי, ושימשה ככל הנראה להשקיית חלקות חקלאיות בנחל קדרון."
+  },
+  {
+    "canonical_hebrew": "פיר וורן",
+    "canonical_english": "Warren's Shaft",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 78,
+    "context_summary": "פיר וורן נתגלה לראשונה בשנת 1867 על ידי צ'רלס וורן, והוא חלק ממפעל המים המרכזי של ירושלים בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "המגדל (גיחון)",
+    "canonical_english": "The Tower (Gihon)",
+    "hebrew_aliases": [
+      "המגדל האדיר"
+    ],
+    "english_aliases": [
+      "The Great Tower"
+    ],
+    "site_type": "Fortress",
+    "page_number": 78,
+    "context_summary": "המגדל העצום, יחד עם פיר וורן, הבריכה ותעלות II ו-III, מהווה את מפעל המים של תקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "הבריכה (גיחון)",
+    "canonical_english": "The Pool (Gihon)",
+    "hebrew_aliases": [
+      "הבריכה"
+    ],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 78,
+    "context_summary": "הבריכה, יחד עם פיר וורן, המגדל העצום ותעלות II ו-III, מהווה את מפעל המים של תקופת הברונזה התיכונה, אליה הגיעו מים ממעיין הגיחון."
+  },
+  {
+    "canonical_hebrew": "תעלה II (גיחון)",
+    "canonical_english": "Channel II (Gihon)",
+    "hebrew_aliases": [
+      "תעלה II"
+    ],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 78,
+    "context_summary": "תעלה II, יחד עם פיר וורן, המגדל העצום והבריכה, מהווה את מפעל המים של תקופת הברונזה התיכונה, והיא הובילה מים לבריכה."
+  },
+  {
+    "canonical_hebrew": "תעלה III (גיחון)",
+    "canonical_english": "Channel III (Gihon)",
+    "hebrew_aliases": [
+      "תעלה III"
+    ],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 78,
+    "context_summary": "תעלה III, יחד עם פיר וורן, המגדל העצום והבריכה, מהווה את מפעל המים של תקופת הברונזה התיכונה, והיא הובילה מים לבריכה."
+  },
+  {
+    "canonical_hebrew": "עיר דוד",
+    "canonical_english": "City of David",
+    "hebrew_aliases": [
+      "גבעת עיר דוד"
+    ],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 78,
+    "context_summary": "הגיאולוגיה של גבעת עיר דוד כוללת ארבע תצורות סלע שונות הנוטות דרומה-מזרחה כלפי נחל קדרון."
+  },
+  {
+    "canonical_hebrew": "המנהרה (פיר וורן)",
+    "canonical_english": "The Tunnel (Warren's Shaft)",
+    "hebrew_aliases": [
+      "המנהרה"
+    ],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 78,
+    "context_summary": "המנהרה היא חלק מפיר וורן, חצובה ברובה בשכבת המלכה, ודרכה עלו וירדו מהעיר."
+  },
+  {
+    "canonical_hebrew": "המערה הדרומית (גיחון)",
+    "canonical_english": "Southern Cave (Gihon)",
+    "hebrew_aliases": [
+      "המערה הדרומית"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 79,
+    "context_summary": "מדרום לראש הפיר מצויה ה\"מערה הדרומית\" שנחפרה על ידי רייך ושוקרון, וייתכן שהיא המשך המנהרה."
+  },
+  {
+    "canonical_hebrew": "בריכה הישנה (ירושלים)",
+    "canonical_english": "Old Pool (Jerusalem)",
+    "hebrew_aliases": [
+      "הבריכה הישנה"
+    ],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 80,
+    "context_summary": "תעלה II מגיעה עד למקום המפגש של נחל קדרון והגיא, מקום בו שכנה אחת מבריכות האגירה הקדומות של ירושלים - אולי ה\"בריכה הישנה\"."
+  },
+  {
+    "canonical_hebrew": "הגיא (ירושלים)",
+    "canonical_english": "The Valley (Jerusalem)",
+    "hebrew_aliases": [
+      "הגיא"
+    ],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 80,
+    "context_summary": "תעלה II מגיעה עד למקום המפגש של נחל קדרון והגיא, וחלונות בתעלה איפשרו למים להשקות את הגיא."
+  },
+  {
+    "canonical_hebrew": "גן המלך",
+    "canonical_english": "King's Garden",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 80,
+    "context_summary": "חלונות בתעלה II איפשרו למים לגלוש החוצה ולהשקות את הגיא שבו היו גני פרי - \"גן המלך\"."
+  }
+]

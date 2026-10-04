@@ -1,0 +1,589 @@
+[
+  {
+    "canonical_hebrew": "תל יזרעאל",
+    "canonical_english": "Tel Yizrael",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 161,
+    "context_summary": "העמוד מתאר בורות מים (מס' 2, 20, 52, 51, 53, 40) שנבדקו באתר, ובהם שכבות טיח מתקופת הברזל, הרומית המוקדמת, הרומית המאוחרת והביזנטית."
+  },
+  {
+    "canonical_hebrew": "בור מס' 2",
+    "canonical_english": "Cistern No. 2",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 161,
+    "context_summary": "בור מים המצוי בפינה הדרום-מזרחית של המגדל הישראלי, חלקו בנוי וחלקו חצוב בסלע, עם טיח אפור."
+  },
+  {
+    "canonical_hebrew": "בור מס' 20",
+    "canonical_english": "Cistern No. 20",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 161,
+    "context_summary": "בור מים המצוי בין החומה לחפיר המזרחי, חצוב בסלע גיר קשה, עם טיח ורוד על אפור המאפיין את התקופה הרומית המאוחרת ו/או הביזנטית."
+  },
+  {
+    "canonical_hebrew": "בור מס' 52",
+    "canonical_english": "Cistern No. 52",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 161,
+    "context_summary": "בור מים במדרון הצפוני של התל, עגול, בעומק 5.6 מ', ובו שתי שכבות טיח, התחתונה מתוארכת לתקופת הברזל."
+  },
+  {
+    "canonical_hebrew": "בור מס' 51",
+    "canonical_english": "Cistern No. 51",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 161,
+    "context_summary": "בור מים במדרון הצפוני של התל, פתחו מרובע, צורתו משולשת עם פינות מעוגלות, ובו שתי שכבות טיח, התחתונה מתוארכת לתקופת הברזל."
+  },
+  {
+    "canonical_hebrew": "בור מס' 53",
+    "canonical_english": "Cistern No. 53",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 161,
+    "context_summary": "בור מים במדרון הצפוני, מרובע עם פינות מעוגלות, בעומק 4.2 מ', טויח בשכבה אחת."
+  },
+  {
+    "canonical_hebrew": "בור 40",
+    "canonical_english": "Cistern No. 40",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 161,
+    "context_summary": "בור מים שבו אותרה שכבת טיח בגוון אפור, כנראה מראשית התקופה הרומית."
+  },
+  {
+    "canonical_hebrew": "תל יזרעאל",
+    "canonical_english": "Tel Yizrael",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 162,
+    "context_summary": "סקר בורות מים בתל יזרעאל הצביע על ריבוי בורות ומגוון ממצא, כולל שני בורות מתקופת הברזל 2, המעיד על עשרות ואולי מאות בורות שסיפקו את תצרוכת המים של העיר."
+  },
+  {
+    "canonical_hebrew": "ח'רבת בנת בר",
+    "canonical_english": "Khirbet Banat Bar",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 162,
+    "context_summary": "חורבה במערב השומרון, פרוסה כמניפה סביב מצוק, ובה מתקנים חקלאיים רבים ובורות מים, כולל בור מלבני עם טיח מתקופת הברזל."
+  },
+  {
+    "canonical_hebrew": "מערב השומרון",
+    "canonical_english": "Western Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 162,
+    "context_summary": "ח'רבת בנת בר מצויה במערב השומרון."
+  },
+  {
+    "canonical_hebrew": "נחל שילה",
+    "canonical_english": "Nahal Shiloh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 162,
+    "context_summary": "ח'רבת בנת בר ממוקמת בגדה הצפונית העליונה של נחל שילה."
+  },
+  {
+    "canonical_hebrew": "קלע",
+    "canonical_english": "Qala",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 162,
+    "context_summary": "בורות נוספים מצויים באתר קלע, השייך לאתרים שהתפרנסו מייצור שמן במאה ה-8 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "חירבת מרג'מה",
+    "canonical_english": "Khirbet Marjameh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 162,
+    "context_summary": "תל רב שכבתי על שלוחה תלולה סמוך לעין סמיה, עם ביצורים מתקופת המלוכה ובור מים חצוב בסלע."
+  },
+  {
+    "canonical_hebrew": "עין סמיה",
+    "canonical_english": "Ein Samia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 162,
+    "context_summary": "המעיין הגדול של עין סמיה מצוי בסמוך לחירבת מרג'מה ושימש מקור המים העיקרי של העיר."
+  },
+  {
+    "canonical_hebrew": "רמאללה",
+    "canonical_english": "Ramallah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 162,
+    "context_summary": "חירבת מרג'מה ממוקמת כ-16 ק\"מ מצפון-מזרח לרמאללה."
+  },
+  {
+    "canonical_hebrew": "בעל שלשה",
+    "canonical_english": "Baal Shalisha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 162,
+    "context_summary": "קלאי הציע לזהות את חירבת מרג'מה עם העיר המקראית בעל שלשה."
+  },
+  {
+    "canonical_hebrew": "תל א-נצבה",
+    "canonical_english": "Tel en-Nasbeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 162,
+    "context_summary": "תל א-נצבה נחפר בשנים 1935-1926, ובו נערך מחקר שיטתי של בורות המים על-ידי זורן."
+  },
+  {
+    "canonical_hebrew": "תל א-נצבה",
+    "canonical_english": "Tel en-Nasbeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 163,
+    "context_summary": "באתר תל א-נצבה נמנו 104 בורות מים, רובם בצורת בקבוק, עם נפח ממוצע של 18 מ\"ק, חלקם מתוארכים לתקופת הברזל 1 ו-2."
+  },
+  {
+    "canonical_hebrew": "חורבת שילחה",
+    "canonical_english": "Khirbet Shilḥa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 164,
+    "context_summary": "חורבת שילחה, אתר חד-שכבתי מהמאה ה-7 לפנה\"ס, כולל מבנה רבוע ובו בור מים חצוב בסלע."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 164,
+    "context_summary": "חורבת שילחה מצויה כ-14 ק\"מ מצפון-מזרח לירושלים."
+  },
+  {
+    "canonical_hebrew": "יריחו",
+    "canonical_english": "Jericho",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 164,
+    "context_summary": "תפקיד המבנה בחורבת שילחה אינו ברור, ייתכן שהיה מצודה ממלכתית על הדרך ליריחו."
+  },
+  {
+    "canonical_hebrew": "חירבת דיר א-סיד",
+    "canonical_english": "Khirbet Deir es-Sid",
+    "hebrew_aliases": [
+      "ענתות"
+    ],
+    "english_aliases": [
+      "Anathoth"
+    ],
+    "site_type": "Settlement",
+    "page_number": 164,
+    "context_summary": "יישוב נרחב משלהי תקופת הברזל 2, המצוי כ-5 ק\"מ מצפון-מזרח להר הבית בירושלים, ובו בורות מים חצובים עם תעלות."
+  },
+  {
+    "canonical_hebrew": "הר הבית",
+    "canonical_english": "Temple Mount",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 164,
+    "context_summary": "חירבת דיר א-סיד מצויה כ-5 ק\"מ מצפון-מזרח להר הבית בירושלים."
+  },
+  {
+    "canonical_hebrew": "בית שמש",
+    "canonical_english": "Bet Shemesh",
+    "hebrew_aliases": [
+      "תל בית שמש"
+    ],
+    "english_aliases": [
+      "Tel Bet Shemesh"
+    ],
+    "site_type": "Tell",
+    "page_number": 164,
+    "context_summary": "בחפירות בתל בית שמש נחשף בור מים עגול שתוארך לתקופת הברזל 2, בעל קוטר 5.75 מ' ועומק 7 מ', עם טיח אפור."
+  },
+  {
+    "canonical_hebrew": "חירבת אל-כיכ",
+    "canonical_english": "Khirbet el-Kikh",
+    "hebrew_aliases": [
+      "רמת בית שמש"
+    ],
+    "english_aliases": [
+      "Ramat Bet Shemesh"
+    ],
+    "site_type": "Settlement",
+    "page_number": 164,
+    "context_summary": "חורבה בשטח 30 דונם, ובה נחשף בור מים חצוב בסלע עם תעלה צרה, ובו חרסים מתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "תל בית מרסים",
+    "canonical_english": "Tel Beit Mirsim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 165,
+    "context_summary": "תל בית מרסים, עיר ישראלית מתקופת הברזל, נחפרה בשנים 1932-1926, ובה נתגלו מספר בורות מים בשכבה A, כולל בור עם תעלת מים בנויה."
+  },
+  {
+    "canonical_hebrew": "השפלה הדרומית",
+    "canonical_english": "Southern Shephelah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 165,
+    "context_summary": "תל בית מרסים שוכנת בגבול השפלה הדרומית והר חברון."
+  },
+  {
+    "canonical_hebrew": "הר חברון",
+    "canonical_english": "Hebron Hills",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 165,
+    "context_summary": "תל בית מרסים שוכנת בגבול השפלה הדרומית והר חברון."
+  },
+  {
+    "canonical_hebrew": "אמציה",
+    "canonical_english": "Amatzia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 165,
+    "context_summary": "תל בית מרסים ממוקמת ממזרח למושב אמציה."
+  },
+  {
+    "canonical_hebrew": "חירבת אבו א-טווין",
+    "canonical_english": "Khirbet Abu et-Twein",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 165,
+    "context_summary": "מצודה ישראלית בראש כיפה במערב הר חברון, נחפרה בשנים 1974-5, ובה בור ממים גדול חצוב בסלע בנפח משוער של 250 מ\"ק."
+  },
+  {
+    "canonical_hebrew": "כפר עציון",
+    "canonical_english": "Kfar Etzion",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 165,
+    "context_summary": "חירבת אבו א-טווין ממוקמת כ-3 ק\"מ מצפון-מערב לכפר עציון."
+  },
+  {
+    "canonical_hebrew": "חירבת אבו א-טווין",
+    "canonical_english": "Khirbet Abu et-Twein",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 166,
+    "context_summary": "הבור בחירבת אבו א-טווין, בעל צורת לב וחתך קמור, טויח בשתי שכבות חול עם גריסי חרסים, וקיבל מים מנגר גגות המצודה ומשטחי הסלע."
+  },
+  {
+    "canonical_hebrew": "ביר אל-עבהרה",
+    "canonical_english": "Bir el-Abehara",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 166,
+    "context_summary": "ניתן היה להשלים את כמות המים בבור של חירבת אבו א-טווין ממעיין ביר אל-עבהרה, המצוי כחצי קילומטר מדרום-מזרח."
+  },
+  {
+    "canonical_hebrew": "מדבר יהודה",
+    "canonical_english": "Judean Desert",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 166,
+    "context_summary": "במדבר יהודה, באזור הבוקיעה, התגלו שלוש מצודות עם חומת סוגרים ומפעלי מים מתקופת הברזל 2ב'-ג'."
+  },
+  {
+    "canonical_hebrew": "הבוקיעה",
+    "canonical_english": "Ha-Buqe'a",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 166,
+    "context_summary": "הבוקיעה, חבל ארץ במדבר יהודה, הוצע לזהותו עם עמק עכור המקראי, ובו התגלו מצודות עם מפעלי מים."
+  },
+  {
+    "canonical_hebrew": "עמק עכור",
+    "canonical_english": "Achor Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 166,
+    "context_summary": "הבוקיעה הוצע לזהותו עם עמק עכור המקראי (יהושע ז 24)."
+  },
+  {
+    "canonical_hebrew": "ח'רבת אבו טבק",
+    "canonical_english": "Khirbet Abu Tabaq",
+    "hebrew_aliases": [
+      "חרבת כרם עטרד"
+    ],
+    "english_aliases": [
+      "Khirbet Kerem Atarad"
+    ],
+    "site_type": "Fortress",
+    "page_number": 166,
+    "context_summary": "מצודה מלבנית בראש גבעה החולשת על נחל קומראן, שמאגר המים שלה היה מערת אבו טבק."
+  },
+  {
+    "canonical_hebrew": "נחל קומראן",
+    "canonical_english": "Nahal Qumran",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 166,
+    "context_summary": "ח'רבת אבו טבק חולשת על נחל קומראן מדרום."
+  },
+  {
+    "canonical_hebrew": "מערת אבו טבק",
+    "canonical_english": "Abu Tabaq Cave",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 166,
+    "context_summary": "מערת אבו טבק, המצויה לרגלי המצודה מצפון, שימשה מאגר המים שלה, באורך 35 מ', רוחב 7 מ' וגובה 5 מ'."
+  },
+  {
+    "canonical_hebrew": "מערת אבו טבק",
+    "canonical_english": "Abu Tabaq Cave",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 167,
+    "context_summary": "במרחק 18 מ' מפתח מערת אבו טבק מצוי בור מים חצוב בסלע שעומקו כ-6 מ', ונראה שהיה בתוכה פיר לשאיבת מים."
+  },
+  {
+    "canonical_hebrew": "כרם א-סמרא",
+    "canonical_english": "Kerem es-Samra",
+    "hebrew_aliases": [
+      "כרם אל עג'ז"
+    ],
+    "english_aliases": [
+      "Kerem el-Ajez"
+    ],
+    "site_type": "Fortress",
+    "page_number": 167,
+    "context_summary": "מצודת סוגרים מלבנית, ובה בריכה בגודל 22X18 מ' בדרום-מערב המצודה."
+  },
+  {
+    "canonical_hebrew": "ח'רבת אל-מכרי",
+    "canonical_english": "Khirbet el-Makari",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 167,
+    "context_summary": "מצודת סוגרים מתקופת הברזל 2, ובסמוך לה מצויה בריכה תחומה בסוללת עפר ושני בורות מים צמודים באתר מע'איר א-טבקה."
+  },
+  {
+    "canonical_hebrew": "מע'איר א-טבקה",
+    "canonical_english": "Maghayir et-Tabaqa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 167,
+    "context_summary": "200 מ' מצפון-מערב לח'רבת אל-מכרי מצוי האתר מע'איר א-טבקה, ובו שני בורות מים צמודים חצובים במדרון הגבעה."
+  },
+  {
+    "canonical_hebrew": "קומראן",
+    "canonical_english": "Qumran",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 167,
+    "context_summary": "קומראן נושב לראשונה במאות ה-8 וה-7 לפנה\"ס, ובו הוקם מבנה מלבני ובור מים עגול (לוקוס 110) בנפח כ-136 מ\"ק."
+  },
+  {
+    "canonical_hebrew": "ייעיר מלחי",
+    "canonical_english": "Ya'ir Malḥi",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 167,
+    "context_summary": "המקום קומראן מוצע לזהות עם ייעיר מלחי או ייסככה\" המצויות ברשימת שש ערי המדבר."
+  },
+  {
+    "canonical_hebrew": "ייסככה",
+    "canonical_english": "Sekhakha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 167,
+    "context_summary": "המקום קומראן מוצע לזהות עם ייעיר מלחי או ייסככה\" המצויות ברשימת שש ערי המדבר."
+  },
+  {
+    "canonical_hebrew": "תל חליף",
+    "canonical_english": "Tel Halif",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 168,
+    "context_summary": "בשטח IV בתל חליף נחשף פתחו של בור מים מלבני מטויח היטב, המתוארך כנראה לתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "תל עירא",
+    "canonical_english": "Tel Ira",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 168,
+    "context_summary": "תל עירא, עיר גדולה בנגב יהודה מהמאות 7-8 לפנה\"ס, ובה נתגלו שישה בורות מים עם צווארים חצובים ושפות מוגנות בלוחות אבן."
+  },
+  {
+    "canonical_hebrew": "נגב יהודה",
+    "canonical_english": "Judean Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 168,
+    "context_summary": "תל עירא היא הגדולה בערי נגב יהודה."
+  },
+  {
+    "canonical_hebrew": "בקעת באר שבע",
+    "canonical_english": "Be'er Sheva Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 168,
+    "context_summary": "תל עירא מתנשאת כ-150 מ' מעל בקעת באר שבע."
+  },
+  {
+    "canonical_hebrew": "באר משש",
+    "canonical_english": "Beer Mashash",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 168,
+    "context_summary": "במרחק כ-3 ק\"מ מדרום-מערב לתל עירא מצויה באר משש, ממנה ניתן היה לשאוב מים ולהובילם לתל."
+  },
+  {
+    "canonical_hebrew": "חורבת עוזה",
+    "canonical_english": "Khirbet Uza",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 168,
+    "context_summary": "מצודה מסוף תקופת הברזל 2, נחפרה בשנים 1982-5, ובה תעלת ניקוז מקורה בלוחות אבן במעבר השער, וכן שני שקעים מחוץ לחומה הדרומית."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Be'er Sheva",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 168,
+    "context_summary": "תעלת הניקוז בחורבת עוזה נסתיימה ככל הנראה בבור החצוב בראש המדרון, בדומה למצב בבאר שבע."
+  },
+  {
+    "canonical_hebrew": "נחל קינה",
+    "canonical_english": "Nahal Qina",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 169,
+    "context_summary": "בוואדי שמדרום לחורבת עוזה, בגדה הצפונית של יובל של נחל קינה, מצויים שלושה בורות מים גדולים."
+  },
+  {
+    "canonical_hebrew": "חורבת עוזה",
+    "canonical_english": "Khirbet Uza",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 169,
+    "context_summary": "שלושת הבורות הממוקמים בסמוך לחורבת עוזה הם ככל הנראה מפעל המים המרכזי שלה, שאגרו כ-1000 מ\"ק מים."
+  },
+  {
+    "canonical_hebrew": "חורבת רדום",
+    "canonical_english": "Khirbet Radum",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 169,
+    "context_summary": "מצודה קטנה מסוף תקופת הברזל 2, מרוחקת כ-2 ק\"מ מדרום לחורבת עוזה, ובה שני שקעים מחוץ לחומה הצפונית, כנראה בורות מים שנסתמו."
+  },
+  {
+    "canonical_hebrew": "נגב יהודה",
+    "canonical_english": "Judean Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 169,
+    "context_summary": "חורבת רדום מצויה בגבול הדרום-מזרחי של נגב יהודה."
+  },
+  {
+    "canonical_hebrew": "נחל חימר",
+    "canonical_english": "Nahal Haimar",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 169,
+    "context_summary": "חורבת רדום צופה אל מרחבי אגן הניקוז הגדול של נחל חימר, וביובליו מצויים גבים הקולטים מי שטפונות."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 170,
+    "context_summary": "תנאי המחייה בהר הנגב קשים, עם מיעוט משקעים וחום רב, אך האדם ידע להתמודד ולהתגורר באזור בתקופות מסוימות."
+  },
+  {
+    "canonical_hebrew": "שדה בוקר",
+    "canonical_english": "Sde Boker",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 170,
+    "context_summary": "הממוצע השנתי של משקעים בשדה בוקר הוא כ-95 מ\"מ."
+  },
+  {
+    "canonical_hebrew": "מצפה רמון",
+    "canonical_english": "Mitzpe Ramon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 170,
+    "context_summary": "הממוצע השנתי של משקעים במצפה רמון הוא כ-78 מ\"מ."
+  },
+  {
+    "canonical_hebrew": "חורבת חלוקים",
+    "canonical_english": "Khirbet Halukim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 170,
+    "context_summary": "נפח בור בחורבת חלוקים הוא כ-300 מ\"ק."
+  },
+  {
+    "canonical_hebrew": "חמת",
+    "canonical_english": "Hamat",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 170,
+    "context_summary": "נפח בור חמת הוא 1250 מ\"ק."
+  }
+]

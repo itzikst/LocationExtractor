@@ -1,0 +1,98 @@
+[
+  {
+    "canonical_hebrew": "מיקנה",
+    "canonical_english": "Mycenae",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 426,
+    "context_summary": "צילום מיקרוסקופי של הטיח במאגר המים במיקנה (המכון הגיאולוגי)"
+  },
+  {
+    "canonical_hebrew": "קלע",
+    "canonical_english": "Qala'a",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 426,
+    "context_summary": "צילום מיקרוסקופי של הטיח בבור מים בקלע (המכון הגיאולוגי)"
+  },
+  {
+    "canonical_hebrew": "תל נצבה",
+    "canonical_english": "Tel Nasbeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 426,
+    "context_summary": "צילום מיקרוסקופי של הטיח בבור מים בתל נצבה (המכון הגיאולוגי)"
+  },
+  {
+    "canonical_hebrew": "תל בית שמש",
+    "canonical_english": "Tel Bet Shemesh",
+    "hebrew_aliases": [
+      "בית שמש"
+    ],
+    "english_aliases": [
+      "Bet Shemesh"
+    ],
+    "site_type": "Tell",
+    "page_number": 427,
+    "context_summary": "צילום מיקרוסקופי של הטיח במאגר המים בבית שמש (המכון הגיאולוגי)"
+  },
+  {
+    "canonical_hebrew": "קומראן",
+    "canonical_english": "Qumran",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 427,
+    "context_summary": "צילום מיקרוסקופי של הטיח בבור המים בקומראן (המכון הגיאולוגי)"
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 427,
+    "context_summary": "צילום מיקרוסקופי של הטיח במאגר המים בערד (המכון הגיאולוגי)"
+  },
+  {
+    "canonical_hebrew": "מיקנה",
+    "canonical_english": "Mycenae",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Mycene"
+    ],
+    "site_type": "Comparative Site",
+    "page_number": 430,
+    "context_summary": "In the Late Bronze Age and Iron Age 1 there was a decline in quantity, quality and variety of water systems, except those found in Mycene, which are not tied to the water culture of Israel."
+  },
+  {
+    "canonical_hebrew": "ישראל",
+    "canonical_english": "Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 430,
+    "context_summary": "The present investigation bears on the central themes of water culture in Israel during the ancient period. Aqueducts were introduced to Israel together with Hellenistic culture."
+  },
+  {
+    "canonical_hebrew": "תל באר שבע",
+    "canonical_english": "Tel Be'er Sheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 430,
+    "context_summary": "Suffice to mention that the impressive water projects of Tel Be'er Sheba and Tel Bet Shemesh were discovered only in recent years."
+  },
+  {
+    "canonical_hebrew": "תל בית שמש",
+    "canonical_english": "Tel Bet Shemesh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 430,
+    "context_summary": "Suffice to mention that the impressive water projects of Tel Be'er Sheba and Tel Bet Shemesh were discovered only in recent years."
+  }
+]

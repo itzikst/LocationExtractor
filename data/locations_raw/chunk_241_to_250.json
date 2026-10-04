@@ -1,0 +1,863 @@
+[
+  {
+    "canonical_hebrew": "בוצרה",
+    "canonical_english": "Bozrah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 241,
+    "context_summary": "איור של הבאר והחרסים שנמצאו בה."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 241,
+    "context_summary": "איורים של בורות מים שונים בשטחים ג, ד, וה, וכן תכנית וחתכים של מאגר המים."
+  },
+  {
+    "canonical_hebrew": "תל גזר",
+    "canonical_english": "Tel Gezer",
+    "hebrew_aliases": [
+      "גזר"
+    ],
+    "english_aliases": [
+      "Gezer"
+    ],
+    "site_type": "Tell",
+    "page_number": 241,
+    "context_summary": "תכניות סכמטיות ומדויקות של שכבה 10 ובה שני בורות מים."
+  },
+  {
+    "canonical_hebrew": "בית שאן",
+    "canonical_english": "Bet Shean",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 241,
+    "context_summary": "איור של באר מהמאה ה-14 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "אתונה",
+    "canonical_english": "Athens",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 241,
+    "context_summary": "תכנית האקרופוליס ומיקום המעיין, וחתך ושחזור של מנהרת המעיין המיקנית."
+  },
+  {
+    "canonical_hebrew": "האקרופוליס",
+    "canonical_english": "Acropolis",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 241,
+    "context_summary": "תכנית האקרופוליס באתונה ומיקום המעיין."
+  },
+  {
+    "canonical_hebrew": "מיקנה",
+    "canonical_english": "Mycenae",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 241,
+    "context_summary": "תכנית האתר אשר בקצהו הצפוני נוסף מפעל המים, ותכנית וצילומים של מפעל המים."
+  },
+  {
+    "canonical_hebrew": "טירינס",
+    "canonical_english": "Tiryns",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 241,
+    "context_summary": "תכנית האתר אשר בקצהו המערבי מפעלי המים, והמעברים אל מאגרי המים."
+  },
+  {
+    "canonical_hebrew": "דיר אל מדינה",
+    "canonical_english": "Deir el-Medina",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 241,
+    "context_summary": "חתכים ותכנית של אזור מפעל המים."
+  },
+  {
+    "canonical_hebrew": "תענך",
+    "canonical_english": "Taanach",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 241,
+    "context_summary": "מיקום המאגר ביחס למבנה מהמאה ה-12 לפנה\"ס, ותכנית וחתך של מאגר המים."
+  },
+  {
+    "canonical_hebrew": "תל בית שמש",
+    "canonical_english": "Tel Bet Shemesh",
+    "hebrew_aliases": [
+      "בית שמש"
+    ],
+    "english_aliases": [
+      "Bet Shemesh"
+    ],
+    "site_type": "Tell",
+    "page_number": 241,
+    "context_summary": "איורים של בורות מים מס' 1, 15, 17, 18, ו-19."
+  },
+  {
+    "canonical_hebrew": "אשדוד",
+    "canonical_english": "Ashdod",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 241,
+    "context_summary": "איור של בריכה מטויחת בתוך הארמון."
+  },
+  {
+    "canonical_hebrew": "דור",
+    "canonical_english": "Dor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 241,
+    "context_summary": "תכנית של הרציף העתיק ומיקום הבאר, תכנית וחתכים של הבאר, וציור אמן המשחזר את הרציף והבאר."
+  },
+  {
+    "canonical_hebrew": "תל גריסה",
+    "canonical_english": "Tel Gerisa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 241,
+    "context_summary": "חתך פרוס של ארבעת קירות מפעל המים, וצילום של החפירה בבאר בראשיתה."
+  },
+  {
+    "canonical_hebrew": "תל גריסה",
+    "canonical_english": "Tel Gerisa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 242,
+    "context_summary": "צילום של שלב החפירה בבאר לפני פינוי האבנים, ושרטוט של חתך בבאר עד לתחתית שנחפרה."
+  },
+  {
+    "canonical_hebrew": "תל בית שמש",
+    "canonical_english": "Tel Bet Shemesh",
+    "hebrew_aliases": [
+      "בית שמש"
+    ],
+    "english_aliases": [
+      "Bet Shemesh"
+    ],
+    "site_type": "Tell",
+    "page_number": 242,
+    "context_summary": "תכנית העיר הקדומה ומיקומה של הבאר, ותכנית וחתך במרכז העיר כולל הבאר."
+  },
+  {
+    "canonical_hebrew": "תל באר שבע",
+    "canonical_english": "Tel Beer Sheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 242,
+    "context_summary": "תכנית האתר ומיקום הבאר, מיקום הבאר ותעלת הניקוז, צילומי חפירת הבאר, הצבת כננת, המשטח מעל הבאר, הבאר מעומק 50 מ', קרקעית הבאר, והחלק העליון הבנוי של הבאר ושיטת בנייתו."
+  },
+  {
+    "canonical_hebrew": "תל א-סעידיה",
+    "canonical_english": "Tell es-Sa'idiyeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 242,
+    "context_summary": "מפת התל ושטחי החפירות, גרם המדרגות, קצהו התחתון של מפעל המים, והארמון המערבי ומתקני המים שלו."
+  },
+  {
+    "canonical_hebrew": "תענך",
+    "canonical_english": "Taanach",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 242,
+    "context_summary": "בור מים בתוך מבנה בעל 'צינור הניקוז', וחתך של בור המים בחצר המבנה."
+  },
+  {
+    "canonical_hebrew": "שילה",
+    "canonical_english": "Shiloh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 242,
+    "context_summary": "בור מים בשטח C, בחצר בית 335."
+  },
+  {
+    "canonical_hebrew": "העי",
+    "canonical_english": "Ai",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 242,
+    "context_summary": "תכנית היישוב, כאשר חלק מהסימונים העגולים הם בורות מים."
+  },
+  {
+    "canonical_hebrew": "רדאנה",
+    "canonical_english": "Raddana",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 242,
+    "context_summary": "תכנית היישוב בשטח C, כאשר בורות המים מסומנים בעיגול כפול."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 242,
+    "context_summary": "מפת התל ואמות המים שבקרבתו, תכניות, חתכים וצילומים של אמת המים הצפונית והדרומית, ואמת מים הבנויה מחוליות."
+  },
+  {
+    "canonical_hebrew": "הר אפרים",
+    "canonical_english": "Mount Ephraim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 242,
+    "context_summary": "הקשר בין אתרים מתקופת הברזל 1 למקורות מים."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 243,
+    "context_summary": "תכנית וחתכים של מפעל המים, וצילומים של אזור הכניסה, המדרגות, המנהרה ומקור המים."
+  },
+  {
+    "canonical_hebrew": "תל יקנעם",
+    "canonical_english": "Tel Yoqne'am",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 243,
+    "context_summary": "מפעל המים בתחום חומות העיר."
+  },
+  {
+    "canonical_hebrew": "תל מגידו",
+    "canonical_english": "Tel Megiddo",
+    "hebrew_aliases": [
+      "מגידו"
+    ],
+    "english_aliases": [
+      "Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 243,
+    "context_summary": "צילום של מקור המים (הבאר), תכנית וחתך של שלבי הבאר והמנהרה, תכנית מפעל המים, תכנית חפירת ידין ב'גלריה', חתך מפעל המים, וצילומים של גרם המדרגות, מנהרת המים והקיר החוסם."
+  },
+  {
+    "canonical_hebrew": "יבלעם",
+    "canonical_english": "Ibleam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 243,
+    "context_summary": "תכנית ושרטוט סכמתי של מפעל המים."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 243,
+    "context_summary": "תכנית העיר הקדומה עם מפעלי המים, תכנית חוממת העיר ושני מפעלי המים, חתך במפעל המים הראשון, צילום המנהרה המדורגת, תעלת ההזנה, חתך של מפעל המים השני ('הבריכה'), וצילומי הוצאת עפר מהבריכה."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 243,
+    "context_summary": "תכנית וחתכים בקטעים לאורך הנקבה, וחתך אורך כללי."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 244,
+    "context_summary": "צילומים של תיקוני כיוון, מקום מפגש החוצבים, הפיר הסתום שליד מוצא הנקבה, והקטע הגבוה בנקבה. כמו כן, תכנית הנקבה והדרך בה מדדו אותה מחוץ לעיר, ומיקום הכתובת."
+  },
+  {
+    "canonical_hebrew": "בריכת השילוח",
+    "canonical_english": "Pool of Siloam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 244,
+    "context_summary": "צילום של בריכת השילוח במוצא נקבת חזקיהו, וציורים היסטוריים של הבריכה."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 244,
+    "context_summary": "שלבים בחציבת המנהרות שסביב המעיין, וצילום של הפיר הקטן מעל לקצה המדרגות."
+  },
+  {
+    "canonical_hebrew": "פיר וורן",
+    "canonical_english": "Warren's Shaft",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 244,
+    "context_summary": "צילומים של הפיר מלמעלה כלפי מטה ומלמטה כלפי מעלה."
+  },
+  {
+    "canonical_hebrew": "תעלת העודפים",
+    "canonical_english": "Overflow Channel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 244,
+    "context_summary": "צילום של תעלת העודפים."
+  },
+  {
+    "canonical_hebrew": "כתובת השילוח",
+    "canonical_english": "Siloam Inscription",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 244,
+    "context_summary": "צילום וציור של כתובת השילוח."
+  },
+  {
+    "canonical_hebrew": "תעלת המים החשמונאית",
+    "canonical_english": "Hasmonean Water Channel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 244,
+    "context_summary": "איורים של 'תעלת המים החשמונאית'."
+  },
+  {
+    "canonical_hebrew": "תל מגידו",
+    "canonical_english": "Tel Megiddo",
+    "hebrew_aliases": [
+      "מגידו"
+    ],
+    "english_aliases": [
+      "Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 244,
+    "context_summary": "תכנית 'שביל המדרגות היורדות אל מאגר המים', וקצה המדרגות הפונות דרומה אל ה'מאגר'."
+  },
+  {
+    "canonical_hebrew": "תל גזר",
+    "canonical_english": "Tel Gezer",
+    "hebrew_aliases": [
+      "גזר"
+    ],
+    "english_aliases": [
+      "Gezer"
+    ],
+    "site_type": "Tell",
+    "page_number": 244,
+    "context_summary": "איור של מפעל המים המרכזי."
+  },
+  {
+    "canonical_hebrew": "תל בית שמש",
+    "canonical_english": "Tel Bet Shemesh",
+    "hebrew_aliases": [
+      "בית שמש"
+    ],
+    "english_aliases": [
+      "Bet Shemesh"
+    ],
+    "site_type": "Tell",
+    "page_number": 244,
+    "context_summary": "תכנית כללית של האתר, תכנית וחתכים של מאגר המים, איזומטריה של מאגר המים, וצילומים של הפיר האנכי, הפתח לכיוון מערב, תעלת המים המגיעה מהשער, וערמת העפר."
+  },
+  {
+    "canonical_hebrew": "תל בית שמש",
+    "canonical_english": "Tel Bet Shemesh",
+    "hebrew_aliases": [
+      "בית שמש"
+    ],
+    "english_aliases": [
+      "Bet Shemesh"
+    ],
+    "site_type": "Tell",
+    "page_number": 245,
+    "context_summary": "צילומים של שכבות טיח בדופן המאגר, בתא המערבי, סימני החלקה על הטיח, והתא המזרחי במאגר."
+  },
+  {
+    "canonical_hebrew": "עיטם",
+    "canonical_english": "Etam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 245,
+    "context_summary": "תכניות מאגר המים לפי חוקרים שונים, ושרידי טיח על קירות המאגר."
+  },
+  {
+    "canonical_hebrew": "עמאן",
+    "canonical_english": "Amman",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 245,
+    "context_summary": "תכנית מאגר המים."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Beer Sheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 245,
+    "context_summary": "תכנית וחתכים תלת ממדיים של מאגר המים."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 245,
+    "context_summary": "צילומים של הבאר לאחר עבודות פיתוח ושחזור, מבט פנימה החושף בנייה משתי תקופות, תכנית וחתך של המצודה, תעלת המים ומאגרי המים, צילומים של התעלה עם לוחות הכיסוי, המנהרה העוברת מתחת לחומת המצודה, מאגר המים המזרחי, וסימני מברשת בטיח."
+  },
+  {
+    "canonical_hebrew": "חורבת טוב",
+    "canonical_english": "Horvat Tov",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 245,
+    "context_summary": "מראה כללי לכיוון מזרח, וצילום של הבאר, נחל טוב והמצודה."
+  },
+  {
+    "canonical_hebrew": "נחל טוב",
+    "canonical_english": "Nahal Tov",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 245,
+    "context_summary": "מוזכר בהקשר לבאר ולמצודה בחורבת טוב."
+  },
+  {
+    "canonical_hebrew": "ערוער",
+    "canonical_english": "Aroer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 245,
+    "context_summary": "תכנית האתר, בחלק הצפוני ליד שטח B מצוי השקע."
+  },
+  {
+    "canonical_hebrew": "קדש ברנע",
+    "canonical_english": "Kadesh Barnea",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 245,
+    "context_summary": "תכנית המצודה האמצעית ובה מפעל המים, ומאגר המים ובו גרם המדרגות ותעלת ההזנה."
+  },
+  {
+    "canonical_hebrew": "תל יזרעאל",
+    "canonical_english": "Tel Jezreel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 245,
+    "context_summary": "מפת האתר עם סימון בורות המים מהסקר, וצילום של בור מס' 40."
+  },
+  {
+    "canonical_hebrew": "תל יזרעאל",
+    "canonical_english": "Tel Jezreel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 246,
+    "context_summary": "צילום של בור מס' 51."
+  },
+  {
+    "canonical_hebrew": "תל א-נצבה",
+    "canonical_english": "Tell en-Nasbeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 246,
+    "context_summary": "תכנית היישוב ובורות המים המסומנים בעיגולים, וחתכים של בורות ותכניות של בתים ובהם בורות."
+  },
+  {
+    "canonical_hebrew": "חורבת שילחה",
+    "canonical_english": "Horvat Shilḥa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 246,
+    "context_summary": "תכנית חורבת שילחה ובה בור המים מס' 21."
+  },
+  {
+    "canonical_hebrew": "תל בית שמש",
+    "canonical_english": "Tel Bet Shemesh",
+    "hebrew_aliases": [
+      "בית שמש"
+    ],
+    "english_aliases": [
+      "Bet Shemesh"
+    ],
+    "site_type": "Tell",
+    "page_number": 246,
+    "context_summary": "תכנית וחתך של בור המים שבשטח B."
+  },
+  {
+    "canonical_hebrew": "חירבת אל-כיכ",
+    "canonical_english": "Khirbet el-Kikh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 246,
+    "context_summary": "תכנית וחתך של בור המים."
+  },
+  {
+    "canonical_hebrew": "תל בית מרסים",
+    "canonical_english": "Tel Beit Mirsim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 246,
+    "context_summary": "תכנית השטח הדרום מזרחי ובו בור המים מס' A33-15."
+  },
+  {
+    "canonical_hebrew": "חירבת אבו א-טווין",
+    "canonical_english": "Khirbet Abu et-Twein",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 246,
+    "context_summary": "תכנית וחתך של המצודה ומיקום בור המים, תכנית וחתך של בור המים, וצילומים של מראה כללי, פתח בור המים ופינת המצודה, וטיח בדופן בור המים."
+  },
+  {
+    "canonical_hebrew": "קומראן",
+    "canonical_english": "Qumran",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 246,
+    "context_summary": "תכנית האתר ובה בולט הבור העגול, וצילומים של בור המים העגול בעת שימור ועם פתח התעלה המקורית."
+  },
+  {
+    "canonical_hebrew": "תל עירא",
+    "canonical_english": "Tel Ira",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 246,
+    "context_summary": "תכנית התל ומיקום בורות המים O-1 – O-6, וצילומים של פתחי בורות המים O-1 ו-O-2."
+  },
+  {
+    "canonical_hebrew": "עוזה",
+    "canonical_english": "Uza",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 246,
+    "context_summary": "תכנית האתר ובו תעלת הניקוז, בור המים ושני שקעים, תכנית של בור המים האמצעי, וצילומים של בור המים האמצעי."
+  },
+  {
+    "canonical_hebrew": "חורבת רדום",
+    "canonical_english": "Horvat Radum",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 246,
+    "context_summary": "תכנית האתר עם סימון השקעים."
+  },
+  {
+    "canonical_hebrew": "ערוץ נחל בוקר",
+    "canonical_english": "Nahal Boqer Channel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 246,
+    "context_summary": "תרשים סכמטי של בור פתוח מס' 122."
+  },
+  {
+    "canonical_hebrew": "הר נפחא",
+    "canonical_english": "Har Nafha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 246,
+    "context_summary": "תרשים סכמטי של בור פתוח מס' 305."
+  },
+  {
+    "canonical_hebrew": "מצודת אצבוע",
+    "canonical_english": "Metzudat Etzboa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 246,
+    "context_summary": "מצודת אצבוע ובה שני בורות פתוחים."
+  },
+  {
+    "canonical_hebrew": "נחל בוקר",
+    "canonical_english": "Nahal Boqer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 246,
+    "context_summary": "תרשים סכמטי של בור פתוח רדוד מס' 121."
+  },
+  {
+    "canonical_hebrew": "מצפה רמון",
+    "canonical_english": "Mitzpe Ramon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 246,
+    "context_summary": "מפת היישובים ובורות המים בתקופת הברזל 2 במפת מצפה רמון."
+  },
+  {
+    "canonical_hebrew": "אום אל ביארה",
+    "canonical_english": "Umm el-Biyara",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 246,
+    "context_summary": "צילומים של פתחי בורות מים, תעלה ופתח בור מים, ותעלה ופתח כניסת המים אל בור מים."
+  },
+  {
+    "canonical_hebrew": "אום אל ביארה",
+    "canonical_english": "Umm el-Biyara",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 247,
+    "context_summary": "צילומים של תעלה ופתח בור מים, תעלות ופתח בור מים, ותעלה ופתח כניסת המים אל בור מים."
+  },
+  {
+    "canonical_hebrew": "ג'ית",
+    "canonical_english": "Jith",
+    "hebrew_aliases": [
+      "גיית"
+    ],
+    "english_aliases": [
+      "Gith"
+    ],
+    "site_type": "Settlement",
+    "page_number": 247,
+    "context_summary": "תכנית וחתך של הבריכה הגדולה, וצילום של הבריכה הגדולה."
+  },
+  {
+    "canonical_hebrew": "ממלכת אוררטו",
+    "canonical_english": "Urartu Kingdom",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 247,
+    "context_summary": "מפה של ממלכת אוררטו."
+  },
+  {
+    "canonical_hebrew": "אגם רוסה",
+    "canonical_english": "Lake Rusa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Lake",
+    "page_number": 247,
+    "context_summary": "תעלת מנואה ומערכת הסכרים באזור אגם רוסה."
+  },
+  {
+    "canonical_hebrew": "תושפה",
+    "canonical_english": "Tushpa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 247,
+    "context_summary": "אחת מערי הבירה של אוררטו."
+  },
+  {
+    "canonical_hebrew": "טופראק קלה",
+    "canonical_english": "Toprakkale",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 247,
+    "context_summary": "אחת מערי הבירה של אוררטו."
+  },
+  {
+    "canonical_hebrew": "מידאס סיטי",
+    "canonical_english": "Midas City",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 247,
+    "context_summary": "תכנית העיר ומתקני המים."
+  },
+  {
+    "canonical_hebrew": "נמרוד",
+    "canonical_english": "Nimrud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 247,
+    "context_summary": "הארמון הצפון מערבי ובו שלוש בארות, וצילום של הבאר בחצר."
+  },
+  {
+    "canonical_hebrew": "ממלכת אשור",
+    "canonical_english": "Assyrian Kingdom",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 247,
+    "context_summary": "אמות מים לערים הראשיות בממלכת אשור."
+  },
+  {
+    "canonical_hebrew": "מנהרת נגוב",
+    "canonical_english": "Negub Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 247,
+    "context_summary": "תכנית כללית של המנהרה מעל פני השטח, תכנית וחתך של המנהרה, צילום של שלושת פתחי המנהרה, הצעה לשחזור איזומטרי, ומבט ממערב."
+  },
+  {
+    "canonical_hebrew": "נינווה",
+    "canonical_english": "Nineveh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 247,
+    "context_summary": "מפעל המים הראשון לנינווה על שלושת שלביו, מפעלי המים של נינווה, ואמת מים על קשתות ליד נינווה."
+  },
+  {
+    "canonical_hebrew": "ג'ארוון",
+    "canonical_english": "Jerwan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 247,
+    "context_summary": "שחזור פרספקטיבי של האקוודוקט, צילום של אחת הקשתות של הגשר, תכנית וחתך של הקשתות, ותיקון הגשר באבנים נושאות את הכתובת של סנחריב."
+  },
+  {
+    "canonical_hebrew": "סמוס",
+    "canonical_english": "Samos",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 247,
+    "context_summary": "מפת העיר סמוס ואמת המים שלה, ומפת אמת המים לסמוס, וחתך כללי של מנהרת המים."
+  },
+  {
+    "canonical_hebrew": "סמוס",
+    "canonical_english": "Samos",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 248,
+    "context_summary": "חתכים של מנהרת המים בקטעים שונים, צילום של המנהרה, צינור חרס שנסתם בטרוורטין, ותכנית וחתך של מפגש החוצבים במנהרה."
+  },
+  {
+    "canonical_hebrew": "קלע",
+    "canonical_english": "Qala",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 248,
+    "context_summary": "צילום מיקרוסקופי של הטיח בבור מים בקלע."
+  },
+  {
+    "canonical_hebrew": "תל א-נצבה",
+    "canonical_english": "Tell en-Nasbeh",
+    "hebrew_aliases": [
+      "תל נצבה"
+    ],
+    "english_aliases": [
+      "Tel Nasbeh"
+    ],
+    "site_type": "Tell",
+    "page_number": 248,
+    "context_summary": "צילום מיקרוסקופי של הטיח בבור מים בתל נצבה."
+  },
+  {
+    "canonical_hebrew": "מיקנה",
+    "canonical_english": "Mycenae",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 248,
+    "context_summary": "צילום מיקרוסקופי של הטיח במאגר המים במיקנה."
+  },
+  {
+    "canonical_hebrew": "תל בית שמש",
+    "canonical_english": "Tel Bet Shemesh",
+    "hebrew_aliases": [
+      "בית שמש"
+    ],
+    "english_aliases": [
+      "Bet Shemesh"
+    ],
+    "site_type": "Tell",
+    "page_number": 248,
+    "context_summary": "צילום מיקרוסקופי של הטיח במאגר המים בבית שמש."
+  },
+  {
+    "canonical_hebrew": "קומראן",
+    "canonical_english": "Qumran",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 248,
+    "context_summary": "צילום מיקרוסקופי של הטיח בבור המים בקומראן."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 248,
+    "context_summary": "צילום מיקרוסקופי של הטיח במאגר המים בערד."
+  },
+  {
+    "canonical_hebrew": "הר מנשה",
+    "canonical_english": "Mount Manasseh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 249,
+    "context_summary": "מוזכר בהקשר לתלות של יישובים במקורות מים בתקופת הברונזה התיכונה 2 ובתקופת הברזל 1."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 249,
+    "context_summary": "מוזכר בהקשר לתיארוך מתקני המים בעיר."
+  }
+]

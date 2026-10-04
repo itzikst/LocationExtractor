@@ -1,0 +1,982 @@
+[
+  {
+    "canonical_hebrew": "אירופה",
+    "canonical_english": "Europe",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 31,
+    "context_summary": "בארצות רבות באירופה שותים כיום התושבים יין או בירה במקום מים."
+  },
+  {
+    "canonical_hebrew": "לבנון",
+    "canonical_english": "Lebanon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 31,
+    "context_summary": "קלוויי במחקרו בעי הציע 1 מייק לנפש בשנה על סמך מחקר באזור מדברי בלבנון."
+  },
+  {
+    "canonical_hebrew": "תל עי",
+    "canonical_english": "Tel Ai",
+    "hebrew_aliases": [
+      "עי"
+    ],
+    "english_aliases": [
+      "Ai"
+    ],
+    "site_type": "Tell",
+    "page_number": 31,
+    "context_summary": "קלוויי במחקרו בעי הציע 1 מייק לנפש בשנה... הבריכה שנמצאה באתר הכילה כ-1500 מייק ויחד עם המעיין הקטן המצוי בואדי אל ג'איה בעי סיפקו כ-2000 מייק מים בשנה לכ-2000 נפש."
+  },
+  {
+    "canonical_hebrew": "ואדי אל ג'איה",
+    "canonical_english": "Wadi el-Jaiya",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 31,
+    "context_summary": "הבריכה שנמצאה באתר הכילה כ-1500 מייק ויחד עם המעיין הקטן המצוי בואדי אל ג'איה בעי סיפקו כ-2000 מייק מים בשנה לכ-2000 נפש."
+  },
+  {
+    "canonical_hebrew": "תל ערד",
+    "canonical_english": "Tel Arad",
+    "hebrew_aliases": [
+      "ערד"
+    ],
+    "english_aliases": [
+      "Arad"
+    ],
+    "site_type": "Tell",
+    "page_number": 31,
+    "context_summary": "רוזנן (Rosenan 1978) הציע כי בערד צרכו כמות של 2.7 ליטר ביממה לנפש ובשנה - 1 מייק לנפש."
+  },
+  {
+    "canonical_hebrew": "הנגב",
+    "canonical_english": "Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 31,
+    "context_summary": "במחקר שנערך בנגב אודות הצריכה של משפחה בדואית התקבלו הנתונים התיאורטיים הבאים."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 32,
+    "context_summary": "נגב (1983:45) הציע כי באזור המדברי של הר הנגב נדרשו לנפש 5 ליטר ביממה שהם 1.8 מייק לנפש בשנה."
+  },
+  {
+    "canonical_hebrew": "ג'ווה",
+    "canonical_english": "Jawa",
+    "hebrew_aliases": [
+      "ג'יווה"
+    ],
+    "english_aliases": [
+      "Jawa"
+    ],
+    "site_type": "Settlement",
+    "page_number": 32,
+    "context_summary": "הלמס (Helms 1981) במחקרו על ג'ווה הציע כי משפחה בת 6 נפשות צרכה 45.2 ליטר ביום... אוכלוסיית ג'יווה שמנתה 5000 נפשות צרכה 38 מייק ביום."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "City",
+    "page_number": 32,
+    "context_summary": "במלחמת העצמאות, כאשר ירושלים עמדה במצור, ערך מפקד העיר דב יוסף ניתוח של כמות המים הזמינה."
+  },
+  {
+    "canonical_hebrew": "פרגמון",
+    "canonical_english": "Pergamon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 32,
+    "context_summary": "גם במחקרים שנערכו בפרגמון על-ידי גרברכט וברינקר, התקבל נתון של 3.65 מייק לנפש בשנה."
+  },
+  {
+    "canonical_hebrew": "חורבת בורק",
+    "canonical_english": "Khirbet Burak",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 32,
+    "context_summary": "דר (תשמ\"ב:91; 99-98) הציע כי בחורבת בורק, כפר מהתקופה הביזנטית במערב השומרון, גרו 1500-1000 תושבים ולרשותם עמדו 5000 מייק בשנה."
+  },
+  {
+    "canonical_hebrew": "מערב השומרון",
+    "canonical_english": "Western Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 32,
+    "context_summary": "דר (תשמ\"ב:91; 99-98) הציע כי בחורבת בורק, כפר מהתקופה הביזנטית במערב השומרון, גרו 1500-1000 תושבים."
+  },
+  {
+    "canonical_hebrew": "כפר עג'ול",
+    "canonical_english": "Kfar Ajjul",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 32,
+    "context_summary": "במחקר שבצענו בכפר עג'ול שבמערב השומרון (ביום 2.10.1985), רואיין תושב הגר בכניסה לכפר ובחצרו בור מים."
+  },
+  {
+    "canonical_hebrew": "כפר עג'ול",
+    "canonical_english": "Kfar Ajjul",
+    "hebrew_aliases": [
+      "עג'ול"
+    ],
+    "english_aliases": [
+      "Ajjul"
+    ],
+    "site_type": "Settlement",
+    "page_number": 33,
+    "context_summary": "במחקר שבצענו בכפר עג'ול שבמערב השומרון... בבית גרים 14 נפשות ולכן כאשר הבור מלא ב-80 מייק מים הוא מספק 5.7 מייק לנפש בשנה."
+  },
+  {
+    "canonical_hebrew": "מערב השומרון",
+    "canonical_english": "Western Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 33,
+    "context_summary": "ספראי (תשמ\"ז:46-32) שסקר את היישוב הביזנטי חורבת לבד אשר במערב השומרון הציע כמות של 6.4-5.1 מייק לנפש בשנה."
+  },
+  {
+    "canonical_hebrew": "חורבת לבד",
+    "canonical_english": "Khirbet Labed",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 33,
+    "context_summary": "ספראי (תשמ\"ז:46-32) שסקר את היישוב הביזנטי חורבת לבד אשר במערב השומרון הציע כמות של 6.4-5.1 מייק לנפש בשנה."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "City",
+    "page_number": 33,
+    "context_summary": "בבדיקת נתונים מירושלים בסוף המאה ה-19 ובראשית המאה ה-20 מסתבר כי בירושלים בשלושה פרקי זמן שונים... הצריכה שם הייתה בהתאמה 7.29, 7.14 ו-7.12 מייק לנפש בשנה."
+  },
+  {
+    "canonical_hebrew": "ציפורי",
+    "canonical_english": "Sepphoris",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "City",
+    "page_number": 33,
+    "context_summary": "במחקר שבצעתי אודות בורות המים של ציפורי, בו נקבע גם מודל תיאורטי לחקר בורות מים, הגעתי למסקנה כי לרשות תושבי העיר עמדו כ-7.33 מייק לנפש בשנה."
+  },
+  {
+    "canonical_hebrew": "חורבת זיכרין",
+    "canonical_english": "Khirbet Zikhrin",
+    "hebrew_aliases": [
+      "זיכרין"
+    ],
+    "english_aliases": [
+      "Zikhrin"
+    ],
+    "site_type": "Settlement",
+    "page_number": 33,
+    "context_summary": "במחקר שבצעתי בחורבת זיכרין התברר כי אספקת המים מבורות ליישוב הכפרי מהתקופה הביזנטית הייתה 9.4 מייק לנפש בשנה."
+  },
+  {
+    "canonical_hebrew": "ישראל",
+    "canonical_english": "Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 33,
+    "context_summary": "נתונים אלו שונים כמובן מאלו של היום, העומדים על כ-110 מייק לנפש בשנה בממוצע בישראל."
+  },
+  {
+    "canonical_hebrew": "תל עי",
+    "canonical_english": "Tel Ai",
+    "hebrew_aliases": [
+      "עי"
+    ],
+    "english_aliases": [
+      "Ai"
+    ],
+    "site_type": "Tell",
+    "page_number": 34,
+    "context_summary": "האתר עי: כמות שנתית לנפש במייק 1.0."
+  },
+  {
+    "canonical_hebrew": "תל ערד",
+    "canonical_english": "Tel Arad",
+    "hebrew_aliases": [
+      "ערד"
+    ],
+    "english_aliases": [
+      "Arad"
+    ],
+    "site_type": "Tell",
+    "page_number": 34,
+    "context_summary": "האתר ערד: כמות שנתית לנפש במייק 1.0."
+  },
+  {
+    "canonical_hebrew": "הנגב",
+    "canonical_english": "Negev",
+    "hebrew_aliases": [
+      "הנגב הבדואים"
+    ],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 34,
+    "context_summary": "האתר הנגב הבדואים: כמות שנתית לנפש במייק 1.5."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [
+      "הנגב"
+    ],
+    "english_aliases": [
+      "Negev"
+    ],
+    "site_type": "Mountain",
+    "page_number": 34,
+    "context_summary": "האתר הנגב (נבטית): כמות שנתית לנפש במייק 1.8."
+  },
+  {
+    "canonical_hebrew": "ג'ווה",
+    "canonical_english": "Jawa",
+    "hebrew_aliases": [
+      "ג'יווה"
+    ],
+    "english_aliases": [
+      "Jawa"
+    ],
+    "site_type": "Settlement",
+    "page_number": 34,
+    "context_summary": "האתר ג'יווה: כמות שנתית לנפש במייק 2.7."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "City",
+    "page_number": 34,
+    "context_summary": "האתר ירושלים (1948): כמות שנתית לנפש במייק 3.65-2.2."
+  },
+  {
+    "canonical_hebrew": "פרגמון",
+    "canonical_english": "Pergamon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 34,
+    "context_summary": "האתר פרגמון (מאה ג' לפנה\"ס): כמות שנתית לנפש במייק 3.65."
+  },
+  {
+    "canonical_hebrew": "חורבת בורק",
+    "canonical_english": "Khirbet Burak",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 34,
+    "context_summary": "האתר חורבת בורק (מאה ו' לספירה): כמות שנתית לנפש במייק 5-3.3."
+  },
+  {
+    "canonical_hebrew": "כפר עג'ול",
+    "canonical_english": "Kfar Ajjul",
+    "hebrew_aliases": [
+      "עג'ול"
+    ],
+    "english_aliases": [
+      "Ajjul"
+    ],
+    "site_type": "Settlement",
+    "page_number": 34,
+    "context_summary": "האתר עג'ול (כיום): כמות שנתית לנפש במייק 5.7-3.9."
+  },
+  {
+    "canonical_hebrew": "חורבת לבד",
+    "canonical_english": "Khirbet Labed",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 34,
+    "context_summary": "האתר חורבת לבד (מאה ו' לספירה): כמות שנתית לנפש במייק 6.4-5.1."
+  },
+  {
+    "canonical_hebrew": "ציפורי",
+    "canonical_english": "Sepphoris",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "City",
+    "page_number": 34,
+    "context_summary": "האתר ציפורי (מאה ג' לספירה): כמות שנתית לנפש במייק 7.33."
+  },
+  {
+    "canonical_hebrew": "חורבת זיכרין",
+    "canonical_english": "Khirbet Zikhrin",
+    "hebrew_aliases": [
+      "זיכרין"
+    ],
+    "english_aliases": [
+      "Zikhrin"
+    ],
+    "site_type": "Settlement",
+    "page_number": 34,
+    "context_summary": "האתר זיכרין (מאה ו' לספירה): כמות שנתית לנפש במייק 9.4."
+  },
+  {
+    "canonical_hebrew": "אוסטרליה",
+    "canonical_english": "Australia",
+    "hebrew_aliases": [
+      "מדבריות אוסטרליה"
+    ],
+    "english_aliases": [
+      "Deserts of Australia"
+    ],
+    "site_type": "Region",
+    "page_number": 35,
+    "context_summary": "כך, למשל, האבוריג'ינים, שחיים במדבריות אוסטרליה, נהגו עד לפני כ-30 שנה לחפור בורות רדודים בקרקע."
+  },
+  {
+    "canonical_hebrew": "מדבר קאלאהרי",
+    "canonical_english": "Kalahari Desert",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 35,
+    "context_summary": "כך גם הבושמנים במדבר קאלאהרי באפריקה, החופרים חורי בצבוץ."
+  },
+  {
+    "canonical_hebrew": "אפריקה",
+    "canonical_english": "Africa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 35,
+    "context_summary": "כך גם הבושמנים במדבר קאלאהרי באפריקה, החופרים חורי בצבוץ."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "City",
+    "page_number": 36,
+    "context_summary": "מפעלי המים הראשונים נתגלו בירושלים והם פיר וורן (בשנת 1867) ונקבת חזקיהו."
+  },
+  {
+    "canonical_hebrew": "פיר וורן",
+    "canonical_english": "Warren's Shaft",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 36,
+    "context_summary": "מפעלי המים הראשונים נתגלו בירושלים והם פיר וורן (בשנת 1867) ונקבת חזקיהו."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 36,
+    "context_summary": "מפעלי המים הראשונים נתגלו בירושלים והם פיר וורן (בשנת 1867) ונקבת חזקיהו."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 36,
+    "context_summary": "בגבעון נתגלתה בשנת 1890 מנהרת מעיין אשר פורסמה על-ידי שיק."
+  },
+  {
+    "canonical_hebrew": "מנהרת המעיין בגבעון",
+    "canonical_english": "Gibeon Spring Tunnel",
+    "hebrew_aliases": [
+      "מנהרת מעיין"
+    ],
+    "english_aliases": [
+      "Spring Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 36,
+    "context_summary": "בגבעון נתגלתה בשנת 1890 מנהרת מעיין אשר פורסמה על-ידי שיק."
+  },
+  {
+    "canonical_hebrew": "בריכת גבעון",
+    "canonical_english": "Gibeon Pool",
+    "hebrew_aliases": [
+      "הבריכה"
+    ],
+    "english_aliases": [
+      "The Pool"
+    ],
+    "site_type": "Pool",
+    "page_number": 36,
+    "context_summary": "חפירת המנהרה הושלמה רק בסוף שנות ה-50 בידי פריצ'רד אשר חשף גם מפעל מים נוסף: \"הבריכה\"."
+  },
+  {
+    "canonical_hebrew": "יבלעם",
+    "canonical_english": "Ibleam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 36,
+    "context_summary": "שומכר (1910 Schumacher) פרסם את מפעל המים של יבלעם."
+  },
+  {
+    "canonical_hebrew": "תל גזר",
+    "canonical_english": "Tel Gezer",
+    "hebrew_aliases": [
+      "גזר"
+    ],
+    "english_aliases": [
+      "Gezer"
+    ],
+    "site_type": "Tell",
+    "page_number": 36,
+    "context_summary": "מקליסטר חשף בראשית המאה ה-20 את מפעל המים של גזר."
+  },
+  {
+    "canonical_hebrew": "תל מגידו",
+    "canonical_english": "Tel Megiddo",
+    "hebrew_aliases": [
+      "מגידו"
+    ],
+    "english_aliases": [
+      "Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 36,
+    "context_summary": "אחת התגליות החשובות בחקר מפעלי המים הייתה חשיפת מפעל המים של מגידו בתחילת שנות ה-30."
+  },
+  {
+    "canonical_hebrew": "תל לכיש",
+    "canonical_english": "Tel Lachish",
+    "hebrew_aliases": [
+      "לכיש"
+    ],
+    "english_aliases": [
+      "Lachish"
+    ],
+    "site_type": "Tell",
+    "page_number": 36,
+    "context_summary": "בשנות ה-30 נחשפה בחלקו הצפוני של תל לכיש באר בעומק של 44 מטרים."
+  },
+  {
+    "canonical_hebrew": "תל בית שאן",
+    "canonical_english": "Tel Bet Shean",
+    "hebrew_aliases": [
+      "בית שאן"
+    ],
+    "english_aliases": [
+      "Bet Shean"
+    ],
+    "site_type": "Tell",
+    "page_number": 36,
+    "context_summary": "באותה עת נחשפה בתל בית שאן באר מתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 36,
+    "context_summary": "בשנת 1968 חשף ידין את מפעל המים של חצור וקבע כי יש לתארכו לתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "קדש ברנע",
+    "canonical_english": "Kadesh Barnea",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 37,
+    "context_summary": "מפעלי מים נוספים שנחפרו וחופריהם מייחסים אותם לתקופת הברזל הם: קדש ברנע."
+  },
+  {
+    "canonical_hebrew": "תל ערד",
+    "canonical_english": "Tel Arad",
+    "hebrew_aliases": [
+      "ערד"
+    ],
+    "english_aliases": [
+      "Arad"
+    ],
+    "site_type": "Tell",
+    "page_number": 37,
+    "context_summary": "מפעלי מים נוספים שנחפרו וחופריהם מייחסים אותם לתקופת הברזל הם: ... ערד."
+  },
+  {
+    "canonical_hebrew": "תל סעידיה",
+    "canonical_english": "Tel es-Sa'idiyeh",
+    "hebrew_aliases": [
+      "תל סעידיה"
+    ],
+    "english_aliases": [
+      "Tel Sa'idiyeh"
+    ],
+    "site_type": "Tell",
+    "page_number": 37,
+    "context_summary": "מפעלי מים נוספים שנחפרו וחופריהם מייחסים אותם לתקופת הברזל הם: ... תל סעידיה."
+  },
+  {
+    "canonical_hebrew": "תל יקנעם",
+    "canonical_english": "Tel Yokneam",
+    "hebrew_aliases": [
+      "יקנעם"
+    ],
+    "english_aliases": [
+      "Yokneam"
+    ],
+    "site_type": "Tell",
+    "page_number": 37,
+    "context_summary": "מפעלי מים נוספים שנחפרו וחופריהם מייחסים אותם לתקופת הברזל הם: ... יקנעם."
+  },
+  {
+    "canonical_hebrew": "תל עי",
+    "canonical_english": "Tel Ai",
+    "hebrew_aliases": [
+      "הע\"י"
+    ],
+    "english_aliases": [
+      "Ai"
+    ],
+    "site_type": "Tell",
+    "page_number": 37,
+    "context_summary": "בשנת 1964 חפר קלוויי בהע\"י וממצא מפעל מים לאיסוף מי נגר מתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "נחל זרקא",
+    "canonical_english": "Zarqa River",
+    "hebrew_aliases": [
+      "זירקון"
+    ],
+    "english_aliases": [
+      "Zarqa"
+    ],
+    "site_type": "River",
+    "page_number": 37,
+    "context_summary": "לאחרונה נחשף על-ידי איברהים ומיטמן מפעל מים מיוחד בזירקון שבירדן אשר ניתן אולי לשייכו לאותה תקופה."
+  },
+  {
+    "canonical_hebrew": "ירדן",
+    "canonical_english": "Jordan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 37,
+    "context_summary": "לאחרונה נחשף על-ידי איברהים ומיטמן מפעל מים מיוחד בזירקון שבירדן אשר ניתן אולי לשייכו לאותה תקופה."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Be'er Sheva",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "City",
+    "page_number": 37,
+    "context_summary": "אהרוני חשף בבאר שבע שני מפעלי מים מתקופת הברזל 2: באר עמוקה וראשו של פיר גדול."
+  },
+  {
+    "canonical_hebrew": "חוף עתלית",
+    "canonical_english": "Atlit Coast",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 37,
+    "context_summary": "בחוף עתלית חשף גלילי בקרקעית הים שתי בארות מהתקופה הניאוליתית הקדם-קרמית ב' הנחשבות לקדומות במזרח התיכון ואולי בעולם כולו."
+  },
+  {
+    "canonical_hebrew": "חירבת אבו חוף",
+    "canonical_english": "Khirbet Abu Hof",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 37,
+    "context_summary": "בחירבת אבו חוף נחפרה על-ידי אלון באר מהתקופה הכלקוליתית."
+  },
+  {
+    "canonical_hebrew": "תל נאמי",
+    "canonical_english": "Tel Nami",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 37,
+    "context_summary": "שתי בארות נוספות נחפרו לאחרונה ומתוארכות לתקופת הברונזה התיכונה - בתל נאמי."
+  },
+  {
+    "canonical_hebrew": "תל גרר",
+    "canonical_english": "Tel Gerar",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 37,
+    "context_summary": "שתי בארות נוספות נחפרו לאחרונה ומתוארכות לתקופת הברונזה התיכונה - ... ובתל גרר."
+  },
+  {
+    "canonical_hebrew": "תל גריסה",
+    "canonical_english": "Tel Gerisa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 37,
+    "context_summary": "לתקופה זו מתוארך גם מפעל מים שבתל גריסה."
+  },
+  {
+    "canonical_hebrew": "תל דן",
+    "canonical_english": "Tel Dan",
+    "hebrew_aliases": [
+      "דן"
+    ],
+    "english_aliases": [
+      "Dan"
+    ],
+    "site_type": "Tell",
+    "page_number": 37,
+    "context_summary": "כן קיימות בתקופה זו לפחות שלוש ערים (דן, כברי ויריחו) בהן נכלא מעיין בתחום החומות."
+  },
+  {
+    "canonical_hebrew": "תל כברי",
+    "canonical_english": "Tel Kabri",
+    "hebrew_aliases": [
+      "כברי"
+    ],
+    "english_aliases": [
+      "Kabri"
+    ],
+    "site_type": "Tell",
+    "page_number": 37,
+    "context_summary": "כן קיימות בתקופה זו לפחות שלוש ערים (דן, כברי ויריחו) בהן נכלא מעיין בתחום החומות."
+  },
+  {
+    "canonical_hebrew": "תל יריחו",
+    "canonical_english": "Tel Jericho",
+    "hebrew_aliases": [
+      "יריחו"
+    ],
+    "english_aliases": [
+      "Jericho"
+    ],
+    "site_type": "Tell",
+    "page_number": 37,
+    "context_summary": "כן קיימות בתקופה זו לפחות שלוש ערים (דן, כברי ויריחו) בהן נכלא מעיין בתחום החומות."
+  },
+  {
+    "canonical_hebrew": "מצר",
+    "canonical_english": "Mitzpe",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 37,
+    "context_summary": "במצר חשף דותן אתר המתוארך לתקופה הכלקוליתית ובו בורות חצובים בסלע אשר לדעתו שימשו כבורות מים."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 37,
+    "context_summary": "גם בחפירתו של ידין בחצור נתגלו בורות מים. בחצור אף השתמר טיח על חלקים מדפנות הבורות."
+  },
+  {
+    "canonical_hebrew": "תל בית שמש",
+    "canonical_english": "Tel Bet Shemesh",
+    "hebrew_aliases": [
+      "בית שמש"
+    ],
+    "english_aliases": [
+      "Bet Shemesh"
+    ],
+    "site_type": "Tell",
+    "page_number": 37,
+    "context_summary": "גם בחפירות בבית שמש נמצאו בורות מים מטויחים שתוארכו לתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "חירבת רדנה",
+    "canonical_english": "Khirbet Radana",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 37,
+    "context_summary": "רק במקומות ספורים כמו בהע\"י ובחירבת רדנה נמצאו מספר בורות מים מתקופת ההתנחלות."
+  },
+  {
+    "canonical_hebrew": "תל א-נצבה",
+    "canonical_english": "Tell en-Nasbeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 37,
+    "context_summary": "ואילו בתל א-נצבה נמצאו עשרות בורות המתוארכים לתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 38,
+    "context_summary": "רבים מהר הנגב. הבורות חפורים בקרקע, מדופנים באבן, אינם מטויחים ואינם מקורים."
+  },
+  {
+    "canonical_hebrew": "תל באר שבע",
+    "canonical_english": "Tel Be'er Sheva",
+    "hebrew_aliases": [
+      "באר שבע"
+    ],
+    "english_aliases": [
+      "Be'er Sheva"
+    ],
+    "site_type": "Tell",
+    "page_number": 38,
+    "context_summary": "בשנות ה-90 נחשפו לראשונה מספר מפעלי מים שלא היו ידועים עד כה ועיקרם הבאר ומפעל המים בתל באר שבע."
+  },
+  {
+    "canonical_hebrew": "תל בית שמש",
+    "canonical_english": "Tel Bet Shemesh",
+    "hebrew_aliases": [
+      "בית שמש"
+    ],
+    "english_aliases": [
+      "Bet Shemesh"
+    ],
+    "site_type": "Tell",
+    "page_number": 38,
+    "context_summary": "בשנות ה-90 נחשפו לראשונה מספר מפעלי מים שלא היו ידועים עד כה ועיקרם ... מפעל המים בתל בית שמש."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "City",
+    "page_number": 38,
+    "context_summary": "בשנות ה-90 נחשפו לראשונה מספר מפעלי מים שלא היו ידועים עד כה ועיקרם ... ומפעלי המים של ירושלים."
+  },
+  {
+    "canonical_hebrew": "אוסטרליה",
+    "canonical_english": "Australia",
+    "hebrew_aliases": [
+      "מדבריות אוסטרליה"
+    ],
+    "english_aliases": [
+      "Deserts of Australia"
+    ],
+    "site_type": "Region",
+    "page_number": 39,
+    "context_summary": "כך, למשל, האבוריג'ינים, שחיים במדבריות אוסטרליה, נהגו עד לפני כ-30 שנה לחפור בורות רדודים בקרקע."
+  },
+  {
+    "canonical_hebrew": "מדבר קאלאהרי",
+    "canonical_english": "Kalahari Desert",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 39,
+    "context_summary": "כך גם הבושמנים במדבר קאלאהרי באפריקה, החופרים חורי בצבוץ."
+  },
+  {
+    "canonical_hebrew": "אפריקה",
+    "canonical_english": "Africa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 39,
+    "context_summary": "כך גם הבושמנים במדבר קאלאהרי באפריקה, החופרים חורי בצבוץ."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 40,
+    "context_summary": "שינויי האקלים התרחשו באופן מחזורי והשפיעו באופן ניכר על אורח החיים של האדם בארץ ישראל בתקופות הפריהיסטוריות."
+  },
+  {
+    "canonical_hebrew": "מישור החוף",
+    "canonical_english": "Coastal Plain",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 40,
+    "context_summary": "עדויות לכך הם המפלסים השונים של רכסי הכורכר ושכבות החמרה במישור החוף."
+  },
+  {
+    "canonical_hebrew": "הגליל",
+    "canonical_english": "Galilee",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 40,
+    "context_summary": "התבוננות במפת התפוצה של אתרי התקופה הפליאוליתית התיכונה מלמדת כי הם נעדרים מהאזורים ההרריים של ארץ ישראל, דהיינו הגליל, השומרון, יהודה והר הנגב."
+  },
+  {
+    "canonical_hebrew": "השומרון",
+    "canonical_english": "Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 40,
+    "context_summary": "התבוננות במפת התפוצה של אתרי התקופה הפליאוליתית התיכונה מלמדת כי הם נעדרים מהאזורים ההרריים של ארץ ישראל, דהיינו הגליל, השומרון, יהודה והר הנגב."
+  },
+  {
+    "canonical_hebrew": "יהודה",
+    "canonical_english": "Judea",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 40,
+    "context_summary": "התבוננות במפת התפוצה של אתרי התקופה הפליאוליתית התיכונה מלמדת כי הם נעדרים מהאזורים ההרריים של ארץ ישראל, דהיינו הגליל, השומרון, יהודה והר הנגב."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 40,
+    "context_summary": "התבוננות במפת התפוצה של אתרי התקופה הפליאוליתית התיכונה מלמדת כי הם נעדרים מהאזורים ההרריים של ארץ ישראל, דהיינו הגליל, השומרון, יהודה והר הנגב."
+  },
+  {
+    "canonical_hebrew": "מישור החוף המערבי",
+    "canonical_english": "Western Coastal Plain",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 40,
+    "context_summary": "התבוננות במפת התפוצה של אתרי התקופה הפליאוליתית התיכונה מלמדת כי הם נעדרים מ... וכן ממישור החוף המערבי שהיה מוצף."
+  },
+  {
+    "canonical_hebrew": "הר הכרמל",
+    "canonical_english": "Mount Carmel",
+    "hebrew_aliases": [
+      "הכרמל"
+    ],
+    "english_aliases": [
+      "Carmel"
+    ],
+    "site_type": "Mountain",
+    "page_number": 40,
+    "context_summary": "תפוצת האתרים היא: מערות בשולי הכרמל, הגליל התחתון, גשר בנות יעקב, ספר מדבר יהודה באזור נחל חריטון, נחל הבשור ונחל צין ליד עין עבדת."
+  },
+  {
+    "canonical_hebrew": "הגליל התחתון",
+    "canonical_english": "Lower Galilee",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 40,
+    "context_summary": "תפוצת האתרים היא: מערות בשולי הכרמל, הגליל התחתון, גשר בנות יעקב, ספר מדבר יהודה באזור נחל חריטון, נחל הבשור ונחל צין ליד עין עבדת."
+  },
+  {
+    "canonical_hebrew": "גשר בנות יעקב",
+    "canonical_english": "Gesher Benot Ya'aqov",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Archaeological Site",
+    "page_number": 40,
+    "context_summary": "תפוצת האתרים היא: מערות בשולי הכרמל, הגליל התחתון, גשר בנות יעקב, ספר מדבר יהודה באזור נחל חריטון, נחל הבשור ונחל צין ליד עין עבדת."
+  },
+  {
+    "canonical_hebrew": "ספר מדבר יהודה",
+    "canonical_english": "Judean Desert Fringes",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 40,
+    "context_summary": "תפוצת האתרים היא: מערות בשולי הכרמל, הגליל התחתון, גשר בנות יעקב, ספר מדבר יהודה באזור נחל חריטון, נחל הבשור ונחל צין ליד עין עבדת."
+  },
+  {
+    "canonical_hebrew": "נחל חריטון",
+    "canonical_english": "Nahal Hariton",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 40,
+    "context_summary": "תפוצת האתרים היא: מערות בשולי הכרמל, הגליל התחתון, גשר בנות יעקב, ספר מדבר יהודה באזור נחל חריטון, נחל הבשור ונחל צין ליד עין עבדת."
+  },
+  {
+    "canonical_hebrew": "נחל הבשור",
+    "canonical_english": "Nahal Besor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 40,
+    "context_summary": "תפוצת האתרים היא: מערות בשולי הכרמל, הגליל התחתון, גשר בנות יעקב, ספר מדבר יהודה באזור נחל חריטון, נחל הבשור ונחל צין ליד עין עבדת."
+  },
+  {
+    "canonical_hebrew": "נחל צין",
+    "canonical_english": "Nahal Zin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 40,
+    "context_summary": "תפוצת האתרים היא: מערות בשולי הכרמל, הגליל התחתון, גשר בנות יעקב, ספר מדבר יהודה באזור נחל חריטון, נחל הבשור ונחל צין ליד עין עבדת."
+  },
+  {
+    "canonical_hebrew": "עין עבדת",
+    "canonical_english": "Ein Avdat",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 40,
+    "context_summary": "תפוצת האתרים היא: מערות בשולי הכרמל, הגליל התחתון, גשר בנות יעקב, ספר מדבר יהודה באזור נחל חריטון, נחל הבשור ונחל צין ליד עין עבדת."
+  },
+  {
+    "canonical_hebrew": "בקעת הירדן",
+    "canonical_english": "Jordan Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 40,
+    "context_summary": "בבקעת הירדן נוצרה ימת הלשון שהשתרעה מחצבה בדרום ועד כורסי בצפון."
+  },
+  {
+    "canonical_hebrew": "חצבה",
+    "canonical_english": "Hazeva",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 40,
+    "context_summary": "בבקעת הירדן נוצרה ימת הלשון שהשתרעה מחצבה בדרום ועד כורסי בצפון."
+  },
+  {
+    "canonical_hebrew": "כורסי",
+    "canonical_english": "Kursi",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 40,
+    "context_summary": "בבקעת הירדן נוצרה ימת הלשון שהשתרעה מחצבה בדרום ועד כורסי בצפון."
+  },
+  {
+    "canonical_hebrew": "הנגב",
+    "canonical_english": "Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 40,
+    "context_summary": "בנגב נמצאו מתקופה זו אתרים נושאי התרבות המוסטרית המעידים על תקופה לחה שאיפשרה מחיה באזור זה שהוא כיום צחיח."
+  }
+]

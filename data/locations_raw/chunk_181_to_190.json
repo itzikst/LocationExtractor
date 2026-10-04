@@ -1,0 +1,777 @@
+[
+  {
+    "canonical_hebrew": "נינוה",
+    "canonical_english": "Nineveh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 181,
+    "context_summary": "סנחריב הרחיב את השטחים המושקים של נינוה באמצעות מפעל מים שהוביל מים למישור שמדרום ומדרום-מזרח לעיר, והפך אותה לעיר של גנים פורחים."
+  },
+  {
+    "canonical_hebrew": "נהר גומל",
+    "canonical_english": "Gomel River",
+    "hebrew_aliases": [
+      "גומל"
+    ],
+    "english_aliases": [
+      "Gomel"
+    ],
+    "site_type": "Other",
+    "page_number": 181,
+    "context_summary": "בשלב השלישי של פרויקט המים של סנחריב, הובאו מים מאגן הניקוז של נהר גומל."
+  },
+  {
+    "canonical_hebrew": "חינס",
+    "canonical_english": "Hinis",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 181,
+    "context_summary": "המים הובאו מעט מעל הכפר חינס, וממנו נמשכה אמת מים לאורך 55 ק\"מ."
+  },
+  {
+    "canonical_hebrew": "נהר אטרוש",
+    "canonical_english": "Atrosh River",
+    "hebrew_aliases": [
+      "אטרוש"
+    ],
+    "english_aliases": [
+      "Atrosh"
+    ],
+    "site_type": "Other",
+    "page_number": 181,
+    "context_summary": "סכר הטיה נבנה על נהר אטרוש כחלק ממפעל המים של סנחריב."
+  },
+  {
+    "canonical_hebrew": "נהר חוסר",
+    "canonical_english": "Khosr River",
+    "hebrew_aliases": [
+      "חוסר"
+    ],
+    "english_aliases": [
+      "Khosr"
+    ],
+    "site_type": "Other",
+    "page_number": 181,
+    "context_summary": "אמת המים של סנחריב נמשכה לאורך 55 ק\"מ עד נהר חוסר."
+  },
+  {
+    "canonical_hebrew": "ג'רוואן",
+    "canonical_english": "Jerwan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 181,
+    "context_summary": "אמת המים חצתה נהרות על גבי גשרים, כמו הגשר המפורסם בג'רוואן."
+  },
+  {
+    "canonical_hebrew": "תעלת חינס",
+    "canonical_english": "Hinis Canal",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 181,
+    "context_summary": "אמת המים המתחילה בחינס נקראת תעלת חינס, ונחשבה למפעל ההידראולי המרשים ביותר בעולם באותה עת."
+  },
+  {
+    "canonical_hebrew": "הר טאש",
+    "canonical_english": "Mount Tash",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 181,
+    "context_summary": "בכתובת הקדשה נחרתה על סלע נאמר: 'שפע מים העברתי בתוך הר טאש'."
+  },
+  {
+    "canonical_hebrew": "ג'בל אל-קוש",
+    "canonical_english": "Jabal al-Qosh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 181,
+    "context_summary": "מפעל מים שני לנינוה התחיל ממערב לג'בל אל-קוש."
+  },
+  {
+    "canonical_hebrew": "בנדוואי",
+    "canonical_english": "Bandawai",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 181,
+    "context_summary": "מפעל המים השני התחיל בכפר בנדוואי, ונמצאה לידו כתובת פגומה המנציחה את המפעל."
+  },
+  {
+    "canonical_hebrew": "ואדי אל-מילח",
+    "canonical_english": "Wadi al-Milh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 181,
+    "context_summary": "התעלה פנתה בקשת גדולה כלפי דרום כדי להגיע אל יובלי ואדי אל-מילח."
+  },
+  {
+    "canonical_hebrew": "חידקל",
+    "canonical_english": "Tigris",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 181,
+    "context_summary": "ואדי אל-מילח נשפך לחידקל כ-20 ק\"מ ממזרח לאסקי מוסול."
+  },
+  {
+    "canonical_hebrew": "אסקי מוסול",
+    "canonical_english": "Aski Mosul",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 181,
+    "context_summary": "ואדי אל-מילח נשפך לחידקל כ-20 ק\"מ ממזרח לאסקי מוסול."
+  },
+  {
+    "canonical_hebrew": "ארבילו",
+    "canonical_english": "Arbela",
+    "hebrew_aliases": [
+      "אירביל"
+    ],
+    "english_aliases": [
+      "Erbil"
+    ],
+    "site_type": "Settlement",
+    "page_number": 181,
+    "context_summary": "סנחריב בנה אמת מים לעיר ארבילו, שהייתה חשובה בימי מלכים אשוריים."
+  },
+  {
+    "canonical_hebrew": "בצורה צ'אי",
+    "canonical_english": "Btsura Chai",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 181,
+    "context_summary": "אמת המים לארבילו החלה מבצורה צ'אי, כ-20 ק\"מ מאירביל."
+  },
+  {
+    "canonical_hebrew": "קלעה מורטקה",
+    "canonical_english": "Qala'a Murtaka",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 181,
+    "context_summary": "אמת המים לארבילו החלה מבצורה צ'אי שליד קלעה מורטקה."
+  },
+  {
+    "canonical_hebrew": "הרי חני",
+    "canonical_english": "Hani Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 181,
+    "context_summary": "בכתובת נזכר שסנחריב חפר בשכבות של שלושה נהרות בהרי חני, ההרים שמעל העיר אירביל."
+  },
+  {
+    "canonical_hebrew": "סמוס",
+    "canonical_english": "Samos",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 182,
+    "context_summary": "העיר סמוס נמצאת בקצה הדרום-מזרחי של האי סמוס, והיא ממוקמת על גבעה המשתפלת אל הים."
+  },
+  {
+    "canonical_hebrew": "יוון",
+    "canonical_english": "Greece",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 182,
+    "context_summary": "מנהרת אופלינוס בסמוס היא מפעל מים מפורסם ביוון."
+  },
+  {
+    "canonical_hebrew": "האי סמוס",
+    "canonical_english": "Samos Island",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 182,
+    "context_summary": "העיר סמוס נמצאת בקצה הדרום-מזרחי של האי סמוס."
+  },
+  {
+    "canonical_hebrew": "תורכיה",
+    "canonical_english": "Turkey",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 182,
+    "context_summary": "האי סמוס נמצא בסמוך לחוף המערבי של תורכיה."
+  },
+  {
+    "canonical_hebrew": "מנהרת אופלינוס",
+    "canonical_english": "Eupalinos Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 182,
+    "context_summary": "מנהרת אופלינוס נחצבה כדי לספק מים לעיר סמוס ותוארה על ידי הירודוטוס."
+  },
+  {
+    "canonical_hebrew": "מגרה",
+    "canonical_english": "Megara",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 182,
+    "context_summary": "מפעל מים זה נבנה בידי אופלינוס בן נאוסטרופוס, איש מגרה."
+  },
+  {
+    "canonical_hebrew": "בעלמען",
+    "canonical_english": "Baal-Meon",
+    "hebrew_aliases": [
+      "בעל מעון"
+    ],
+    "english_aliases": [
+      "Baal-Meon"
+    ],
+    "site_type": "Settlement",
+    "page_number": 183,
+    "context_summary": "מישע כתב כי בנה את העיר בעל מען, הנזכרת במקרא כעיר שבנה ראובן."
+  },
+  {
+    "canonical_hebrew": "מואב",
+    "canonical_english": "Moab",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 183,
+    "context_summary": "מצבת מישע מלך מואב מתארת חציבת מפעלי מים."
+  },
+  {
+    "canonical_hebrew": "חשבון",
+    "canonical_english": "Heshbon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 184,
+    "context_summary": "בעל מעון נזכרת במקרא כעיר שבנה ראובן יחד עם חשבון, נבו וערים נוספות."
+  },
+  {
+    "canonical_hebrew": "נבו",
+    "canonical_english": "Nebo",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 184,
+    "context_summary": "בעל מעון נזכרת במקרא כעיר שבנה ראובן יחד עם חשבון, נבו וערים נוספות."
+  },
+  {
+    "canonical_hebrew": "מדבא",
+    "canonical_english": "Madaba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 184,
+    "context_summary": "מקומה של בעל מעון המקראית טרם זוהה סופית, למרות שאין ספק שהיא שוכנת בקרבת מעין שליד מדבא."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 184,
+    "context_summary": "מישע ניצל את הידע שרווח בארץ ישראל בכלל ובממלכת ישראל בפרט לבניית מפעלי מים."
+  },
+  {
+    "canonical_hebrew": "ממלכת ישראל",
+    "canonical_english": "Kingdom of Israel",
+    "hebrew_aliases": [
+      "ישראל"
+    ],
+    "english_aliases": [
+      "Israel"
+    ],
+    "site_type": "Region",
+    "page_number": 184,
+    "context_summary": "מישע ניצל את הידע והטכנולוגיה בנושא מפעלי מים שהיו קיימים בעיקר בממלכת ישראל."
+  },
+  {
+    "canonical_hebrew": "יהודה",
+    "canonical_english": "Judah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 184,
+    "context_summary": "יהורם מלך ישראל בסיוע יהושפט מלך יהודה תקפו את מישע."
+  },
+  {
+    "canonical_hebrew": "עזקה",
+    "canonical_english": "Azekah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 184,
+    "context_summary": "כתובת אשורית מלכותית כונתה 'כתובת עזקה' ונזכרים בה כיבוש עזקה שביהודה ופעולה בארץ פלשת."
+  },
+  {
+    "canonical_hebrew": "פלשת",
+    "canonical_english": "Philistia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 184,
+    "context_summary": "מסע של סרגון מלך אשור בשנת 712 לפנה\"ס כוון נגד יהודה ופלשת."
+  },
+  {
+    "canonical_hebrew": "אשדוד",
+    "canonical_english": "Ashdod",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 184,
+    "context_summary": "תדמור פירש את הכתובת כפעולה של כריית תעלה או חפיר לשם הגנת העיר אשדוד."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 184,
+    "context_summary": "הכתובת רומזת למצור סנחריב על ירושלים וניצול מנהרת חזקיהו לכיבוש העיר."
+  },
+  {
+    "canonical_hebrew": "מנהרת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [
+      "נקבת השילוח"
+    ],
+    "english_aliases": [
+      "Siloam Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 184,
+    "context_summary": "הכתובת רומזת למצור סנחריב על ירושלים וניצול מנהרת חזקיהו לכיבוש העיר."
+  },
+  {
+    "canonical_hebrew": "נמרוד",
+    "canonical_english": "Nimrud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 185,
+    "context_summary": "תבליט אשורי המתאר מצור על עיר נמצא בארמונו של המלך אשורנצירפל ה-2 בנמרוד."
+  },
+  {
+    "canonical_hebrew": "תענך",
+    "canonical_english": "Taanach",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 185,
+    "context_summary": "גילויים של מפעלי מים תת-קרקעיים בארץ ישראל כגון בתענך בתקופת הברונזה המאוחרת מאפשרים השוואה לתבליט."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 185,
+    "context_summary": "גילויים של מפעלי מים תת-קרקעיים בארץ ישראל כגון גבעון מאפשרים השוואה לתבליט."
+  },
+  {
+    "canonical_hebrew": "מגידו",
+    "canonical_english": "Megiddo",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 185,
+    "context_summary": "גילויים של מפעלי מים תת-קרקעיים בארץ ישראל כגון מגידו מאפשרים השוואה לתבליט."
+  },
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 185,
+    "context_summary": "גילויים של מפעלי מים תת-קרקעיים בארץ ישראל כגון חצור מאפשרים השוואה לתבליט."
+  },
+  {
+    "canonical_hebrew": "פיניקיה",
+    "canonical_english": "Phoenicia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 185,
+    "context_summary": "מסע הפשיטה של אשורנצירפל ה-2 לחופי הים התיכון מתואר באנלים שלו, לפיהם הוא הגיע לפיניקיה."
+  },
+  {
+    "canonical_hebrew": "סוריה",
+    "canonical_english": "Syria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 185,
+    "context_summary": "מסע הפשיטה של אשורנצירפל ה-2 הגיע לסוריה (ארץ ישראל)."
+  },
+  {
+    "canonical_hebrew": "הרי האמנוס",
+    "canonical_english": "Amanus Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 185,
+    "context_summary": "מסע הפשיטה של אשורנצירפל ה-2 הגיע להרי האמנוס."
+  },
+  {
+    "canonical_hebrew": "אשור",
+    "canonical_english": "Assyria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 185,
+    "context_summary": "הגלגלת הייתה ידועה באשור ואפשר שהיא המצאה אשורית."
+  },
+  {
+    "canonical_hebrew": "יקנעם",
+    "canonical_english": "Yokneam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 186,
+    "context_summary": "ב-17 אתרים התגלו 20 מפעלי מים, ביניהם יקנעם."
+  },
+  {
+    "canonical_hebrew": "יבלעם",
+    "canonical_english": "Ibleam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 186,
+    "context_summary": "ב-17 אתרים התגלו 20 מפעלי מים, ביניהם יבלעם."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 186,
+    "context_summary": "ב-17 אתרים התגלו 20 מפעלי מים, ביניהם גזר."
+  },
+  {
+    "canonical_hebrew": "בית שמש",
+    "canonical_english": "Beth Shemesh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 186,
+    "context_summary": "ב-17 אתרים התגלו 20 מפעלי מים, ביניהם בית שמש."
+  },
+  {
+    "canonical_hebrew": "לכיש",
+    "canonical_english": "Lachish",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 186,
+    "context_summary": "ב-17 אתרים התגלו 20 מפעלי מים, ביניהם לכיש."
+  },
+  {
+    "canonical_hebrew": "עיטם",
+    "canonical_english": "Etam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 186,
+    "context_summary": "ב-17 אתרים התגלו 20 מפעלי מים, ביניהם עיטם."
+  },
+  {
+    "canonical_hebrew": "עמאן",
+    "canonical_english": "Amman",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 186,
+    "context_summary": "ב-17 אתרים התגלו 20 מפעלי מים, ביניהם עמאן."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Beer Sheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 186,
+    "context_summary": "ב-17 אתרים התגלו 20 מפעלי מים, ביניהם באר שבע."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 186,
+    "context_summary": "ב-17 אתרים התגלו 20 מפעלי מים, ביניהם ערד."
+  },
+  {
+    "canonical_hebrew": "חורבת טוב",
+    "canonical_english": "Horvat Tov",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 186,
+    "context_summary": "ב-17 אתרים התגלו 20 מפעלי מים, ביניהם חורבת טוב."
+  },
+  {
+    "canonical_hebrew": "ערוער",
+    "canonical_english": "Aroer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 186,
+    "context_summary": "ב-17 אתרים התגלו 20 מפעלי מים, ביניהם ערוער."
+  },
+  {
+    "canonical_hebrew": "קדש ברנע",
+    "canonical_english": "Kadesh Barnea",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 186,
+    "context_summary": "ב-17 אתרים התגלו 20 מפעלי מים, ביניהם קדש ברנע."
+  },
+  {
+    "canonical_hebrew": "אשקלון",
+    "canonical_english": "Ashkelon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 187,
+    "context_summary": "באתרים רבים מתקופת הברזל 2 טרם נמצאו מפעלי מים, ביניהם אשקלון."
+  },
+  {
+    "canonical_hebrew": "דור",
+    "canonical_english": "Dor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 187,
+    "context_summary": "באתרים רבים מתקופת הברזל 2 טרם נמצאו מפעלי מים, ביניהם דור."
+  },
+  {
+    "canonical_hebrew": "דותן",
+    "canonical_english": "Dothan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 187,
+    "context_summary": "באתרים רבים מתקופת הברזל 2 טרם נמצאו מפעלי מים, ביניהם דותן."
+  },
+  {
+    "canonical_hebrew": "חברון",
+    "canonical_english": "Hebron",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 187,
+    "context_summary": "באתרים רבים מתקופת הברזל 2 טרם נמצאו מפעלי מים, ביניהם חברון."
+  },
+  {
+    "canonical_hebrew": "קדש בגליל",
+    "canonical_english": "Kadesh in Galilee",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 187,
+    "context_summary": "באתרים רבים מתקופת הברזל 2 טרם נמצאו מפעלי מים, ביניהם קדש בגליל."
+  },
+  {
+    "canonical_hebrew": "רחוב",
+    "canonical_english": "Rehov",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 187,
+    "context_summary": "באתרים רבים מתקופת הברזל 2 טרם נמצאו מפעלי מים, ביניהם רחוב."
+  },
+  {
+    "canonical_hebrew": "שומרון",
+    "canonical_english": "Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 187,
+    "context_summary": "באתרים רבים מתקופת הברזל 2 טרם נמצאו מפעלי מים, ביניהם שומרון."
+  },
+  {
+    "canonical_hebrew": "שכם",
+    "canonical_english": "Shechem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 187,
+    "context_summary": "באתרים רבים מתקופת הברזל 2 טרם נמצאו מפעלי מים, ביניהם שכם."
+  },
+  {
+    "canonical_hebrew": "תל מלחתה",
+    "canonical_english": "Tel Malhata",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 187,
+    "context_summary": "באתרים רבים מתקופת הברזל 2 טרם נמצאו מפעלי מים, ביניהם תל מלחתה."
+  },
+  {
+    "canonical_hebrew": "תל צפית",
+    "canonical_english": "Tel Zafit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 187,
+    "context_summary": "באתרים רבים מתקופת הברזל 2 טרם נמצאו מפעלי מים, ביניהם תל צפית."
+  },
+  {
+    "canonical_hebrew": "כתובת מישע",
+    "canonical_english": "Mesha Stele",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 187,
+    "context_summary": "מקורות כתובים אודות חציבת מפעלי מים נמצאו בכתובת מישע."
+  },
+  {
+    "canonical_hebrew": "כתובת השילוח",
+    "canonical_english": "Siloam Inscription",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 187,
+    "context_summary": "מקורות כתובים אודות חציבת מפעלי מים נמצאו בכתובת השילוח."
+  },
+  {
+    "canonical_hebrew": "אוררטו",
+    "canonical_english": "Urartu",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 188,
+    "context_summary": "אמות המים הראשונות נבנו בארצות האחרות כמו אוררטו, אשור ויוון."
+  },
+  {
+    "canonical_hebrew": "נגב",
+    "canonical_english": "Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 189,
+    "context_summary": "הבארות המתוארות בתנ\"ך מימי אברהם ויצחק הן עדות לאורח החיים בנגב בתקופת האבות."
+  },
+  {
+    "canonical_hebrew": "תל גריסה",
+    "canonical_english": "Tel Gerisa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 189,
+    "context_summary": "יוצאות דופן הן הבארות של תקופת הברזל 1 שבדור ובתל גריסה אשר הן מלבניות."
+  },
+  {
+    "canonical_hebrew": "לחי ראי",
+    "canonical_english": "Lahai Roi",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 189,
+    "context_summary": "בספר בראשית ניתן למנות לפחות חמש בארות בשמותיהן: לחי ראי, עשק, שטנה, רחובות ושבעה."
+  },
+  {
+    "canonical_hebrew": "עשק",
+    "canonical_english": "Esek",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 189,
+    "context_summary": "בספר בראשית ניתן למנות לפחות חמש בארות בשמותיהן: לחי ראי, עשק, שטנה, רחובות ושבעה."
+  },
+  {
+    "canonical_hebrew": "שטנה",
+    "canonical_english": "Sitnah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 189,
+    "context_summary": "בספר בראשית ניתן למנות לפחות חמש בארות בשמותיהן: לחי ראי, עשק, שטנה, רחובות ושבעה."
+  },
+  {
+    "canonical_hebrew": "רחובות",
+    "canonical_english": "Rehoboth",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 189,
+    "context_summary": "בספר בראשית ניתן למנות לפחות חמש בארות בשמותיהן: לחי ראי, עשק, שטנה, רחובות ושבעה."
+  },
+  {
+    "canonical_hebrew": "שבעה",
+    "canonical_english": "Sheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 189,
+    "context_summary": "בספר בראשית ניתן למנות לפחות חמש בארות בשמותיהן: לחי ראי, עשק, שטנה, רחובות ושבעה."
+  },
+  {
+    "canonical_hebrew": "העי",
+    "canonical_english": "Ai",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 190,
+    "context_summary": "באתרים כמו ערד והעי ניתן היה לאתר את מפעל המים, שם נאספו מי הגשמים כנגר עילי אל אגן שקוע."
+  },
+  {
+    "canonical_hebrew": "תל ירמות",
+    "canonical_english": "Tel Yarmuth",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 190,
+    "context_summary": "בתל ירמות, שנחפר בהיקף נרחב, ניתן להצביע על שקע ברור ששימש ככל הנראה כמפעל המים."
+  },
+  {
+    "canonical_hebrew": "מצר",
+    "canonical_english": "Mitzpeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 190,
+    "context_summary": "אגירת מי גשמים החלה בבורות מים במצר ובדלית."
+  },
+  {
+    "canonical_hebrew": "דלית",
+    "canonical_english": "Dalit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 190,
+    "context_summary": "אגירת מי גשמים החלה בבורות מים במצר ובדלית."
+  },
+  {
+    "canonical_hebrew": "בקעת עובדה",
+    "canonical_english": "Uvda Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 190,
+    "context_summary": "הסכרים שנמצאו בבקעת עובדה ובגיווה מעידים על דרך נוספת לאגירת מים בכמות גדולה."
+  },
+  {
+    "canonical_hebrew": "גיווה",
+    "canonical_english": "Giyawa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 190,
+    "context_summary": "הסכרים שנמצאו בבקעת עובדה ובגיווה מעידים על דרך נוספת לאגירת מים בכמות גדולה."
+  }
+]

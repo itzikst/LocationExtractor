@@ -1,0 +1,708 @@
+[
+  {
+    "canonical_hebrew": "מזרח הקדום",
+    "canonical_english": "Ancient Near East",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 211,
+    "context_summary": "השינויים שחלו במערך האסטרטגי במזרח הקדום עם עליית כוחם של האשורים לוו גם בהתפתחות מרחיקת לכת בתחום של אספקת המים."
+  },
+  {
+    "canonical_hebrew": "אשור",
+    "canonical_english": "Assyria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 211,
+    "context_summary": "האשורים, כמו שכניהם האוררטים בנו מערכות לאספקת המים ממרחקים לערים המרכזיות."
+  },
+  {
+    "canonical_hebrew": "אוררטו",
+    "canonical_english": "Urartu",
+    "hebrew_aliases": [
+      "האוררטים"
+    ],
+    "english_aliases": [
+      "Urartians"
+    ],
+    "site_type": "Region",
+    "page_number": 211,
+    "context_summary": "האשורים, כמו שכניהם האוררטים בנו מערכות לאספקת המים ממרחקים לערים המרכזיות."
+  },
+  {
+    "canonical_hebrew": "מסופוטמיה",
+    "canonical_english": "Mesopotamia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 211,
+    "context_summary": "יתכן מאד שהמקור לאמות מים אלו היו תעלות ההשקיה הגדולות והארוכות שנבנו במסופוטמיה בעזרת סוללות עפר."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 211,
+    "context_summary": "המתקנים מסוג זה שנבנו בארץ ישראל לא היו חיוניים באימפריה האשורית שכן עוצמתה הצבאית סיפקה הגנה מרחבית מלאה."
+  },
+  {
+    "canonical_hebrew": "נינוה",
+    "canonical_english": "Nineveh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 211,
+    "context_summary": "כך ניתן היה לבנות ללא חשש מספר אמות מים, שהמרשימה בהן נמשכה לאורך 55 ק\"מ והזרימה מים חיים לנינוה, בירתו של סנחריב."
+  },
+  {
+    "canonical_hebrew": "לבנון",
+    "canonical_english": "Lebanon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 211,
+    "context_summary": "על פי זמנן של האמות ניתן להצביע על חלחול הידע מאשור מערבה אל ארץ ישראל, לבנון ויוון."
+  },
+  {
+    "canonical_hebrew": "יוון",
+    "canonical_english": "Greece",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 211,
+    "context_summary": "על פי זמנן של האמות ניתן להצביע על חלחול הידע מאשור מערבה אל ארץ ישראל, לבנון ויוון."
+  },
+  {
+    "canonical_hebrew": "רומא",
+    "canonical_english": "Rome",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 211,
+    "context_summary": "הדבר דומה לאשר ארע מאות שנים מאוחר יותר, כאשר אמות המים של רומא, שהגיעו לשיא התפתחותן במאות הראשונה לפנה\"ס והראשונה לספירה, שימשו דגם לחיקוי בכל העולם הרומי."
+  },
+  {
+    "canonical_hebrew": "ספרד",
+    "canonical_english": "Spain",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 211,
+    "context_summary": "אמות המים של רומא שימשו דגם לחיקוי בכל העולם הרומי מספרד ועד ארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "גרמניה",
+    "canonical_english": "Germany",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 211,
+    "context_summary": "אמות המים של רומא שימשו דגם לחיקוי בכל העולם הרומי מגרמניה ועד צפון אפריקה."
+  },
+  {
+    "canonical_hebrew": "צפון אפריקה",
+    "canonical_english": "North Africa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 211,
+    "context_summary": "אמות המים של רומא שימשו דגם לחיקוי בכל העולם הרומי מגרמניה ועד צפון אפריקה."
+  },
+  {
+    "canonical_hebrew": "סמוס",
+    "canonical_english": "Samos",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 211,
+    "context_summary": "רוב מפעלי המים היו תת-קרקעיים, כגון מנהרת אופלינוס בסמוס."
+  },
+  {
+    "canonical_hebrew": "מנהרת אופלינוס בסמוס",
+    "canonical_english": "Eupalinos Tunnel in Samos",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tunnel of Eupalinos"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 211,
+    "context_summary": "רוב מפעלי המים היו תת-קרקעיים, כגון מנהרת אופלינוס בסמוס."
+  },
+  {
+    "canonical_hebrew": "אולינתוס",
+    "canonical_english": "Olynthus",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 211,
+    "context_summary": "רוב מפעלי המים היו תת-קרקעיים, כגון באולינתוס שבצפון יוון."
+  },
+  {
+    "canonical_hebrew": "עכו",
+    "canonical_english": "Acre",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 211,
+    "context_summary": "רוב מפעלי המים היו תת-קרקעיים, כגון אמת המים ההלניסטית לעכו."
+  },
+  {
+    "canonical_hebrew": "אקווה מרקיה",
+    "canonical_english": "Aqua Marcia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 211,
+    "context_summary": "האמה הראשונה שנבנתה על פני השטח הייתה אקווה מרקיה (140-144 לפנה\"ס) שהזרימה מים לרומא ממרחק 91 ק\"מ."
+  },
+  {
+    "canonical_hebrew": "נמרוד",
+    "canonical_english": "Nimrud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 212,
+    "context_summary": "מנהרה ואמת מים באשור, נמרוד, נבנתה במאה ה-9 לפנה\"ס על ידי אשורנצירפל ה-2."
+  },
+  {
+    "canonical_hebrew": "תושפה",
+    "canonical_english": "Tushpa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 212,
+    "context_summary": "תעלת מנואה באוררטו, תושפה, נבנתה במאה ה-8 לפנה\"ס על ידי מנואה."
+  },
+  {
+    "canonical_hebrew": "אולחן",
+    "canonical_english": "Ulhu",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 212,
+    "context_summary": "פוגרות באוררטו, אולחן, מתוארכות ל-714 לפנה\"ס על ידי אורסה."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 212,
+    "context_summary": "נקבת חזקיהו בישראל, ירושלים, מתוארכת ל-702/1 לפנה\"ס על ידי חזקיהו."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 212,
+    "context_summary": "נקבת חזקיהו בישראל, ירושלים, מתוארכת ל-702/1 לפנה\"ס על ידי חזקיהו."
+  },
+  {
+    "canonical_hebrew": "נהר חוסר",
+    "canonical_english": "Khosr River",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 212,
+    "context_summary": "אמת המים מנהר חוסר באשור סיפקה 18 יישובים ב-703 לפנה\"ס על ידי סנחריב."
+  },
+  {
+    "canonical_hebrew": "הרי בשיקה",
+    "canonical_english": "Bashiqa Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 212,
+    "context_summary": "אמת המים מהרי בשיקה באשור סיפקה את נינוה ב-694 לפנה\"ס על ידי סנחריב."
+  },
+  {
+    "canonical_hebrew": "תעלת סנחריב",
+    "canonical_english": "Sennacherib's Canal",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 212,
+    "context_summary": "תעלת סנחריב, אמת מים עם מנהרות וגשרים, באשור, נינוה, מתוארכת ל-690 לפנה\"ס על ידי סנחריב."
+  },
+  {
+    "canonical_hebrew": "אירביל",
+    "canonical_english": "Erbil",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 212,
+    "context_summary": "אמה עם מנהרות וגשרים, כ-15 ק\"מ מנהרת פירים, באשור, אירביל, מתוארכת ל-690 לפנה\"ס על ידי סנחריב."
+  },
+  {
+    "canonical_hebrew": "צידון",
+    "canonical_english": "Sidon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 212,
+    "context_summary": "צינור חרס בלבנון, צידון, מתוארך למאה ה-6 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "אתונה",
+    "canonical_english": "Athens",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 212,
+    "context_summary": "מנהרה עם 60 פירים ברווחים של 45 מ' ביוון, אתונה, מתוארכת למאה ה-6 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "איטליה",
+    "canonical_english": "Italy",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 212,
+    "context_summary": "אמת מים תת-קרקעית (אקווה אפיה) באיטליה, רומא, מתוארכת ל-312 לפנה\"ס על ידי אפיוס קלאודיוס."
+  },
+  {
+    "canonical_hebrew": "רומא (אקווה אפיה)",
+    "canonical_english": "Rome (Aqua Appia)",
+    "hebrew_aliases": [
+      "אקווה אפיה"
+    ],
+    "english_aliases": [
+      "Aqua Appia"
+    ],
+    "site_type": "Aqueduct",
+    "page_number": 212,
+    "context_summary": "אמת מים תת-קרקעית (אקווה אפיה) באיטליה, רומא, מתוארכת ל-312 לפנה\"ס על ידי אפיוס קלאודיוס."
+  },
+  {
+    "canonical_hebrew": "רומא (אקווה וטוס)",
+    "canonical_english": "Rome (Aqua Anio Vetus)",
+    "hebrew_aliases": [
+      "אקווה וטוס"
+    ],
+    "english_aliases": [
+      "Aqua Anio Vetus"
+    ],
+    "site_type": "Aqueduct",
+    "page_number": 212,
+    "context_summary": "אמת מים תת-קרקעית (אקווה וטוס) באיטליה, רומא, מתוארכת ל-272 לפנה\"ס על ידי צסטיוס."
+  },
+  {
+    "canonical_hebrew": "עכו",
+    "canonical_english": "Acre",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 212,
+    "context_summary": "אמת מנהרות ופירים בישראל, עכו, מתוארכת למאה ה-3 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 213,
+    "context_summary": "מחקר מפעלי המים הקדומים ליישובים בארץ ישראל מקיף את פרק הזמן שבין השנים 6000 ל-600 לפנה\"ס בערך."
+  },
+  {
+    "canonical_hebrew": "מגידו",
+    "canonical_english": "Megiddo",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 214,
+    "context_summary": "רק לעיתים הופיע פרסום נפרד, כגון של מגידו וגבעון, המתמקדים במפעל המים של האתר עצמו."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 214,
+    "context_summary": "רק לעיתים הופיע פרסום נפרד, כגון של מגידו וגבעון, המתמקדים במפעל המים של האתר עצמו."
+  },
+  {
+    "canonical_hebrew": "עתלית-ים",
+    "canonical_english": "Atlit-Yam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 214,
+    "context_summary": "הבארות הראשונות בעולם העתיק התגלו בעתלית-ים ומעידות על היכולת והידע האנושי להפיק מים."
+  },
+  {
+    "canonical_hebrew": "גלגל",
+    "canonical_english": "Gilgal",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 214,
+    "context_summary": "מיקום יישובים אחרים כגון גלגל, נתיב הגדוד וביידא באזור החסר מים כיום משך את החוקרים לחפש ולמצוא שרידים ורמזים למקור המים שהיה להם בעבר."
+  },
+  {
+    "canonical_hebrew": "נתיב הגדוד",
+    "canonical_english": "Netiv HaGdud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 214,
+    "context_summary": "מיקום יישובים אחרים כגון גלגל, נתיב הגדוד וביידא באזור החסר מים כיום משך את החוקרים לחפש ולמצוא שרידים ורמזים למקור המים שהיה להם בעבר."
+  },
+  {
+    "canonical_hebrew": "ביידא",
+    "canonical_english": "Beidha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 214,
+    "context_summary": "מיקום יישובים אחרים כגון גלגל, נתיב הגדוד וביידא באזור החסר מים כיום משך את החוקרים לחפש ולמצוא שרידים ורמזים למקור המים שהיה להם בעבר."
+  },
+  {
+    "canonical_hebrew": "חוף הכרמל",
+    "canonical_english": "Carmel Coast",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 214,
+    "context_summary": "בתקופה הניאוליתית הקירמית נמשך השימוש בבארות כפי שמעיד הממצא בחלק מהאתרים בחוף הכרמל."
+  },
+  {
+    "canonical_hebrew": "כפר סמיר",
+    "canonical_english": "Kfar Samir",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 214,
+    "context_summary": "באחד מהם, כפר סמיר, נמצאה באר בנויה מעץ ואבן המשולבים זה בזה באופן שלא היה כמוהו קודם לכן וגם לא אחר כך."
+  },
+  {
+    "canonical_hebrew": "בקעת באר שבע",
+    "canonical_english": "Beer Sheba Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 215,
+    "context_summary": "מהתקופה הכלקוליתית ידועות עד כה שתי בארות, שהתגלו בחפירות בבקעת באר שבע."
+  },
+  {
+    "canonical_hebrew": "העי",
+    "canonical_english": "Ai",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 215,
+    "context_summary": "בריכת המים בהעי צופתה בטיח העשוי מאדמת חרסית אטימה למים."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 215,
+    "context_summary": "את המים שנאגרו בבריכות אספו מיד לאחר אירוע הגשם אל קנקנים גדולים דוגמת אלו שנמצאו בערד."
+  },
+  {
+    "canonical_hebrew": "אפק",
+    "canonical_english": "Aphek",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 215,
+    "context_summary": "כך הוקמה אפק על נביעות הירקון, מוקפת משני צדדים לפחות באגם של מעיינות מתוקים."
+  },
+  {
+    "canonical_hebrew": "נביעות הירקון",
+    "canonical_english": "Yarkon Springs",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 215,
+    "context_summary": "כך הוקמה אפק על נביעות הירקון, מוקפת משני צדדים לפחות באגם של מעיינות מתוקים."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 215,
+    "context_summary": "אילו ירושלים הוקמה על בסיס המעיין, עוד בטרם נבנתה בה חומה."
+  },
+  {
+    "canonical_hebrew": "סוריה",
+    "canonical_english": "Syria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 215,
+    "context_summary": "מקור השיטה כנראה בסוריה והיא הונהגה בערים המבוצרות בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "לכיש",
+    "canonical_english": "Lachish",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 215,
+    "context_summary": "המשימה שבהן נמצאה בלכיש – היא נחצבה לעומק של 44 מ' – העמוקה ביותר הידועה לנו מתקופה כה קדומה."
+  },
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 215,
+    "context_summary": "הבורות שנמצאו בחפירות חצור וגזר מעידים על איסוף מי נגר."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Gezer"
+    ],
+    "site_type": "Tell",
+    "page_number": 215,
+    "context_summary": "הבורות שנמצאו בחפירות חצור וגזר מעידים על איסוף מי נגר."
+  },
+  {
+    "canonical_hebrew": "מארי",
+    "canonical_english": "Mari",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 215,
+    "context_summary": "בארות ובורות מים ואולי אמת מים ראשונה (במארי) - כל אלה מייחדים את תקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "מיקנה",
+    "canonical_english": "Mycenae",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 216,
+    "context_summary": "לעומת זאת, נמצאו בשתי תרבויות שכנות, במיקנה ובמצרים, מפעלי מים גדולים יותר."
+  },
+  {
+    "canonical_hebrew": "מצרים",
+    "canonical_english": "Egypt",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 216,
+    "context_summary": "לעומת זאת, נמצאו בשתי תרבויות שכנות, במיקנה ובמצרים, מפעלי מים גדולים יותר."
+  },
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tel Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 216,
+    "context_summary": "בולט השימוש בבורות מים, ובמאגרים כמו בחצור ובתענך."
+  },
+  {
+    "canonical_hebrew": "תענך",
+    "canonical_english": "Taanach",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 216,
+    "context_summary": "בולט השימוש בבורות מים, ובמאגרים כמו בחצור ובתענך."
+  },
+  {
+    "canonical_hebrew": "תל באר שבע",
+    "canonical_english": "Tel Beer Sheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 216,
+    "context_summary": "הבאר בתל באר שבע, שעומקה כ-70 מ', היא הבאר העמוקה ביותר בארץ."
+  },
+  {
+    "canonical_hebrew": "יהודה",
+    "canonical_english": "Judah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 217,
+    "context_summary": "עוצמתם של מפעלים אלו ומרכזיותם מעידות כנראה כי הם הוקמו על-ידי השלטון הממלכתי של יהודה ושל ישראל."
+  },
+  {
+    "canonical_hebrew": "ישראל",
+    "canonical_english": "Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 217,
+    "context_summary": "עוצמתם של מפעלים אלו ומרכזיותם מעידות כנראה כי הם הוקמו על-ידי השלטון הממלכתי של יהודה ושל ישראל."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 217,
+    "context_summary": "ריבוי מפעלי המים וגיוונם בתקופת הברזל 2 בארץ ישראל ובשכנותיה מראים על התפתחות תרבותית בעלת מעוף."
+  },
+  {
+    "canonical_hebrew": "מיקנה",
+    "canonical_english": "Mycenae",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 218,
+    "context_summary": "בתקופת הברונזה המאוחרת ובתקופת הברזל 1 חלה ירידה בכמות, באיכות ובמגוון של מפעלי המים, מלבד אלו שנמצאו במיקנה."
+  },
+  {
+    "canonical_hebrew": "תל באר שבע",
+    "canonical_english": "Tel Beer Sheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 218,
+    "context_summary": "די אם נציין כי מפעלי המים המרשימים של תל באר שבע ותל בית שמש נתגלו רק בשנים האחרונות."
+  },
+  {
+    "canonical_hebrew": "תל בית שמש",
+    "canonical_english": "Tel Bet Shemesh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 218,
+    "context_summary": "די אם נציין כי מפעלי המים המרשימים של תל באר שבע ותל בית שמש נתגלו רק בשנים האחרונות."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 219,
+    "context_summary": "ירושלים מופיעה כעיר הוצאה לאור של מספר רב של כתבי עת ומונוגרפיות ארכיאולוגיות."
+  },
+  {
+    "canonical_hebrew": "תל אביב",
+    "canonical_english": "Tel Aviv",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 219,
+    "context_summary": "תל אביב מופיעה כעיר הוצאה לאור של כתב העת 'טבע וארץ'."
+  },
+  {
+    "canonical_hebrew": "עפרה",
+    "canonical_english": "Ofra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 219,
+    "context_summary": "עפרה מופיעה כעיר הוצאה לאור של כתב העת 'נקרות צורים'."
+  },
+  {
+    "canonical_hebrew": "Beirut",
+    "canonical_english": "Beirut",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 219,
+    "context_summary": "Beirut מופיעה כעיר המזוהה עם האוניברסיטה האמריקאית של ביירות בכתב העת BERYTUS."
+  },
+  {
+    "canonical_hebrew": "יריחו",
+    "canonical_english": "Jericho",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 220,
+    "context_summary": "אביגד (1983) כתב על 'יריחו הקדומה' בספר 'יריחו וסביבתה'."
+  },
+  {
+    "canonical_hebrew": "עיר-דוד",
+    "canonical_english": "City of David",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 220,
+    "context_summary": "אבלס וארביט (1996) כתבו על 'מערכות אספקת המים לעיר-דוד'."
+  },
+  {
+    "canonical_hebrew": "בקעת עובדה",
+    "canonical_english": "Uvda Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 220,
+    "context_summary": "אבנר (1982) ערך סקר ב'בקעת עובדה'."
+  },
+  {
+    "canonical_hebrew": "הנגב",
+    "canonical_english": "Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 220,
+    "context_summary": "אבן-ארי, שנן ותדמור (1980) כתבו על 'הנגב, מלחמת-קיום במדבר'."
+  },
+  {
+    "canonical_hebrew": "גליל העליון",
+    "canonical_english": "Upper Galilee",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 220,
+    "context_summary": "אהרוני ועמירן (תשי\"ג) ערכו 'סקר ארכיאולוגי: סיור בגליל העליון'."
+  },
+  {
+    "canonical_hebrew": "לכיש",
+    "canonical_english": "Lachish",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 220,
+    "context_summary": "אוסישקין (1992) כתב על 'לכיש' באנציקלופדיה החדשה לחפירות ארכיאולוגיות בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "תל הרור",
+    "canonical_english": "Tel Haror",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 220,
+    "context_summary": "אורן ואח' (תשנ\"א) כתבו על 'שש עונות חפירה בתל הרור'."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 220,
+    "context_summary": "אילן וסבן (תשנ\"ו) כתבו על 'מפעל המים מתקופת הברזל בערד'."
+  },
+  {
+    "canonical_hebrew": "דרום השפלה",
+    "canonical_english": "Southern Shephelah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 220,
+    "context_summary": "אלון (1988) כתב על 'תפוצת הישוב הכלכוליתי בדרום השפלה ותולדותיו'."
+  }
+]

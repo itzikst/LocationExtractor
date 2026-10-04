@@ -1,0 +1,618 @@
+[
+  {
+    "canonical_hebrew": "תל גריסה",
+    "canonical_english": "Tel Gerisa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 101,
+    "context_summary": "האתר מוזכר בהשוואה למפעלי מים קדומים יותר, עם פיר אנכי וגרם מדרגות."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 101,
+    "context_summary": "העיר מוזכרת בהשוואה למפעלי מים קדומים יותר, עם פיר אנכי וגרם מדרגות."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 101,
+    "context_summary": "האתר מוזכר בהשוואה למפעלי מים מאוחרים יותר, ובהמשך נפתח עליו סעיף המפרט מאגר מים תת-קרקעי גדול בעיר העליונה."
+  },
+  {
+    "canonical_hebrew": "תל מגידו",
+    "canonical_english": "Tel Megiddo",
+    "hebrew_aliases": [
+      "מגידו"
+    ],
+    "english_aliases": [
+      "Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 101,
+    "context_summary": "האתר מוזכר בהשוואה למפעלי מים מאוחרים יותר, עם פיר אנכי וגרם מדרגות."
+  },
+  {
+    "canonical_hebrew": "נילוס",
+    "canonical_english": "Nile",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 101,
+    "context_summary": "גובה קרקעית הבור שנחפר נמוך בכ-10 מ' ממפלס הנילוס."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 102,
+    "context_summary": "מאגר המים התת-קרקעי בחצור מתוארך לשכבה XIV, וייתכן ששימש את המלך ואנשי הארמון. בור מים נוסף בצורת בקבוק נתגלה בעת חפירת מפעל המים מתקופת הברזל."
+  },
+  {
+    "canonical_hebrew": "מנהרת המים בחצור",
+    "canonical_english": "Hazor Water Tunnel",
+    "hebrew_aliases": [
+      "המנהרה"
+    ],
+    "english_aliases": [
+      "The tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 102,
+    "context_summary": "המנהרה בחצור מגיעה למפלס הסלע בעומק 3 מ' ונמשכת מערבה בזווית תלולה לאורך כ-30 מ' ולעומק של 8.5 מ'."
+  },
+  {
+    "canonical_hebrew": "תל מגידו",
+    "canonical_english": "Tel Megiddo",
+    "hebrew_aliases": [
+      "מגידו"
+    ],
+    "english_aliases": [
+      "Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 102,
+    "context_summary": "החתך של החלק הבנוי במנהרה בחצור מזכיר בנייה מיקנית כגון בקבר במגידו."
+  },
+  {
+    "canonical_hebrew": "תל תענך",
+    "canonical_english": "Tel Taanach",
+    "hebrew_aliases": [
+      "תענך"
+    ],
+    "english_aliases": [
+      "Taanach"
+    ],
+    "site_type": "Tell",
+    "page_number": 102,
+    "context_summary": "ממערב לרחוב ובמקביל לקו הביצור נתגלה מפעל המים שנקרא 'הפיר הגדול' או 'הפיר של תקופת הברונזה המאוחרת 1'."
+  },
+  {
+    "canonical_hebrew": "מפעל המים בתענך",
+    "canonical_english": "Taanach Water System",
+    "hebrew_aliases": [
+      "הפיר הגדול",
+      "הפיר של תקופת הברונזה מאוחרת 1"
+    ],
+    "english_aliases": [
+      "The Great Shaft",
+      "The Late Bronze Age 1 Shaft"
+    ],
+    "site_type": "Installation",
+    "page_number": 102,
+    "context_summary": "מפעל המים בתענך חותך את שפת המדרכה ומתוארך לתקופת הברונזה המאוחרת 1, ונבנה לאחר מסע תחותימס ה-3."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 103,
+    "context_summary": "ראשיתו של הפיר בתענך דומה לזו של הפירים המתוארכים לתקופת הברזל בחצור."
+  },
+  {
+    "canonical_hebrew": "תל מגידו",
+    "canonical_english": "Tel Megiddo",
+    "hebrew_aliases": [
+      "מגידו"
+    ],
+    "english_aliases": [
+      "Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 103,
+    "context_summary": "ראשיתו של הפיר בתענך דומה לזו של הפירים המתוארכים לתקופת הברזל במגידו."
+  },
+  {
+    "canonical_hebrew": "תל תענך",
+    "canonical_english": "Tel Taanach",
+    "hebrew_aliases": [
+      "תענך"
+    ],
+    "english_aliases": [
+      "Taanach"
+    ],
+    "site_type": "Tell",
+    "page_number": 103,
+    "context_summary": "הפיר בתענך טויח בכדי לשמש מאגר, והעובדה שהבור מטויח ראויה לציון בגלל קדמות הטיח האטים למים."
+  },
+  {
+    "canonical_hebrew": "תל בית שמש",
+    "canonical_english": "Tel Beth Shemesh",
+    "hebrew_aliases": [
+      "בית שמש"
+    ],
+    "english_aliases": [
+      "Beth Shemesh"
+    ],
+    "site_type": "Tell",
+    "page_number": 103,
+    "context_summary": "העיר של שכבה IV בבית שמש מכונה 'עיר בורות המים' ומתוארכת לתקופת הברונזה המאוחרת, עם לפחות 24 בורות מטויחים שנמצאו."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 103,
+    "context_summary": "נשאלת השאלה האם השימוש בטיח היה נפוץ גם בערים אחרות בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "תל אשדוד",
+    "canonical_english": "Tel Ashdod",
+    "hebrew_aliases": [
+      "אשדוד"
+    ],
+    "english_aliases": [
+      "Ashdod"
+    ],
+    "site_type": "Tell",
+    "page_number": 103,
+    "context_summary": "בחפירות בתל אשדוד נחשפה בריכה מטויחת (4162) בבית מושל או ארמון השייך לשכבות XIV-XVII."
+  },
+  {
+    "canonical_hebrew": "בריכה 4162 באשדוד",
+    "canonical_english": "Pool 4162 at Ashdod",
+    "hebrew_aliases": [
+      "בריכה מטויחת (4162)"
+    ],
+    "english_aliases": [
+      "Plastered pool (4162)"
+    ],
+    "site_type": "Pool",
+    "page_number": 103,
+    "context_summary": "בריכה מטויחת (4162) באשדוד, שמידותיה הפנימיות 3.2X1.5 מ', נחשפה בבית מושל או ארמון."
+  },
+  {
+    "canonical_hebrew": "תל אשדוד",
+    "canonical_english": "Tel Ashdod",
+    "hebrew_aliases": [
+      "אשדוד"
+    ],
+    "english_aliases": [
+      "Ashdod"
+    ],
+    "site_type": "Tell",
+    "page_number": 104,
+    "context_summary": "הבריכה באשדוד נוקזה באמצעות תעלה שעברה בתוך הקיר הדרומי אל בור ניקוז (4160)."
+  },
+  {
+    "canonical_hebrew": "בור ניקוז 4160 באשדוד",
+    "canonical_english": "Drainage Pit 4160 at Ashdod",
+    "hebrew_aliases": [
+      "בור ניקוז (4160)"
+    ],
+    "english_aliases": [
+      "Drainage pit (4160)"
+    ],
+    "site_type": "Installation",
+    "page_number": 104,
+    "context_summary": "בור ניקוז (4160) באשדוד נחפר בתוך חצר לעומק של 2.5 מ' ודפנותיו ורצפתו צופו באבנים."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 105,
+    "context_summary": "בתקופת הברונזה המאוחרת חלה נסיגה בתפרוסת היישוב של ארץ ישראל, מה שהשפיע על התפתחות מפעלי המים."
+  },
+  {
+    "canonical_hebrew": "בית שאן",
+    "canonical_english": "Beth Shean",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 105,
+    "context_summary": "באר בבית שאן מתוארכת היטב על פי החפירות ומצויה בתוך מתחם פולחני בתחום העיר המבוצרת."
+  },
+  {
+    "canonical_hebrew": "תל ג'מה",
+    "canonical_english": "Tel Gamma",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 105,
+    "context_summary": "תיארוכה של באר למרגלות תל ג'מה הוא בעייתי."
+  },
+  {
+    "canonical_hebrew": "העולם המיקני",
+    "canonical_english": "Mycenaean World",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 105,
+    "context_summary": "מפעלי מים כבירים בוצעו בעולם המיקני, שהיה מרכז תרבות עולמי באותה עת."
+  },
+  {
+    "canonical_hebrew": "יוון",
+    "canonical_english": "Greece",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 105,
+    "context_summary": "ביוון נמצאו שלושה מפעלי מים שונים בעלי רעיון דומה בערים המרכזיות ביותר של התרבות המיקנית."
+  },
+  {
+    "canonical_hebrew": "אתונה",
+    "canonical_english": "Athens",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 105,
+    "context_summary": "באתנה קיימת מערכת טבעית עם תוספות של בנייה וחציבה היורדת אל מעיין נסתר בגבעת העיר."
+  },
+  {
+    "canonical_hebrew": "מיקנה",
+    "canonical_english": "Mycenae",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 105,
+    "context_summary": "במיקנה נמצאו שתי בארות ומפעל שהכניס מי מעיין שהוזרמו באמת מים קצרה מחוץ לעיר אל תוכה."
+  },
+  {
+    "canonical_hebrew": "טירינס",
+    "canonical_english": "Tiryns",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 105,
+    "context_summary": "בטירינס לא נמצאו מים בתחום גבעת העיר ולכן נבנו שתי גלריות אל תוך השטח המישורי שלמרגלות העיר."
+  },
+  {
+    "canonical_hebrew": "מצרים",
+    "canonical_english": "Egypt",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 105,
+    "context_summary": "העולם המצרי היה מרכז תרבות עולמי עם מפעלי מים כבירים."
+  },
+  {
+    "canonical_hebrew": "דיר אל מדינה",
+    "canonical_english": "Deir el-Medina",
+    "hebrew_aliases": [
+      "כפר הפועלים דיר אל מדינה"
+    ],
+    "english_aliases": [
+      "Workers' Village Deir el-Medina"
+    ],
+    "site_type": "Comparative Site",
+    "page_number": 105,
+    "context_summary": "מפעל המים של כפר הפועלים דיר אל מדינה במצרים הוא מונומנט מדהים בעוצמתו."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 105,
+    "context_summary": "בורות המים שראשיתם בארץ ישראל מופיעים בחצור בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "תל תענך",
+    "canonical_english": "Tel Taanach",
+    "hebrew_aliases": [
+      "תענך"
+    ],
+    "english_aliases": [
+      "Taanach"
+    ],
+    "site_type": "Tell",
+    "page_number": 105,
+    "context_summary": "בורות המים שראשיתם בארץ ישראל מופיעים בתענך בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "תל בית שמש",
+    "canonical_english": "Tel Beth Shemesh",
+    "hebrew_aliases": [
+      "בית שמש"
+    ],
+    "english_aliases": [
+      "Beth Shemesh"
+    ],
+    "site_type": "Tell",
+    "page_number": 105,
+    "context_summary": "בורות המים שראשיתם בארץ ישראל מופיעים בבית שמש בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 106,
+    "context_summary": "בחצור התגלו בורות בעלי נפח רב (150 מ\"ק) המכונים מאגרי מים."
+  },
+  {
+    "canonical_hebrew": "תל תענך",
+    "canonical_english": "Tel Taanach",
+    "hebrew_aliases": [
+      "תענך"
+    ],
+    "english_aliases": [
+      "Taanach"
+    ],
+    "site_type": "Tell",
+    "page_number": 106,
+    "context_summary": "בתענך התגלו בורות בעלי נפח רב (150 מ\"ק) המכונים מאגרי מים."
+  },
+  {
+    "canonical_hebrew": "תל בית שמש",
+    "canonical_english": "Tel Beth Shemesh",
+    "hebrew_aliases": [
+      "בית שמש"
+    ],
+    "english_aliases": [
+      "Beth Shemesh"
+    ],
+    "site_type": "Tell",
+    "page_number": 106,
+    "context_summary": "בבית שמש מופיעים בורות מים בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 107,
+    "context_summary": "תקופת הברזל 1 נחשבת כתקופת ההתנחלות של בני ישראל בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "מישור החוף",
+    "canonical_english": "Coastal Plain",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 107,
+    "context_summary": "גויי הים בנו ערים חדשות ומבוצרות במישור החוף."
+  },
+  {
+    "canonical_hebrew": "חבלי ספר המדבר וההר",
+    "canonical_english": "Desert Fringe and Mountain Regions",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 107,
+    "context_summary": "בני ישראל הקימו יישובים קטנים בחבלי ספר המדבר וההר."
+  },
+  {
+    "canonical_hebrew": "תל דור",
+    "canonical_english": "Tel Dor",
+    "hebrew_aliases": [
+      "דור"
+    ],
+    "english_aliases": [
+      "Dor"
+    ],
+    "site_type": "Tell",
+    "page_number": 107,
+    "context_summary": "בחפירות הרציף של הנמל הקדום בצד הדרומי של תל דור נתגלתה באר מלבנית."
+  },
+  {
+    "canonical_hebrew": "באר דור",
+    "canonical_english": "Dor Well",
+    "hebrew_aliases": [
+      "באר מלבנית"
+    ],
+    "english_aliases": [
+      "Rectangular well"
+    ],
+    "site_type": "Well",
+    "page_number": 107,
+    "context_summary": "באר מלבנית בדור נחצבה בסלע הכורכר בכדי להגיע אל מפלס מי התהום הרדוד."
+  },
+  {
+    "canonical_hebrew": "תל דור",
+    "canonical_english": "Tel Dor",
+    "hebrew_aliases": [
+      "דור"
+    ],
+    "english_aliases": [
+      "Dor"
+    ],
+    "site_type": "Tell",
+    "page_number": 108,
+    "context_summary": "הבאר בדור תוארכה מסוף המאה ה-13 ועד ראשית המאה ה-11 לפנה\"ס, והעידה על עוצמת העיר בימי גויי הים."
+  },
+  {
+    "canonical_hebrew": "טנטורה",
+    "canonical_english": "Tantura",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 108,
+    "context_summary": "תושבי הכפר הרצנטי טנטורה ניקו מחדש את הבאר בדור והשתמשו בה."
+  },
+  {
+    "canonical_hebrew": "תל גריסה",
+    "canonical_english": "Tel Gerisa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 108,
+    "context_summary": "בחפירת מפעל המים בתל גריסה נתגלו שני שלבים, כאשר המאוחר הוא באר מתקופת הברזל 1 שנבנתה אל תוך המפעל הקדום."
+  },
+  {
+    "canonical_hebrew": "באר תל גריסה",
+    "canonical_english": "Tel Gerisa Well",
+    "hebrew_aliases": [
+      "באר"
+    ],
+    "english_aliases": [
+      "Well"
+    ],
+    "site_type": "Well",
+    "page_number": 108,
+    "context_summary": "הבאר בתל גריסה היא פיר אנכי מלבני שנבנה באבנים גדולות מסותתות, ונוטה בזווית של כ-15 מעלות לכיוון מזרח."
+  },
+  {
+    "canonical_hebrew": "תל גריסה",
+    "canonical_english": "Tel Gerisa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 109,
+    "context_summary": "הבאר בתל גריסה שימשה את היישוב הפרוז הקטן שהקימו הפלשתים בחלק מהתל, הן לצורכי היישוב והן לחקלאות."
+  },
+  {
+    "canonical_hebrew": "תל בית שמש",
+    "canonical_english": "Tel Beth Shemesh",
+    "hebrew_aliases": [
+      "בית שמש"
+    ],
+    "english_aliases": [
+      "Beth Shemesh"
+    ],
+    "site_type": "Tell",
+    "page_number": 109,
+    "context_summary": "באר בבית שמש נתגלתה על ידי מקנזי מצפון לשער העיר הדרומי, והייתה בשימוש במשך תקופה ארוכה."
+  },
+  {
+    "canonical_hebrew": "באר בית שמש",
+    "canonical_english": "Beth Shemesh Well",
+    "hebrew_aliases": [
+      "הבאר"
+    ],
+    "english_aliases": [
+      "The well"
+    ],
+    "site_type": "Well",
+    "page_number": 109,
+    "context_summary": "הבאר בבית שמש הגיעה לעומק של 20 מ', קוטרה 3.3 מ' ובנויה בחלקה העליון באבנים גדולות."
+  },
+  {
+    "canonical_hebrew": "תל באר שבע",
+    "canonical_english": "Tel Beer Sheba",
+    "hebrew_aliases": [
+      "באר שבע"
+    ],
+    "english_aliases": [
+      "Beer Sheba"
+    ],
+    "site_type": "Tell",
+    "page_number": 109,
+    "context_summary": "בצדו הדרום-מזרחי של תל באר שבע נחשפה באר קדומה, שראש הבאר שלה היה הרוס."
+  },
+  {
+    "canonical_hebrew": "באר תל באר שבע",
+    "canonical_english": "Tel Beer Sheba Well",
+    "hebrew_aliases": [
+      "באר קדומה"
+    ],
+    "english_aliases": [
+      "Ancient well"
+    ],
+    "site_type": "Well",
+    "page_number": 109,
+    "context_summary": "הבאר בתל באר שבע נחפרה בשני שלבים, כאשר בשלב הראשון הגיעה לעומק של כ-20 מ', והקרמיקה שנמצאה בה הייתה מהתקופה ההלניסטית."
+  },
+  {
+    "canonical_hebrew": "תל באר שבע",
+    "canonical_english": "Tel Beer Sheba",
+    "hebrew_aliases": [
+      "באר שבע"
+    ],
+    "english_aliases": [
+      "Beer Sheba"
+    ],
+    "site_type": "Tell",
+    "page_number": 110,
+    "context_summary": "הבאר בתל באר שבע נחפרה לעומק של 42 מ', ולאחר מכן חפירתה התחדשה בעומק 32 מ', כאשר מים החלו להופיע בעומק 57 מ'."
+  },
+  {
+    "canonical_hebrew": "באר תל באר שבע",
+    "canonical_english": "Tel Beer Sheba Well",
+    "hebrew_aliases": [
+      "הבאר"
+    ],
+    "english_aliases": [
+      "The well"
+    ],
+    "site_type": "Well",
+    "page_number": 110,
+    "context_summary": "בבאר בתל באר שבע נמצאו שברי קורות עץ וגזרי עצים מערער אדום, והיא נחצבה בראש הגבעה ולא לצד אפיק הנחל."
+  },
+  {
+    "canonical_hebrew": "אדום",
+    "canonical_english": "Edom",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 110,
+    "context_summary": "עצי ערער אדום גדלים רק באדום ובצפון סיני, והבאתם לבאר שבע מעידה על סחר בעצים."
+  },
+  {
+    "canonical_hebrew": "צפון סיני",
+    "canonical_english": "Northern Sinai",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 110,
+    "context_summary": "עצי ערער אדום גדלים רק באדום ובצפון סיני, והבאתם לבאר שבע מעידה על סחר בעצים."
+  },
+  {
+    "canonical_hebrew": "אפיק הנחל",
+    "canonical_english": "Stream Bed",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 110,
+    "context_summary": "הבאר בתל באר שבע נחצבה בראש הגבעה ולא לצד אפיק הנחל, הנמוך בכ-22.5 מ' משפת הבאר."
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [
+      "ערד הקדומה"
+    ],
+    "english_aliases": [
+      "Ancient Arad"
+    ],
+    "site_type": "Settlement",
+    "page_number": 61,
+    "context_summary": "העיר ערד מתוארת כיישוב מבוצר באזור מדברי עם בעיית אספקת מים, ומוצגים חישובים שונים של כמות הנגר שניתן היה לאסוף בה."
+  },
+  {
+    "canonical_hebrew": "מרסה מטרוח שבמצרים",
+    "canonical_english": "Mersa Matruh in Egypt",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 61,
+    "context_summary": "בול הציע נוסחה לחישוב נגר עילי בעיר מרסה מטרוח שבמצרים, ורוזנן השתמש בה לחישוביו עבור ערד."
+  },
+  {
+    "canonical_hebrew": "הר חברון",
+    "canonical_english": "Hebron Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 61,
+    "context_summary": "הלמס העריך כי בקיץ תושבי ערד נדדו להר חברון למצוא מרעה, מזון ומים."
+  },
+  {
+    "canonical_hebrew": "ערד החדשה",
+    "canonical_english": "New Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 61,
+    "context_summary": "מורין ואביגד חישבו נתונים מ-98 סופות גשם שנמדדו בערד החדשה בשנים 1983-1964."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [
+      "ערד הקדומה"
+    ],
+    "english_aliases": [
+      "Ancient Arad"
+    ],
+    "site_type": "Settlement",
+    "page_number": 62,
+    "context_summary": "הדיון ממשיך על האקלים הפליאואקלימי בערד, השפעת קו הגשם, ושיטות איסוף מים בתל ערד."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Be'er Sheva",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 62,
+    "context_summary": "בבאר שבע, המרוחקת כ-40 ק\"מ ממערב לערד, נרשמו שש שנות בצורת רצופות."
+  },
+  {
+    "canonical_hebrew": "קרית גת",
+    "canonical_english": "Kiryat Gat",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 62,
+    "context_summary": "עמירן טען שבשנים גשומות, קו הגשם נדד באזור קרית גת 40 ק\"מ דרומה."
+  },
+  {
+    "canonical_hebrew": "מזרח הים התיכון",
+    "canonical_english": "Eastern Mediterranean",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 62,
+    "context_summary": "מחקרים בתחומים שונים במזרח הים התיכון ובצפון אפריקה מצביעים על תקופה לחה יותר."
+  },
+  {
+    "canonical_hebrew": "צפון אפריקה",
+    "canonical_english": "North Africa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 62,
+    "context_summary": "מחקרים בתחומים שונים במזרח הים התיכון ובצפון אפריקה מצביעים על תקופה לחה יותר."
+  },
+  {
+    "canonical_hebrew": "תל ערד",
+    "canonical_english": "Tel Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 62,
+    "context_summary": "יאיר וגרטי טוענים שמחקר מורין ואביגד מתייחס לאדמת לס ולא לקרקע סלעית כמו זו של תל ערד."
+  },
+  {
+    "canonical_hebrew": "צומת שוקת",
+    "canonical_english": "Shoket Junction",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 62,
+    "context_summary": "יאיר וגרטי ביצעו מחקר בלימנים שלצד הכביש צומת שוקת - ערד."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 63,
+    "context_summary": "הדיון מתמקד בשיטות איסוף מים מגגות בערד, חישוב כמויות מים למערכות פרטיות וכלליות, ופוטנציאל האגירה."
+  },
+  {
+    "canonical_hebrew": "מרסה מטרוח",
+    "canonical_english": "Mersa Matruh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 63,
+    "context_summary": "יאיר וגרטי השתמשו בנוסחה שהציע בול במרסה מטרוח לחישוב אגירת מים מגגות."
+  },
+  {
+    "canonical_hebrew": "ג'ווה (ירדן)",
+    "canonical_english": "Jawa (Jordan)",
+    "hebrew_aliases": [
+      "ג'ווה"
+    ],
+    "english_aliases": [
+      "Jawa"
+    ],
+    "site_type": "Settlement",
+    "page_number": 63,
+    "context_summary": "ג'ווה היא עיר מתקופת הברונזה הקדומה במזרח ירדן, המהווה דוגמה ליישוב מבוצר עם ידע נרחב בהידרולוגיה."
+  },
+  {
+    "canonical_hebrew": "ג'בל דרוז",
+    "canonical_english": "Jabal Druze",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 63,
+    "context_summary": "האתר ג'ווה מצוי בחלק הדרומי של ג'בל דרוז, באזור בזלתי."
+  },
+  {
+    "canonical_hebrew": "המדבר השחור",
+    "canonical_english": "Black Desert",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 63,
+    "context_summary": "אזור ג'ווה מהווה את 'המדבר השחור' של מזרח ירדן."
+  },
+  {
+    "canonical_hebrew": "מזרח ירדן",
+    "canonical_english": "Eastern Jordan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 63,
+    "context_summary": "אזור ג'ווה מהווה את 'המדבר השחור' של מזרח ירדן."
+  },
+  {
+    "canonical_hebrew": "המדבר הסורי",
+    "canonical_english": "Syrian Desert",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 63,
+    "context_summary": "ג'ווה מצויה בדרום המדבר הסורי."
+  },
+  {
+    "canonical_hebrew": "אזרק",
+    "canonical_english": "Azraq",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 63,
+    "context_summary": "ג'ווה ממוקמת כ-60 ק\"מ מצפון-מזרח לעיר אזרק."
+  },
+  {
+    "canonical_hebrew": "ירדן",
+    "canonical_english": "Jordan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 63,
+    "context_summary": "האתר ג'ווה מצוי בתחום ממלכת ירדן."
+  },
+  {
+    "canonical_hebrew": "הגבול הסורי",
+    "canonical_english": "Syrian Border",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 63,
+    "context_summary": "ג'ווה ממוקמת כ-8 ק\"מ מהגבול הסורי."
+  },
+  {
+    "canonical_hebrew": "ג'ווה",
+    "canonical_english": "Jawa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 64,
+    "context_summary": "הלמס גילה בג'ווה שלוש מערכות לתפיסת מים (C1, C2, C3) ושתי בריכות טבעיות (P3, P4), וניתח חלופות למועד הגעת התושבים."
+  },
+  {
+    "canonical_hebrew": "ואדי רג'יל",
+    "canonical_english": "Wadi Rajil",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 64,
+    "context_summary": "תושבי ג'ווה בנו סכר הטיה על ואדי רג'יל כחלק ממערכת המים."
+  },
+  {
+    "canonical_hebrew": "בקעת עובדה",
+    "canonical_english": "Uvda Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 64,
+    "context_summary": "בסקר בבקעת עובדה נתגלו 151 אתרי מגורים מהאלף ה-3-5 לפנה\"ס, ושיטות לאגירת מים."
+  },
+  {
+    "canonical_hebrew": "נווה יטבתה",
+    "canonical_english": "Neve Yotvata",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 64,
+    "context_summary": "נווה יטבתה הוא אחד מחמישה מקורות מים קבועים המצויים במרחק חצי יום הליכה מבקעת עובדה, ובו כמות מים בלתי מוגבלת."
+  },
+  {
+    "canonical_hebrew": "בקעת עובדה",
+    "canonical_english": "Uvda Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 65,
+    "context_summary": "בבקעת עובדה הובחנו שתי שיטות לאגירת מים: סכרים בערוצי נחלים ושקעים בחרסית לאגירת מי גשם."
+  },
+  {
+    "canonical_hebrew": "מערב השומרון",
+    "canonical_english": "Western Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 65,
+    "context_summary": "בסקר במערב השומרון נמצאו יישובים שהוקמו על אדמת רנדזינה קרטונית רכה, בהם חצבו בורות מים."
+  },
+  {
+    "canonical_hebrew": "פחמה",
+    "canonical_english": "Fahma",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 65,
+    "context_summary": "אתר מספר 41, תל מצפון לפחמה, הוא אחד מארבעת היישובים שנבנו על אדמת קרטון במערב השומרון."
+  },
+  {
+    "canonical_hebrew": "תל מצפון לפחמה",
+    "canonical_english": "Tell North of Fahma",
+    "hebrew_aliases": [
+      "אתר מספר 41"
+    ],
+    "english_aliases": [
+      "Site No. 41"
+    ],
+    "site_type": "Tell",
+    "page_number": 65,
+    "context_summary": "תל מצפון לפחמה הוא אחד מארבעת היישובים במערב השומרון שנבנו על אדמת קרטון ללא מעיינות בקרבתם."
+  },
+  {
+    "canonical_hebrew": "בזריה",
+    "canonical_english": "Bazariya",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 65,
+    "context_summary": "אתר מספר 94, תל ליד בזריה, הוא אחד מארבעת היישובים שנבנו על אדמת קרטון במערב השומרון."
+  },
+  {
+    "canonical_hebrew": "תל ליד בזריה",
+    "canonical_english": "Tell Near Bazariya",
+    "hebrew_aliases": [
+      "אתר מספר 94"
+    ],
+    "english_aliases": [
+      "Site No. 94"
+    ],
+    "site_type": "Tell",
+    "page_number": 65,
+    "context_summary": "תל ליד בזריה הוא אחד מארבעת היישובים במערב השומרון שנבנו על אדמת קרטון ללא מעיינות בקרבתם."
+  },
+  {
+    "canonical_hebrew": "שבתין",
+    "canonical_english": "Shabtin",
+    "hebrew_aliases": [
+      "אתר מספר 223"
+    ],
+    "english_aliases": [
+      "Site No. 223"
+    ],
+    "site_type": "Settlement",
+    "page_number": 65,
+    "context_summary": "שבתין הוא אחד מארבעת היישובים במערב השומרון שנבנו על אדמת קרטון, ומצוי ליד מעיין."
+  },
+  {
+    "canonical_hebrew": "מידיא",
+    "canonical_english": "Midiya",
+    "hebrew_aliases": [
+      "אתר מספר 226"
+    ],
+    "english_aliases": [
+      "Site No. 226"
+    ],
+    "site_type": "Settlement",
+    "page_number": 65,
+    "context_summary": "מידיא הוא אחד מארבעת היישובים במערב השומרון שנבנו על אדמת קרטון ללא מעיינות בקרבתם."
+  },
+  {
+    "canonical_hebrew": "הר שומרון",
+    "canonical_english": "Samaria Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 65,
+    "context_summary": "המתיישבים בהר שומרון בתקופת הברונזה הקדומה התגברו על המחסור במים על ידי חציבת בורות בסלע הקרטון."
+  },
+  {
+    "canonical_hebrew": "הר בית אל",
+    "canonical_english": "Mount Bethel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 65,
+    "context_summary": "באזור הספר של הר בית אל הוקמו יישובים על גבעות קרטון שהקנו יתרון ביטחוני ואפשרות לחצוב בורות מים."
+  },
+  {
+    "canonical_hebrew": "ברקת",
+    "canonical_english": "Bareket",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 65,
+    "context_summary": "ברקת הוא אתר נוסף בו ניתן למצוא סימנים לאצירת מי גשמים בסלע הקרטון."
+  },
+  {
+    "canonical_hebrew": "מצר",
+    "canonical_english": "Mitzpe",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 65,
+    "context_summary": "מצר הוא אתר נוסף בו ניתן למצוא סימנים לאצירת מי גשמים בסלע הקרטון."
+  },
+  {
+    "canonical_hebrew": "תל דלית",
+    "canonical_english": "Tel Dalit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 65,
+    "context_summary": "תל דלית הוא אתר נוסף בו ניתן למצוא סימנים לאצירת מי גשמים בסלע הקרטון."
+  },
+  {
+    "canonical_hebrew": "מצר",
+    "canonical_english": "Mitzpe",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 66,
+    "context_summary": "מצר הוא אתר מהתקופות הכלקוליתית והברונזה הקדומה, בו נמצאו בורות חצובים בסלע לאגירת מי גשם, כולל בור B3 ובור D7."
+  },
+  {
+    "canonical_hebrew": "חדרה",
+    "canonical_english": "Hadera",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 66,
+    "context_summary": "האתר מצר מצוי כ-12 ק\"מ ממזרח לחדרה."
+  },
+  {
+    "canonical_hebrew": "תל דלית",
+    "canonical_english": "Tel Dalit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 66,
+    "context_summary": "תל דלית הוא יישוב מבוצר מתקופת הברונזה הקדומה, השוכן בהדום השומרון, ובו נבדק בור חצוב בסלע קרטון לאגירת מים."
+  },
+  {
+    "canonical_hebrew": "הדום השומרון",
+    "canonical_english": "Samaria Foothills",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 66,
+    "context_summary": "תל דלית שוכן במדרגה המערבית ביותר של הדום השומרון."
+  },
+  {
+    "canonical_hebrew": "בן שמן",
+    "canonical_english": "Ben Shemen",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 66,
+    "context_summary": "כמות המשקעים השנתית באזור תל דלית נרשמה בבן שמן, המרוחק 3 ק\"מ מדרום-מערב לתל."
+  },
+  {
+    "canonical_hebrew": "עין א-נטוף",
+    "canonical_english": "Ein a-Natuf",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 66,
+    "context_summary": "מקור המים הטבעי היחיד באזור תל דלית הוא מעיין קטן - עין א-נטוף, המצוי בנחל נטוף."
+  },
+  {
+    "canonical_hebrew": "נחל נטוף",
+    "canonical_english": "Nahal Natuf",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 66,
+    "context_summary": "עין א-נטוף מצוי בנחל נטוף, במרחק של 3.5 ק\"מ מדרום-מזרח לתל דלית."
+  },
+  {
+    "canonical_hebrew": "תל דלית",
+    "canonical_english": "Tel Dalit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 67,
+    "context_summary": "הדיון ממשיך על בורות המים בתל דלית, חציבתם בסלע הקרטון, והפוטנציאל לאגירת מים העולה על צריכת האוכלוסייה."
+  },
+  {
+    "canonical_hebrew": "מרשה",
+    "canonical_english": "Maresha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 67,
+    "context_summary": "תופעת חציבת בורות בסלע הקרטון ידועה ממאות בורות המים מהתקופה ההלניסטית במרשה."
+  },
+  {
+    "canonical_hebrew": "נחל נטוף",
+    "canonical_english": "Nahal Natuf",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 67,
+    "context_summary": "בטווח של 1.5 ק\"מ מתל דלית מצויים עמקיהם של הנחלים נטוף ונבלט, בהם ייתכן שנחפרו בארות."
+  },
+  {
+    "canonical_hebrew": "נחל נבלט",
+    "canonical_english": "Nahal Navalat",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 67,
+    "context_summary": "בטווח של 1.5 ק\"מ מתל דלית מצויים עמקיהם של הנחלים נטוף ונבלט, בהם ייתכן שנחפרו בארות."
+  },
+  {
+    "canonical_hebrew": "תל דלית",
+    "canonical_english": "Tel Dalit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 68,
+    "context_summary": "סיכום מקורות המים של תל דלית כולל בורות מים בתחום היישוב ובארות בנחלים הסמוכים."
+  },
+  {
+    "canonical_hebrew": "בית ירח",
+    "canonical_english": "Beth Yerah",
+    "hebrew_aliases": [
+      "תל בית ירח"
+    ],
+    "english_aliases": [
+      "Tel Beth Yerah"
+    ],
+    "site_type": "Tell",
+    "page_number": 68,
+    "context_summary": "בחפירת הצלה בפאתו הדרומית של תל בית ירח, נחשף קטע של מנהרה מדופנת אבני בזלת, המהווה אולי חלק ממפעל מים."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 68,
+    "context_summary": "הכותב משער שאם המנהרה בבית ירח היא אמת מים, היא הסתיימה בבריכת מים כמו בערד."
+  }
+]

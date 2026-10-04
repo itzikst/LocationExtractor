@@ -1,0 +1,468 @@
+[
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 141,
+    "context_summary": "The text mentions an attempt to begin excavating Hezekiah's Tunnel and that Parker's expedition used Warren's Shaft to clean it. It is also mentioned in the context of the Siloam Inscription."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 141,
+    "context_summary": "The research by Reich and Shukron on the various water systems of the Gihon Spring is highlighted. Vincent observed another prepared stone slab near it for an inscription."
+  },
+  {
+    "canonical_hebrew": "פיר וורן",
+    "canonical_english": "Warren's Shaft",
+    "hebrew_aliases": [
+      "פיר וורן התחתון",
+      "פיר וורן - הצינור"
+    ],
+    "english_aliases": [
+      "Warren's Shaft (lower)",
+      "Warren's Shaft - the pipe"
+    ],
+    "site_type": "Installation",
+    "page_number": 141,
+    "context_summary": "Described as a natural vertical shaft in hard limestone, dated over 40,000 years old. Parker's expedition used it to clean Hezekiah's Tunnel, and some researchers suggested it was the 'pipe' through which David conquered Jebus."
+  },
+  {
+    "canonical_hebrew": "עיר יבוס",
+    "canonical_english": "Jebusite City",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 141,
+    "context_summary": "Mentioned in the context of David's conquest, with some researchers suggesting Warren's Shaft was the 'pipe' used to conquer it."
+  },
+  {
+    "canonical_hebrew": "איסטנבול",
+    "canonical_english": "Istanbul",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 141,
+    "context_summary": "The Siloam Inscription was broken and taken to Istanbul by the Turks after an attempt to remove it."
+  },
+  {
+    "canonical_hebrew": "בריכת השילוח",
+    "canonical_english": "Pool of Siloam",
+    "hebrew_aliases": [
+      "ברכת השילוח"
+    ],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 141,
+    "context_summary": "The Siloam Inscription was discovered in the tunnel 6 meters from this pool. It is also mentioned as one of the five pools in Jerusalem according to the Bible."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 141,
+    "context_summary": "The text mentions five water pools in Jerusalem according to the Bible, and discusses the city's water supply."
+  },
+  {
+    "canonical_hebrew": "הבריכה העליונה",
+    "canonical_english": "Upper Pool",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 141,
+    "context_summary": "Mentioned as one of the five pools in Jerusalem according to the Bible."
+  },
+  {
+    "canonical_hebrew": "הבריכה התחתונה",
+    "canonical_english": "Lower Pool",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 141,
+    "context_summary": "Mentioned as one of the five pools in Jerusalem according to the Bible, possibly identical to the 'Old Pool'."
+  },
+  {
+    "canonical_hebrew": "הבריכה הישנה",
+    "canonical_english": "Old Pool",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 141,
+    "context_summary": "Mentioned as one of the five pools in Jerusalem according to the Bible, possibly identical to the 'Lower Pool'."
+  },
+  {
+    "canonical_hebrew": "הבריכה העשויה",
+    "canonical_english": "Made Pool",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 141,
+    "context_summary": "Mentioned as one of the five pools in Jerusalem according to the Bible."
+  },
+  {
+    "canonical_hebrew": "תעלת העודפים",
+    "canonical_english": "Overflow Channel",
+    "hebrew_aliases": [
+      "תעלה IV",
+      "תעלה VIII bis",
+      "תעלה ו'",
+      "תעלת העודפים (IVA)"
+    ],
+    "english_aliases": [
+      "Channel IV",
+      "Channel VIII bis",
+      "Channel VI"
+    ],
+    "site_type": "Aqueduct",
+    "page_number": 142,
+    "context_summary": "Described as a channel that carries excess water from Hezekiah's Tunnel, starting near the Pool of Siloam and extending southeast along the cliff of the City of David to the Kidron Valley. It was excavated by Weill and Shukron."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 142,
+    "context_summary": "Its water was diverted by the Overflow Channel. Its length is calculated based on the Siloam Inscription, and it is described as the most famous ancient water system in Israel."
+  },
+  {
+    "canonical_hebrew": "בריכת השילוח",
+    "canonical_english": "Pool of Siloam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 142,
+    "context_summary": "The Overflow Channel starts near it. Its current shallow depth suggests it didn't exist in the 8th century BCE but formed from the destruction of the tunnel. The Siloam Inscription was found 6m from it."
+  },
+  {
+    "canonical_hebrew": "עיר דוד",
+    "canonical_english": "City of David",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 142,
+    "context_summary": "Weill excavated at its edge, revealing the Overflow Channel extending along its southern cliff. Channel II also turned westward at its end."
+  },
+  {
+    "canonical_hebrew": "נחל קדרון",
+    "canonical_english": "Kidron Valley",
+    "hebrew_aliases": [
+      "אפיק הקדרון"
+    ],
+    "english_aliases": [
+      "Kidron Wadi"
+    ],
+    "site_type": "Valley",
+    "page_number": 142,
+    "context_summary": "The Overflow Channel extends towards it. Channel II ran parallel to its course. Bir Ayub is located at its junction with the Hinnom Valley."
+  },
+  {
+    "canonical_hebrew": "בירכת אל-חמרה",
+    "canonical_english": "Birkat el-Hamra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 142,
+    "context_summary": "Channel II ended here, and it was within the city walls in the 8th century BCE. It is suggested that a pool existed here, possibly referred to as 'מקווה בין החומותיים'."
+  },
+  {
+    "canonical_hebrew": "כתובת השילוח",
+    "canonical_english": "Siloam Inscription",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 142,
+    "context_summary": "Discovered in 1880 in the eastern wall of the tunnel, it describes the meeting of the excavators. Its dating is debated, but generally assigned to the late 8th century BCE."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 142,
+    "context_summary": "The text discusses various water systems and pools in Jerusalem, including those mentioned in the Bible. Bir Ayub is also located near Jerusalem."
+  },
+  {
+    "canonical_hebrew": "הבריכה העליונה",
+    "canonical_english": "Upper Pool",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 142,
+    "context_summary": "Mentioned in the context of the Assyrian camp, suggesting an aqueduct led to it."
+  },
+  {
+    "canonical_hebrew": "מחנה האשורים",
+    "canonical_english": "Assyrian Camp",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 142,
+    "context_summary": "Ussishkin suggested identifying its location on the northeastern hill, where the Upper Pool's channel is mentioned in connection to it."
+  },
+  {
+    "canonical_hebrew": "הבריכה התחתונה",
+    "canonical_english": "Lower Pool",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 142,
+    "context_summary": "Mentioned as being in the City of David, and possibly identical to the 'Old Pool'."
+  },
+  {
+    "canonical_hebrew": "הבריכה הישנה",
+    "canonical_english": "Old Pool",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 142,
+    "context_summary": "Mentioned as possibly identical to the 'Lower Pool'."
+  },
+  {
+    "canonical_hebrew": "גיא הטירופיאון",
+    "canonical_english": "Tyropoeon Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 142,
+    "context_summary": "A pool is suggested to have existed at its lower end, where Birkat el-Hamra is today."
+  },
+  {
+    "canonical_hebrew": "תעלת המים החשמונאית",
+    "canonical_english": "Hasmonean Water Channel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 142,
+    "context_summary": "First investigated by Warren and Conder, it's a rock-cut channel running north-south near the Temple Mount wall, leading runoff water to cisterns on the Temple Mount."
+  },
+  {
+    "canonical_hebrew": "הר הבית",
+    "canonical_english": "Temple Mount",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 142,
+    "context_summary": "The Hasmonean Water Channel runs near its wall and led water to cisterns within it. Its wall was built by Herod, cutting the channel."
+  },
+  {
+    "canonical_hebrew": "שער שכם",
+    "canonical_english": "Damascus Gate",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 142,
+    "context_summary": "Warren suggested the Hasmonean Water Channel originated from this area, which was a drainage basin."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 142,
+    "context_summary": "Mazar suggested a morphological similarity between the Hasmonean Water Channel and Gibeon's water system."
+  },
+  {
+    "canonical_hebrew": "ביר איוב",
+    "canonical_english": "Bir Ayub",
+    "hebrew_aliases": [
+      "באר איוב"
+    ],
+    "english_aliases": [
+      "Job's Well"
+    ],
+    "site_type": "Well",
+    "page_number": 142,
+    "context_summary": "Located south of Gihon, at the junction of the Kidron and Hinnom Valleys, identified with En Rogel. Its water was used for fields and gardens."
+  },
+  {
+    "canonical_hebrew": "עין רוגלי",
+    "canonical_english": "En Rogel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 142,
+    "context_summary": "Identified with Bir Ayub, mentioned in Joshua, Samuel, and Kings. Flavius Josephus explained its deep burial due to an earthquake during King Uzziah's reign."
+  },
+  {
+    "canonical_hebrew": "גיא בן הינום",
+    "canonical_english": "Hinnom Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 142,
+    "context_summary": "Bir Ayub is located at its junction with the Kidron Valley."
+  },
+  {
+    "canonical_hebrew": "ישראל",
+    "canonical_english": "Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 142,
+    "context_summary": "Hezekiah's Tunnel is described as the most famous ancient water system in Israel."
+  },
+  {
+    "canonical_hebrew": "אוררטו",
+    "canonical_english": "Urartu",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 142,
+    "context_summary": "Mentioned as an ancient kingdom where some tunnels predate Hezekiah's Tunnel."
+  },
+  {
+    "canonical_hebrew": "אשור",
+    "canonical_english": "Assyria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 142,
+    "context_summary": "Mentioned as an ancient kingdom where some tunnels predate Hezekiah's Tunnel."
+  },
+  {
+    "canonical_hebrew": "תעלה I",
+    "canonical_english": "Channel I",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 146,
+    "context_summary": "Listed in a table summarizing the dating of water installations in Jerusalem by various researchers, generally considered the oldest."
+  },
+  {
+    "canonical_hebrew": "תעלה II",
+    "canonical_english": "Channel II",
+    "hebrew_aliases": [
+      "תעלה ג' של הקר",
+      "תעלת השילוח של שילה"
+    ],
+    "english_aliases": [
+      "Channel C of Haker",
+      "Siloam Channel of Shiloh"
+    ],
+    "site_type": "Aqueduct",
+    "page_number": 146,
+    "context_summary": "Listed in a table summarizing the dating of water installations in Jerusalem by various researchers, with dates ranging from Middle Bronze Age to Iron Age."
+  },
+  {
+    "canonical_hebrew": "תעלה III",
+    "canonical_english": "Channel III",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 146,
+    "context_summary": "Listed in a table summarizing the dating of water installations in Jerusalem by various researchers, with dates ranging from Middle Bronze Age."
+  },
+  {
+    "canonical_hebrew": "פיר וורן",
+    "canonical_english": "Warren's Shaft",
+    "hebrew_aliases": [
+      "פיר וורן התחתון",
+      "פיר וורן - הצינור",
+      "פיר וורן עילי"
+    ],
+    "english_aliases": [
+      "Warren's Shaft (lower)",
+      "Warren's Shaft - the pipe",
+      "Upper Warren's Shaft"
+    ],
+    "site_type": "Installation",
+    "page_number": 146,
+    "context_summary": "The 'Upper Warren's Shaft' is listed in a table summarizing the dating of water installations in Jerusalem by various researchers, with dates ranging from 10th century BCE to Middle Bronze Age."
+  },
+  {
+    "canonical_hebrew": "מגידו",
+    "canonical_english": "Megiddo",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 143,
+    "context_summary": "A water system with a plastered reservoir and monumental staircase was found here by Yadin, connected to the outer gate. Water came from Ein Qobi or runoff."
+  },
+  {
+    "canonical_hebrew": "עין קובי",
+    "canonical_english": "Ein Qobi",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 143,
+    "context_summary": "Suggested as the source of water for the reservoir at Megiddo."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 143,
+    "context_summary": "Macalister excavated a large rock-cut reservoir north of the 'Maccabean Fortress', believed to be the city's central public water reservoir, with a capacity of 2400 cubic meters."
+  },
+  {
+    "canonical_hebrew": "מצודת המכבים",
+    "canonical_english": "Maccabean Fortress",
+    "hebrew_aliases": [
+      "שער שלמה"
+    ],
+    "english_aliases": [
+      "Solomon's Gate"
+    ],
+    "site_type": "Fortress",
+    "page_number": 143,
+    "context_summary": "Macalister excavated north of this feature at Gezer, where he found the large reservoir."
+  },
+  {
+    "canonical_hebrew": "ג'ית",
+    "canonical_english": "Jit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 143,
+    "context_summary": "The water system at Gezer is noted to have a strong similarity to the water system of Jit."
+  },
+  {
+    "canonical_hebrew": "בית שמש",
+    "canonical_english": "Beth Shemesh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 144,
+    "context_summary": "Excavations by Bunimovitz and Lederman revealed two Iron Age II water installations: a monumental cross-shaped reservoir in Area C and a cistern in Area B. Its construction is dated to the 10th century BCE."
+  },
+  {
+    "canonical_hebrew": "לכיש",
+    "canonical_english": "Lachish",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 144,
+    "context_summary": "A huge pit ('The Great Shaft') was found in the southeastern corner of the city, debated as an unfinished water system or a quarry. Yanai suggested a water system similar to Hazor and Megiddo."
+  },
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 144,
+    "context_summary": "Mentioned as a comparative site with a large Iron Age II water system, similar to what might have existed at Lachish."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Beer Sheva",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 144,
+    "context_summary": "Mentioned as a comparative site with a runoff water reservoir, similar to what might have existed at Lachish or Beth Shemesh."
+  }
+]

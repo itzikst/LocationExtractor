@@ -1,0 +1,446 @@
+[
+  {
+    "canonical_hebrew": "תל באר שבע",
+    "canonical_english": "Tel Beer-sheba",
+    "hebrew_aliases": [
+      "תל באר-שבע"
+    ],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 321,
+    "context_summary": "הצבת כננת מעל הבאר בתל באר שבע ומתקן ההגנה ממתכת מעליה."
+  },
+  {
+    "canonical_hebrew": "הבאר בתל באר שבע",
+    "canonical_english": "The Well at Tel Beer-sheba",
+    "hebrew_aliases": [
+      "הבאר"
+    ],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 321,
+    "context_summary": "הצבת כננת מעל הבאר בתל באר שבע ומתקן ההגנה ממתכת מעליה."
+  },
+  {
+    "canonical_hebrew": "תל באר שבע",
+    "canonical_english": "Tel Beer-sheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 322,
+    "context_summary": "צילומים של הבאר בתל באר שבע, כולל עומקה וקרקעיתה."
+  },
+  {
+    "canonical_hebrew": "הבאר בתל באר שבע",
+    "canonical_english": "The Well at Tel Beer-sheba",
+    "hebrew_aliases": [
+      "הבאר"
+    ],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 322,
+    "context_summary": "צילומים של הבאר בתל באר שבע, מראה את עומקה של כ-50 מ' ואת קרקעיתה."
+  },
+  {
+    "canonical_hebrew": "תל באר שבע",
+    "canonical_english": "Tel Beer-sheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 323,
+    "context_summary": "צילומים של החלק העליון הבנוי של הבאר בתל באר שבע ושיטת הבנייה."
+  },
+  {
+    "canonical_hebrew": "הבאר בתל באר שבע",
+    "canonical_english": "The Well at Tel Beer-sheba",
+    "hebrew_aliases": [
+      "הבאר"
+    ],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 323,
+    "context_summary": "צילומים של החלק העליון הבנוי של הבאר בתל באר שבע ושיטת הבנייה שלו."
+  },
+  {
+    "canonical_hebrew": "תל א-סעידיה",
+    "canonical_english": "Tel es-Sa'idiyeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 324,
+    "context_summary": "מפת התל ושטחי החפירות, קצהו התחתון של מפעל המים, גרם המדרגות, והארמון המערבי ומתקני המים שלו."
+  },
+  {
+    "canonical_hebrew": "מפעל המים בתל א-סעידיה",
+    "canonical_english": "Water System at Tel es-Sa'idiyeh",
+    "hebrew_aliases": [
+      "מפעל המים"
+    ],
+    "english_aliases": [],
+    "site_type": "Cistern System",
+    "page_number": 324,
+    "context_summary": "קצהו התחתון של מפעל המים בתל א-סעידיה."
+  },
+  {
+    "canonical_hebrew": "הארמון המערבי בתל א-סעידיה",
+    "canonical_english": "Western Palace at Tel es-Sa'idiyeh",
+    "hebrew_aliases": [
+      "הארמון המערבי"
+    ],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 324,
+    "context_summary": "הארמון המערבי ומתקני המים שלו בתל א-סעידיה."
+  },
+  {
+    "canonical_hebrew": "מתקני המים בארמון המערבי בתל א-סעידיה",
+    "canonical_english": "Water Installations at the Western Palace, Tel es-Sa'idiyeh",
+    "hebrew_aliases": [
+      "מתקני המים"
+    ],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 324,
+    "context_summary": "מתקני המים של הארמון המערבי בתל א-סעידיה."
+  },
+  {
+    "canonical_hebrew": "תענך",
+    "canonical_english": "Taanach",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "TELL TA'ANNEK"
+    ],
+    "site_type": "Tell",
+    "page_number": 325,
+    "context_summary": "בור מים בתוך מבנה בעל צינור ניקוז בתענך, וחתך של בור המים."
+  },
+  {
+    "canonical_hebrew": "בור מים בתענך",
+    "canonical_english": "Cistern at Taanach",
+    "hebrew_aliases": [
+      "בור מים"
+    ],
+    "english_aliases": [
+      "CISTERN"
+    ],
+    "site_type": "Cistern System",
+    "page_number": 325,
+    "context_summary": "בור מים בתוך המבנה בעל צינור הניקוז בתענך, וחתך שלו."
+  },
+  {
+    "canonical_hebrew": "שילה",
+    "canonical_english": "Shiloh",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "SHILOH"
+    ],
+    "site_type": "Settlement",
+    "page_number": 325,
+    "context_summary": "שטח C בשילה, בחצר בית 335 מצוי בור מים."
+  },
+  {
+    "canonical_hebrew": "בור מים בשילה",
+    "canonical_english": "Cistern at Shiloh",
+    "hebrew_aliases": [
+      "בור מים"
+    ],
+    "english_aliases": [
+      "CISTERN"
+    ],
+    "site_type": "Cistern System",
+    "page_number": 325,
+    "context_summary": "בור מים המצוי בחצר בית 335 בשטח C בשילה."
+  },
+  {
+    "canonical_hebrew": "העי",
+    "canonical_english": "Ai",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 326,
+    "context_summary": "תכנית היישוב העי, כאשר חלק מהסימונים העגולים הם בורות מים."
+  },
+  {
+    "canonical_hebrew": "בורות מים בהעי",
+    "canonical_english": "Cisterns at Ai",
+    "hebrew_aliases": [
+      "בורות מים"
+    ],
+    "english_aliases": [],
+    "site_type": "Cistern System",
+    "page_number": 326,
+    "context_summary": "בורות מים המסומנים בתכנית היישוב העי."
+  },
+  {
+    "canonical_hebrew": "רדאנה",
+    "canonical_english": "Raddana",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 326,
+    "context_summary": "תכנית היישוב רדאנה בשטח C, כאשר בורות המים מסומנים בעיגולים כפולים."
+  },
+  {
+    "canonical_hebrew": "בורות המים ברדאנה",
+    "canonical_english": "Cisterns at Raddana",
+    "hebrew_aliases": [
+      "בורות המים"
+    ],
+    "english_aliases": [],
+    "site_type": "Cistern System",
+    "page_number": 326,
+    "context_summary": "בורות המים המסומנים בעיגולים כפולים בתכנית היישוב רדאנה בשטח C."
+  },
+  {
+    "canonical_hebrew": "אילת השחר",
+    "canonical_english": "Ayelet HaShahar",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 327,
+    "context_summary": "אילת השחר מוזכרת כנקודת ציון גיאוגרפית ביחס לתל חצור."
+  },
+  {
+    "canonical_hebrew": "קרית שמונה",
+    "canonical_english": "Kiryat Shmona",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 327,
+    "context_summary": "קרית שמונה מוזכרת כנקודת ציון גיאוגרפית ביחס לתל חצור."
+  },
+  {
+    "canonical_hebrew": "נחל מכברם",
+    "canonical_english": "Nahal Makbaram",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 327,
+    "context_summary": "נחל מכברם מוזכר במפת תל חצור ואמות המים שבקרבתו."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 327,
+    "context_summary": "מפת התל ואמות המים שבקרבתו, וצילום אוויר של אמת המים הצפונית."
+  },
+  {
+    "canonical_hebrew": "ראש פינה",
+    "canonical_english": "Rosh Pinna",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 327,
+    "context_summary": "ראש פינה מוזכרת כנקודת ציון גיאוגרפית ביחס לתל חצור."
+  },
+  {
+    "canonical_hebrew": "התעלה החצובה הצפונית בתל חצור",
+    "canonical_english": "The Northern Rock-cut Channel at Tel Hazor",
+    "hebrew_aliases": [
+      "התעלה החצובה הצפונית"
+    ],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 327,
+    "context_summary": "אחת מאמות המים המצוינות במפת תל חצור, ומוצגת במפה וצילום אוויר."
+  },
+  {
+    "canonical_hebrew": "אמת מים בנויה בנחל חצור",
+    "canonical_english": "Built Aqueduct in Nahal Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 327,
+    "context_summary": "אחת מאמות המים המצוינות במפת תל חצור."
+  },
+  {
+    "canonical_hebrew": "התעלה החצובה הדרומית בתל חצור",
+    "canonical_english": "The Southern Rock-cut Channel at Tel Hazor",
+    "hebrew_aliases": [
+      "התעלה החצובה הדרומית"
+    ],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 327,
+    "context_summary": "אחת מאמות המים המצוינות במפת תל חצור."
+  },
+  {
+    "canonical_hebrew": "מעיין ליד תל חצור",
+    "canonical_english": "Spring near Tel Hazor",
+    "hebrew_aliases": [
+      "מעיין"
+    ],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 327,
+    "context_summary": "מעיין המצוין במפת תל חצור ואמות המים שבקרבתו."
+  },
+  {
+    "canonical_hebrew": "מערות דרוזים",
+    "canonical_english": "Druze Caves",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 327,
+    "context_summary": "מערות דרוזים המצוינות במפת תל חצור ואמות המים שבקרבתו."
+  },
+  {
+    "canonical_hebrew": "נחל חצור",
+    "canonical_english": "Nahal Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 327,
+    "context_summary": "נחל חצור מוזכר במפת תל חצור ואמות המים שבקרבתו."
+  },
+  {
+    "canonical_hebrew": "עין עקר",
+    "canonical_english": "Ein Akar",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 327,
+    "context_summary": "עין עקר מוזכר במפת תל חצור ואמות המים שבקרבתו."
+  },
+  {
+    "canonical_hebrew": "נחל קבעת",
+    "canonical_english": "Nahal Qaba'at",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 327,
+    "context_summary": "נחל קבעת מוזכר במפת תל חצור ואמות המים שבקרבתו."
+  },
+  {
+    "canonical_hebrew": "אמת המים הצפונית בתל חצור",
+    "canonical_english": "The Northern Aqueduct at Tel Hazor",
+    "hebrew_aliases": [
+      "אמת המים הצפונית"
+    ],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 327,
+    "context_summary": "מפה וצילום אוויר של אמת המים הצפונית בתל חצור."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 328,
+    "context_summary": "חתכים וצילומים של אמת המים הצפונית, אמת מים בנויה מחוליות, וחתך באמת המים הדרומית בתל חצור."
+  },
+  {
+    "canonical_hebrew": "אמת המים הצפונית בתל חצור",
+    "canonical_english": "The Northern Aqueduct at Tel Hazor",
+    "hebrew_aliases": [
+      "התעלה הצפונית"
+    ],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 328,
+    "context_summary": "חתכים וצילומים של התעלה הצפונית בתל חצור."
+  },
+  {
+    "canonical_hebrew": "אמת מים בנויה מחוליות בתל חצור",
+    "canonical_english": "Segmented Aqueduct at Tel Hazor",
+    "hebrew_aliases": [
+      "אמת מים בנוייה חוליות על פני תל חצור"
+    ],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 328,
+    "context_summary": "אמת מים הבנויה מחוליות ממערב לשקע הגדול בתל חצור."
+  },
+  {
+    "canonical_hebrew": "אמת המים הדרומית בתל חצור",
+    "canonical_english": "The Southern Aqueduct at Tel Hazor",
+    "hebrew_aliases": [
+      "התעלה הדרומית"
+    ],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 328,
+    "context_summary": "חתך באמת המים הדרומית בתל חצור."
+  },
+  {
+    "canonical_hebrew": "הר אפרים",
+    "canonical_english": "Mount Ephraim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 329,
+    "context_summary": "הקשר בין אתרים מתקופת הברזל 1 למקורות מים באזור הר אפרים."
+  },
+  {
+    "canonical_hebrew": "אזור ספר המדבר",
+    "canonical_english": "Desert Fringe Region",
+    "hebrew_aliases": [
+      "ספר המדבר"
+    ],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 329,
+    "context_summary": "אזור גיאוגרפי המוצג בגרף המתאר את הקשר בין אתרים למקורות מים."
+  },
+  {
+    "canonical_hebrew": "דרום הדום",
+    "canonical_english": "Southern Foothills",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 329,
+    "context_summary": "אזור גיאוגרפי המוצג בגרף המתאר את הקשר בין אתרים למקורות מים."
+  },
+  {
+    "canonical_hebrew": "דרום ההר",
+    "canonical_english": "Southern Mountain",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 329,
+    "context_summary": "אזור גיאוגרפי המוצג בגרף המתאר את הקשר בין אתרים למקורות מים."
+  },
+  {
+    "canonical_hebrew": "צפון גב ההר",
+    "canonical_english": "Northern Mountain Ridge",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 329,
+    "context_summary": "אזור גיאוגרפי המוצג בגרף המתאר את הקשר בין אתרים למקורות מים."
+  },
+  {
+    "canonical_hebrew": "צפון ההר",
+    "canonical_english": "Northern Mountain",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 329,
+    "context_summary": "אזור גיאוגרפי המוצג בגרף המתאר את הקשר בין אתרים למקורות מים."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 330,
+    "context_summary": "תכנית וחתכים של מפעל המים בתל חצור."
+  },
+  {
+    "canonical_hebrew": "מפעל המים בתל חצור",
+    "canonical_english": "Water System at Tel Hazor",
+    "hebrew_aliases": [
+      "מפעל המים"
+    ],
+    "english_aliases": [],
+    "site_type": "Cistern System",
+    "page_number": 330,
+    "context_summary": "תכנית וחתכים של מפעל המים בתל חצור."
+  }
+]

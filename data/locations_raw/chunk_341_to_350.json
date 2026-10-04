@@ -1,0 +1,180 @@
+[
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "El-Jib"
+    ],
+    "site_type": "Settlement",
+    "page_number": 341,
+    "context_summary": "תכנית העיר הקדומה של גבעון מוצגת עם מפעלי המים שלה, כולל מעיינות עין אל-בלד ועין אל-ג'יבליה."
+  },
+  {
+    "canonical_hebrew": "עין אל-בלד",
+    "canonical_english": "Ein el-Beled Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "'ein el-beled spring"
+    ],
+    "site_type": "Spring",
+    "page_number": 341,
+    "context_summary": "המעיין עין אל-בלד מסומן בתכנית העיר הקדומה של גבעון."
+  },
+  {
+    "canonical_hebrew": "עין אל-ג'יבליה",
+    "canonical_english": "Ein el-Gibliyeh Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "ein el-gibliyeh spring"
+    ],
+    "site_type": "Spring",
+    "page_number": 341,
+    "context_summary": "המעיין עין אל-ג'יבליה מסומן בתכנית העיר הקדומה של גבעון."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 342,
+    "context_summary": "חתך בגבעת העיר של מפעל המים הראשון בגבעון מוצג, וכן תעלת ההזנה המובילה לחדר האיגום."
+  },
+  {
+    "canonical_hebrew": "מפעל המים הראשון בגבעון",
+    "canonical_english": "Gibeon's First Water Installation",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Cistern System",
+    "page_number": 342,
+    "context_summary": "חתך בגבעת העיר של מפעל המים הראשון בגבעון מוצג באיור."
+  },
+  {
+    "canonical_hebrew": "תעלת ההזנה בגבעון",
+    "canonical_english": "Gibeon's Feeder Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 342,
+    "context_summary": "תעלת ההזנה המובילה אל חדר האיגום בגבעון מוצגת באיור."
+  },
+  {
+    "canonical_hebrew": "חדר האיגום בגבעון",
+    "canonical_english": "Gibeon's Cistern Room",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Cistern System",
+    "page_number": 342,
+    "context_summary": "תעלת ההזנה מובילה אל חדר האיגום בגבעון."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "El-Jib"
+    ],
+    "site_type": "Settlement",
+    "page_number": 343,
+    "context_summary": "חתך של מפעל המים השני בגבעון, המכונה 'הבריכה', מוצג באיור."
+  },
+  {
+    "canonical_hebrew": "הבריכה בגבעון",
+    "canonical_english": "The Pool at Gibeon",
+    "hebrew_aliases": [
+      "מפעל המים השני 'הבריכה'"
+    ],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 343,
+    "context_summary": "חתך של מפעל הממים השני, 'הבריכה' בגבעון, מוצג באיור."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 344,
+    "context_summary": "תמונות של החלק העליון של 'הבריכה' בגבעון ותהליך הוצאת העפר ממנה מוצגות באיורים."
+  },
+  {
+    "canonical_hebrew": "הבריכה בגבעון",
+    "canonical_english": "The Pool at Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 344,
+    "context_summary": "תמונות של החלק העליון של 'הבריכה' בגבעון ותהליך הוצאת העפר ממנה מוצגות באיורים."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Siloam Tunnel",
+      "TUNNEL-AQUEDUC DE SILOÉ"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 345,
+    "context_summary": "תכנית וחתכים בקטעים לאורך נקבת חזקיהו מוצגים באיור."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Siloam Tunnel",
+      "LE TUNNEL-AQUEDUC DE SILOÉ"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 346,
+    "context_summary": "חתך אורך כללי של נקבת חזקיהו מוצג באיור."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 347,
+    "context_summary": "תמונות של קטעים גבוהים ונמוכים בחלק העליון של נקבת חזקיהו מוצגות באיורים."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 348,
+    "context_summary": "תמונות של תיקוני כיוון ומהות מפגש החוצבים בנקבת חזקיהו מוצגות באיורים."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 349,
+    "context_summary": "מבט לכיוון הפיר הסתום שליד מוצא נקבת חזקיהו מוצג באיור."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 350,
+    "context_summary": "הקטע הגבוה בנקבת חזקיהו מוצג, וכן בריכת השילוח במוצא הנקבה."
+  },
+  {
+    "canonical_hebrew": "בריכת השילוח",
+    "canonical_english": "Pool of Siloam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 350,
+    "context_summary": "בריכת השילוח מוצגת במוצא נקבת חזקיהו."
+  }
+]

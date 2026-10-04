@@ -1,0 +1,565 @@
+[
+  {
+    "canonical_hebrew": "נקבת השילוח",
+    "canonical_english": "Siloam Tunnel",
+    "hebrew_aliases": [
+      "תעלה II",
+      "תעלה III",
+      "תעלת העודפים"
+    ],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 81,
+    "context_summary": "A 150m section of Channel II, starting opposite the steps to the spring, was recently uncovered and cleaned, revealing pottery from Iron Age II and Second Temple period. Channel III branches off Channel II towards the pool, and Channel II also passes above the overflow channel from the Siloam Pool."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [
+      "הגיחון"
+    ],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 81,
+    "context_summary": "The Gihon Spring is the source for the water system, and a tower integrated into the city wall near it was likely part of the 'Water Gate' for accessing the spring."
+  },
+  {
+    "canonical_hebrew": "עיר דוד",
+    "canonical_english": "City of David",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 81,
+    "context_summary": "At the end of the City of David, Channel II branched into two sections, one leading east to the Kidron Valley and the other west to a large pool."
+  },
+  {
+    "canonical_hebrew": "נחל קדרון",
+    "canonical_english": "Kidron Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 81,
+    "context_summary": "One branch of Channel II from the City of David extended eastward towards the Kidron Valley."
+  },
+  {
+    "canonical_hebrew": "בירכת אל-חמרה",
+    "canonical_english": "Birkat el-Hamra",
+    "hebrew_aliases": [
+      "בריכה גדולה"
+    ],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 81,
+    "context_summary": "This large pool was created by the city wall blocking the wadi, collecting water from the Gihon via Hezekiah's Tunnel and rainwater for use in summer."
+  },
+  {
+    "canonical_hebrew": "ניקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [
+      "תעלה VIII"
+    ],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 81,
+    "context_summary": "Birkat el-Hamra received the waters of the Gihon Spring through Hezekiah's Tunnel (Channel VIII)."
+  },
+  {
+    "canonical_hebrew": "קטנה",
+    "canonical_english": "Qatna",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 81,
+    "context_summary": "Qatna is identified with Tel Mishrifeh, a 1000-dunam kingdom city from the Middle Bronze Age 2 in Syria, which had a spring within its walls and a stream outside."
+  },
+  {
+    "canonical_hebrew": "תל משריפה",
+    "canonical_english": "Tell Mishrifeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 81,
+    "context_summary": "Tell Mishrifeh, located 18 km north of Homs, Syria, is identified with the kingdom city of Qatna from the Middle Bronze Age 2."
+  },
+  {
+    "canonical_hebrew": "חומס",
+    "canonical_english": "Homs",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 81,
+    "context_summary": "Tell Mishrifeh is situated 18 km north of the city of Homs in Syria."
+  },
+  {
+    "canonical_hebrew": "תל גריסה",
+    "canonical_english": "Tel Gerisa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 82,
+    "context_summary": "A water system carved into the groundwater was uncovered at Tel Gerisa, a fortified city from the Middle Bronze Age 2, located in eastern Tel Aviv."
+  },
+  {
+    "canonical_hebrew": "תל-אביב",
+    "canonical_english": "Tel Aviv",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 82,
+    "context_summary": "Tel Gerisa is an archaeological site located in the eastern part of the city of Tel Aviv."
+  },
+  {
+    "canonical_hebrew": "מפעל מים בתל גריסה",
+    "canonical_english": "Water system at Tel Gerisa",
+    "hebrew_aliases": [
+      "מפעל מים החצוב אל מי התהום"
+    ],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 82,
+    "context_summary": "The water system at Tel Gerisa consists of an elliptical vertical shaft and a later well, with a general layout very similar to the Gibeon water system."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 82,
+    "context_summary": "The water system at Tel Gerisa is noted for its strong similarity to the water system of Gibeon, which is dated to a later period and is twice its diameter."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של גבעון",
+    "canonical_english": "Water system of Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 82,
+    "context_summary": "The water system at Tel Gerisa is compared to the water system of Gibeon, which is dated later and has a larger diameter."
+  },
+  {
+    "canonical_hebrew": "תל גזר",
+    "canonical_english": "Tel Gezer",
+    "hebrew_aliases": [
+      "גזר"
+    ],
+    "english_aliases": [
+      "Gezer"
+    ],
+    "site_type": "Tell",
+    "page_number": 82,
+    "context_summary": "The water system at Tel Gerisa shows a strong resemblance to the water system of Tel Gezer."
+  },
+  {
+    "canonical_hebrew": "מפעל מים בתל גזר",
+    "canonical_english": "Water system at Tel Gezer",
+    "hebrew_aliases": [
+      "מפעל מים"
+    ],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 83,
+    "context_summary": "Macalister's excavations at Gezer revealed an impressive water system within the tell's fortifications, comprising an opening, an inclined tunnel, a storage basin, and a cave."
+  },
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 85,
+    "context_summary": "Yadin's excavations at Hazor are mentioned in the context of dating water systems, with his theory suggesting that the technological capability for such systems was not present before the Iron Age 2."
+  },
+  {
+    "canonical_hebrew": "מגידו",
+    "canonical_english": "Megiddo",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 85,
+    "context_summary": "Yadin's inspections at Megiddo are cited in the debate about the dating of water systems, suggesting that even in Solomon's time, such systems could not yet be carved."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 85,
+    "context_summary": "Reich's discoveries at the Gihon Spring in Jerusalem are mentioned as supporting Macalister's dating of the Gezer water system to the Middle Bronze Age."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון בירושלים",
+    "canonical_english": "Gihon Spring in Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 85,
+    "context_summary": "Reich's findings from excavations at the Gihon Spring in Jerusalem are used to support a Middle Bronze Age dating for the Gezer water system."
+  },
+  {
+    "canonical_hebrew": "מפעל מים בחצור",
+    "canonical_english": "Water system at Hazor",
+    "hebrew_aliases": [
+      "מפעל מים תת-קרקעי",
+      "השקע הגדול"
+    ],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 87,
+    "context_summary": "Yadin suggested that a large depression in the southwestern part of Hazor's lower city might be part of an underground water system from the Middle and Late Bronze Ages, possibly a shaft to groundwater."
+  },
+  {
+    "canonical_hebrew": "נחל חצור",
+    "canonical_english": "Nahal Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 87,
+    "context_summary": "Some researchers proposed that the depression at Hazor was part of a water system connected to the springs of Nahal Hazor."
+  },
+  {
+    "canonical_hebrew": "מפעל מים במגידו",
+    "canonical_english": "Water system at Megiddo",
+    "hebrew_aliases": [
+      "שקע גדול",
+      "מפעל המים הקדום"
+    ],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 87,
+    "context_summary": "Lamon suggested that a large depression in the north of Tel Megiddo might be an earlier water system carved to the groundwater level, preceding the known Iron Age system."
+  },
+  {
+    "canonical_hebrew": "עין אל-קובי",
+    "canonical_english": "Ein el-Qubi",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 87,
+    "context_summary": "A subterranean channel from Ein el-Qubi (northeast of Tel Megiddo) extends towards the tell, and while Roman, its origin might be older, possibly connected to an earlier water system."
+  },
+  {
+    "canonical_hebrew": "תל נאמי",
+    "canonical_english": "Tel Nami",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 87,
+    "context_summary": "A well dated to the Middle Bronze Age 2A was discovered east of Tel Nami, an archaeological site located on the Mediterranean coast south of Haifa."
+  },
+  {
+    "canonical_hebrew": "חיפה",
+    "canonical_english": "Haifa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 87,
+    "context_summary": "Tel Nami is situated on the Mediterranean coast, approximately 15 km south of Haifa."
+  },
+  {
+    "canonical_hebrew": "הים התיכון",
+    "canonical_english": "Mediterranean Sea",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 87,
+    "context_summary": "Tel Nami is located on the Mediterranean coast, with its well only 100m from the seashore."
+  },
+  {
+    "canonical_hebrew": "באר בתל נאמי",
+    "canonical_english": "Well at Tel Nami",
+    "hebrew_aliases": [
+      "באר"
+    ],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 87,
+    "context_summary": "A rectangular/oval well, 2.3m deep, dug into sand and lined with fieldstones, was found at Tel Nami and dated to the Middle Bronze Age 2A."
+  },
+  {
+    "canonical_hebrew": "לכיש",
+    "canonical_english": "Lachish",
+    "hebrew_aliases": [
+      "העיר העתיקה לכיש"
+    ],
+    "english_aliases": [
+      "Ancient city of Lachish"
+    ],
+    "site_type": "Tell",
+    "page_number": 88,
+    "context_summary": "The ancient city of Lachish, located in the Shephelah of Judah, had a well within its Middle Bronze Age fortifications, excavated by Starkey and Tufnell."
+  },
+  {
+    "canonical_hebrew": "שפלת יהודה",
+    "canonical_english": "Shephelah of Judah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 88,
+    "context_summary": "The ancient city of Lachish is located in the Shephelah of Judah, about 10 km southeast of Kiryat Gat."
+  },
+  {
+    "canonical_hebrew": "קרית-גת",
+    "canonical_english": "Kiryat Gat",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 88,
+    "context_summary": "Lachish is located approximately 10 km southeast of Kiryat Gat."
+  },
+  {
+    "canonical_hebrew": "באר בלכיש",
+    "canonical_english": "Well at Lachish",
+    "hebrew_aliases": [
+      "באר"
+    ],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 88,
+    "context_summary": "A cylindrical well at Lachish, 44m deep and 2.4m in diameter, built of stone and carved into natural rock, was found within the city's Middle Bronze Age fortifications."
+  },
+  {
+    "canonical_hebrew": "נחל לכיש",
+    "canonical_english": "Nahal Lachish",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 88,
+    "context_summary": "The bottom of the Lachish well is about 4m lower than the riverbed of the nearby Nahal Lachish."
+  },
+  {
+    "canonical_hebrew": "תל הרור",
+    "canonical_english": "Tel Haror",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 88,
+    "context_summary": "Tel Haror, located in the Northern Negev, has a well dated to the Middle Bronze Age, situated within the ancient city and intended to supply water during sieges."
+  },
+  {
+    "canonical_hebrew": "הנגב הצפוני",
+    "canonical_english": "Northern Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 88,
+    "context_summary": "Tel Haror is located in the Northern Negev, approximately 25 km northwest of Beersheba."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Beersheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 88,
+    "context_summary": "Tel Haror is located about 25 km northwest of Beersheba."
+  },
+  {
+    "canonical_hebrew": "באר בתל הרור",
+    "canonical_english": "Well at Tel Haror",
+    "hebrew_aliases": [
+      "באר"
+    ],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 88,
+    "context_summary": "A well at Tel Haror, about 2m in diameter and 11.5m deep, built of kurkar stones and carved into rock, was dated to the Middle Bronze Age based on pottery found in its fill."
+  },
+  {
+    "canonical_hebrew": "נחל גרר",
+    "canonical_english": "Nahal Grar",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 88,
+    "context_summary": "The well at Tel Haror is located about 40m from the riverbed of Nahal Grar."
+  },
+  {
+    "canonical_hebrew": "אבלה",
+    "canonical_english": "Ebla",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 88,
+    "context_summary": "A very deep well, still containing water, was found in a section near the southwestern edge of the Upper City and outside it (in the Lower City) at Ebla, Syria."
+  },
+  {
+    "canonical_hebrew": "סוריה",
+    "canonical_english": "Syria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 88,
+    "context_summary": "Ebla is an archaeological site located in Syria."
+  },
+  {
+    "canonical_hebrew": "באר באבלה",
+    "canonical_english": "Well at Ebla",
+    "hebrew_aliases": [
+      "באר עמוקה מאד"
+    ],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 89,
+    "context_summary": "A very deep well at Ebla, covered by a large pile of stones, connected to an underground chamber with a dome-shaped roof carved into the rock, and contained numerous artifacts dated to around 2000 BCE."
+  },
+  {
+    "canonical_hebrew": "בוצרה",
+    "canonical_english": "Bosra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 89,
+    "context_summary": "A Middle Bronze Age well was found in the northern part of the tell at Bosra in Hauran, which was abandoned along with the house and garden it watered."
+  },
+  {
+    "canonical_hebrew": "חורן",
+    "canonical_english": "Hauran",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 89,
+    "context_summary": "Bosra is located in Hauran, where a Middle Bronze Age well was discovered."
+  },
+  {
+    "canonical_hebrew": "באר בבוצרה",
+    "canonical_english": "Well at Bosra",
+    "hebrew_aliases": [
+      "באר"
+    ],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 89,
+    "context_summary": "A well at Bosra, dated to the Middle Bronze Age, was found abandoned with pottery from the Middle and Late Bronze Ages in its fill, used for local agriculture."
+  },
+  {
+    "canonical_hebrew": "ארץ גארו",
+    "canonical_english": "Land of Garu",
+    "hebrew_aliases": [
+      "גארי",
+      "אררו",
+      "גשור"
+    ],
+    "english_aliases": [
+      "Gari",
+      "Araru",
+      "Geshur"
+    ],
+    "site_type": "Region",
+    "page_number": 89,
+    "context_summary": "The Land of Garu, also known as Gari or Araru, is mentioned in the Tale of Sinuhe from the early 2nd millennium BCE as a fertile border region of Upper Retenu (Canaan), rich in wells."
+  },
+  {
+    "canonical_hebrew": "ארץ רתינו העליונה",
+    "canonical_english": "Upper Retenu",
+    "hebrew_aliases": [
+      "כנען"
+    ],
+    "english_aliases": [
+      "Canaan"
+    ],
+    "site_type": "Region",
+    "page_number": 89,
+    "context_summary": "The Land of Garu is described as being at the border of the governor's rule of Upper Retenu, which is identified as Canaan."
+  },
+  {
+    "canonical_hebrew": "אגן הירמוך",
+    "canonical_english": "Yarmouk Basin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 89,
+    "context_summary": "Mazar suggested locating the Land of Garu in the Yarmouk Basin, in the southern part of the Golan."
+  },
+  {
+    "canonical_hebrew": "הגולן",
+    "canonical_english": "Golan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 89,
+    "context_summary": "The Yarmouk Basin, a proposed location for the Land of Garu, is in the southern part of the Golan."
+  },
+  {
+    "canonical_hebrew": "ארץ בנימין",
+    "canonical_english": "Land of Benjamin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 90,
+    "context_summary": "A survey of the Land of Benjamin found no carved cisterns in sites inhabited only during the Middle Bronze Age, even if some were not immediately near springs."
+  },
+  {
+    "canonical_hebrew": "מנשה",
+    "canonical_english": "Manasseh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 90,
+    "context_summary": "Surveys in the Manasseh region (Shechem Valley, Eastern Valleys, Desert Fringe, Mount Manasseh) examined settlement patterns and their relation to water sources during the Bronze Age."
+  },
+  {
+    "canonical_hebrew": "קער שכם",
+    "canonical_english": "Shechem Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 90,
+    "context_summary": "Nine small, unfortified sites from the Intermediate Bronze Age were found in the Shechem Valley, showing no clear connection to water sources, with inhabitants primarily engaged in sheep herding."
+  },
+  {
+    "canonical_hebrew": "העמקים המזרחיים",
+    "canonical_english": "Eastern Valleys",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 90,
+    "context_summary": "Surveys in the Eastern Valleys found 39 sites from the Intermediate Bronze Age, mostly located in valley margins and low areas, with only 15% within 500m of a water source."
+  },
+  {
+    "canonical_hebrew": "ספר המדבר",
+    "canonical_english": "Desert Fringe",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 90,
+    "context_summary": "Surveys in the Desert Fringe found 39 sites from the Intermediate Bronze Age, mostly located in valley margins and low areas, with only 15% within 500m of a water source."
+  },
+  {
+    "canonical_hebrew": "נחל תרצה",
+    "canonical_english": "Nahal Tirza",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 90,
+    "context_summary": "Most of the 63 Middle Bronze Age 2 sites in the Eastern Valleys are concentrated along Nahal Tirza and the Nahal Tirza-Tubas-Nahal Maliach axis, where springs or flowing streams exist."
+  },
+  {
+    "canonical_hebrew": "נחל טובס",
+    "canonical_english": "Nahal Tubas",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 90,
+    "context_summary": "Settlements are concentrated along the Nahal Tirza-Tubas-Nahal Maliach axis, which has springs or flowing streams."
+  },
+  {
+    "canonical_hebrew": "נחל מליח",
+    "canonical_english": "Nahal Maliach",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 90,
+    "context_summary": "Settlements are concentrated along the Nahal Tirza-Tubas-Nahal Maliach axis, which has springs or flowing streams."
+  },
+  {
+    "canonical_hebrew": "הר מנשה",
+    "canonical_english": "Mount Manasseh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 90,
+    "context_summary": "Zertal published a table summarizing the dependence of 111 Middle Bronze Age 2 settlements surveyed in Mount Manasseh on nearby water sources."
+  }
+]

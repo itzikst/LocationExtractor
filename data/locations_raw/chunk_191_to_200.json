@@ -1,0 +1,786 @@
+[
+  {
+    "canonical_hebrew": "עתלית ים",
+    "canonical_english": "Atlit-Yam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם 2 בארות בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "גירסור",
+    "canonical_english": "Girsor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "מוזכר בסוגריים בהקשר לבארות בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "אבן אל-גאזי",
+    "canonical_english": "Ibn al-Ghazi",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "מוזכר בסוגריים בהקשר לבארות בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "חוף הכרמל",
+    "canonical_english": "Carmel Coast",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 191,
+    "context_summary": "אזור עם 3 בארות בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "אבו-חוף",
+    "canonical_english": "Abu-Hof",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם 4 בארות בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "נאמי ח' בתר",
+    "canonical_english": "Nami H' Batar",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם 5 בארות בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "יטפה",
+    "canonical_english": "Yotapata",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Yodfat"
+    ],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם 5 בארות בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "בקעת עובדה",
+    "canonical_english": "Uvda Valley",
+    "hebrew_aliases": [
+      "עובדה"
+    ],
+    "english_aliases": [
+      "Uvda"
+    ],
+    "site_type": "Valley",
+    "page_number": 191,
+    "context_summary": "אתר עם 2 בורות ו-2 סכרי אגירה בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם בורות בתקופת הברונזה הקדומה, 3 מאגרים/בריכות, ו-8 מאגרים עם הזנה חיצונית בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "לכיש",
+    "canonical_english": "Lachish",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם בורות בתקופת הברונזה הקדומה, 6 בורות בתקופת הברונזה המאוחרת, ו-4 מאגרים/בריכות."
+  },
+  {
+    "canonical_hebrew": "תל הרור",
+    "canonical_english": "Tel Haror",
+    "hebrew_aliases": [
+      "הרור"
+    ],
+    "english_aliases": [
+      "Haror"
+    ],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם בורות בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "תל גימה",
+    "canonical_english": "Tel Gamma",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם בורות בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "בית שאן",
+    "canonical_english": "Bet Shean",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם 3 בורות בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "דיר גריסה",
+    "canonical_english": "Deir Ghurissa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם 4 בורות בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "טפה גאורה",
+    "canonical_english": "Tepe Gawra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "אתר השוואתי עם בורות בתקופת הברונזה המאוחרת ובתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "אבלה",
+    "canonical_english": "Ebla",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "אתר השוואתי עם בורות בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "מדינת הבו",
+    "canonical_english": "Medinet Habu",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "אתר השוואתי עם בורות בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "בית שמש",
+    "canonical_english": "Bet Shemesh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם בורות בתקופת הברזל 2 ו-4 מאגרים/בריכות בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "חרי טוב",
+    "canonical_english": "Huri Tov",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם בורות בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Beer Sheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם בורות בתקופת הברזל 2 ו-8 מאגרים עם הזנה חיצונית בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "נמרוד",
+    "canonical_english": "Nimrud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "אתר השוואתי עם 3 בורות ו-6 אמות מים מחוץ לעיר בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "רגיגייל",
+    "canonical_english": "Ragigale",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "אתר השוואתי עם בורות בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "גלגל",
+    "canonical_english": "Gilgal",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם 3 מעיינות שהתייבשו בתקופה הניאוליתית קדם-קירמית."
+  },
+  {
+    "canonical_hebrew": "ביידא",
+    "canonical_english": "Beidha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם מעיינות שהתייבשו בתקופה הניאוליתית קדם-קירמית."
+  },
+  {
+    "canonical_hebrew": "נתיב הגדוד",
+    "canonical_english": "Netiv HaGdud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם מעיינות שהתייבשו בתקופה הניאוליתית קדם-קירמית."
+  },
+  {
+    "canonical_hebrew": "העי",
+    "canonical_english": "Ai",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם 3 מאגרים/בריכות בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "ירמות",
+    "canonical_english": "Yarmut",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם מאגרים/בריכות בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם 2 מאגרים/בריכות בתקופת הברונזה התיכונה, 8 מפעלי מים חצובים בתקופת הברזל 2, ו-8 מאגרים עם הזנה חיצונית בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "תענך",
+    "canonical_english": "Taanach",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם מאגרים/בריכות בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם 4 מאגרים/בריכות בתקופת הברונזה המאוחרת ו-2 מפעלי מים חצובים בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "חשבון",
+    "canonical_english": "Heshbon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם מאגרים/בריכות בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "גיווה",
+    "canonical_english": "Giwa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם 2 סכרי אגירה בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "כברי",
+    "canonical_english": "Kabri",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם 2 מעיינות טבעיים כלואים בתוך העיר בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "תל דן",
+    "canonical_english": "Tel Dan",
+    "hebrew_aliases": [
+      "דן"
+    ],
+    "english_aliases": [
+      "Dan"
+    ],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם מעיינות טבעיים כלואים בתוך העיר בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "יריחו",
+    "canonical_english": "Jericho",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם מעיינות טבעיים כלואים בתוך העיר בתקופת הברונזה התיכונה, ואמת מים אחת בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "קטנה",
+    "canonical_english": "Qatna",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "אתר השוואתי עם מעיינות טבעיים כלואים בתוך העיר בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם מעיינות טבעיים כלואים בתוך העיר בתקופת הברונזה התיכונה, אמת מים אחת בתקופת הברונזה התיכונה, ואמת מים אחת בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "תל זירקון",
+    "canonical_english": "Tel Zirqon",
+    "hebrew_aliases": [
+      "זירקון"
+    ],
+    "english_aliases": [
+      "Zirqon"
+    ],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם מפעל חצוב אל מעיין/מי תהום בעיר מבוצרת בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "מצר",
+    "canonical_english": "Metzer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם 2 מפעלי מים חצובים אל מעיין/מי תהום בעיר מבוצרת בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "דלית",
+    "canonical_english": "Dalit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם מפעלי מים חצובים אל מעיין/מי תהום בעיר מבוצרת בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "אתונה",
+    "canonical_english": "Athens",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "אתר השוואתי עם מפעל חצוב אל מעיין/מי תהום בעיר מבוצרת בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "טירינס",
+    "canonical_english": "Tiryns",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "אתר השוואתי עם מפעל חצוב אל מעיין/מי תהום בעיר מבוצרת בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "מיקנה",
+    "canonical_english": "Mycenae",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "אתר השוואתי עם מפעל חצוב אל מעיין/מי תהום בעיר מבוצרת בתקופת הברזל 1, ועם מאגר עם הזנה חיצונית בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "תל א-סעידיה",
+    "canonical_english": "Tel es-Sa'idiya",
+    "hebrew_aliases": [
+      "סעידיה"
+    ],
+    "english_aliases": [
+      "Sa'idiya"
+    ],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם מפעל חצוב אל מעיין/מי תהום בעיר מבוצרת בתקופת הברזל 1."
+  },
+  {
+    "canonical_hebrew": "מגידו",
+    "canonical_english": "Megiddo",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם 8 מפעלי מים חצובים אל מעיין/מי תהום בעיר מבוצרת בתקופת הברזל 2, ו-8 מאגרים עם הזנה חיצונית בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "יבלעם",
+    "canonical_english": "Ibleam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם מפעלי מים חצובים אל מעיין/מי תהום בעיר מבוצרת בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם 2 מפעלי מים חצובים אל מעיין/מי תהום בעיר מבוצרת בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "יקנעם",
+    "canonical_english": "Yokneam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם מפעלי מים חצובים אל מעיין/מי תהום בעיר מבוצרת בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "מידס סיטי",
+    "canonical_english": "Midas City",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "אתר השוואתי עם מפעלי מים חצובים אל מעיין/מי תהום בעיר מבוצרת בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "עמאן",
+    "canonical_english": "Amman",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם 8 מאגרים עם הזנה חיצונית בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "עיטס",
+    "canonical_english": "Eitam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם 8 מאגרים עם הזנה חיצונית בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "קדש ברנע",
+    "canonical_english": "Kadesh Barnea",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם 8 מאגרים עם הזנה חיצונית בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "חי טוב",
+    "canonical_english": "Hi Tov",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם 8 מאגרים עם הזנה חיצונית בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "ערוער",
+    "canonical_english": "Aroer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 191,
+    "context_summary": "אתר עם 8 מאגרים עם הזנה חיצונית בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "בית ירח",
+    "canonical_english": "Bet Yerah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 191,
+    "context_summary": "אתר עם אמת מים אחת בתוך העיר בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "נתןשפה",
+    "canonical_english": "Natanshafa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "אתר השוואתי עם 6 אמות מים מחוץ לעיר בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "טופראק קלה",
+    "canonical_english": "Toprak Kale",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "אתר השוואתי עם 6 אמות מים מחוץ לעיר בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "נינוה",
+    "canonical_english": "Nineveh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "אתר השוואתי עם 6 אמות מים מחוץ לעיר בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "סמוס",
+    "canonical_english": "Samos",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "אתר השוואתי עם 6 אמות מים מחוץ לעיר בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "אירביל",
+    "canonical_english": "Erbil",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 191,
+    "context_summary": "אתר השוואתי עם 6 אמות מים מחוץ לעיר בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 192,
+    "context_summary": "מוזכרת בריכה שנמצאה בסמוך למעיין הגיחון בירושלים, כחלק ממפעל מים."
+  },
+  {
+    "canonical_hebrew": "תל גריסה",
+    "canonical_english": "Tel Gerisa",
+    "hebrew_aliases": [
+      "תל גריסה"
+    ],
+    "english_aliases": [
+      "Tel Gerisa"
+    ],
+    "site_type": "Tell",
+    "page_number": 192,
+    "context_summary": "מפעל מים מתקופת הברונזה התיכונה מתוארך היטב."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 193,
+    "context_summary": "מוזכר בהקשר של היעדר מפעלי מים מסוג מסוים בתקופת הברונזה המאוחרת."
+  },
+  {
+    "canonical_hebrew": "מפת לכיש",
+    "canonical_english": "Lachish Map",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 193,
+    "context_summary": "במפת לכיש נסקרו 381 בורות מים, רובם מתקופות מאוחרות."
+  },
+  {
+    "canonical_hebrew": "תל מרשה",
+    "canonical_english": "Tel Maresha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 193,
+    "context_summary": "סביב תל מרשה נסקרו 160 בורות מים."
+  },
+  {
+    "canonical_hebrew": "מפת בית גוברין",
+    "canonical_english": "Bet Guvrin Map",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 193,
+    "context_summary": "מפה בה נסקרו בורות מים סביב תל מרשה."
+  },
+  {
+    "canonical_hebrew": "ממלכת ישראל",
+    "canonical_english": "Kingdom of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 194,
+    "context_summary": "חמישה מפעלי מים מסוג זה נמצאו בתחום ממלכת ישראל בתקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "אנטוליה",
+    "canonical_english": "Anatolia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 194,
+    "context_summary": "מידאס סיטי ממוקמת באנטוליה."
+  },
+  {
+    "canonical_hebrew": "צפון הארץ",
+    "canonical_english": "North of the country",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 194,
+    "context_summary": "רוב המתקנים מסוג מפעל חצוב אל מי תהום מרוכזים בצפון הארץ ובמרכזה."
+  },
+  {
+    "canonical_hebrew": "מרכז הארץ",
+    "canonical_english": "Center of the country",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 194,
+    "context_summary": "רוב המתקנים מסוג מפעל חצוב אל מי תהום מרוכזים בצפון הארץ ובמרכזה."
+  },
+  {
+    "canonical_hebrew": "דרום הארץ",
+    "canonical_english": "South of the country",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 194,
+    "context_summary": "חציבת מפעל מים מונומנטלי אל מי תהום בדרום הארץ הייתה כמעט בלתי אפשרית."
+  },
+  {
+    "canonical_hebrew": "ממלכת יהודה",
+    "canonical_english": "Kingdom of Judah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 194,
+    "context_summary": "מלבד מגידו ועמאן, יתר ששת המפעלים עם הזנה חיצונית התגלו בממלכת יהודה."
+  },
+  {
+    "canonical_hebrew": "עיר דוד",
+    "canonical_english": "City of David",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 194,
+    "context_summary": "תעלה II בירושלים הזרימה מים לאורך החומה בתחום עיר דוד."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 194,
+    "context_summary": "אמת מים מיוחדת מתקופת הברזל 2, הנחשבת לאחד הפלאים בהנדסת מים."
+  },
+  {
+    "canonical_hebrew": "אשור",
+    "canonical_english": "Assyria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 194,
+    "context_summary": "חוקרים סוברים שנקבת חזקיהו נחצבה לקראת מתקפתו של סנחריב מלך אשור."
+  },
+  {
+    "canonical_hebrew": "ארם",
+    "canonical_english": "Aram",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 194,
+    "context_summary": "ידין קשר את בניית המפעל בחצור לאיום על ממלכת ישראל של ארם ואשור."
+  },
+  {
+    "canonical_hebrew": "אוררטו",
+    "canonical_english": "Urartu",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 195,
+    "context_summary": "בתקופת הברזל 2 ידועות שש אמות מים באוררטו, אשור ויוון."
+  },
+  {
+    "canonical_hebrew": "יוון",
+    "canonical_english": "Greece",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 195,
+    "context_summary": "בתקופת הברזל 2 ידועות שש אמות מים באוררטו, אשור ויוון."
+  },
+  {
+    "canonical_hebrew": "כלח",
+    "canonical_english": "Calah",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Nimrud"
+    ],
+    "site_type": "Comparative Site",
+    "page_number": 195,
+    "context_summary": "אמות מים נבנו לכלח, נינוה ואירביל."
+  },
+  {
+    "canonical_hebrew": "ארמון סנחריב",
+    "canonical_english": "Sennacherib's Palace",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 195,
+    "context_summary": "אמת מים מפוארת הוליכה מים אל ארמון סנחריב בנינוה."
+  },
+  {
+    "canonical_hebrew": "מואב",
+    "canonical_english": "Moab",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 198,
+    "context_summary": "מישע מלך מואב בנה מפעלי מים בערי ממלכתו."
+  },
+  {
+    "canonical_hebrew": "בריכת השילוח",
+    "canonical_english": "Siloam Pool",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 199,
+    "context_summary": "בחציבת בריכת השילוח הוצאו 900 מ\"ק סלע."
+  },
+  {
+    "canonical_hebrew": "תל באר שבע",
+    "canonical_english": "Tel Beer Sheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 199,
+    "context_summary": "באר מים עמוקה בתל באר שבע ניתנה לחציבה במשך תקופה של 230-140 יום."
+  },
+  {
+    "canonical_hebrew": "חורבת טוב",
+    "canonical_english": "Horvat Tov",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 200,
+    "context_summary": "אתר עם מאגר בעל תעלת הזנה חיצונית מבאר."
+  }
+]

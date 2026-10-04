@@ -1,0 +1,510 @@
+[
+  {
+    "canonical_hebrew": "חירבת אל ח'וחי",
+    "canonical_english": "Khirbet el-Khuhi",
+    "hebrew_aliases": [
+      "עיטס"
+    ],
+    "english_aliases": [
+      "Eitas"
+    ],
+    "site_type": "Settlement",
+    "page_number": 151,
+    "context_summary": "אתר המזוהה עם עיטם המקראית, מיושב מתקופת הברזל 1 ועד התקופה הביזנטית, ובו מפעל מים חצוב בסלע."
+  },
+  {
+    "canonical_hebrew": "בריכות שלמה",
+    "canonical_english": "Solomon's Pools",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 151,
+    "context_summary": "חירבת אל ח'וחי מצויה כקילומטר מדרום-מזרח לבריכות שלמה."
+  },
+  {
+    "canonical_hebrew": "עיטם המקראית",
+    "canonical_english": "Biblical Eitam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 151,
+    "context_summary": "חירבת אל ח'וחי מזוהה עם עיטם המקראית."
+  },
+  {
+    "canonical_hebrew": "עין עטן",
+    "canonical_english": "Ein Etan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 151,
+    "context_summary": "מעיין סמוך לחירבת אל ח'וחי, שמו משמר את השם עיטם, וייתכן שמימיו הוזרמו למאגר המים בחורבה."
+  },
+  {
+    "canonical_hebrew": "תצורת עמינדב",
+    "canonical_english": "Amminadav Formation",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 151,
+    "context_summary": "הסלע בו מצוי המאגר בחירבת אל ח'וחי הוא גיר ודולומיט מתצורת עמינדב מגיל קנומן, הידועה באופייה הקארסטי."
+  },
+  {
+    "canonical_hebrew": "בית שמש",
+    "canonical_english": "Bet Shemesh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 151,
+    "context_summary": "שכבות הטיח במאגר בחירבת אל ח'וחי דומות לשכבות הטיח מבית שמש."
+  },
+  {
+    "canonical_hebrew": "עמאן",
+    "canonical_english": "Amman",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 152,
+    "context_summary": "מפעל מים גדול בצורת צלב לורן חצוב בסלע מצפון ומתחת לאקרופוליס של עמאן, שתפקד מתקופת הברזל ועד התקופה ההלניסטית."
+  },
+  {
+    "canonical_hebrew": "אקרופוליס",
+    "canonical_english": "Acropolis (Amman)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 152,
+    "context_summary": "מפעל המים של עמאן מצוי מצפון ומתחת לאקרופוליס של העיר."
+  },
+  {
+    "canonical_hebrew": "בית שמש",
+    "canonical_english": "Bet Shemesh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 152,
+    "context_summary": "תכנית מאגר המים בעמאן דומה מאד לזו של המאגרים בבית שמש."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Beer Sheva",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 152,
+    "context_summary": "תכנית מאגר המים בעמאן דומה מאד לזו של המאגרים בבאר שבע."
+  },
+  {
+    "canonical_hebrew": "חשבון",
+    "canonical_english": "Heshbon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 152,
+    "context_summary": "עיר בארץ מואב המזוהה בתל חסבאן, בה נתגלתה בריכת מים גדולה מתקופת הברזל."
+  },
+  {
+    "canonical_hebrew": "ארץ מואב",
+    "canonical_english": "Land of Moab",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 152,
+    "context_summary": "חשבון היא עיר בארץ מואב."
+  },
+  {
+    "canonical_hebrew": "תל חסבאן",
+    "canonical_english": "Tell Hesban",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 152,
+    "context_summary": "חשבון מזוהה בתל חסבאן, בו נערכו חפירות ונמצאה בריכת מים."
+  },
+  {
+    "canonical_hebrew": "חשבון",
+    "canonical_english": "Heshbon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 153,
+    "context_summary": "בריכת מים גדולה מתקופת הברזל 2 נתגלתה בחשבון, ונפחה כ-2000 מ\"ק."
+  },
+  {
+    "canonical_hebrew": "עין חסבאן",
+    "canonical_english": "Ein Hesban",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 153,
+    "context_summary": "מעיין הנובע כל השנה מצפון-מערב לתל חסבאן, ייתכן ששימש את משק המים של העיר."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Beer Sheva",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 153,
+    "context_summary": "בחפירות בתל באר שבע נחשף מפעל מים פנים עירי מרכזי, הכולל פיר כניסה, מאגר מים ומנהרה."
+  },
+  {
+    "canonical_hebrew": "נחל חברון",
+    "canonical_english": "Nahal Hebron",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 153,
+    "context_summary": "רצפת מאגר המים בבאר שבע נמוכה ממישור ההצפה של נחל חברון העובר למרגלות התל."
+  },
+  {
+    "canonical_hebrew": "בית שמש",
+    "canonical_english": "Bet Shemesh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 154,
+    "context_summary": "שכבת הטיח במאגר בבאר שבע דומה בצבעה ואולי גם בהרכבה לשכבת הטיח במאגרים של בית שמש."
+  },
+  {
+    "canonical_hebrew": "עיטם",
+    "canonical_english": "Eitam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 154,
+    "context_summary": "שכבת הטיח במאגר בבאר שבע דומה בצבעה ואולי גם בהרכבה לשכבת הטיח במאגרים של עיטם (חירבת אל ח'וחי)."
+  },
+  {
+    "canonical_hebrew": "נחל חברון",
+    "canonical_english": "Nahal Hebron",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 154,
+    "context_summary": "תעלת ההזנה של מפעל המים בבאר שבע מגיעה מכיוון צפון, מעברו של נחל חברון."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Beer Sheva",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 155,
+    "context_summary": "תל באר שבע היה מיושב בכ-300 נפש, ופעלו בו שני מפעלי מים שונים: באר מחוץ לשער ומאגר מים פנים-עירי."
+  },
+  {
+    "canonical_hebrew": "נגב",
+    "canonical_english": "Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 155,
+    "context_summary": "בנגב יש שוני רב בכמויות הגשמים משנה לשנה, מה שמקשה על תכנון מאגרי מים."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 155,
+    "context_summary": "מצב דומה של באר מחוץ למצודה ומאגר מים פנים-עירי היה בערד."
+  },
+  {
+    "canonical_hebrew": "תל ערד",
+    "canonical_english": "Tel Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 155,
+    "context_summary": "בתל ערד נחשפה באר בקוטר 4.6 מ' ובעומק 25.19 מ' בנקודה הנמוכה ביותר בעיר מתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "תל ערד",
+    "canonical_english": "Tel Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 156,
+    "context_summary": "בחפירות בתל המצודות בערד התגלתה תעלה חצובה בסלע שהסתיימה בשלושה מאגרי מים גדולים."
+  },
+  {
+    "canonical_hebrew": "בית שמש",
+    "canonical_english": "Bet Shemesh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 156,
+    "context_summary": "דגם החלקת הטיח במאגר המים בערד דומה מאד למצב בבית שמש."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Beer Sheva",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 156,
+    "context_summary": "דגם החלקת הטיח במאגר המים בערד דומה מאד למצב בבאר שבע."
+  },
+  {
+    "canonical_hebrew": "תל ערד",
+    "canonical_english": "Tel Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 157,
+    "context_summary": "מפעל המים המרכזי של תל המצודות בערד קשור לבאר המצויה במרחק 120 מ' מחומת המצודה."
+  },
+  {
+    "canonical_hebrew": "חורבת טוב",
+    "canonical_english": "Khirbet Tov",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 157,
+    "context_summary": "חורבה בקצה הצפון-מזרחי של בקעת ערד ובה שרידי יישוב מהתקופות הכלקוליתית והברונזה הקדומה, ומצודה ובאר מתקופת הברזל."
+  },
+  {
+    "canonical_hebrew": "בקעת ערד",
+    "canonical_english": "Arad Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 157,
+    "context_summary": "חורבת טוב מצויה בקצה הצפון-מזרחי של בקעת ערד."
+  },
+  {
+    "canonical_hebrew": "נחל טוב",
+    "canonical_english": "Nahal Tov",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 157,
+    "context_summary": "באר בחורבת טוב מצויה 2.5 מ' מאפיק נחל טוב, ונבנה קיר מגן כדי להגן עליה מפני שטפונות."
+  },
+  {
+    "canonical_hebrew": "חורבת טוב",
+    "canonical_english": "Khirbet Tov",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 158,
+    "context_summary": "המצודה בחורבת טוב, שזמנה המאה ה-7 לפנה\"ס, דומה למצודת ערד, ומערכת המים שלה מורכבת מבאר ותעלת הזנה."
+  },
+  {
+    "canonical_hebrew": "נחל טוב",
+    "canonical_english": "Nahal Tov",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 158,
+    "context_summary": "באר בחורבת טוב מצויה 2.5 מ' מאפיק נחל טוב, ונבנה קיר מגן כדי להגן עליה מפני שטפונות."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 158,
+    "context_summary": "מתקנים מטויחים הדומים למתקנים סביב הבאר בערד מצויים ליד הבאר בחורבת טוב."
+  },
+  {
+    "canonical_hebrew": "ערוער",
+    "canonical_english": "Aroer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 158,
+    "context_summary": "תל ערוער מצוי כ-22 ק\"מ מדרום-מזרח לבאר שבע, ובו שרידי יישוב מוקף חומה מהמאה ה-7 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "תל ערוער",
+    "canonical_english": "Tel Aroer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 158,
+    "context_summary": "תל ערוער מצוי כ-22 ק\"מ מדרום-מזרח לבאר שבע, ובו שקע מעוגל דמוי קערה המעיד על מפעל מים חבוי."
+  },
+  {
+    "canonical_hebrew": "נחל ערוער",
+    "canonical_english": "Nahal Aroer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 158,
+    "context_summary": "נחל ערוער עובר למרגלות תל ערוער, וייתכן שמפעל המים בתל ניזון ממי שטפונות בנחל."
+  },
+  {
+    "canonical_hebrew": "ערוער",
+    "canonical_english": "Aroer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 159,
+    "context_summary": "לתושבי ערוער היו שני מקורות מים: בארות מחוץ ליישוב ומאגר מים תת-קרקעי בתוכו."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Beer Sheva",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 159,
+    "context_summary": "מפעל המים בתל ערוער דומה לזה של באר שבע - מאגר תת-קרקעי שניזון ממי שטפונות."
+  },
+  {
+    "canonical_hebrew": "בארות ערוער",
+    "canonical_english": "Aroer Wells",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 159,
+    "context_summary": "בארות ערוער מצויות במרחק כ-500 מ' מדרום-מזרח לתל ערוער, ושימשו כמקור מים נוסף ליישוב."
+  },
+  {
+    "canonical_hebrew": "קדש ברנע",
+    "canonical_english": "Kadesh Barnea",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 159,
+    "context_summary": "במצודה התיכונה בקדש ברנע נחשף מפעל מים הכולל תעלת הזנה ומאגר הבנוי אבנים גדולות."
+  },
+  {
+    "canonical_hebrew": "עין קדיראת",
+    "canonical_english": "Ein Qudeirat",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 159,
+    "context_summary": "תעלה מטויחת הובילה את מי המעיין הראשי עין קדיראת אל המאגר בקדש ברנע."
+  },
+  {
+    "canonical_hebrew": "חורבת ראש זית",
+    "canonical_english": "Khirbet Rosh Zayit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 159,
+    "context_summary": "מצודה בגליל התחתון המערבי, שמידותיה 25X25 מ', ובה בור מים חצוב בסלע שניקז מי גשם."
+  },
+  {
+    "canonical_hebrew": "גליל התחתון המערבי",
+    "canonical_english": "Western Lower Galilee",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 159,
+    "context_summary": "חורבת ראש זית היא מצודה בגליל התחתון המערבי."
+  },
+  {
+    "canonical_hebrew": "מישור חוף עכו",
+    "canonical_english": "Acre Coastal Plain",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 159,
+    "context_summary": "חורבת ראש זית צופה אל מישור חוף עכו."
+  },
+  {
+    "canonical_hebrew": "כבול המקראית",
+    "canonical_english": "Biblical Cabul",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 159,
+    "context_summary": "חורבת ראש זית הוצעה לזיהוי עם כבול המקראית."
+  },
+  {
+    "canonical_hebrew": "יזרעאל",
+    "canonical_english": "Jezreel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 160,
+    "context_summary": "תל מתקופת המקרא בדרום עמק יזרעאל, המזוהה עם יזרעאל, עיר חשובה בממלכת ישראל."
+  },
+  {
+    "canonical_hebrew": "עמק יזרעאל",
+    "canonical_english": "Jezreel Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 160,
+    "context_summary": "תל יזרעאל מצוי בדרום העמק הנושא שם זה."
+  },
+  {
+    "canonical_hebrew": "עין אלמייתה",
+    "canonical_english": "Ein el-Meiyiteh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 160,
+    "context_summary": "מעיין עשיר במים, כנראה המעיין של יזרעאל, ששמו \"המעיין המת\"י\" מעיד על התייבשותו בעבר וחידושו."
+  },
+  {
+    "canonical_hebrew": "מעיין יזרעאל",
+    "canonical_english": "Ein Jezreel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 160,
+    "context_summary": "עין אלמייתה הוא כנראה המעיין של יזרעאל, וגרן הציע ש\"העין אשר ביזרעאל\" הוא מעיין חרוד."
+  },
+  {
+    "canonical_hebrew": "ביר אס-סוויד",
+    "canonical_english": "Bir es-Suweid",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 160,
+    "context_summary": "באר בשם ביר אס-סוויד נמצאה בחלק הצפוני של העיר יזרעאל."
+  },
+  {
+    "canonical_hebrew": "זרעין",
+    "canonical_english": "Zar'in",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 160,
+    "context_summary": "עין אלמייתה מספק את צרכי התושבים של הכפר זרעין."
+  },
+  {
+    "canonical_hebrew": "מעיין חרוד",
+    "canonical_english": "Ein Harod",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 160,
+    "context_summary": "גרן הציע כי \"העין אשר ביזרעאל\" הוא מעיין חרוד ולא עין יזרעאל."
+  },
+  {
+    "canonical_hebrew": "גלבוע",
+    "canonical_english": "Gilboa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 160,
+    "context_summary": "מעיין יזרעאל ניזון מאקויפר הגלבוע."
+  },
+  {
+    "canonical_hebrew": "מגידו",
+    "canonical_english": "Megiddo",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 160,
+    "context_summary": "מעיין יזרעאל ניזון גם מאקויפר מגידו."
+  },
+  {
+    "canonical_hebrew": "נורית",
+    "canonical_english": "Nurit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 160,
+    "context_summary": "קידוחי מים בנורית שבמדרון הגלבוע הקטינו את שפיעת מעיין יזרעאל."
+  }
+]

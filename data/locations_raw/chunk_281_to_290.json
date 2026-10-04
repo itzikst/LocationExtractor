@@ -1,0 +1,518 @@
+[
+  {
+    "canonical_hebrew": "מצר",
+    "canonical_english": "Metzer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 281,
+    "context_summary": "בור D7 במצר מוצג באיורים 49 ו-50, עם מבטים לצפון ולמזרח."
+  },
+  {
+    "canonical_hebrew": "בור D7 במצר",
+    "canonical_english": "Cistern D7 in Metzer",
+    "hebrew_aliases": [
+      "בור D7"
+    ],
+    "english_aliases": [],
+    "site_type": "Cistern System",
+    "page_number": 281,
+    "context_summary": "בור D7 במצר מוצג באיורים 49 ו-50, עם מבטים לצפון ולמזרח."
+  },
+  {
+    "canonical_hebrew": "תל דלית",
+    "canonical_english": "Tel Dalit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 282,
+    "context_summary": "מפת תל דלית מציגה את מיקום בור המים שנחקר, ואיור 52 מציג את פתח בור המים בתל דלית."
+  },
+  {
+    "canonical_hebrew": "בור המים בתל דלית",
+    "canonical_english": "Cistern at Tel Dalit",
+    "hebrew_aliases": [
+      "בור המים"
+    ],
+    "english_aliases": [],
+    "site_type": "Cistern System",
+    "page_number": 282,
+    "context_summary": "מפת תל דלית מציגה את מיקום בור המים שנחקר, ואיור 52 מציג את פתח בור המים בתל דלית."
+  },
+  {
+    "canonical_hebrew": "תל דלית",
+    "canonical_english": "Tel Dalit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 283,
+    "context_summary": "איורים 53 ו-54 מציגים את צוואר בור המים בתל דלית ואת ראשית חלל הבור."
+  },
+  {
+    "canonical_hebrew": "בור המים בתל דלית",
+    "canonical_english": "Cistern at Tel Dalit",
+    "hebrew_aliases": [
+      "בור המים"
+    ],
+    "english_aliases": [],
+    "site_type": "Cistern System",
+    "page_number": 283,
+    "context_summary": "איורים 53 ו-54 מציגים את צוואר בור המים בתל דלית ואת ראשית חלל הבור."
+  },
+  {
+    "canonical_hebrew": "תל בית ירח",
+    "canonical_english": "Tel Bet Yerah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 284,
+    "context_summary": "איורים 55 ו-56 מציגים את המנהרה בתל בית ירח, במבט כללי ומקרוב למזרח."
+  },
+  {
+    "canonical_hebrew": "המנהרה בתל בית ירח",
+    "canonical_english": "Tunnel at Tel Bet Yerah",
+    "hebrew_aliases": [
+      "המנהרה"
+    ],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 284,
+    "context_summary": "איורים 55 ו-56 מציגים את המנהרה בתל בית ירח, במבט כללי ומקרוב למזרח."
+  },
+  {
+    "canonical_hebrew": "תל ירמות",
+    "canonical_english": "Tel Yarmut",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 285,
+    "context_summary": "איור 57 מציג תכנית של תל ירמות וסימון המקום המשוער של מפעל המים."
+  },
+  {
+    "canonical_hebrew": "מפעל המים בתל ירמות",
+    "canonical_english": "Water System at Tel Yarmut",
+    "hebrew_aliases": [
+      "מפעל המים"
+    ],
+    "english_aliases": [],
+    "site_type": "Water System",
+    "page_number": 285,
+    "context_summary": "איור 57 מציג תכנית של תל ירמות וסימון המקום המשוער של מפעל המים."
+  },
+  {
+    "canonical_hebrew": "כברי",
+    "canonical_english": "Kabri",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 285,
+    "context_summary": "איור 58 מציג מפת האתר של כברי."
+  },
+  {
+    "canonical_hebrew": "תל דן",
+    "canonical_english": "Tel Dan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 285,
+    "context_summary": "איור 59 מציג מפת האתר של תל דן ובו מקורות המים השונים."
+  },
+  {
+    "canonical_hebrew": "מקורות המים בתל דן",
+    "canonical_english": "Water Sources at Tel Dan",
+    "hebrew_aliases": [
+      "מקורות המים"
+    ],
+    "english_aliases": [],
+    "site_type": "Water System",
+    "page_number": 285,
+    "context_summary": "איור 59 מציג מפת האתר של תל דן ובו מקורות המים השונים."
+  },
+  {
+    "canonical_hebrew": "תל דן",
+    "canonical_english": "Tel Dan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 286,
+    "context_summary": "איורים 60-63 מציגים את הבולען בתל דן, מבטים לצפון ולדרום, ושפיכת תבן לתוכו וערבובו."
+  },
+  {
+    "canonical_hebrew": "הבולען בתל דן",
+    "canonical_english": "Sinkhole at Tel Dan",
+    "hebrew_aliases": [
+      "הבולען"
+    ],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 286,
+    "context_summary": "איורים 60-63 מציגים את הבולען בתל דן, מבטים לצפון ולדרום, ושפיכת תבן לתוכו וערבובו."
+  },
+  {
+    "canonical_hebrew": "תל דן",
+    "canonical_english": "Tel Dan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 287,
+    "context_summary": "איור 64 מציג חתך בתל דן מהבולען אל מוצא הבולען."
+  },
+  {
+    "canonical_hebrew": "הבולען בתל דן",
+    "canonical_english": "Sinkhole at Tel Dan",
+    "hebrew_aliases": [
+      "הבולען"
+    ],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 287,
+    "context_summary": "איור 64 מציג חתך בתל דן מהבולען אל מוצא הבולען."
+  },
+  {
+    "canonical_hebrew": "מוצא הבולען בתל דן",
+    "canonical_english": "Sinkhole Outlet at Tel Dan",
+    "hebrew_aliases": [
+      "מוצא הבולען"
+    ],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 287,
+    "context_summary": "איור 64 מציג חתך בתל דן מהבולען אל מוצא הבולען."
+  },
+  {
+    "canonical_hebrew": "יריחו",
+    "canonical_english": "Jericho",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 288,
+    "context_summary": "איור 65 מציג תכנית של העיר יריחו ובה מעיין אלישע."
+  },
+  {
+    "canonical_hebrew": "מעיין אלישע",
+    "canonical_english": "Elisha's Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 288,
+    "context_summary": "איור 65 מציג תכנית של העיר יריחו ובה מעיין אלישע."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 288,
+    "context_summary": "איור 66 מציג מפת המנהרות באזור מעיין הגיחון."
+  },
+  {
+    "canonical_hebrew": "מנהרות מעיין הגיחון",
+    "canonical_english": "Gihon Spring Tunnels",
+    "hebrew_aliases": [
+      "המנהרות באזור מעיין הגיחון"
+    ],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 288,
+    "context_summary": "איור 66 מציג מפת המנהרות באזור מעיין הגיחון."
+  },
+  {
+    "canonical_hebrew": "אקוודוקט",
+    "canonical_english": "Aqueduct",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Aqueduct"
+    ],
+    "site_type": "Aqueduct",
+    "page_number": 289,
+    "context_summary": "איור 67 מציג תכנית של תעלה (אקוודוקט)."
+  },
+  {
+    "canonical_hebrew": "בריכה",
+    "canonical_english": "Pool",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Pool"
+    ],
+    "site_type": "Pool",
+    "page_number": 289,
+    "context_summary": "איור 67 מציג תכנית של בריכה."
+  },
+  {
+    "canonical_hebrew": "מערכת פיר וורן",
+    "canonical_english": "Warren's Shaft System",
+    "hebrew_aliases": [
+      "מערכת פיר וורן"
+    ],
+    "english_aliases": [
+      "Warren's Shaft System"
+    ],
+    "site_type": "Water System",
+    "page_number": 289,
+    "context_summary": "מערכת פיר וורן מוזכרת בטבלה בהקשר לחומת העיר ולפיר וורן."
+  },
+  {
+    "canonical_hebrew": "חומת העיר",
+    "canonical_english": "City Wall",
+    "hebrew_aliases": [
+      "חומת העיר"
+    ],
+    "english_aliases": [
+      "City Wall"
+    ],
+    "site_type": "Fortifications",
+    "page_number": 289,
+    "context_summary": "חומת העיר מוזכרת בטבלה בהקשר למערכת פיר וורן ולתקופת הברונזה התיכונה 2."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [
+      "נקבת חזקיהו"
+    ],
+    "english_aliases": [
+      "Hezekiah's Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 289,
+    "context_summary": "נקבת חזקיהו מוזכרת בטבלה בהקשר לשטח E."
+  },
+  {
+    "canonical_hebrew": "שטח E",
+    "canonical_english": "Area E",
+    "hebrew_aliases": [
+      "שטח E"
+    ],
+    "english_aliases": [
+      "Area E"
+    ],
+    "site_type": "Other",
+    "page_number": 289,
+    "context_summary": "שטח E מוזכר בטבלה בהקשר לנקבת חזקיהו."
+  },
+  {
+    "canonical_hebrew": "פיר וורן",
+    "canonical_english": "Warren's Shaft",
+    "hebrew_aliases": [
+      "פיר וורן"
+    ],
+    "english_aliases": [
+      "Warren's Shaft"
+    ],
+    "site_type": "Shaft",
+    "page_number": 289,
+    "context_summary": "פיר וורן מוזכר בטבלה כחלק ממערכת פיר וורן."
+  },
+  {
+    "canonical_hebrew": "מערכת מים",
+    "canonical_english": "Water System",
+    "hebrew_aliases": [
+      "Water System"
+    ],
+    "english_aliases": [
+      "Water System"
+    ],
+    "site_type": "Water System",
+    "page_number": 289,
+    "context_summary": "מערכת מים מוזכרת בטבלה בהקשר למגדל הבריכה ולביצורים."
+  },
+  {
+    "canonical_hebrew": "מגדל הבריכה",
+    "canonical_english": "Pool Tower",
+    "hebrew_aliases": [
+      "מגדל הבריכה"
+    ],
+    "english_aliases": [
+      "Pool Tower"
+    ],
+    "site_type": "Fortress",
+    "page_number": 289,
+    "context_summary": "מגדל הבריכה מוזכר בטבלה כחלק ממערכת מים וביצורים."
+  },
+  {
+    "canonical_hebrew": "שטח C",
+    "canonical_english": "Area C",
+    "hebrew_aliases": [
+      "שטח C"
+    ],
+    "english_aliases": [
+      "Area C"
+    ],
+    "site_type": "Other",
+    "page_number": 289,
+    "context_summary": "שטח C מוזכר בטבלה בהקשר לביצורים."
+  },
+  {
+    "canonical_hebrew": "בריכת פיר וורן",
+    "canonical_english": "Pool of Warren's Shaft",
+    "hebrew_aliases": [
+      "בריכת פיר וורן"
+    ],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 289,
+    "context_summary": "בריכת פיר וורן מוזכרת בטבלה."
+  },
+  {
+    "canonical_hebrew": "בריכת החצובה",
+    "canonical_english": "Pool of the Tripod",
+    "hebrew_aliases": [
+      "בריכת החצובה"
+    ],
+    "english_aliases": [],
+    "site_type": "Pool",
+    "page_number": 289,
+    "context_summary": "בריכת החצובה מוזכרת בטבלה."
+  },
+  {
+    "canonical_hebrew": "מערכת הובלת מים",
+    "canonical_english": "Water Conveyance System",
+    "hebrew_aliases": [
+      "מערכת הובלת מים"
+    ],
+    "english_aliases": [],
+    "site_type": "Water System",
+    "page_number": 289,
+    "context_summary": "מערכת הובלת מים מוזכרת בטבלה בהקשר לתקופת הברזל 2 ולשלהי ימי הבית השני."
+  },
+  {
+    "canonical_hebrew": "קמרונות אבן",
+    "canonical_english": "Stone Vaults",
+    "hebrew_aliases": [
+      "קמרונות אבן"
+    ],
+    "english_aliases": [
+      "Stone Vaults"
+    ],
+    "site_type": "Installation",
+    "page_number": 289,
+    "context_summary": "קמרונות אבן מוזכרים בטבלה."
+  },
+  {
+    "canonical_hebrew": "בריכה חצובה בסלע",
+    "canonical_english": "Rock-cut Pool",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Rock-cut Pool"
+    ],
+    "site_type": "Pool",
+    "page_number": 289,
+    "context_summary": "בריכה חצובה בסלע מוזכרת בטבלה."
+  },
+  {
+    "canonical_hebrew": "החדר העגול",
+    "canonical_english": "Rounded Chamber",
+    "hebrew_aliases": [
+      "החדר העגול"
+    ],
+    "english_aliases": [
+      "Rounded Chamber"
+    ],
+    "site_type": "Installation",
+    "page_number": 289,
+    "context_summary": "החדר העגול מוזכר בטבלה."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [
+      "מעיין הגיחון"
+    ],
+    "english_aliases": [
+      "Gihon Spring"
+    ],
+    "site_type": "Spring",
+    "page_number": 289,
+    "context_summary": "מעיין הגיחון מוזכר בטבלה ובהקשר לשרידי תקופת הברונזה התיכונה סביבו."
+  },
+  {
+    "canonical_hebrew": "שטח tt",
+    "canonical_english": "Area tt",
+    "hebrew_aliases": [
+      "שטח tt"
+    ],
+    "english_aliases": [
+      "Area tt"
+    ],
+    "site_type": "Other",
+    "page_number": 289,
+    "context_summary": "שטח tt מוזכר בטבלה."
+  },
+  {
+    "canonical_hebrew": "מגדל המעיין",
+    "canonical_english": "Spring Tower",
+    "hebrew_aliases": [
+      "מגדל המעיין"
+    ],
+    "english_aliases": [
+      "Spring Tower"
+    ],
+    "site_type": "Fortress",
+    "page_number": 289,
+    "context_summary": "מגדל המעיין מוזכר בטבלה."
+  },
+  {
+    "canonical_hebrew": "שטח F",
+    "canonical_english": "Area F",
+    "hebrew_aliases": [
+      "שטח F"
+    ],
+    "english_aliases": [
+      "Area F"
+    ],
+    "site_type": "Other",
+    "page_number": 289,
+    "context_summary": "שטח F מוזכר בטבלה."
+  },
+  {
+    "canonical_hebrew": "תעלה II",
+    "canonical_english": "Tunnel II",
+    "hebrew_aliases": [
+      "תעלה Tunnel II"
+    ],
+    "english_aliases": [
+      "Tunnel II"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 289,
+    "context_summary": "תעלה II מוזכרת בטבלה."
+  },
+  {
+    "canonical_hebrew": "פיר וורן",
+    "canonical_english": "Warren's Shaft",
+    "hebrew_aliases": [
+      "פיר וורן"
+    ],
+    "english_aliases": [
+      "Warren's Shaft"
+    ],
+    "site_type": "Shaft",
+    "page_number": 290,
+    "context_summary": "איור 69 מציג חתך של פיר וורן, הכולל את המנהרה והפיר."
+  },
+  {
+    "canonical_hebrew": "המנהרה בפיר וורן",
+    "canonical_english": "Tunnel in Warren's Shaft",
+    "hebrew_aliases": [
+      "המנהרה"
+    ],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 290,
+    "context_summary": "איור 69 מציג חתך של פיר וורן, הכולל את המנהרה והפיר."
+  },
+  {
+    "canonical_hebrew": "קטנה",
+    "canonical_english": "Qatna",
+    "hebrew_aliases": [
+      "קטנה"
+    ],
+    "english_aliases": [
+      "Qatna"
+    ],
+    "site_type": "Settlement",
+    "page_number": 290,
+    "context_summary": "איור 70 מציג מפת האתר של קטנה."
+  }
+]

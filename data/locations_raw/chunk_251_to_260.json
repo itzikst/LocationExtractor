@@ -1,0 +1,744 @@
+[
+  {
+    "canonical_hebrew": "חיפה",
+    "canonical_english": "Haifa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 251,
+    "context_summary": "חיפה מופיעה במפת המשקעים בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "שכם",
+    "canonical_english": "Shechem",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Nablus"
+    ],
+    "site_type": "Settlement",
+    "page_number": 251,
+    "context_summary": "שכם מופיעה במפת המשקעים בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "תל אביב",
+    "canonical_english": "Tel Aviv",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 251,
+    "context_summary": "תל אביב מופיעה במפת המשקעים בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "עזה",
+    "canonical_english": "Gaza",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 251,
+    "context_summary": "עזה מופיעה במפת המשקעים בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Be'er Sheva",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 251,
+    "context_summary": "באר שבע מופיעה במפת המשקעים בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "קוניטרה",
+    "canonical_english": "Quneitra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 251,
+    "context_summary": "קוניטרה מופיעה במפת המשקעים בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "צפת",
+    "canonical_english": "Safed",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 251,
+    "context_summary": "צפת מופיעה במפת המשקעים בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "אירביד",
+    "canonical_english": "Irbid",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 251,
+    "context_summary": "אירביד מופיעה במפת המשקעים בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "מדכה",
+    "canonical_english": "Madaba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 251,
+    "context_summary": "מדכה מופיעה במפת המשקעים בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 251,
+    "context_summary": "ירושלים מופיעה במפת המשקעים בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "סמעאן",
+    "canonical_english": "Sama'an",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 251,
+    "context_summary": "סמעאן מופיעה במפת המשקעים בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "קימסע",
+    "canonical_english": "Qimsa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 251,
+    "context_summary": "קימסע מופיעה במפת המשקעים בארץ ישראל."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Eretz Israel"
+    ],
+    "site_type": "Region",
+    "page_number": 251,
+    "context_summary": "מפת המשקעים בארץ ישראל מציגה את כמות הגשמים השנתית הממוצעת באזור."
+  },
+  {
+    "canonical_hebrew": "ים המלח",
+    "canonical_english": "Dead Sea",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Lisan/Dead Sea"
+    ],
+    "site_type": "Region",
+    "page_number": 252,
+    "context_summary": "ים המלח מוזכר בהקשר של תקופות לחות ושיחזור מפלסיו."
+  },
+  {
+    "canonical_hebrew": "פאצאל",
+    "canonical_english": "Fazael",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Fazael/Coast"
+    ],
+    "site_type": "Region",
+    "page_number": 252,
+    "context_summary": "Fazael/Coast מופיע כעמודה בטבלה המסכמת רצפים גיאולוגיים."
+  },
+  {
+    "canonical_hebrew": "סליביה",
+    "canonical_english": "Salibiya",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Saliblya"
+    ],
+    "site_type": "Region",
+    "page_number": 252,
+    "context_summary": "Saliblya מופיעה כעמודה בטבלה המסכמת רצפים גיאולוגיים."
+  },
+  {
+    "canonical_hebrew": "הנגב",
+    "canonical_english": "Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 252,
+    "context_summary": "Negev מופיע כעמודה בטבלה המסכמת רצפים גיאולוגיים."
+  },
+  {
+    "canonical_hebrew": "האגן הדרומי",
+    "canonical_english": "Southern Basin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 252,
+    "context_summary": "האגן הדרומי של ים המלח מוזכר בהקשר של התייבשותו."
+  },
+  {
+    "canonical_hebrew": "האגן הצפוני",
+    "canonical_english": "Northern Basin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 252,
+    "context_summary": "האגן הצפוני של ים המלח מוזכר בהקשר של ירידת מפלסו."
+  },
+  {
+    "canonical_hebrew": "הר סדום",
+    "canonical_english": "Mount Sedom",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 252,
+    "context_summary": "מפלס ים המלח שוחזר לפי מערות הר סדום."
+  },
+  {
+    "canonical_hebrew": "מערת נחל קנה",
+    "canonical_english": "Nahal Qanah Cave",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 253,
+    "context_summary": "מערת נחל קנה מוזכרת בהקשר של מחקר איזוטופים לתקופות לחות."
+  },
+  {
+    "canonical_hebrew": "מערות הר סדום",
+    "canonical_english": "Mount Sedom caves",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 253,
+    "context_summary": "מפלס ים המלח הגבוה נקבע לפי מערות הר סדום."
+  },
+  {
+    "canonical_hebrew": "מעיין הבתולה",
+    "canonical_english": "Virgin's Fount",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 255,
+    "context_summary": "פיר וורן מתואר כמעבר חצוב מעל מעיין הבתולה."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 255,
+    "context_summary": "גבעון מוזכרת בהקשר של תכנית וחתך של מנהרות המים."
+  },
+  {
+    "canonical_hebrew": "עין אל-בלד בגבעון",
+    "canonical_english": "Ain el Belled at Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 255,
+    "context_summary": "עין אל-בלד בגבעון מתוארת כמעיין, בריכה ומעברים."
+  },
+  {
+    "canonical_hebrew": "מנהרות גבעון",
+    "canonical_english": "Gibeon Tunnels",
+    "hebrew_aliases": [
+      "מנהרות בגבעון"
+    ],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 255,
+    "context_summary": "חתך ותכנית של המנהרות בגבעון מוצגים באיור."
+  },
+  {
+    "canonical_hebrew": "יבלעם",
+    "canonical_english": "Ibleam",
+    "hebrew_aliases": [
+      "ח'רבת בלעמה"
+    ],
+    "english_aliases": [
+      "Khirbet Belameh"
+    ],
+    "site_type": "Installation",
+    "page_number": 256,
+    "context_summary": "מפעל המים ביבלעם מוצג בחתך ותכנית."
+  },
+  {
+    "canonical_hebrew": "עין סנג'את",
+    "canonical_english": "Ain Senjat",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 256,
+    "context_summary": "עין סנג'את מוזכרת בהקשר של מפעל המים בח'רבת בלעמה."
+  },
+  {
+    "canonical_hebrew": "ואדי בלעמה",
+    "canonical_english": "Wadi Belameh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 256,
+    "context_summary": "ואדי בלעמה מוזכר בהקשר של מפעל המים בח'רבת בלעמה."
+  },
+  {
+    "canonical_hebrew": "גשר בנות יעקב",
+    "canonical_english": "Gesher Benot Ya'aqov",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 257,
+    "context_summary": "גשר בנות יעקב מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת עמוד",
+    "canonical_english": "Amud Cave",
+    "hebrew_aliases": [
+      "עמוד"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 257,
+    "context_summary": "עמוד מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת היונים",
+    "canonical_english": "HaYonim Cave",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 257,
+    "context_summary": "מערת היונים מופיעה במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "נחל עמוד",
+    "canonical_english": "Nahal Amud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 257,
+    "context_summary": "נחל עמוד מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "עין גב",
+    "canonical_english": "Ein Gev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 257,
+    "context_summary": "עין גב מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת ספונים",
+    "canonical_english": "Sefunim Cave",
+    "hebrew_aliases": [
+      "ספונים"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 257,
+    "context_summary": "ספונים מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "טירה",
+    "canonical_english": "Tira",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 257,
+    "context_summary": "טירה מופיעה במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "עבידיה",
+    "canonical_english": "Ubeidiya",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 257,
+    "context_summary": "עבידיה מופיעה במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת רקפת",
+    "canonical_english": "Raqefet Cave",
+    "hebrew_aliases": [
+      "רקפת"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 257,
+    "context_summary": "רקפת מופיעה במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת סח'ול",
+    "canonical_english": "Skhul Cave",
+    "hebrew_aliases": [
+      "סח'ול"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 257,
+    "context_summary": "סח'ול מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת טאבון",
+    "canonical_english": "Tabun Cave",
+    "hebrew_aliases": [
+      "טאבון"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 257,
+    "context_summary": "טאבון מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת אבן אצבע",
+    "canonical_english": "Even Etzba Cave",
+    "hebrew_aliases": [
+      "אבן אצבע"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 257,
+    "context_summary": "אבן אצבע מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת אל-ואד",
+    "canonical_english": "El-Wad Cave",
+    "hebrew_aliases": [
+      "אל-ואד"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 257,
+    "context_summary": "אל-ואד מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת כבארה",
+    "canonical_english": "Kebara Cave",
+    "hebrew_aliases": [
+      "כבארה"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 257,
+    "context_summary": "כבארה מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת שקבא",
+    "canonical_english": "Shuqba Cave",
+    "hebrew_aliases": [
+      "שקבא"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 257,
+    "context_summary": "שקבא מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "חולון",
+    "canonical_english": "Holon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 257,
+    "context_summary": "חולון מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "כפר מנחם",
+    "canonical_english": "Kfar Menahem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 257,
+    "context_summary": "כפר מנחם מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "תל אביב-יפו",
+    "canonical_english": "Tel Aviv-Yafo",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 257,
+    "context_summary": "תל אביב-יפו מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת קטט",
+    "canonical_english": "Qatata Cave",
+    "hebrew_aliases": [
+      "קטט"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 257,
+    "context_summary": "קטט מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "ואדי חריטון",
+    "canonical_english": "Wadi Khareitun",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 257,
+    "context_summary": "ואדי חריטון מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת דת-עקב",
+    "canonical_english": "Dat-Aqev Cave",
+    "hebrew_aliases": [
+      "דת-עקב"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 257,
+    "context_summary": "דת-עקב מופיע במפת תפרוסת היישובים הפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת אמירה",
+    "canonical_english": "Emireh Cave",
+    "hebrew_aliases": [
+      "אמירה"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 258,
+    "context_summary": "אמירה מופיעה במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "נחל אורן",
+    "canonical_english": "Nahal Oren",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 258,
+    "context_summary": "נחל אורן מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "נחל חדרה",
+    "canonical_english": "Nahal Hadera",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 258,
+    "context_summary": "נחל חדרה מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "חפצי-בה",
+    "canonical_english": "Hefzibah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 258,
+    "context_summary": "חפצי-בה מופיעה במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "ואדי מליח",
+    "canonical_english": "Wadi Malih",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 258,
+    "context_summary": "ואדי מליח מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "חופית",
+    "canonical_english": "Hofit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 258,
+    "context_summary": "חופית מופיעה במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "אם חאלד",
+    "canonical_english": "Umm Khaled",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 258,
+    "context_summary": "אם חאלד מופיעה במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "נחל פולג",
+    "canonical_english": "Nahal Poleg",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 258,
+    "context_summary": "נחל פולג מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת ידימן",
+    "canonical_english": "Yidmin Cave",
+    "hebrew_aliases": [
+      "ידימן"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 258,
+    "context_summary": "ידימן מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "פצאל",
+    "canonical_english": "Fazael",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 258,
+    "context_summary": "פצאל מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת ערק אל-אחמד",
+    "canonical_english": "Araq el-Ahmar Cave",
+    "hebrew_aliases": [
+      "ערק אל-אחמד"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 258,
+    "context_summary": "ערק אל-אחמד מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת אל-חיאם",
+    "canonical_english": "El-Khiam Cave",
+    "hebrew_aliases": [
+      "אל-חיאם"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 258,
+    "context_summary": "אל-חיאם מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "ואדי חרימון",
+    "canonical_english": "Wadi Harimun",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 258,
+    "context_summary": "ואדי חרימון מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "נחל שורק",
+    "canonical_english": "Nahal Sorek",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 258,
+    "context_summary": "נחל שורק מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "כפר דרום",
+    "canonical_english": "Kfar Darom",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 258,
+    "context_summary": "כפר דרום מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת בידאם",
+    "canonical_english": "Baydam Cave",
+    "hebrew_aliases": [
+      "בידאם"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 258,
+    "context_summary": "בידאם מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "תל עירא",
+    "canonical_english": "Tel Ira",
+    "hebrew_aliases": [
+      "עירא"
+    ],
+    "english_aliases": [
+      "Ira"
+    ],
+    "site_type": "Tell",
+    "page_number": 258,
+    "context_summary": "עירא מופיעה במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "ראש חורשה",
+    "canonical_english": "Rosh Horesha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 258,
+    "context_summary": "ראש חורשה מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "נחל לבן",
+    "canonical_english": "Nahal Lavan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 258,
+    "context_summary": "נחל לבן מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת עריף",
+    "canonical_english": "Arif Cave",
+    "hebrew_aliases": [
+      "עריף"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 258,
+    "context_summary": "עריף מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "מערת א-נאקה",
+    "canonical_english": "An-Naqa Cave",
+    "hebrew_aliases": [
+      "א-נאקה"
+    ],
+    "english_aliases": [],
+    "site_type": "Cave",
+    "page_number": 258,
+    "context_summary": "א-נאקה מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "ג'בל משארה",
+    "canonical_english": "Jabal Mashara",
+    "hebrew_aliases": [
+      "גבל משארה"
+    ],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 258,
+    "context_summary": "גבל משארה מופיע במפת תפרוסת היישובים האפיפליאוליתיים."
+  },
+  {
+    "canonical_hebrew": "עתלית-ים",
+    "canonical_english": "Atlit-Yam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 259,
+    "context_summary": "תוכנית האתר עתלית-ים ומיקומו מוצגים באיור."
+  },
+  {
+    "canonical_hebrew": "מפרץ עתלית",
+    "canonical_english": "Atlit Bay",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Bay",
+    "page_number": 259,
+    "context_summary": "מפרץ עתלית מוצג בתוכנית האתר עתלית-ים."
+  },
+  {
+    "canonical_hebrew": "באר עתלית-ים",
+    "canonical_english": "Atlit-Yam water well",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 259,
+    "context_summary": "חתך סכמתי מתאר את מפלס הים ביחס לבאר בעתלית-ים."
+  },
+  {
+    "canonical_hebrew": "עתלית-ים",
+    "canonical_english": "Atlit-Yam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 260,
+    "context_summary": "חפירת הבאר בעתלית-ים מתוארת בעזרת משאבות של מים וחול."
+  }
+]

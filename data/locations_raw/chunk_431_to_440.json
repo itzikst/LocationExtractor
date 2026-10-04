@@ -1,0 +1,1366 @@
+[
+  {
+    "canonical_hebrew": "ישראל",
+    "canonical_english": "Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 431,
+    "context_summary": "Mentioned as the location where monumental water projects were found during the Biblical period and where long-distance aqueducts made their debut later. Also described as a geographic province with diverse climate zones."
+  },
+  {
+    "canonical_hebrew": "יהודה",
+    "canonical_english": "Judea",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 431,
+    "context_summary": "Mentioned as one of the kingdoms whose central regimes executed monumental water projects."
+  },
+  {
+    "canonical_hebrew": "ממלכת ישראל",
+    "canonical_english": "Kingdom of Israel",
+    "hebrew_aliases": [
+      "ישראל"
+    ],
+    "english_aliases": [
+      "Israel"
+    ],
+    "site_type": "Region",
+    "page_number": 431,
+    "context_summary": "Mentioned as one of the kingdoms whose central regimes executed monumental water projects."
+  },
+  {
+    "canonical_hebrew": "תל מגידו",
+    "canonical_english": "Tel Megiddo",
+    "hebrew_aliases": [
+      "מגידו"
+    ],
+    "english_aliases": [
+      "Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 431,
+    "context_summary": "Mentioned as a site where a separate publication appeared focusing on a specific water project."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 431,
+    "context_summary": "Mentioned as a site where a separate publication appeared focusing on a specific water project."
+  },
+  {
+    "canonical_hebrew": "עתלית ים",
+    "canonical_english": "Atlit Yam",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "'Atlit Yam"
+    ],
+    "site_type": "Settlement",
+    "page_number": 431,
+    "context_summary": "Described as the location of the first wells in the ancient world, dating back 8000 years, showcasing advanced well-digging and quarrying abilities."
+  },
+  {
+    "canonical_hebrew": "תל באר שבע",
+    "canonical_english": "Tel Beer Sheba",
+    "hebrew_aliases": [
+      "באר שבע"
+    ],
+    "english_aliases": [
+      "Tel Be'er Sheba",
+      "Beer Sheba"
+    ],
+    "site_type": "Tell",
+    "page_number": 432,
+    "context_summary": "Mentioned as the location of the deepest known ancient well in Israel, 70 meters deep, dated to Iron Age 1."
+  },
+  {
+    "canonical_hebrew": "עפק",
+    "canonical_english": "Afek",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "'Afeq"
+    ],
+    "site_type": "Settlement",
+    "page_number": 433,
+    "context_summary": "Described as a city built on the springs of the Yarkon River, surrounded by a pond."
+  },
+  {
+    "canonical_hebrew": "נחל הירקון",
+    "canonical_english": "Yarkon River",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 433,
+    "context_summary": "Mentioned as the source of springs upon which the city of Afek was built."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 433,
+    "context_summary": "Mentioned as a city built near the Gihon spring, with fortifications built above the spring to incorporate it within the city walls."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 433,
+    "context_summary": "Mentioned as the spring near which Jerusalem was built, and which was incorporated into the city's fortifications."
+  },
+  {
+    "canonical_hebrew": "סוריה",
+    "canonical_english": "Syria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 433,
+    "context_summary": "Mentioned as the origin of the method of incorporating springs into city walls, which was then introduced into Israel."
+  },
+  {
+    "canonical_hebrew": "ישראל",
+    "canonical_english": "Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 433,
+    "context_summary": "Mentioned as the country where the method of incorporating springs into city walls was introduced from Syria."
+  },
+  {
+    "canonical_hebrew": "לכיש",
+    "canonical_english": "Lachish",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 433,
+    "context_summary": "Mentioned as the location of the deepest known well from the Middle Bronze Age, 44 meters deep."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 433,
+    "context_summary": "Mentioned as a site where water cisterns were found, attesting to drainage water collection, and later where water reservoirs were built in the Late Bronze Age."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 433,
+    "context_summary": "Mentioned as a site where water cisterns were found, attesting to drainage water collection."
+  },
+  {
+    "canonical_hebrew": "מארי",
+    "canonical_english": "Mari",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 433,
+    "context_summary": "Mentioned as a site in Syria with a possible first aqueduct during the Middle Bronze Age."
+  },
+  {
+    "canonical_hebrew": "מיקנה",
+    "canonical_english": "Mycenae",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Mycene"
+    ],
+    "site_type": "Comparative Site",
+    "page_number": 433,
+    "context_summary": "Mentioned as one of two adjacent cultures (with Egypt) that had huge water systems in the Late Bronze Age, continuing Middle Bronze Age technology."
+  },
+  {
+    "canonical_hebrew": "מצרים",
+    "canonical_english": "Egypt",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 433,
+    "context_summary": "Mentioned as one of two adjacent cultures (with Mycenae) that had huge water systems in the Late Bronze Age, continuing Middle Bronze Age technology."
+  },
+  {
+    "canonical_hebrew": "תענך",
+    "canonical_english": "Ta'anach",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 433,
+    "context_summary": "Mentioned as a site where water reservoirs were built in the Late Bronze Age."
+  },
+  {
+    "canonical_hebrew": "גלגל",
+    "canonical_english": "Gilgal",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 434,
+    "context_summary": "Mentioned as a settlement found in an area that is waterless today, suggesting a different ancient water regime."
+  },
+  {
+    "canonical_hebrew": "נתיב הגדוד",
+    "canonical_english": "Netiv Hagdud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 434,
+    "context_summary": "Mentioned as a settlement found in an area that is waterless today, suggesting a different ancient water regime."
+  },
+  {
+    "canonical_hebrew": "ביידא",
+    "canonical_english": "Beidha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 434,
+    "context_summary": "Mentioned as a settlement found in an area that is waterless today, suggesting a different ancient water regime."
+  },
+  {
+    "canonical_hebrew": "חוף הכרמל",
+    "canonical_english": "Carmel Coast",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 434,
+    "context_summary": "Mentioned as the location where findings in sites prove the usage of wells in the Pottery Neolithic period."
+  },
+  {
+    "canonical_hebrew": "כפר סמיר",
+    "canonical_english": "Kfar Samir",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 434,
+    "context_summary": "Mentioned as a site on the Carmel coast where a unique well, built from wood and stones, was found."
+  },
+  {
+    "canonical_hebrew": "בקעת באר שבע",
+    "canonical_english": "Beer Sheva Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "valley of Beer Sheva"
+    ],
+    "site_type": "Valley",
+    "page_number": 434,
+    "context_summary": "Mentioned as the location of two known Chalcolithic water wells and a great concentration of Chalcolithic sites, suggesting more affluent creeks."
+  },
+  {
+    "canonical_hebrew": "בקעת ערד",
+    "canonical_english": "Arad Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "valleys of Arad"
+    ],
+    "site_type": "Valley",
+    "page_number": 434,
+    "context_summary": "Mentioned as a location with a great concentration of Chalcolithic sites, suggesting more affluent creeks."
+  },
+  {
+    "canonical_hebrew": "העי",
+    "canonical_english": "Ai",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "'Ai"
+    ],
+    "site_type": "Settlement",
+    "page_number": 434,
+    "context_summary": "Mentioned as the location of a water pond where hydraulic plaster was found in the Early Bronze Age."
+  },
+  {
+    "canonical_hebrew": "תל ערד",
+    "canonical_english": "Tel Arad",
+    "hebrew_aliases": [
+      "ערד"
+    ],
+    "english_aliases": [
+      "'Arad",
+      "Arad"
+    ],
+    "site_type": "Tell",
+    "page_number": 434,
+    "context_summary": "Mentioned as a site where large jars, similar to those used for water transfer, were found."
+  },
+  {
+    "canonical_hebrew": "ישראל",
+    "canonical_english": "Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 435,
+    "context_summary": "Mentioned in the context of present-day water consumption and as a geographic province with diverse climate zones where water collection was essential."
+  },
+  {
+    "canonical_hebrew": "תל מגידו",
+    "canonical_english": "Tel Megiddo",
+    "hebrew_aliases": [
+      "מגידו"
+    ],
+    "english_aliases": [
+      "Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 435,
+    "context_summary": "Mentioned as a site where a separate publication appeared focusing on a specific water project."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 435,
+    "context_summary": "Mentioned as a site where a separate publication appeared focusing on a specific water project."
+  },
+  {
+    "canonical_hebrew": "עתלית ים",
+    "canonical_english": "Atlit Yam",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "'Atlit Yam"
+    ],
+    "site_type": "Settlement",
+    "page_number": 435,
+    "context_summary": "Mentioned as the location of the first wells in the ancient world, testifying to human knowledge and capacity for procuring water."
+  },
+  {
+    "canonical_hebrew": "ישראל",
+    "canonical_english": "Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 436,
+    "context_summary": "The research focuses on ancient water systems in settlements in Israel, which is described as a semi-arid region with irregular precipitation."
+  },
+  {
+    "canonical_hebrew": "תל חליף",
+    "canonical_english": "Tel Halif",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 437,
+    "context_summary": "Listed as a site in the dissertation's table of contents."
+  },
+  {
+    "canonical_hebrew": "תל עירא",
+    "canonical_english": "Tel 'Ira",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 437,
+    "context_summary": "Listed as a site in the dissertation's table of contents."
+  },
+  {
+    "canonical_hebrew": "חורבת עוזה",
+    "canonical_english": "Horvat ‘Uza",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 437,
+    "context_summary": "Listed as a site in the dissertation's table of contents."
+  },
+  {
+    "canonical_hebrew": "חורבת רדום",
+    "canonical_english": "Horvat Radum",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 437,
+    "context_summary": "Listed as a site in the dissertation's table of contents."
+  },
+  {
+    "canonical_hebrew": "הנגב הגבוה",
+    "canonical_english": "High Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 437,
+    "context_summary": "Listed as a region where cisterns are discussed in the dissertation's table of contents."
+  },
+  {
+    "canonical_hebrew": "אום אל-ביארה",
+    "canonical_english": "Umm el-Biara",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 437,
+    "context_summary": "Listed as a site in Jordan in the dissertation's table of contents."
+  },
+  {
+    "canonical_hebrew": "ירדן",
+    "canonical_english": "Jordan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 437,
+    "context_summary": "Listed as the country where Umm el-Biara is located."
+  },
+  {
+    "canonical_hebrew": "גית",
+    "canonical_english": "Git",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 437,
+    "context_summary": "Listed as a miscellaneous site in the dissertation's table of contents."
+  },
+  {
+    "canonical_hebrew": "קנאווט",
+    "canonical_english": "Qanawat",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "The Qanawat",
+      "The Foggaras"
+    ],
+    "site_type": "Installation",
+    "page_number": 437,
+    "context_summary": "Listed as a type of water system (Qanawat/Foggaras) discussed under 'Neighboring Countries' in the dissertation's table of contents."
+  },
+  {
+    "canonical_hebrew": "טושפה",
+    "canonical_english": "Tushpa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 437,
+    "context_summary": "Listed as the capital of the Urartu Kingdom, with an aqueduct mentioned in the dissertation's table of contents."
+  },
+  {
+    "canonical_hebrew": "ממלכת אוררטו",
+    "canonical_english": "Urartu Kingdom",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 437,
+    "context_summary": "Listed as the kingdom whose capital, Tushpa, had an aqueduct."
+  },
+  {
+    "canonical_hebrew": "אולכו",
+    "canonical_english": "Ulkhu",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 437,
+    "context_summary": "Listed as a site with an irrigation system of Qanawat in the dissertation's table of contents."
+  },
+  {
+    "canonical_hebrew": "אגמי רוסה",
+    "canonical_english": "Rusa Lakes",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 437,
+    "context_summary": "Listed as lakes used for storing water for the city Toprak Kale."
+  },
+  {
+    "canonical_hebrew": "אגמי סיחה",
+    "canonical_english": "Sikha Lakes",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 437,
+    "context_summary": "Listed as lakes used for storing water for the city Toprak Kale."
+  },
+  {
+    "canonical_hebrew": "טופרק קאלה",
+    "canonical_english": "Toprak Kale",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 437,
+    "context_summary": "Listed as a city for which water was stored in Rusa and Sikha Lakes."
+  },
+  {
+    "canonical_hebrew": "עיר מידאס",
+    "canonical_english": "Midas City",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 437,
+    "context_summary": "Listed as the Phrygian Capital with a water system inside."
+  },
+  {
+    "canonical_hebrew": "ארמון נמרוד",
+    "canonical_english": "Nimrud Palace",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 437,
+    "context_summary": "Listed as a location with wells within the Assyrian Empire."
+  },
+  {
+    "canonical_hebrew": "האימפריה האשורית",
+    "canonical_english": "Assyrian Empire",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 437,
+    "context_summary": "Listed as the empire where Nimrud Palace, Nimrud, and Neguv Tunnel are located, and where aqueducts are discussed."
+  },
+  {
+    "canonical_hebrew": "נמרוד",
+    "canonical_english": "Nimrud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 437,
+    "context_summary": "Listed as a site with an aqueduct in the Assyrian Empire."
+  },
+  {
+    "canonical_hebrew": "מנהרת נגב",
+    "canonical_english": "Neguv Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 437,
+    "context_summary": "Listed as a tunnel in the Assyrian Empire."
+  },
+  {
+    "canonical_hebrew": "ארבילו (ארביל)",
+    "canonical_english": "Irbilu (Erbil)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 437,
+    "context_summary": "Listed as a site with an aqueduct in the Assyrian Empire."
+  },
+  {
+    "canonical_hebrew": "מנהרת אופלינוס בסאמוס",
+    "canonical_english": "Eupalinos Tunnel at Samos",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 437,
+    "context_summary": "Listed as a tunnel in Samos, Greece."
+  },
+  {
+    "canonical_hebrew": "סאמוס",
+    "canonical_english": "Samos",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 437,
+    "context_summary": "Listed as the location of the Eupalinos Tunnel, in Greece."
+  },
+  {
+    "canonical_hebrew": "יוון",
+    "canonical_english": "Greece",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 437,
+    "context_summary": "Listed as the country where Samos is located."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 438,
+    "context_summary": "Listed as a site with a possible aqueduct and water systems for siege."
+  },
+  {
+    "canonical_hebrew": "יקנעם",
+    "canonical_english": "Yoqne'am",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems for supply during siege."
+  },
+  {
+    "canonical_hebrew": "תל מגידו",
+    "canonical_english": "Tel Megiddo",
+    "hebrew_aliases": [
+      "מגידו"
+    ],
+    "english_aliases": [
+      "Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems for supply during siege and with inner reservoirs."
+  },
+  {
+    "canonical_hebrew": "יבלעם",
+    "canonical_english": "Yeble'am",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems for supply during siege."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems for supply during siege."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems for supply during siege."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems with inner reservoirs."
+  },
+  {
+    "canonical_hebrew": "בית שמש",
+    "canonical_english": "Bet Shemesh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems with inner reservoirs and cisterns."
+  },
+  {
+    "canonical_hebrew": "לכיש",
+    "canonical_english": "Lachish",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems with inner reservoirs."
+  },
+  {
+    "canonical_hebrew": "חורבת אל-חוח (עיטם)",
+    "canonical_english": "Khirbet el-Hoh (Eitam)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems with inner reservoirs."
+  },
+  {
+    "canonical_hebrew": "עמאן",
+    "canonical_english": "'Amman",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems with inner reservoirs."
+  },
+  {
+    "canonical_hebrew": "חשבון",
+    "canonical_english": "Heshbon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems with inner reservoirs."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Beer Sheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems with inner reservoirs."
+  },
+  {
+    "canonical_hebrew": "תל ערד",
+    "canonical_english": "Tel 'Arad",
+    "hebrew_aliases": [
+      "ערד"
+    ],
+    "english_aliases": [
+      "'Arad"
+    ],
+    "site_type": "Tell",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems with inner reservoirs."
+  },
+  {
+    "canonical_hebrew": "חורבת טוב",
+    "canonical_english": "Horvat Tov",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems with inner reservoirs."
+  },
+  {
+    "canonical_hebrew": "ערוער",
+    "canonical_english": "'Aro'er",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems with inner reservoirs."
+  },
+  {
+    "canonical_hebrew": "קדש ברנע",
+    "canonical_english": "Kadesh Barne'a",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with water systems with inner reservoirs."
+  },
+  {
+    "canonical_hebrew": "חורבת ראש זית",
+    "canonical_english": "Horvat Rosh-Zayit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with cisterns."
+  },
+  {
+    "canonical_hebrew": "יזרעאל",
+    "canonical_english": "Jezreel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with cisterns."
+  },
+  {
+    "canonical_hebrew": "חורבת בנאת בר",
+    "canonical_english": "Khirbet Banat Bar",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with cisterns."
+  },
+  {
+    "canonical_hebrew": "חורבת מרגמה",
+    "canonical_english": "Khirbet Margama",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with cisterns."
+  },
+  {
+    "canonical_hebrew": "תל א-נסבה",
+    "canonical_english": "Tell en-Nasbeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 438,
+    "context_summary": "Listed as a site with cisterns."
+  },
+  {
+    "canonical_hebrew": "חורבת שילחה",
+    "canonical_english": "Horvat Shilhah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with cisterns."
+  },
+  {
+    "canonical_hebrew": "חורבת דיר א-סיד (ענתות?)",
+    "canonical_english": "Khirbet Deir es-Sid ('Anathoth?)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with cisterns, possibly 'Anathoth."
+  },
+  {
+    "canonical_hebrew": "חורבת אל-קאיק (גובה בית שמש)",
+    "canonical_english": "Khirbet el-Kaik (Bet Shemesh Height)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with cisterns."
+  },
+  {
+    "canonical_hebrew": "תל בית מירסים",
+    "canonical_english": "Tell Beit Mirsim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 438,
+    "context_summary": "Listed as a site with cisterns."
+  },
+  {
+    "canonical_hebrew": "חורבת אבו א-תוין",
+    "canonical_english": "Khirbet Abu et-Twein",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with cisterns."
+  },
+  {
+    "canonical_hebrew": "מדבר יהודה - הבקעה",
+    "canonical_english": "Judaean Desert - The Buqei'ah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 438,
+    "context_summary": "Listed as a region with cisterns."
+  },
+  {
+    "canonical_hebrew": "קומראן",
+    "canonical_english": "Qumran",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 438,
+    "context_summary": "Listed as a site with cisterns."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Mount Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 439,
+    "context_summary": "Listed as a region for a survey in the dissertation's table of contents."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 439,
+    "context_summary": "Listed as a site with cisterns, reservoirs, and pools."
+  },
+  {
+    "canonical_hebrew": "שעלבים",
+    "canonical_english": "Sha'alvim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 439,
+    "context_summary": "Listed as a site with cisterns."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 439,
+    "context_summary": "Listed as a site with cisterns."
+  },
+  {
+    "canonical_hebrew": "יהודה ושומרון",
+    "canonical_english": "Judea and Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 439,
+    "context_summary": "Listed as a region for cisterns."
+  },
+  {
+    "canonical_hebrew": "מארי (סוריה)",
+    "canonical_english": "Mari (Syria)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 439,
+    "context_summary": "Listed as a site in Syria with a possible aqueduct."
+  },
+  {
+    "canonical_hebrew": "בית שאן",
+    "canonical_english": "Bet Shean",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 439,
+    "context_summary": "Listed as a site with wells, springs, and water systems queried to the water table."
+  },
+  {
+    "canonical_hebrew": "תל גמה",
+    "canonical_english": "Tell Gamma",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 439,
+    "context_summary": "Listed as a site with wells, springs, and water systems queried to the water table."
+  },
+  {
+    "canonical_hebrew": "אתונה",
+    "canonical_english": "Athens",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 439,
+    "context_summary": "Listed as a Mycenaean water system site in Greece."
+  },
+  {
+    "canonical_hebrew": "מיקנה",
+    "canonical_english": "Mycenae",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 439,
+    "context_summary": "Listed as a Mycenaean water system site in Greece."
+  },
+  {
+    "canonical_hebrew": "טירינס",
+    "canonical_english": "Tiryns",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 439,
+    "context_summary": "Listed as a Mycenaean water system site in Greece."
+  },
+  {
+    "canonical_hebrew": "דיר אל-מדינה",
+    "canonical_english": "Deir el-Medina",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 439,
+    "context_summary": "Listed as a site in Egypt with a great well north of the Workers Village."
+  },
+  {
+    "canonical_hebrew": "מצרים",
+    "canonical_english": "Egypt",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 439,
+    "context_summary": "Listed as the country where Deir el-Medina is located."
+  },
+  {
+    "canonical_hebrew": "תענך",
+    "canonical_english": "Ta'anach",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 439,
+    "context_summary": "Listed as a site with cisterns, reservoirs, and pools."
+  },
+  {
+    "canonical_hebrew": "בית שמש",
+    "canonical_english": "Bet Shemesh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 439,
+    "context_summary": "Listed as a site with cisterns, reservoirs, and pools, and also wells."
+  },
+  {
+    "canonical_hebrew": "אשדוד",
+    "canonical_english": "Ashdod",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 439,
+    "context_summary": "Listed as a site with cisterns, reservoirs, and pools."
+  },
+  {
+    "canonical_hebrew": "דור",
+    "canonical_english": "Dor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 439,
+    "context_summary": "Listed as a site with wells."
+  },
+  {
+    "canonical_hebrew": "תל גריסה",
+    "canonical_english": "Tel Gerisa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 439,
+    "context_summary": "Listed as a site with wells."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Beer Sheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 439,
+    "context_summary": "Listed as a site with wells."
+  },
+  {
+    "canonical_hebrew": "תל א-סעידיה (ירדן)",
+    "canonical_english": "Tell es-Sa'idiyeh (Jordan)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 439,
+    "context_summary": "Listed as a site in Jordan with a water system descending to a spring."
+  },
+  {
+    "canonical_hebrew": "שילה",
+    "canonical_english": "Shiloh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 439,
+    "context_summary": "Listed as a site with cisterns."
+  },
+  {
+    "canonical_hebrew": "הר אפרים",
+    "canonical_english": "Mount Ephraim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 439,
+    "context_summary": "Listed as a region where cisterns were found at 'Ai and Raddana."
+  },
+  {
+    "canonical_hebrew": "העי",
+    "canonical_english": "Ai",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "'Ai"
+    ],
+    "site_type": "Settlement",
+    "page_number": 439,
+    "context_summary": "Listed as a site with cisterns in Mount Ephraim."
+  },
+  {
+    "canonical_hebrew": "רדנה",
+    "canonical_english": "Raddana",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 439,
+    "context_summary": "Listed as a site with cisterns in Mount Ephraim."
+  },
+  {
+    "canonical_hebrew": "הרי בנימין",
+    "canonical_english": "Hill Country of Benjamin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 439,
+    "context_summary": "Listed as a region for a cisterns survey."
+  },
+  {
+    "canonical_hebrew": "הנגב המערבי",
+    "canonical_english": "Western Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 440,
+    "context_summary": "Listed as a region for a survey."
+  },
+  {
+    "canonical_hebrew": "העי",
+    "canonical_english": "Ai",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "'Ai"
+    ],
+    "site_type": "Settlement",
+    "page_number": 440,
+    "context_summary": "Listed as a site related to surface runoff."
+  },
+  {
+    "canonical_hebrew": "תל ערד",
+    "canonical_english": "Tel Arad",
+    "hebrew_aliases": [
+      "ערד"
+    ],
+    "english_aliases": [
+      "'Arad"
+    ],
+    "site_type": "Tell",
+    "page_number": 440,
+    "context_summary": "Listed as a site related to surface runoff."
+  },
+  {
+    "canonical_hebrew": "ג'אווה (ירדן)",
+    "canonical_english": "Jawa (Jordan)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 440,
+    "context_summary": "Listed as a site in Jordan related to surface runoff."
+  },
+  {
+    "canonical_hebrew": "בקעת עובדה",
+    "canonical_english": "Uvda Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "'Uvda Valley"
+    ],
+    "site_type": "Valley",
+    "page_number": 440,
+    "context_summary": "Listed as a valley related to surface runoff."
+  },
+  {
+    "canonical_hebrew": "מערב השומרון",
+    "canonical_english": "Western Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 440,
+    "context_summary": "Listed as a region where cisterns cut in chalk are found."
+  },
+  {
+    "canonical_hebrew": "מזר",
+    "canonical_english": "Mezer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 440,
+    "context_summary": "Listed as a site with cisterns."
+  },
+  {
+    "canonical_hebrew": "תל דלית",
+    "canonical_english": "Tel Dalit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 440,
+    "context_summary": "Listed as a site with cisterns."
+  },
+  {
+    "canonical_hebrew": "בית ירח",
+    "canonical_english": "Bet Yeraḥ",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 440,
+    "context_summary": "Listed as a miscellaneous site."
+  },
+  {
+    "canonical_hebrew": "תל כברי",
+    "canonical_english": "Tel Kabri",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 440,
+    "context_summary": "Listed as a site with natural springs within the city walls."
+  },
+  {
+    "canonical_hebrew": "תל דן",
+    "canonical_english": "Tel Dan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 440,
+    "context_summary": "Listed as a site with natural springs within the city walls."
+  },
+  {
+    "canonical_hebrew": "יריחו",
+    "canonical_english": "Jericho",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 440,
+    "context_summary": "Listed as a site with natural springs within the city walls."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 440,
+    "context_summary": "Listed as a site with natural springs within the city walls."
+  },
+  {
+    "canonical_hebrew": "קטנה (סוריה)",
+    "canonical_english": "Qatna (Syria)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 440,
+    "context_summary": "Listed as a site in Syria with natural springs within the city walls."
+  },
+  {
+    "canonical_hebrew": "תל גריסה",
+    "canonical_english": "Tel Gerisa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 440,
+    "context_summary": "Listed as a site with water systems queried to the water table."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 440,
+    "context_summary": "Listed as a site with water systems queried to the water table."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 440,
+    "context_summary": "Listed as a site where depressions hint to the presence of a water system."
+  },
+  {
+    "canonical_hebrew": "תל מגידו",
+    "canonical_english": "Tel Megiddo",
+    "hebrew_aliases": [
+      "מגידו"
+    ],
+    "english_aliases": [
+      "Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 440,
+    "context_summary": "Listed as a site where depressions hint to the presence of a water system."
+  },
+  {
+    "canonical_hebrew": "תל נאמי",
+    "canonical_english": "Tel Nami",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 440,
+    "context_summary": "Listed as a site with wells."
+  },
+  {
+    "canonical_hebrew": "לכיש",
+    "canonical_english": "Lachish",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 440,
+    "context_summary": "Listed as a site with wells."
+  },
+  {
+    "canonical_hebrew": "הרור",
+    "canonical_english": "Haror",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 440,
+    "context_summary": "Listed as a site with wells."
+  },
+  {
+    "canonical_hebrew": "אבלה (סוריה)",
+    "canonical_english": "Ebla (Syria)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 440,
+    "context_summary": "Listed as a site in Syria with wells."
+  },
+  {
+    "canonical_hebrew": "בוסרה (סוריה)",
+    "canonical_english": "Busra (Syria)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 440,
+    "context_summary": "Listed as a site in Syria with wells."
+  },
+  {
+    "canonical_hebrew": "ארץ גרו",
+    "canonical_english": "Garu Land",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 440,
+    "context_summary": "Listed as a land mentioned in the Sinuhe Scroll, possibly referring to the Golan or Hauran, with wells."
+  },
+  {
+    "canonical_hebrew": "הגולן",
+    "canonical_english": "Golan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 440,
+    "context_summary": "Listed as a possible location for Garu Land."
+  },
+  {
+    "canonical_hebrew": "החורן",
+    "canonical_english": "Hauran",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 440,
+    "context_summary": "Listed as a possible location for Garu Land."
+  },
+  {
+    "canonical_hebrew": "הרי בנימין",
+    "canonical_english": "Hill Country of Benjamin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 440,
+    "context_summary": "Listed as a region for a survey."
+  },
+  {
+    "canonical_hebrew": "הרי מנשה",
+    "canonical_english": "Manasseh Hill Country",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 440,
+    "context_summary": "Listed as a region for a survey, including the Shechem Syncline and Eastern Valleys."
+  },
+  {
+    "canonical_hebrew": "קער שכם",
+    "canonical_english": "Shechem Syncline",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 440,
+    "context_summary": "Listed as a sub-region of the Manasseh Hill Country for a survey."
+  },
+  {
+    "canonical_hebrew": "העמקים המזרחיים",
+    "canonical_english": "Eastern Valleys",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 440,
+    "context_summary": "Listed as a sub-region of the Manasseh Hill Country for a survey."
+  },
+  {
+    "canonical_hebrew": "אורים",
+    "canonical_english": "Urim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 440,
+    "context_summary": "Listed as a site for a map survey."
+  }
+]

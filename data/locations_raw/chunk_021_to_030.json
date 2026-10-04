@@ -1,0 +1,484 @@
+[
+  {
+    "canonical_hebrew": "נחל הבשור",
+    "canonical_english": "Nahal Besor",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Besor Wadi"
+    ],
+    "site_type": "Valley",
+    "page_number": 21,
+    "context_summary": "נחל הבשור מוזכר כדוגמה לנחל שעל שני צדדיו נבנו יישובים רבים."
+  },
+  {
+    "canonical_hebrew": "א-ריינה",
+    "canonical_english": "Ar-Rayna",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Ar-Reina"
+    ],
+    "site_type": "Settlement",
+    "page_number": 21,
+    "context_summary": "באזור א-ריינה, בקרבת ציפורי, יש מקום הקרוי אל-בצה ובו מי תהום גבוהים בחורף."
+  },
+  {
+    "canonical_hebrew": "ציפורי",
+    "canonical_english": "Tzippori",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Sepphoris"
+    ],
+    "site_type": "Settlement",
+    "page_number": 21,
+    "context_summary": "ציפורי מוזכרת כיישוב שבקרבתו נמצא אזור א-ריינה עם מי תהום גבוהים."
+  },
+  {
+    "canonical_hebrew": "אל-בצה",
+    "canonical_english": "Al-Batza",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 21,
+    "context_summary": "אל-בצה הוא מקום באזור א-ריינה שבו ישנם בחורף מי תהום גבוהים העולים אל פני השטח."
+  },
+  {
+    "canonical_hebrew": "כפר מנחם",
+    "canonical_english": "Kfar Menahem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 21,
+    "context_summary": "באזור כפר מנחם קיימים מספר נחלים קטנים בהם קיימת עלייה של מפלס מי התהום בחורף."
+  },
+  {
+    "canonical_hebrew": "תל גריסה",
+    "canonical_english": "Tel Gerisa",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tell Gerisa"
+    ],
+    "site_type": "Tell",
+    "page_number": 23,
+    "context_summary": "בבאר בתל גריסה נחשפו מדרגות היורדות מטה, מה שהעיד על מפעל מים מורכב."
+  },
+  {
+    "canonical_hebrew": "ארמניה",
+    "canonical_english": "Armenia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 23,
+    "context_summary": "הקנאוואט הראשונים ששימשו לאספקת מים, זמנם 1000 לפנה\"ס בקירוב, תחילה בארמניה ואחר-כך בפרס."
+  },
+  {
+    "canonical_hebrew": "פרס",
+    "canonical_english": "Persia",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Iran"
+    ],
+    "site_type": "Region",
+    "page_number": 23,
+    "context_summary": "בפרס חצבו מערכת מים של קאנאט במאה השביעית לפנה\"ס לבירת מדי, אקבאטאנה."
+  },
+  {
+    "canonical_hebrew": "אקבאטאנה",
+    "canonical_english": "Ecbatana",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 24,
+    "context_summary": "אקבאטאנה, בירת מדי, קיבלה מערכת מים של קאנאט במאה השביעית לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "פרספוליס",
+    "canonical_english": "Persepolis",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 24,
+    "context_summary": "העיר פרספוליס, שהוקמה על-ידי דריוש הראשון, קיבלה את כל מימיה מקנאוואט."
+  },
+  {
+    "canonical_hebrew": "הרי יהודה",
+    "canonical_english": "Judean Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Judean Hills"
+    ],
+    "site_type": "Mountain",
+    "page_number": 24,
+    "context_summary": "מעיינות חתומים ידועים מהרי יהודה בעיקר מתקופת הבית השני."
+  },
+  {
+    "canonical_hebrew": "הר אפרים",
+    "canonical_english": "Mount Ephraim",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Ephraim Mountains"
+    ],
+    "site_type": "Mountain",
+    "page_number": 24,
+    "context_summary": "נביעות ידועות בהר אפרים ממחקרו של זרטל."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Negev Mountains"
+    ],
+    "site_type": "Mountain",
+    "page_number": 24,
+    "context_summary": "בורות פתוחים נחפרו בהר הנגב אל תוך שכבת החוואר הרך והאטום."
+  },
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Hazor",
+    "hebrew_aliases": [
+      "תל חצור"
+    ],
+    "english_aliases": [
+      "Tel Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 25,
+    "context_summary": "בור המים הגדול מתקופת הברונזה המאוחרת בחצור יכונה מאגר מים."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [
+      "תל ערד"
+    ],
+    "english_aliases": [
+      "Tel Arad"
+    ],
+    "site_type": "Settlement",
+    "page_number": 25,
+    "context_summary": "בריכות אגירה נמצאו בערד, בעי ובג'ווה שבעבר הירדן."
+  },
+  {
+    "canonical_hebrew": "עי",
+    "canonical_english": "Ai",
+    "hebrew_aliases": [
+      "תל עי"
+    ],
+    "english_aliases": [
+      "Et-Tell"
+    ],
+    "site_type": "Tell",
+    "page_number": 25,
+    "context_summary": "בריכות אגירה נמצאו בערד, בעי ובג'ווה שבעבר הירדן."
+  },
+  {
+    "canonical_hebrew": "ג'ווה",
+    "canonical_english": "Jawa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 25,
+    "context_summary": "בריכות אגירה נמצאו בערד, בעי ובג'ווה שבעבר הירדן."
+  },
+  {
+    "canonical_hebrew": "עבר הירדן",
+    "canonical_english": "Transjordan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 25,
+    "context_summary": "ג'ווה ממוקמת בעבר הירדן, שם נמצאו בריכות אגירה."
+  },
+  {
+    "canonical_hebrew": "נקבת חזקיהו",
+    "canonical_english": "Hezekiah's Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Siloam Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 26,
+    "context_summary": "נקבה נחצבה רק מצד אחד כאשר מקור המים נמצא בקצה שלה, כמו בנקבת חזקיהו."
+  },
+  {
+    "canonical_hebrew": "עילם",
+    "canonical_english": "Elam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 26,
+    "context_summary": "אובל אוליי הוא שם של נהר או תעלה במדינת עילם, בקרבת שושן."
+  },
+  {
+    "canonical_hebrew": "שושן",
+    "canonical_english": "Susa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 26,
+    "context_summary": "שושן מוזכרת כעיר בקרבתה נמצא נהר או תעלה בשם אובל אוליי בעילם."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Palestine",
+      "Holy Land"
+    ],
+    "site_type": "Region",
+    "page_number": 27,
+    "context_summary": "בתת-פרק 1.1 נסקר האקלים בארץ ישראל כיום, ובהמשך נדון שינויי אקלים בתקופות המחקר."
+  },
+  {
+    "canonical_hebrew": "נחל סער",
+    "canonical_english": "Nahal Sa'ar",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Sa'ar Stream"
+    ],
+    "site_type": "Valley",
+    "page_number": 27,
+    "context_summary": "בשנה שחונה ביותר (תשנ\"ט), בנחל סער בגולן לא היו מים כלל."
+  },
+  {
+    "canonical_hebrew": "גולן",
+    "canonical_english": "Golan",
+    "hebrew_aliases": [
+      "רמת הגולן"
+    ],
+    "english_aliases": [
+      "Golan Heights"
+    ],
+    "site_type": "Region",
+    "page_number": 27,
+    "context_summary": "נחל סער בגולן מוזכר כדוגמה לנחל שהתייבש בשנה שחונה."
+  },
+  {
+    "canonical_hebrew": "נתיב הגדוד",
+    "canonical_english": "Netiv HaGdud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 27,
+    "context_summary": "באתר נתיב הגדוד נמצא כי בתקופה הניאוליתית הקדם-קרמית שרר אקלים לח יותר ובסמוך היה אגם מים מתוקים."
+  },
+  {
+    "canonical_hebrew": "סליביה IX",
+    "canonical_english": "Salibiya IX",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 27,
+    "context_summary": "במחקר פלינולוגי באתר סליביה IX הובחן שלב מפותח של עצים סביב 6000 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "ימת הלשון",
+    "canonical_english": "Lisan Lake",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 27,
+    "context_summary": "ירידת המפלס של ימת הלשון הותירה מספר אגמים רדודים ומתוקים בשולי בקעת הירדן."
+  },
+  {
+    "canonical_hebrew": "בקעת הירדן",
+    "canonical_english": "Jordan Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 27,
+    "context_summary": "ירידת מפלס ימת הלשון הותירה אגמים רדודים בשולי בקעת הירדן."
+  },
+  {
+    "canonical_hebrew": "אגם סליביה",
+    "canonical_english": "Salibiya Lake",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 27,
+    "context_summary": "לצד אגם סליביה, אחד מהאגמים שנותרו מימת הלשון, נוסדו יישובים בניאולית הקדם-קרמי."
+  },
+  {
+    "canonical_hebrew": "ים המלח",
+    "canonical_english": "Dead Sea",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 28,
+    "context_summary": "בתקופה הניאוליתית הקדם-קרמית ב' היה מפלס ים המלח גבוה, ולכן לא התפתחו מערות בהר סדום."
+  },
+  {
+    "canonical_hebrew": "הר סדום",
+    "canonical_english": "Mount Sodom",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 28,
+    "context_summary": "במחקרו של פרומקין במערות הר סדום נבדקו מפלסי ים המלח בתקופות שונות."
+  },
+  {
+    "canonical_hebrew": "מערת נחל קנה",
+    "canonical_english": "Nahal Qanah Cave",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Wadi Qanah Cave"
+    ],
+    "site_type": "Cave",
+    "page_number": 28,
+    "context_summary": "במערת נחל קנה נבדקו איזוטופים במשקע נטיפים על כלי בזלת מהתקופה הכלקוליתית."
+  },
+  {
+    "canonical_hebrew": "אגן הדרומי של ים המלח",
+    "canonical_english": "Southern Basin of the Dead Sea",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 28,
+    "context_summary": "שכבת חרסית למינרית ירקרקה המופיעה בכל האגן הדרומי של ים המלח מעידה על אקלים לח."
+  },
+  {
+    "canonical_hebrew": "נגב",
+    "canonical_english": "Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 29,
+    "context_summary": "תפוצת היישוב בנגב של תקופת הברונזה הקדומה ב' קשורה ככל הנראה לאקלים לח."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [
+      "תל ערד"
+    ],
+    "english_aliases": [
+      "Tel Arad"
+    ],
+    "site_type": "Settlement",
+    "page_number": 29,
+    "context_summary": "נטישת ערד יוחסה בין השאר לשינוי אקלימי ולהתייבשות הנגב."
+  },
+  {
+    "canonical_hebrew": "הר מנשה",
+    "canonical_english": "Mount Manasseh",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Manasseh Mountains"
+    ],
+    "site_type": "Mountain",
+    "page_number": 29,
+    "context_summary": "בסקר שערך זרטל בהר מנשה נמצא כי תפוצת היישובים בתקופות הכלקוליתית והברונזה הקדומה א' הייתה בזיקה ברורה למקורות מים."
+  },
+  {
+    "canonical_hebrew": "נחל בזק",
+    "canonical_english": "Nahal Bezeq",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Bezeq Stream"
+    ],
+    "site_type": "Valley",
+    "page_number": 29,
+    "context_summary": "נמצאו יישובים מהתקופה הכלקוליתית בנחל בזק, אחד משני נחלי אכזב."
+  },
+  {
+    "canonical_hebrew": "נחל פאו",
+    "canonical_english": "Nahal Fa'u",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Fa'u Stream"
+    ],
+    "site_type": "Valley",
+    "page_number": 29,
+    "context_summary": "נמצאו יישובים מתקופת הברונזה הקדומה א' בנחל פאו (ממזרח לראס גידר)."
+  },
+  {
+    "canonical_hebrew": "ראס גידר",
+    "canonical_english": "Ras Gidir",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 29,
+    "context_summary": "נחל פאו ממוקם ממזרח לראס גידר."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Be'er Sheva",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Beersheba"
+    ],
+    "site_type": "Settlement",
+    "page_number": 29,
+    "context_summary": "בבאר שבע, המרוחקת כ-40 ק\"מ ממערב לערד, נרשמו שש שנות בצורת רצופות."
+  },
+  {
+    "canonical_hebrew": "קרית גת",
+    "canonical_english": "Kiryat Gat",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 29,
+    "context_summary": "בשנים גשומות נודד קו הגשם מאזור קרית גת 40 ק\"מ דרומה."
+  },
+  {
+    "canonical_hebrew": "מזרח הים התיכון",
+    "canonical_english": "Eastern Mediterranean",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 29,
+    "context_summary": "מחקרים בתחומים שונים במזרח הים התיכון ובצפון אפריקה מצביעים על תקופה לחה יותר."
+  },
+  {
+    "canonical_hebrew": "צפון אפריקה",
+    "canonical_english": "North Africa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 29,
+    "context_summary": "מחקרים בתחומים שונים במזרח הים התיכון ובצפון אפריקה מצביעים על תקופה לחה יותר."
+  },
+  {
+    "canonical_hebrew": "מדבר יהודה",
+    "canonical_english": "Judean Desert",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 30,
+    "context_summary": "בתקופה הכלקוליתית נוסדו יישובים רבים במדבר יהודה ובבקעת באר שבע."
+  },
+  {
+    "canonical_hebrew": "בקעת באר שבע",
+    "canonical_english": "Be'er Sheva Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Beersheba Valley"
+    ],
+    "site_type": "Valley",
+    "page_number": 30,
+    "context_summary": "בתקופה הכלקוליתית נוסדו יישובים רבים במדבר יהודה ובבקעת באר שבע."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Negev Mountains"
+    ],
+    "site_type": "Mountain",
+    "page_number": 30,
+    "context_summary": "בתקופת הברונזה הקדומה היה ריכוז גדול של יישובים בהר הנגב ובסיני."
+  },
+  {
+    "canonical_hebrew": "סיני",
+    "canonical_english": "Sinai",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Sinai Peninsula"
+    ],
+    "site_type": "Region",
+    "page_number": 30,
+    "context_summary": "בתקופת הברונזה הקדומה היה ריכוז גדול של יישובים בהר הנגב ובסיני."
+  }
+]

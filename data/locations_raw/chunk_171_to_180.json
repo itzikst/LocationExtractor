@@ -1,0 +1,856 @@
+[
+  {
+    "canonical_hebrew": "אתר הרועה",
+    "canonical_english": "Ha-Ro'eh Site",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 171,
+    "context_summary": "Mentioned as a settlement with a direct link to pools, where the ratio of volume to basin size is 14 cubic meters per dunam."
+  },
+  {
+    "canonical_hebrew": "מצודת נחל אלה",
+    "canonical_english": "Nahal Elah Fortress",
+    "hebrew_aliases": [
+      "מצורת נחל אלה"
+    ],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 171,
+    "context_summary": "Mentioned as a fortress with a direct link to pools, and listed in a table as having 2 open cisterns from Iron Age II."
+  },
+  {
+    "canonical_hebrew": "מצודת נחל סרפד מזרח",
+    "canonical_english": "Nahal Sarfad East Fortress",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 171,
+    "context_summary": "Mentioned as a fortress with a direct link to pools, implying seasonal use of water installations."
+  },
+  {
+    "canonical_hebrew": "מצודת נחל סרפד מערב",
+    "canonical_english": "Nahal Sarfad West Fortress",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 171,
+    "context_summary": "Mentioned as a fortress with a direct link to pools, implying seasonal use of water installations."
+  },
+  {
+    "canonical_hebrew": "מרשה",
+    "canonical_english": "Maresha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 171,
+    "context_summary": "Mentioned in the context of Hellenistic mud plaster used to seal cracks in cisterns."
+  },
+  {
+    "canonical_hebrew": "ציוושטפה",
+    "canonical_english": "Ziwiye Fortress",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 171,
+    "context_summary": "Mentioned as an Urartian fortress where mud plaster was used in cisterns."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 171,
+    "context_summary": "The region where approximately 100 open cisterns and 40 hewn/closed cisterns from Iron Age II are known."
+  },
+  {
+    "canonical_hebrew": "שדה בוקר",
+    "canonical_english": "Sde Boker",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 171,
+    "context_summary": "An area where 50 cisterns were discovered, part of the Negev Highlands."
+  },
+  {
+    "canonical_hebrew": "רמת עבדת",
+    "canonical_english": "Avdat Plateau",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 171,
+    "context_summary": "An area where 50 cisterns were discovered, part of the Negev Highlands."
+  },
+  {
+    "canonical_hebrew": "מישור הרוח",
+    "canonical_english": "Mishor HaRuach (Plain of the Wind)",
+    "hebrew_aliases": [
+      "מישור הרוחות"
+    ],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 171,
+    "context_summary": "An area where 50 cisterns were discovered, and 40 cisterns are located between it and Borot Lutz; also listed in a table as having 1 (or 2) hewn cisterns."
+  },
+  {
+    "canonical_hebrew": "בורות לוץ",
+    "canonical_english": "Borot Lutz",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 171,
+    "context_summary": "An area where 40 cisterns were discovered between it and Mishor HaRuach."
+  },
+  {
+    "canonical_hebrew": "רמת מטרד",
+    "canonical_english": "Ramat Matred",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 171,
+    "context_summary": "An area where 10 cisterns were discovered, part of the Negev Highlands."
+  },
+  {
+    "canonical_hebrew": "רמת ברנע",
+    "canonical_english": "Ramat Barnea",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 171,
+    "context_summary": "An area where 10 cisterns were discovered, part of the Negev Highlands."
+  },
+  {
+    "canonical_hebrew": "חורבת רחבה",
+    "canonical_english": "Horvat Rahba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 171,
+    "context_summary": "Listed in a table as having 1 open cistern from Iron Age II."
+  },
+  {
+    "canonical_hebrew": "מצד נחל בוקר",
+    "canonical_english": "Metzad Nahal Boker",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 171,
+    "context_summary": "Listed in a table as having 2 open cisterns from Iron Age II."
+  },
+  {
+    "canonical_hebrew": "חורבת רמת בוקר",
+    "canonical_english": "Horvat Ramat Boker",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 171,
+    "context_summary": "Listed in a table as having 1 open cistern from Iron Age II."
+  },
+  {
+    "canonical_hebrew": "חורבת חלוקים",
+    "canonical_english": "Horvat Halukim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 171,
+    "context_summary": "Listed in a table as having 2 open cisterns from Iron Age II."
+  },
+  {
+    "canonical_hebrew": "מצד נחל צנע",
+    "canonical_english": "Metzad Nahal Tzana",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 171,
+    "context_summary": "Listed in a table as having 4 open cisterns from Iron Age II; also mentioned as a site near which hewn cisterns are found."
+  },
+  {
+    "canonical_hebrew": "מצודת נחל יתר",
+    "canonical_english": "Nahal Yeter Fortress",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 171,
+    "context_summary": "Mentioned as a site near which hewn cisterns are found, dating to Iron Age II."
+  },
+  {
+    "canonical_hebrew": "מצד סרפד",
+    "canonical_english": "Metzad Sarfad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 171,
+    "context_summary": "Listed in a table as having 1 open cistern from Iron Age II."
+  },
+  {
+    "canonical_hebrew": "מצודת חתירה",
+    "canonical_english": "Hatira Fortress",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 171,
+    "context_summary": "Listed in a table as having 1 hewn cistern from Iron Age II."
+  },
+  {
+    "canonical_hebrew": "חורבת משורה",
+    "canonical_english": "Horvat Meshura",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 171,
+    "context_summary": "Listed in a table as having 3 hewn cisterns from Iron Age II."
+  },
+  {
+    "canonical_hebrew": "חורבת רתמה",
+    "canonical_english": "Horvat Retama",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 171,
+    "context_summary": "Listed in a table as having 1 hewn cistern from Iron Age II."
+  },
+  {
+    "canonical_hebrew": "מצד הר רביב",
+    "canonical_english": "Metzad Har Raviv",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 171,
+    "context_summary": "Listed in a table as having 1 hewn cistern from Iron Age II."
+  },
+  {
+    "canonical_hebrew": "מצורת נחל עקרב",
+    "canonical_english": "Metzurat Nahal Akrab",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 171,
+    "context_summary": "Listed in a table as having 1 hewn cistern from Iron Age II."
+  },
+  {
+    "canonical_hebrew": "מגדל נחל סרפד",
+    "canonical_english": "Migdal Nahal Sarfad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 171,
+    "context_summary": "Listed in a table of Iron Age II sites with cisterns, but no specific count is provided."
+  },
+  {
+    "canonical_hebrew": "בור חמת",
+    "canonical_english": "Bor Hamat",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 171,
+    "context_summary": "Listed in a table of Iron Age II sites with cisterns, but no specific count is provided."
+  },
+  {
+    "canonical_hebrew": "מצודת הר חמת",
+    "canonical_english": "Har Hamat Fortress",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 171,
+    "context_summary": "Listed in a table of Iron Age II sites with cisterns, but no specific count is provided."
+  },
+  {
+    "canonical_hebrew": "אום אל ביארה",
+    "canonical_english": "Umm al-Biyara",
+    "hebrew_aliases": [
+      "אם הבורות"
+    ],
+    "english_aliases": [
+      "Mother of Cisterns"
+    ],
+    "site_type": "Settlement",
+    "page_number": 171,
+    "context_summary": "An Edomite settlement in Petra, Jordan, located on a cliff, named 'Mother of Cisterns' due to its eight water cisterns."
+  },
+  {
+    "canonical_hebrew": "פטרה",
+    "canonical_english": "Petra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 171,
+    "context_summary": "Umm al-Biyara is an Edomite settlement located within Petra, Jordan."
+  },
+  {
+    "canonical_hebrew": "ירדן",
+    "canonical_english": "Jordan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 171,
+    "context_summary": "The country where the Edomite settlement of Umm al-Biyara in Petra is located."
+  },
+  {
+    "canonical_hebrew": "סלע",
+    "canonical_english": "Sela",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 171,
+    "context_summary": "The biblical Sela, which Umm al-Biyara was proposed to be identified with, but this identification is rejected due to dating."
+  },
+  {
+    "canonical_hebrew": "מפת מצפה רמון דרום-מערב",
+    "canonical_english": "Mitzpe Ramon Southwest Map",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 172,
+    "context_summary": "A survey area where permanent structures were found near water cisterns, while temporary structures were distant from water sources."
+  },
+  {
+    "canonical_hebrew": "ירוחם",
+    "canonical_english": "Yeruham",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 172,
+    "context_summary": "Mentioned as part of the Sde Boker-Yeruham area, where settlements are close to a permanent water source."
+  },
+  {
+    "canonical_hebrew": "ג'ית",
+    "canonical_english": "Jit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 172,
+    "context_summary": "A village located about 10 km southwest of Nablus, where an ancient pool called 'Al-Ein' is found."
+  },
+  {
+    "canonical_hebrew": "שכם",
+    "canonical_english": "Nablus",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 172,
+    "context_summary": "The city southwest of which the village of Jit is located."
+  },
+  {
+    "canonical_hebrew": "אל-עין",
+    "canonical_english": "Al-Ein (The Spring)",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "The Spring"
+    ],
+    "site_type": "Pool",
+    "page_number": 172,
+    "context_summary": "An ancient pool carved into the rock in the village of Jit, known by locals as 'The Spring'."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 173,
+    "context_summary": "The ancient pool in Jit is compared to the pool in Gibeon due to similarities in circular shape, spring tunnel, and dimensions."
+  },
+  {
+    "canonical_hebrew": "פרס",
+    "canonical_english": "Persia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 173,
+    "context_summary": "Qanawats were crucial for Persia's economy, comparable to the Nile in Egypt or the Euphrates and Tigris in Mesopotamia; Qanawats spread to Persia from Armenia."
+  },
+  {
+    "canonical_hebrew": "נילוס",
+    "canonical_english": "Nile",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 173,
+    "context_summary": "The importance of Qanawats in Persia is compared to the Nile in Egypt."
+  },
+  {
+    "canonical_hebrew": "מצרים",
+    "canonical_english": "Egypt",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 173,
+    "context_summary": "The importance of Qanawats in Persia is compared to the Nile in Egypt; Darius I brought Qanawats to Egypt, from where they spread to North Africa."
+  },
+  {
+    "canonical_hebrew": "פרת",
+    "canonical_english": "Euphrates",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 173,
+    "context_summary": "The importance of Qanawats in Persia is compared to the Euphrates and Tigris in Mesopotamia; its average flow in Iraq is used for comparison with Qanawat output."
+  },
+  {
+    "canonical_hebrew": "חידקל",
+    "canonical_english": "Tigris",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 173,
+    "context_summary": "The importance of Qanawats in Persia is compared to the Euphrates and Tigris in Mesopotamia."
+  },
+  {
+    "canonical_hebrew": "מסופוטמיה",
+    "canonical_english": "Mesopotamia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 173,
+    "context_summary": "The importance of Qanawats in Persia is compared to the Euphrates and Tigris in Mesopotamia."
+  },
+  {
+    "canonical_hebrew": "ארמניה",
+    "canonical_english": "Armenia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 173,
+    "context_summary": "Believed to be the origin of Qanawats, one of the oldest mining regions in the Middle East, with the first systems dating to around 1000 BCE."
+  },
+  {
+    "canonical_hebrew": "אשור",
+    "canonical_english": "Assyria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 173,
+    "context_summary": "Sargon II brought Qanawats to Assyria."
+  },
+  {
+    "canonical_hebrew": "ארצות ערביות",
+    "canonical_english": "Arab Lands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 173,
+    "context_summary": "Adopted the Qanawat method starting around 600 BCE."
+  },
+  {
+    "canonical_hebrew": "צפון אפריקה",
+    "canonical_english": "North Africa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 173,
+    "context_summary": "Qanawats spread to North Africa from Egypt."
+  },
+  {
+    "canonical_hebrew": "סיציליה",
+    "canonical_english": "Sicily",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 173,
+    "context_summary": "Qanawats spread to Sicily from Egypt."
+  },
+  {
+    "canonical_hebrew": "ספרד",
+    "canonical_english": "Spain",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 173,
+    "context_summary": "Qanawats spread to Spain from Egypt."
+  },
+  {
+    "canonical_hebrew": "העולם החדש",
+    "canonical_english": "New World",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 173,
+    "context_summary": "Qanawats spread to the New World, specifically Central and South America."
+  },
+  {
+    "canonical_hebrew": "מרכז אמריקה",
+    "canonical_english": "Central America",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 173,
+    "context_summary": "Qanawats spread to Central America."
+  },
+  {
+    "canonical_hebrew": "דרום אמריקה",
+    "canonical_english": "South America",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 173,
+    "context_summary": "Qanawats spread to South America."
+  },
+  {
+    "canonical_hebrew": "צפון הודו",
+    "canonical_english": "North India",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 173,
+    "context_summary": "Qanawats exist in large numbers in North India since 300 BCE."
+  },
+  {
+    "canonical_hebrew": "סין",
+    "canonical_english": "China",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 173,
+    "context_summary": "Qanawats exist in large numbers in China since 300 BCE."
+  },
+  {
+    "canonical_hebrew": "עיראק",
+    "canonical_english": "Iraq",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 173,
+    "context_summary": "The average flow of the Euphrates in Iraq is used to compare with the total flow of active Qanawats."
+  },
+  {
+    "canonical_hebrew": "תושפה",
+    "canonical_english": "Tushpa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 174,
+    "context_summary": "Chosen by Sarduri I around 830 BCE to be the capital of Urartu; an aqueduct was built to supply it with water from distant sources."
+  },
+  {
+    "canonical_hebrew": "אוררטו",
+    "canonical_english": "Urartu",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 174,
+    "context_summary": "A kingdom between Lakes Van, Sevan, and Urmia, known for its hydro-technological installations and sophisticated water systems."
+  },
+  {
+    "canonical_hebrew": "אגם ואן",
+    "canonical_english": "Lake Van",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Lake",
+    "page_number": 174,
+    "context_summary": "One of the lakes defining the Urartu region; its water is undrinkable due to high sodium carbonate content."
+  },
+  {
+    "canonical_hebrew": "אגם סואן",
+    "canonical_english": "Lake Sevan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Lake",
+    "page_number": 174,
+    "context_summary": "One of the lakes defining the Urartu region."
+  },
+  {
+    "canonical_hebrew": "אגם אורמיה",
+    "canonical_english": "Lake Urmia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Lake",
+    "page_number": 174,
+    "context_summary": "One of the lakes defining the Urartu region."
+  },
+  {
+    "canonical_hebrew": "מזרח אנטוליה",
+    "canonical_english": "Eastern Anatolia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 174,
+    "context_summary": "A region where many dams and artificial lakes were discovered, mostly used for irrigation."
+  },
+  {
+    "canonical_hebrew": "נהר אנגיל",
+    "canonical_english": "Engil River",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 174,
+    "context_summary": "A spring in its valley, 5 km from Tushpa, was utilized by Urartian engineers to supply water to the capital."
+  },
+  {
+    "canonical_hebrew": "אגם קסיס",
+    "canonical_english": "Kesis Goli (Lake Kesis)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Lake",
+    "page_number": 174,
+    "context_summary": "A natural reservoir that, along with the Engil River spring, provided the desired water sources for Tushpa."
+  },
+  {
+    "canonical_hebrew": "אנגוסנר",
+    "canonical_english": "Engusner (stream)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 174,
+    "context_summary": "One of two streams flowing into Lake Van, which does not carry water all year."
+  },
+  {
+    "canonical_hebrew": "קורובאש",
+    "canonical_english": "Kurubas (stream)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 174,
+    "context_summary": "One of two streams flowing into Lake Van, which does not carry water all year."
+  },
+  {
+    "canonical_hebrew": "תעלת מנואה",
+    "canonical_english": "Menua's Canal",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 174,
+    "context_summary": "An aqueduct built by King Menua, diverting water from the Engil River to Tushpa, mentioned in 14 inscriptions."
+  },
+  {
+    "canonical_hebrew": "ואן קלה",
+    "canonical_english": "Van Kale",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 175,
+    "context_summary": "The aqueduct reaches the valley of Van Kale and irrigates the gardens and fields of Van city, as it did for Tushpa."
+  },
+  {
+    "canonical_hebrew": "עיר ואן",
+    "canonical_english": "Van City",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 175,
+    "context_summary": "The aqueduct irrigates the gardens and fields of Van city, continuing its function from ancient Tushpa."
+  },
+  {
+    "canonical_hebrew": "אולחו",
+    "canonical_english": "Ulhu",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 175,
+    "context_summary": "A city near Lake Urmia (Armenia) where Sargon II destroyed an irrigation system of Qanawats, praising its engineering."
+  },
+  {
+    "canonical_hebrew": "אגם אורמיה",
+    "canonical_english": "Lake Urmia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Lake",
+    "page_number": 175,
+    "context_summary": "Ulhu is located near Lake Urmia, in what is now Armenia."
+  },
+  {
+    "canonical_hebrew": "רמת ארמניה",
+    "canonical_english": "Armenian Plateau",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 175,
+    "context_summary": "Sargon II's victory inscription on the Armenian plateau is the oldest evidence of Qanat in Urartu."
+  },
+  {
+    "canonical_hebrew": "טופראק קלה",
+    "canonical_english": "Toprakkale",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 175,
+    "context_summary": "Became the capital of Urartu around 700 BCE, replacing Van Kale, with water supplied from Lake Rusa."
+  },
+  {
+    "canonical_hebrew": "אגם רוסה",
+    "canonical_english": "Lake Rusa",
+    "hebrew_aliases": [
+      "אגם קסיס"
+    ],
+    "english_aliases": [
+      "Lake Kesis"
+    ],
+    "site_type": "Lake",
+    "page_number": 175,
+    "context_summary": "The flat basin of Lake Kesis was transformed into an artificial lake named Lake Rusa by building dams, supplying water to Rusahinili."
+  },
+  {
+    "canonical_hebrew": "רוסהינילי",
+    "canonical_english": "Rusahinili",
+    "hebrew_aliases": [
+      "העיר של רוסה"
+    ],
+    "english_aliases": [
+      "City of Rusa"
+    ],
+    "site_type": "Settlement",
+    "page_number": 175,
+    "context_summary": "The city of Rusa, to which water was flowed from Lake Rusa, making the surrounding land fertile for orchards and gardens."
+  },
+  {
+    "canonical_hebrew": "נהר אליאני",
+    "canonical_english": "Eliani River",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 175,
+    "context_summary": "Its waters, which flowed towards Tushpa, were diverted to Rusahinili as an additional water source."
+  },
+  {
+    "canonical_hebrew": "נהר אנגוסנר",
+    "canonical_english": "Engusner River",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 176,
+    "context_summary": "Water flows from the northern dam of Lake Rusa to the valley of the Engusner River."
+  },
+  {
+    "canonical_hebrew": "אגם סיהקה",
+    "canonical_english": "Lake Sihke",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Lake",
+    "page_number": 176,
+    "context_summary": "Water flows from the Engusner valley to Lake Sihke, and from there to the gardens of Rusahinili; it served to regulate the strong flow from Lake Rusa."
+  },
+  {
+    "canonical_hebrew": "נהר דוני",
+    "canonical_english": "Doni River",
+    "hebrew_aliases": [
+      "קורובאס"
+    ],
+    "english_aliases": [
+      "Kurubas"
+    ],
+    "site_type": "River",
+    "page_number": 176,
+    "context_summary": "Waters from the southern dam of Lake Rusa were diverted to the Doni River (today Kurubas) to reach the Tushpa-Rusahinili valley."
+  },
+  {
+    "canonical_hebrew": "מישור ואן",
+    "canonical_english": "Van Plain",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 176,
+    "context_summary": "Two dams in the upper part of the Doni River are still used for irrigation in the Van Plain."
+  },
+  {
+    "canonical_hebrew": "מידאס סיטי",
+    "canonical_english": "Midas City",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 176,
+    "context_summary": "Capital of Phrygia, located 140 km west of Ankara, a fortified city with tunnels and staircases leading to water sources."
+  },
+  {
+    "canonical_hebrew": "פריגיה",
+    "canonical_english": "Phrygia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 176,
+    "context_summary": "Midas City was one of the central cities in Phrygia in the 6th century BCE."
+  },
+  {
+    "canonical_hebrew": "אנקרה",
+    "canonical_english": "Ankara",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 176,
+    "context_summary": "Midas City is located approximately 140 km west of Ankara."
+  },
+  {
+    "canonical_hebrew": "נמרוד",
+    "canonical_english": "Nimrud",
+    "hebrew_aliases": [
+      "כלח"
+    ],
+    "english_aliases": [
+      "Kalhu"
+    ],
+    "site_type": "Settlement",
+    "page_number": 176,
+    "context_summary": "Three wells were discovered in the Northwest Palace of Ashurnasirpal II in Nimrud, an Assyrian city."
+  },
+  {
+    "canonical_hebrew": "ממלכת אשור",
+    "canonical_english": "Kingdom of Assyria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 176,
+    "context_summary": "Nimrud was a city in the Kingdom of Assyria, where King Ashurnasirpal II's palace was located."
+  },
+  {
+    "canonical_hebrew": "נהר הזב הגדול",
+    "canonical_english": "Great Zab River",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 177,
+    "context_summary": "An aqueduct to Nimrud started as a channel carved along the bank of the Great Zab River, and also received water from it via the Negub Tunnel."
+  },
+  {
+    "canonical_hebrew": "מנהרת נגוב",
+    "canonical_english": "Negub Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 177,
+    "context_summary": "A tunnel carved through a ridge, used to supply water from the Great Zab River to the aqueduct leading to Nimrud, with inscriptions referring to repairs by Esarhaddon."
+  },
+  {
+    "canonical_hebrew": "קוואיר",
+    "canonical_english": "Quwair",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 177,
+    "context_summary": "A modern village opposite the western bank of the Great Zab River, near the Negub Tunnel."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של אירביל",
+    "canonical_english": "Erbil Water System",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 177,
+    "context_summary": "Similar dams to those found in the Negub Tunnel were also found at the entrance to the Erbil water system tunnel."
+  },
+  {
+    "canonical_hebrew": "בוויאן",
+    "canonical_english": "Bavian",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 177,
+    "context_summary": "Similar dams were found at Bavian at the beginning of the canal leading to Nineveh."
+  },
+  {
+    "canonical_hebrew": "נינוה",
+    "canonical_english": "Nineveh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 177,
+    "context_summary": "Sennacherib made Nineveh his capital and built extensive water systems to supply it and its surroundings."
+  },
+  {
+    "canonical_hebrew": "נהר חזיר",
+    "canonical_english": "Khazir River",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 177,
+    "context_summary": "A later stage of the aqueduct to Nimrud extended north and brought water from the Khazir River, a tributary of the Great Zab."
+  }
+]

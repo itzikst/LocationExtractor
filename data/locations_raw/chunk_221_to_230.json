@@ -1,0 +1,1695 @@
+[
+  {
+    "canonical_hebrew": "תל נאמי",
+    "canonical_english": "Tel Nami",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 221,
+    "context_summary": "המעגן מתקופת הברונזה בתל נאמי."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 221,
+    "context_summary": "הגלגלת כאמצעי עזר לשאיבת מים במפעלי המים של תקופת הברזל. הקונגרס הארכיאולוגי ה-6 בישראל, תקצירי הרצאות. ירושלים."
+  },
+  {
+    "canonical_hebrew": "שעלבים",
+    "canonical_english": "Sha'albim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 221,
+    "context_summary": "בהט, ד. הס, א. תשמ\"ב. שעלבים. חייא עייז :29."
+  },
+  {
+    "canonical_hebrew": "הר הבית",
+    "canonical_english": "Temple Mount",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 221,
+    "context_summary": "תעלת מים חשמונאית ליד הר הבית."
+  },
+  {
+    "canonical_hebrew": "מנהרות הכותל המערבי",
+    "canonical_english": "Western Wall Tunnels",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 221,
+    "context_summary": "בהט, ד. תשנ\"ג. מנהרות הכותל המערבי. קדמוניות כייו (102-101):48-38."
+  },
+  {
+    "canonical_hebrew": "יהודה ושומרון",
+    "canonical_english": "Judea and Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 221,
+    "context_summary": "מקורות המים וניצולם ביהודה ושומרון."
+  },
+  {
+    "canonical_hebrew": "תל דן",
+    "canonical_english": "Tel Dan",
+    "hebrew_aliases": [
+      "דן"
+    ],
+    "english_aliases": [
+      "Dan"
+    ],
+    "site_type": "Tell",
+    "page_number": 221,
+    "context_summary": "בירן, א. 1992. דן – 25 שנות חפירות בתל דן. תל אביב."
+  },
+  {
+    "canonical_hebrew": "ערוער (ביהודה)",
+    "canonical_english": "Aroer (in Judah)",
+    "hebrew_aliases": [
+      "ערוער"
+    ],
+    "english_aliases": [
+      "Aroer"
+    ],
+    "site_type": "Settlement",
+    "page_number": 221,
+    "context_summary": "בירן, א. 1992ב. ערוער (ביהודה). אחלייא 1276-1272:4."
+  },
+  {
+    "canonical_hebrew": "תל עירא",
+    "canonical_english": "Tel Ira",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 221,
+    "context_summary": "תל עירא - עיר מצורה מימי מלכי יהודה."
+  },
+  {
+    "canonical_hebrew": "חורבת עוזה",
+    "canonical_english": "Horvat Uza",
+    "hebrew_aliases": [
+      "עוזה, חורבת"
+    ],
+    "english_aliases": [
+      "Uza, Horvat"
+    ],
+    "site_type": "Fortress",
+    "page_number": 221,
+    "context_summary": "חורבת עוזה - מצודת גבול בנגב המזרחי."
+  },
+  {
+    "canonical_hebrew": "הנגב המזרחי",
+    "canonical_english": "Eastern Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 221,
+    "context_summary": "חורבת עוזה - מצודת גבול בנגב המזרחי."
+  },
+  {
+    "canonical_hebrew": "חורבת רדום",
+    "canonical_english": "Horvat Radum",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 221,
+    "context_summary": "חורבת רדום - מצודת גבול קטנה בנגב המזרחי."
+  },
+  {
+    "canonical_hebrew": "פיר וורן",
+    "canonical_english": "Warren's Shaft",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 221,
+    "context_summary": "האמנם \"פיר וורן\" מפעל מים מימי היבוסים ?"
+  },
+  {
+    "canonical_hebrew": "תל יקנעם",
+    "canonical_english": "Tel Yoqne'am",
+    "hebrew_aliases": [
+      "יקנעם"
+    ],
+    "english_aliases": [
+      "Yoqne'am"
+    ],
+    "site_type": "Tell",
+    "page_number": 221,
+    "context_summary": "מחקר אזורי בתל יקנעם וסביבתו."
+  },
+  {
+    "canonical_hebrew": "ארץ-ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 221,
+    "context_summary": "מבוא לארכיאולוגיה של ארץ-ישראל בתקופת המקרא."
+  },
+  {
+    "canonical_hebrew": "אבלה",
+    "canonical_english": "Ebla",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 221,
+    "context_summary": "אבלה – תעלומה ארכיאולוגית."
+  },
+  {
+    "canonical_hebrew": "עין התנין",
+    "canonical_english": "Ein Tanninim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 222,
+    "context_summary": "ברסלבי, י. תשל\"א. עין התנין. ארץ ישראל י\"א (ספר שזר). ירושלים: 90-93."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 222,
+    "context_summary": "ירושלים כעיר ראשה."
+  },
+  {
+    "canonical_hebrew": "ארץ-ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 222,
+    "context_summary": "ארץ-ישראל בשחר ההיסטוריה: תקופת הברונזה הקדומה ותקופת הברונזה הביניימית."
+  },
+  {
+    "canonical_hebrew": "תל דלית",
+    "canonical_english": "Tel Dalit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 222,
+    "context_summary": "עיר מתקופת הברונזה הקדומה בתל דלית שבהדום הר בית אל."
+  },
+  {
+    "canonical_hebrew": "הר בית אל",
+    "canonical_english": "Mount Bethel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 222,
+    "context_summary": "עיר מתקופת הברונזה הקדומה בתל דלית שבהדום הר בית אל."
+  },
+  {
+    "canonical_hebrew": "הרי השומרון",
+    "canonical_english": "Samarian Hills",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 222,
+    "context_summary": "אגירת מים להתפתחות יישובי קבע בהרי השומרון בתקופה הכנענית."
+  },
+  {
+    "canonical_hebrew": "ארץ אפרים ומנשה",
+    "canonical_english": "Land of Ephraim and Manasseh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 222,
+    "context_summary": "הסקר בארץ אפרים ומנשה."
+  },
+  {
+    "canonical_hebrew": "מערב השומרון",
+    "canonical_english": "Western Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 222,
+    "context_summary": "יישובים מהתקופה הכלקוליתית במערב השומרון."
+  },
+  {
+    "canonical_hebrew": "נתיב הגדוד",
+    "canonical_english": "Netiv HaGdud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 222,
+    "context_summary": "גופר, א. 1992. נתיב הגדוד. אע\"א 3: 1091-1093."
+  },
+  {
+    "canonical_hebrew": "הר חריף",
+    "canonical_english": "Har Harif",
+    "hebrew_aliases": [
+      "חריף, הר"
+    ],
+    "english_aliases": [
+      "Harif, Mount"
+    ],
+    "site_type": "Mountain",
+    "page_number": 222,
+    "context_summary": "גורינג-מוריס, נ. 1992. חריף, הר. אע\"א 2: 548-550."
+  },
+  {
+    "canonical_hebrew": "תל גמה",
+    "canonical_english": "Tel Gamma",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 222,
+    "context_summary": "פיטרי בתל גמה – שיטות חפירה וגישה מדעית."
+  },
+  {
+    "canonical_hebrew": "אורים",
+    "canonical_english": "Urim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 222,
+    "context_summary": "סקר ארכיאולוגי של ישראל, מפת אורים (125)."
+  },
+  {
+    "canonical_hebrew": "חורבת ראש זית",
+    "canonical_english": "Horvat Rosh Zayit",
+    "hebrew_aliases": [
+      "ראש זית, חורבת"
+    ],
+    "english_aliases": [
+      "Rosh Zayit, Horvat"
+    ],
+    "site_type": "Settlement",
+    "page_number": 222,
+    "context_summary": "גל, צ. 1992. ראש זית, חורבת. אע\"א 4: 1437-1439."
+  },
+  {
+    "canonical_hebrew": "עתלית-ים",
+    "canonical_english": "Atlit-Yam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 222,
+    "context_summary": "גלילי, א. שרביט, י. ושפרוני, ע. תשנ\"ט. עתלית-ים – 1993-1994. ח\"א 109: 41-43."
+  },
+  {
+    "canonical_hebrew": "ירדן",
+    "canonical_english": "Jordan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 222,
+    "context_summary": "גליק, נ. 1960. מעבר לירדן. תל-אביב."
+  },
+  {
+    "canonical_hebrew": "בית ירח",
+    "canonical_english": "Beth Yerah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 222,
+    "context_summary": "גצוב, נ. 1995. חפירות בית ירח. הקונגרס הארכיאולוגי העשרים ואחת בישראל, תקצירי הרצאות. ירושלים: 5-6."
+  },
+  {
+    "canonical_hebrew": "חשבון",
+    "canonical_english": "Heshbon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 222,
+    "context_summary": "גרטי, ל.ט. 1992. חשבון. אע\"א 2: 552-556."
+  },
+  {
+    "canonical_hebrew": "מצרים העתיקה",
+    "canonical_english": "Ancient Egypt",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 222,
+    "context_summary": "גרינץ, י.מ. תשל\"ה. מספרות מצרים העתיקה. ירושלים."
+  },
+  {
+    "canonical_hebrew": "השומרון",
+    "canonical_english": "Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 222,
+    "context_summary": "גרן, ו. 1874. תיאור ארץ ישראל, כרך רביעי: השומרון (א), תרגום: בן-עמרם, ח. ירושלים."
+  },
+  {
+    "canonical_hebrew": "לכיש",
+    "canonical_english": "Lachish",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 222,
+    "context_summary": "דגן, י. תשנ\"ב. סקר ארכיאולוגי של ישראל מפת לכיש (98). ירושלים."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 223,
+    "context_summary": "מפעלי מים בירושלים בימי בית ראשון."
+  },
+  {
+    "canonical_hebrew": "קומראן",
+    "canonical_english": "Qumran",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 223,
+    "context_summary": "דה-וו, ר. 1992. קומראן. אחליא 1364-1357:4."
+  },
+  {
+    "canonical_hebrew": "תל ירמות",
+    "canonical_english": "Tel Yarmut",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 223,
+    "context_summary": "החפירות בתל ירמות."
+  },
+  {
+    "canonical_hebrew": "חורבת בתר",
+    "canonical_english": "Horvat Batar",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 223,
+    "context_summary": "החפירות בחורבת בתר (באר שבע)."
+  },
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Beer Sheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 223,
+    "context_summary": "החפירות בחורבת בתר (באר שבע)."
+  },
+  {
+    "canonical_hebrew": "מפת ירושלים",
+    "canonical_english": "Jerusalem Map",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 223,
+    "context_summary": "הסקר בחלקה המזרחי של מפת ירושלים."
+  },
+  {
+    "canonical_hebrew": "ארץ בנימין",
+    "canonical_english": "Land of Benjamin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 223,
+    "context_summary": "סקר ארכיאולוגי בארץ בנימין חלק חמישי."
+  },
+  {
+    "canonical_hebrew": "מערב השומרון",
+    "canonical_english": "Western Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 223,
+    "context_summary": "התפרוסת היישובית של מערב השומרון בימי בית שני המשנה והתלמוד והתקופה הביזנטית."
+  },
+  {
+    "canonical_hebrew": "הר חמרן - דרום-מערב",
+    "canonical_english": "Har Hamran - Southwest",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 223,
+    "context_summary": "סקר ארכיאולוגי של ישראל, מפת הר חמרן - דרום-מערב (198)."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 223,
+    "context_summary": "היישובים מהתקופה הישראלית בהר הנגב לאור סקר החירום בנגב בשנים 1987-1979."
+  },
+  {
+    "canonical_hebrew": "מצפה רמון דרום מערב",
+    "canonical_english": "Mitzpe Ramon Southwest",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 223,
+    "context_summary": "סקר ארכיאולוגי של ישראל, מפת מצפה רמון דרום מערב (200)."
+  },
+  {
+    "canonical_hebrew": "תל באר-שבע",
+    "canonical_english": "Tel Beer-Sheba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 223,
+    "context_summary": "מפעל המים בתל באר-שבע."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 223,
+    "context_summary": "ערד - תל המצודות בערד."
+  },
+  {
+    "canonical_hebrew": "הר מנשה",
+    "canonical_english": "Mount Manasseh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 223,
+    "context_summary": "ההתנחלות הישראלית בהר מנשה."
+  },
+  {
+    "canonical_hebrew": "קער שכם",
+    "canonical_english": "Qar Shechem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 224,
+    "context_summary": "זרטל, א. 1992. סקר הר מנשה אי - קער שכם. חיפה."
+  },
+  {
+    "canonical_hebrew": "מגידו",
+    "canonical_english": "Megiddo",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 224,
+    "context_summary": "מגידו של מלכי ישראל."
+  },
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 224,
+    "context_summary": "עונת החפירות החמישית בחצור (1969-1968)."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 224,
+    "context_summary": "קריה נאמנה - מצור ירושלים 1948."
+  },
+  {
+    "canonical_hebrew": "שומרון",
+    "canonical_english": "Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 224,
+    "context_summary": "פעילות בתחום הארכיאולוגיה בשומרון."
+  },
+  {
+    "canonical_hebrew": "מעיין אלישע",
+    "canonical_english": "Elisha Spring",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 224,
+    "context_summary": "מעיין אלישע. בתוך: שילר, א. (עורך). יריחו וסביבתה (קרדום 30-28)."
+  },
+  {
+    "canonical_hebrew": "יריחו",
+    "canonical_english": "Jericho",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 224,
+    "context_summary": "מעיין אלישע. בתוך: שילר, א. (עורך). יריחו וסביבתה (קרדום 30-28)."
+  },
+  {
+    "canonical_hebrew": "קדש ברנע",
+    "canonical_english": "Kadesh Barnea",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 224,
+    "context_summary": "החפירות בקדש ברנע בשנים 1982-1976."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 224,
+    "context_summary": "היישובים בהר הנגב לאור השרידים הארכיאולוגיים והמקורות הכתובים באלף הדי-אי לפנהיים."
+  },
+  {
+    "canonical_hebrew": "חורבת טוב",
+    "canonical_english": "Horvat Tov",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 224,
+    "context_summary": "כהן, ר. 1988. חורבת טוב. חייא צייב:57-56."
+  },
+  {
+    "canonical_hebrew": "יהודה",
+    "canonical_english": "Judah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 224,
+    "context_summary": "הסקר בארץ יהודה."
+  },
+  {
+    "canonical_hebrew": "נחל איילון",
+    "canonical_english": "Ayalon Stream",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 224,
+    "context_summary": "נגר עילי מגשם והשקייה, בקעת ערד. דו\"ח מחקר. תחנת מחקר של ארוזיית קרקע. ירושלים."
+  },
+  {
+    "canonical_hebrew": "הרי יהודה",
+    "canonical_english": "Judean Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 224,
+    "context_summary": "הגיאולוגיה של המרגלות הצפון מערביים של הרי יהודה, אזור עבוד, קיביא, רנתיס."
+  },
+  {
+    "canonical_hebrew": "עבוד",
+    "canonical_english": "Abud",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 224,
+    "context_summary": "הגיאולוגיה של המרגלות הצפון מערביים של הרי יהודה, אזור עבוד, קיביא, רנתיס."
+  },
+  {
+    "canonical_hebrew": "קיביא",
+    "canonical_english": "Qibya",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 224,
+    "context_summary": "הגיאולוגיה של המרגלות הצפון מערביים של הרי יהודה, אזור עבוד, קיביא, רנתיס."
+  },
+  {
+    "canonical_hebrew": "רנתיס",
+    "canonical_english": "Rantis",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 224,
+    "context_summary": "הגיאולוגיה של המרגלות הצפון מערביים של הרי יהודה, אזור עבוד, קיביא, רנתיס."
+  },
+  {
+    "canonical_hebrew": "הר נפחה",
+    "canonical_english": "Har Nafha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 224,
+    "context_summary": "סקר ארכיאולוגי של ישראל מפת הר נפחה (196)."
+  },
+  {
+    "canonical_hebrew": "קומראן",
+    "canonical_english": "Qumran",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 224,
+    "context_summary": "הארכיאולוגיה של קומראן."
+  },
+  {
+    "canonical_hebrew": "ארץ בנימין",
+    "canonical_english": "Land of Benjamin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 224,
+    "context_summary": "סקר ארכיאולוגי בארץ בנימין."
+  },
+  {
+    "canonical_hebrew": "בקעת ערד",
+    "canonical_english": "Arad Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 224,
+    "context_summary": "נגר עילי מגשם והשקייה, בקעת ערד."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 225,
+    "context_summary": "בורות מים בהר הנגב."
+  },
+  {
+    "canonical_hebrew": "כנען",
+    "canonical_english": "Canaan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 225,
+    "context_summary": "כנען וישראל, מחקרים היסטוריים."
+  },
+  {
+    "canonical_hebrew": "ארץ-ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 225,
+    "context_summary": "ערים וגלילות בארץ-ישראל, מחקרים טופוגראפיים-היסטוריים."
+  },
+  {
+    "canonical_hebrew": "חירבת אבו-תוין",
+    "canonical_english": "Khirbet Abu Tuwein",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 225,
+    "context_summary": "החפירות בחירבת אבו-תוין ומערך המצודות הישראליות בהרי יהודה."
+  },
+  {
+    "canonical_hebrew": "הרי יהודה",
+    "canonical_english": "Judean Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 225,
+    "context_summary": "החפירות בחירבת אבו-תוין ומערך המצודות הישראליות בהרי יהודה."
+  },
+  {
+    "canonical_hebrew": "חירבת מרג'מה",
+    "canonical_english": "Khirbet Marjameh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 225,
+    "context_summary": "ביצורי העיר הישראלית בחירבת מרג'מה שבהרי אפרים."
+  },
+  {
+    "canonical_hebrew": "הרי אפרים",
+    "canonical_english": "Ephraim Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 225,
+    "context_summary": "ביצורי העיר הישראלית בחירבת מרג'מה שבהרי אפרים."
+  },
+  {
+    "canonical_hebrew": "בית שאן",
+    "canonical_english": "Bet She'an",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 225,
+    "context_summary": "מזר, ע. 1992. בית שאן. אחלייא 209-198:1."
+  },
+  {
+    "canonical_hebrew": "מכמש",
+    "canonical_english": "Michmash",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 225,
+    "context_summary": "דרך הגבולי שבין מכמש ליריחו וחפירות חורבת שילחה."
+  },
+  {
+    "canonical_hebrew": "יריחו",
+    "canonical_english": "Jericho",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 225,
+    "context_summary": "דרך הגבולי שבין מכמש ליריחו וחפירות חורבת שילחה."
+  },
+  {
+    "canonical_hebrew": "חורבת שילחה",
+    "canonical_english": "Khirbet Shilḥa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 225,
+    "context_summary": "דרך הגבולי שבין מכמש ליריחו וחפירות חורבת שילחה."
+  },
+  {
+    "canonical_hebrew": "תל א-סעידיה",
+    "canonical_english": "Tell es-Sa'idiyeh",
+    "hebrew_aliases": [
+      "סעידיה, תל א-"
+    ],
+    "english_aliases": [
+      "Sa'idiyeh, Tell es-"
+    ],
+    "site_type": "Tell",
+    "page_number": 225,
+    "context_summary": "מערכת 1992. סעידיה, תל א-. אחליים 1128-1124:3."
+  },
+  {
+    "canonical_hebrew": "הר הנגב המרכזי",
+    "canonical_english": "Central Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 225,
+    "context_summary": "הר הנגב המרכזי ומכתש רמון."
+  },
+  {
+    "canonical_hebrew": "מכתש רמון",
+    "canonical_english": "Makhtesh Ramon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 225,
+    "context_summary": "הר הנגב המרכזי ומכתש רמון."
+  },
+  {
+    "canonical_hebrew": "הר חברון",
+    "canonical_english": "Hebron Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 225,
+    "context_summary": "הר חברון, סקר נוף ומסלולי טיול."
+  },
+  {
+    "canonical_hebrew": "הר בית-אל",
+    "canonical_english": "Mount Bethel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 225,
+    "context_summary": "גורמים בקביעת יישובי הספר בהר בית-אל."
+  },
+  {
+    "canonical_hebrew": "מדבר",
+    "canonical_english": "Desert",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 225,
+    "context_summary": "המים במדבר ומהותן של המצודות מתקופת הברזל בהר-הנגב."
+  },
+  {
+    "canonical_hebrew": "חירבת דיר א-סיד",
+    "canonical_english": "Khirbet Deir es-Sid",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 225,
+    "context_summary": "חפירות בדיקה בחירבת דיר א-סיד (ענתות?)."
+  },
+  {
+    "canonical_hebrew": "ענתות",
+    "canonical_english": "Anatot",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 225,
+    "context_summary": "חפירות בדיקה בחירבת דיר א-סיד (ענתות?)."
+  },
+  {
+    "canonical_hebrew": "מישור החוף של ישראל",
+    "canonical_english": "Coastal Plain of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 225,
+    "context_summary": "חפירת בארות מים בתקופות העתיקות במישור החוף של ישראל."
+  },
+  {
+    "canonical_hebrew": "רבת עמון",
+    "canonical_english": "Rabbath Ammon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 225,
+    "context_summary": "סגל, א. 1992. רבת עמון. אחליא 1449-1444:4."
+  },
+  {
+    "canonical_hebrew": "תל חליף",
+    "canonical_english": "Tel Halif",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 225,
+    "context_summary": "סיגר, ג'. 1988. תל חליף. חייא צייב:59-57."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 226,
+    "context_summary": "תעלות חצובות בקרבת תל חצור: אמת המים הקדומה ביותר בארץ ישראל!"
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 226,
+    "context_summary": "תעלות חצובות בקרבת תל חצור: אמת המים הקדומה ביותר בארץ ישראל!"
+  },
+  {
+    "canonical_hebrew": "ג'ית",
+    "canonical_english": "Jit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 226,
+    "context_summary": "מערכת המים בשטח הבנוי בכפרי הארץ בתקופת המשנה והתלמוד."
+  },
+  {
+    "canonical_hebrew": "הר אפרים",
+    "canonical_english": "Ephraim Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 226,
+    "context_summary": "יצור שמן ויין בהר אפרים בתקופת הברזל."
+  },
+  {
+    "canonical_hebrew": "ערד",
+    "canonical_english": "Arad",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 226,
+    "context_summary": "העיר הכנענית הקדומה של ערד."
+  },
+  {
+    "canonical_hebrew": "נקבת השילוח",
+    "canonical_english": "Siloam Tunnel",
+    "hebrew_aliases": [
+      "כתובת השילוח"
+    ],
+    "english_aliases": [
+      "Siloam Inscription"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 226,
+    "context_summary": "הערה למקומה של כתובת השילוח ולחציבת הנקבה."
+  },
+  {
+    "canonical_hebrew": "קדש ברנע",
+    "canonical_english": "Kadesh Barnea",
+    "hebrew_aliases": [
+      "נווה קדש ברנע"
+    ],
+    "english_aliases": [
+      "Neveh Kadesh Barnea"
+    ],
+    "site_type": "Settlement",
+    "page_number": 226,
+    "context_summary": "שרידי החקלאות הקדומה בנווה קדש ברנע."
+  },
+  {
+    "canonical_hebrew": "יהודה ושומרון",
+    "canonical_english": "Judea and Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 226,
+    "context_summary": "סקר ארכיאולוגי ביהודה ושומרון מפת דיר מר-סבא (109/7)."
+  },
+  {
+    "canonical_hebrew": "דיר מר-סבא",
+    "canonical_english": "Deir Mar Saba",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 226,
+    "context_summary": "סקר ארכיאולוגי ביהודה ושומרון מפת דיר מר-סבא (109/7)."
+  },
+  {
+    "canonical_hebrew": "חי אל-כיכ",
+    "canonical_english": "Hai el-Kik",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 226,
+    "context_summary": "פייג, נ. תשנ\"ו. חי אל-כיכ. חיי\"א ק\"ה:107-105."
+  },
+  {
+    "canonical_hebrew": "רמאלה",
+    "canonical_english": "Ramallah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 226,
+    "context_summary": "סקר דרום מפות רמאלה ואל בירה וצפון מפת עין כרם."
+  },
+  {
+    "canonical_hebrew": "אל בירה",
+    "canonical_english": "Al-Bireh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 226,
+    "context_summary": "סקר דרום מפות רמאלה ואל בירה וצפון מפת עין כרם."
+  },
+  {
+    "canonical_hebrew": "עין כרם",
+    "canonical_english": "Ein Karem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 226,
+    "context_summary": "סקר דרום מפות רמאלה ואל בירה וצפון מפת עין כרם."
+  },
+  {
+    "canonical_hebrew": "ארץ בנימין",
+    "canonical_english": "Land of Benjamin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 226,
+    "context_summary": "סקר ארכיאולוגי בארץ בנימין חלק שלישי."
+  },
+  {
+    "canonical_hebrew": "הר סדום",
+    "canonical_english": "Mount Sodom",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 226,
+    "context_summary": "מערכת הקארסט במחדר המלח של הר סדום."
+  },
+  {
+    "canonical_hebrew": "צפורי",
+    "canonical_english": "Sepphoris",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 226,
+    "context_summary": "אמות המים לצפורי."
+  },
+  {
+    "canonical_hebrew": "כברי",
+    "canonical_english": "Kabri",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 226,
+    "context_summary": "מעיינות כברי וניצולם בעת העתיקה."
+  },
+  {
+    "canonical_hebrew": "חורבת זיכרין",
+    "canonical_english": "Khirbet Zikhrin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 226,
+    "context_summary": "אספקת מים בחורבת זיכרין."
+  },
+  {
+    "canonical_hebrew": "עיטם",
+    "canonical_english": "Eitam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 227,
+    "context_summary": "מערת מאגר המים בעיטם."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 227,
+    "context_summary": "כתובות ירושלים מימי הבית הראשון."
+  },
+  {
+    "canonical_hebrew": "ארץ בנימין",
+    "canonical_english": "Land of Benjamin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 227,
+    "context_summary": "הסקר בארץ בנימין והר אפרים."
+  },
+  {
+    "canonical_hebrew": "הר אפרים",
+    "canonical_english": "Ephraim Mountains",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 227,
+    "context_summary": "הסקר בארץ בנימין והר אפרים."
+  },
+  {
+    "canonical_hebrew": "חירבת רדאנה",
+    "canonical_english": "Khirbet Raddana",
+    "hebrew_aliases": [
+      "רדאנה, חירבת"
+    ],
+    "english_aliases": [
+      "Raddana, Khirbet"
+    ],
+    "site_type": "Settlement",
+    "page_number": 227,
+    "context_summary": "קלוויי, גיא. 1992. רדאנה, חירבת. אחל\"א 1451-1450:4."
+  },
+  {
+    "canonical_hebrew": "כברי",
+    "canonical_english": "Kabri",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 227,
+    "context_summary": "כברי וסביבתה בתקופת הברונזה התיכונה 2."
+  },
+  {
+    "canonical_hebrew": "הגליל המערבי",
+    "canonical_english": "Western Galilee",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 227,
+    "context_summary": "קדמוניות הגליל המערבי."
+  },
+  {
+    "canonical_hebrew": "דן",
+    "canonical_english": "Dan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 227,
+    "context_summary": "דן וכברי - הערה לתכנונן של שתי ערים בתקופת הברונזה התיכונה."
+  },
+  {
+    "canonical_hebrew": "יריחו",
+    "canonical_english": "Jericho",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 227,
+    "context_summary": "חשפנו את יריחו."
+  },
+  {
+    "canonical_hebrew": "אשדוד-ים",
+    "canonical_english": "Ashdod-Yam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 227,
+    "context_summary": "מעוזו של ימני באשדוד-ים."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 227,
+    "context_summary": "ארץ ישראל, גיאוגרפיה של הארץ לאזוריה."
+  },
+  {
+    "canonical_hebrew": "מישע",
+    "canonical_english": "Mesha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 227,
+    "context_summary": "רבין, ח. תשכ\"ג. מישע. א\"מ ד:929-921."
+  },
+  {
+    "canonical_hebrew": "נחל איילון המערבי",
+    "canonical_english": "Western Ayalon Stream Basin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 227,
+    "context_summary": "אקלימו של האגן. בתוך: מרטון, ש. (עורך). אגן נחל איילון המערבי."
+  },
+  {
+    "canonical_hebrew": "יהודה ושומרון",
+    "canonical_english": "Judea and Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 227,
+    "context_summary": "המסלע ביהודה ושומרון וניצולו על-ידי האדם."
+  },
+  {
+    "canonical_hebrew": "מעיין הגיחון",
+    "canonical_english": "Gihon Spring",
+    "hebrew_aliases": [
+      "גיחון"
+    ],
+    "english_aliases": [
+      "Gihon"
+    ],
+    "site_type": "Spring",
+    "page_number": 227,
+    "context_summary": "לולדותיו של מעיין הגיחון בימי הבית השני."
+  },
+  {
+    "canonical_hebrew": "אם אל-ביארה",
+    "canonical_english": "Umm el-Biyara",
+    "hebrew_aliases": [
+      "ביארה, אם אל-"
+    ],
+    "english_aliases": [
+      "Biyara, Umm el-"
+    ],
+    "site_type": "Settlement",
+    "page_number": 227,
+    "context_summary": "רייך, ר. 1992. ביארה, אם אל-. אחל\"א 154-152:1."
+  },
+  {
+    "canonical_hebrew": "עיר דוד",
+    "canonical_english": "City of David",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 227,
+    "context_summary": "מבט מחדש על תעלת העודפים (IVA) ותעלת השילוח (II) לאור החפירות החדשות בעיר דוד."
+  },
+  {
+    "canonical_hebrew": "ג'ית",
+    "canonical_english": "Jit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 227,
+    "context_summary": "הבריכה הגדולה בג'ית."
+  },
+  {
+    "canonical_hebrew": "תעלת העודפים (IVA)",
+    "canonical_english": "Overflow Channel (IVA)",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "IVA Channel"
+    ],
+    "site_type": "Aqueduct",
+    "page_number": 227,
+    "context_summary": "מבט מחדש על תעלת העודפים (IVA) ותעלת השילוח (II) לאור החפירות החדשות בעיר דוד."
+  },
+  {
+    "canonical_hebrew": "תעלת השילוח (II)",
+    "canonical_english": "Siloam Channel (II)",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Siloam Channel"
+    ],
+    "site_type": "Aqueduct",
+    "page_number": 227,
+    "context_summary": "מבט מחדש על תעלת העודפים (IVA) ותעלת השילוח (II) לאור החפירות החדשות בעיר דוד."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 228,
+    "context_summary": "אלבום ציירי ירושלים במאה התשע-עשרה."
+  },
+  {
+    "canonical_hebrew": "עזקה",
+    "canonical_english": "Azekah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 228,
+    "context_summary": "עזקה שביהודה בכתובת אשורית מלכותית."
+  },
+  {
+    "canonical_hebrew": "תל ערד",
+    "canonical_english": "Tel Arad",
+    "hebrew_aliases": [
+      "Arad"
+    ],
+    "english_aliases": [
+      "Arad"
+    ],
+    "site_type": "Tell",
+    "page_number": 228,
+    "context_summary": "Aharoni, Y. 1965. Notes and News: Tel Arad. IEJ 15:249-251."
+  },
+  {
+    "canonical_hebrew": "הנגב",
+    "canonical_english": "Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 228,
+    "context_summary": "The Ancient Desert Agriculture of the Negev."
+  },
+  {
+    "canonical_hebrew": "תל באר שבע",
+    "canonical_english": "Tel Beer-Sheba",
+    "hebrew_aliases": [
+      "Beer-Sheba"
+    ],
+    "english_aliases": [
+      "Beer-Sheba"
+    ],
+    "site_type": "Tell",
+    "page_number": 228,
+    "context_summary": "Excavations at Tel Beer-Sheba 1969-1971 Seasons."
+  },
+  {
+    "canonical_hebrew": "עיר סורית-פלשתית",
+    "canonical_english": "Syro-Palestinian City",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 228,
+    "context_summary": "A Syro-Palestinian(?) City on a Ninth Century B.C. Assyrian Relief."
+  },
+  {
+    "canonical_hebrew": "פלשתינה",
+    "canonical_english": "Palestine",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 228,
+    "context_summary": "The Archaeology of Palestine."
+  },
+  {
+    "canonical_hebrew": "תל בית מירסים",
+    "canonical_english": "Tell Beit Mirsim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 228,
+    "context_summary": "The Excavation of Tell Beit Mirsim 3, The Iron Age."
+  },
+  {
+    "canonical_hebrew": "עמאן",
+    "canonical_english": "Amman",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 228,
+    "context_summary": "The Survey of Roman Monuments of Amman by the Italian Mission in 1930."
+  },
+  {
+    "canonical_hebrew": "המזרח הקדום",
+    "canonical_english": "Ancient Near East",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 228,
+    "context_summary": "The Climate of the Ancient Near East: The Early Third Millennium B.C. in the Northern Negev of Israel."
+  },
+  {
+    "canonical_hebrew": "צפון הנגב של ישראל",
+    "canonical_english": "Northern Negev of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 228,
+    "context_summary": "The Climate of the Ancient Near East: The Early Third Millennium B.C. in the Northern Negev of Israel."
+  },
+  {
+    "canonical_hebrew": "ירושלים הישראלית",
+    "canonical_english": "Israelite Jerusalem",
+    "hebrew_aliases": [
+      "ירושלים"
+    ],
+    "english_aliases": [
+      "Jerusalem"
+    ],
+    "site_type": "Settlement",
+    "page_number": 228,
+    "context_summary": "The Watersupply of Israelite Jerusalem."
+  },
+  {
+    "canonical_hebrew": "ערד הקדומה",
+    "canonical_english": "Early Arad",
+    "hebrew_aliases": [
+      "ערד"
+    ],
+    "english_aliases": [
+      "Arad"
+    ],
+    "site_type": "Settlement",
+    "page_number": 228,
+    "context_summary": "Early Arad - The Chalcolithic Settlement and Early Bronze City vol. I."
+  },
+  {
+    "canonical_hebrew": "בקעת עובדה",
+    "canonical_english": "Uvda Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 229,
+    "context_summary": "Settlement, Agriculture and Paleoclimate in Uvda Valley, Southern Negev Desert, 6th-3rd Millennia B.C."
+  },
+  {
+    "canonical_hebrew": "מדבר הנגב הדרומי",
+    "canonical_english": "Southern Negev Desert",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 229,
+    "context_summary": "Settlement, Agriculture and Paleoclimate in Uvda Valley, Southern Negev Desert, 6th-3rd Millennia B.C."
+  },
+  {
+    "canonical_hebrew": "קוקהובן",
+    "canonical_english": "Kuckhoven",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 229,
+    "context_summary": "The Great Wooden Well of Kuckhoven."
+  },
+  {
+    "canonical_hebrew": "עמאן",
+    "canonical_english": "Amman",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 229,
+    "context_summary": "Scavi ad Amman della Missione Archeologica Italia IV, 1933-4 nums. 4-5."
+  },
+  {
+    "canonical_hebrew": "חורבת עוזה",
+    "canonical_english": "Horvat Uza",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 229,
+    "context_summary": "Horvat Uza, A fortified outpost on the Eastern Negev Border."
+  },
+  {
+    "canonical_hebrew": "גבול הנגב המזרחי",
+    "canonical_english": "Eastern Negev Border",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 229,
+    "context_summary": "Horvat Uza, A fortified outpost on the Eastern Negev Border."
+  },
+  {
+    "canonical_hebrew": "תל עירא",
+    "canonical_english": "Tel Ira",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 229,
+    "context_summary": "Tel Ira – A stronghold in the Biblical Negev."
+  },
+  {
+    "canonical_hebrew": "הנגב המקראי",
+    "canonical_english": "Biblical Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 229,
+    "context_summary": "Tel Ira – A stronghold in the Biblical Negev."
+  },
+  {
+    "canonical_hebrew": "מזרח אנטוליה",
+    "canonical_english": "Eastern Anatolia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 229,
+    "context_summary": "Urartian Dams and Artificial Lakes Recently Discovered in Eastern Anatolia."
+  },
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 229,
+    "context_summary": "Hazor III-IV. An Account of the Third and Forth Seasons of Excavations 1957-8."
+  },
+  {
+    "canonical_hebrew": "אבן אל-ע'אזי",
+    "canonical_english": "Ibn el-Ghazzi",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 229,
+    "context_summary": "A Water Harvesting and Storage System at Ibn el-Ghazzi in Eastern Jordan."
+  },
+  {
+    "canonical_hebrew": "מזרח ירדן",
+    "canonical_english": "Eastern Jordan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 229,
+    "context_summary": "A Water Harvesting and Storage System at Ibn el-Ghazzi in Eastern Jordan."
+  },
+  {
+    "canonical_hebrew": "אזור מזרח הים התיכון",
+    "canonical_english": "East Mediterranean Region",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 229,
+    "context_summary": "Paleoclimatic Modelling of Environmental Changes in the East Mediterranean Region Since the Last Glaciation."
+  },
+  {
+    "canonical_hebrew": "תל דן",
+    "canonical_english": "Tell Dan",
+    "hebrew_aliases": [
+      "דן"
+    ],
+    "english_aliases": [
+      "Dan"
+    ],
+    "site_type": "Tell",
+    "page_number": 229,
+    "context_summary": "Tell Dan, Five Years Later."
+  },
+  {
+    "canonical_hebrew": "ירושלים",
+    "canonical_english": "Jerusalem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 229,
+    "context_summary": "Excavations at Jerusalem 1894-1897."
+  },
+  {
+    "canonical_hebrew": "פרגמון",
+    "canonical_english": "Pergamon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 229,
+    "context_summary": "Die Zisternen von Pergamon im Lichte der Astynomeninschrift."
+  },
+  {
+    "canonical_hebrew": "האקרופוליס האתונאי",
+    "canonical_english": "Athenian Acropolis",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 229,
+    "context_summary": "A Mycenaen Fountain on the Athenian Acropolis."
+  },
+  {
+    "canonical_hebrew": "אתונה",
+    "canonical_english": "Athens",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 229,
+    "context_summary": "The Dorian Invasion: What Happened at Athens?"
+  },
+  {
+    "canonical_hebrew": "דיר אל-מדינה",
+    "canonical_english": "Deir el Médineh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 229,
+    "context_summary": "Rapport sur les Fouilles de Deir el Médineh."
+  },
+  {
+    "canonical_hebrew": "בית שמש",
+    "canonical_english": "Beth-Shemesh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 229,
+    "context_summary": "Beth-Shemesh: Culture Conflict on Judah's Frontier."
+  },
+  {
+    "canonical_hebrew": "גבול יהודה",
+    "canonical_english": "Judah's Frontier",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 229,
+    "context_summary": "Beth-Shemesh: Culture Conflict on Judah's Frontier."
+  },
+  {
+    "canonical_hebrew": "משריפה-קטנה",
+    "canonical_english": "Mishrife-Qatana",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 230,
+    "context_summary": "Le Site Arch'eoloique de Mishrife-Qatana."
+  },
+  {
+    "canonical_hebrew": "ביידא",
+    "canonical_english": "Beidha",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 230,
+    "context_summary": "Excavations at Beidha. 1. The Natufian Encampment at Beidha. Late Pleistocene in the Southern Levant."
+  },
+  {
+    "canonical_hebrew": "דרום הלבנט",
+    "canonical_english": "Southern Levant",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 230,
+    "context_summary": "Late Pleistocene in the Southern Levant."
+  },
+  {
+    "canonical_hebrew": "עי (א-תל)",
+    "canonical_english": "Ai (et-Tell)",
+    "hebrew_aliases": [
+      "עי",
+      "א-תל"
+    ],
+    "english_aliases": [
+      "Ai",
+      "et-Tell"
+    ],
+    "site_type": "Settlement",
+    "page_number": 230,
+    "context_summary": "The 1968-1969 Ai (et-Tell) Excavations."
+  },
+  {
+    "canonical_hebrew": "רדאנה",
+    "canonical_english": "Raddanah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 230,
+    "context_summary": "A Salvage Excavation at Raddanah, in Bireh."
+  },
+  {
+    "canonical_hebrew": "בירד",
+    "canonical_english": "Bireh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 230,
+    "context_summary": "A Salvage Excavation at Raddanah, in Bireh."
+  },
+  {
+    "canonical_hebrew": "עיראק",
+    "canonical_english": "Iraq",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 230,
+    "context_summary": "The Halaf Period in Iraq: Old Site and New."
+  },
+  {
+    "canonical_hebrew": "שילוח",
+    "canonical_english": "Siloam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Aqueduct",
+    "page_number": 230,
+    "context_summary": "Les tombeaux de David et des rois de Juda et le tunnel-aqueduc de Siloe."
+  },
+  {
+    "canonical_hebrew": "בקעת יהודה",
+    "canonical_english": "Judaean Buqe'ah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 230,
+    "context_summary": "Explorations in the Judaean Buqe'ah."
+  },
+  {
+    "canonical_hebrew": "פלשתינה",
+    "canonical_english": "Palestine",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 230,
+    "context_summary": "Toward a Reconstruction of the Climate of Palestine 8000 BC - 0 BC."
+  },
+  {
+    "canonical_hebrew": "מנהרת נגוב",
+    "canonical_english": "Negüb Tunnel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 230,
+    "context_summary": "The Negüb Tunnel."
+  },
+  {
+    "canonical_hebrew": "חצור",
+    "canonical_english": "Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 230,
+    "context_summary": "The Water Systems at Hazor and Gezer."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 230,
+    "context_summary": "The Water Systems at Hazor and Gezer."
+  },
+  {
+    "canonical_hebrew": "עיטם",
+    "canonical_english": "Etam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 230,
+    "context_summary": "Archäologische Bemerkugen zu Etam."
+  },
+  {
+    "canonical_hebrew": "מצר",
+    "canonical_english": "Meser",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 230,
+    "context_summary": "Excavations at Meser, 1956."
+  }
+]

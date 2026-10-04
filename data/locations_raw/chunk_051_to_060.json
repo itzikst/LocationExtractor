@@ -1,0 +1,656 @@
+[
+  {
+    "canonical_hebrew": "כפר סמיר",
+    "canonical_english": "Kfar Samir",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 51,
+    "context_summary": "בכפר סמיר נחשפה באר הבנויה מנדבכי עץ ואבן המשולבים זה בזה, באופן ייחודי לתקופה."
+  },
+  {
+    "canonical_hebrew": "קוכהופן",
+    "canonical_english": "Kuchenhof",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 51,
+    "context_summary": "בקוכהופן שבגרמניה נחשפה באר הבנויה רק ממסגרות עץ, המתוארכת ל-5300 לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "גרמניה",
+    "canonical_english": "Germany",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 51,
+    "context_summary": "בגרמניה (קוכהופן) נחשפה באר עץ עתיקה המשמשת כדוגמה השוואתית."
+  },
+  {
+    "canonical_hebrew": "עירק",
+    "canonical_english": "Iraq",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 51,
+    "context_summary": "בעירק התגלתה באר למרגלות תל, המשמשת כדוגמה למתקני מים בארצות שכנות."
+  },
+  {
+    "canonical_hebrew": "תורכיה",
+    "canonical_english": "Turkey",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 51,
+    "context_summary": "בתורכיה מצויה באר בחצר מקדש בתוך מצודה, הקשורה לפולחן ושימשה גם בימי מצור."
+  },
+  {
+    "canonical_hebrew": "אבו חוף",
+    "canonical_english": "Abu Hof",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 52,
+    "context_summary": "האתר אבו חוף, המצוי בדרום השפלה, נחפר ונמצאה בו באר עגולה בעומק 2.45 מ', המתוארכת לתקופה הכלקוליתית."
+  },
+  {
+    "canonical_hebrew": "השפלה",
+    "canonical_english": "Shephelah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 52,
+    "context_summary": "האתר אבו חוף ממוקם בדרום השפלה, ממערב ללהב."
+  },
+  {
+    "canonical_hebrew": "להב",
+    "canonical_english": "Lahav",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 52,
+    "context_summary": "האתר אבו חוף ממוקם ממערב ליישוב להב."
+  },
+  {
+    "canonical_hebrew": "חורבת בתר",
+    "canonical_english": "Horvat Beter",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Khirbet Beter"
+    ],
+    "site_type": "Settlement",
+    "page_number": 52,
+    "context_summary": "חורבת בתר היא יישוב כלקוליתי בו נתגלתה באר גלילית בקוטר 2 מ' ובעומק 3 מ', שנחפרה בקרקע הלס."
+  },
+  {
+    "canonical_hebrew": "נחל באר שבע",
+    "canonical_english": "Nahal Be'er Sheva",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Be'er Sheva Stream"
+    ],
+    "site_type": "River",
+    "page_number": 52,
+    "context_summary": "הבאר בחורבת בתר נחפרה עד למפלס החלוקים השייך לאפיק הקדום של נחל באר שבע."
+  },
+  {
+    "canonical_hebrew": "טפה גאורה",
+    "canonical_english": "Tepe Gawra",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 53,
+    "context_summary": "בטפה גאורה (עירק) נמצאה באר מתקופת עובייד, בעומק 12-13 מ', סמוך למקדש."
+  },
+  {
+    "canonical_hebrew": "ראגאיג'יל",
+    "canonical_english": "Rajajil",
+    "hebrew_aliases": [
+      "ראג'אג'יל"
+    ],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 53,
+    "context_summary": "ראגאיג'יל הוא אתר בצפון-מערב ערב הסעודית, ולידו נתגלתה באר נטושה."
+  },
+  {
+    "canonical_hebrew": "ערב הסעודית",
+    "canonical_english": "Saudi Arabia",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 53,
+    "context_summary": "ראגאיג'יל הוא אתר בצפון-מערב ערב הסעודית, בשולי ואדי סירחאן."
+  },
+  {
+    "canonical_hebrew": "ואדי סירחאן",
+    "canonical_english": "Wadi Sirhan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 53,
+    "context_summary": "האתר ראגאיג'יל מצוי בשולי השקע של ואדי סירחאן."
+  },
+  {
+    "canonical_hebrew": "סככה",
+    "canonical_english": "Sakaka",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 53,
+    "context_summary": "האתר ראגאיג'יל ממוקם לא הרחק מסככה."
+  },
+  {
+    "canonical_hebrew": "קער שכם",
+    "canonical_english": "Qar Shechem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 53,
+    "context_summary": "בסקרים בקער שכם נמצאו 11 אתרים בסמיכות למעיינות."
+  },
+  {
+    "canonical_hebrew": "מערב השומרון",
+    "canonical_english": "Western Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 53,
+    "context_summary": "במערב השומרון נמצאו 4 אתרים קטנים בסמיכות למעיינות."
+  },
+  {
+    "canonical_hebrew": "נחל בזק",
+    "canonical_english": "Nahal Bezeq",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Bezeq Stream"
+    ],
+    "site_type": "River",
+    "page_number": 53,
+    "context_summary": "בנחל בזק היבש כיום, נמצאה צפיפות רבה של אתרים, המצביעה על זרימתו באלף הרביעי לפנה\"ס."
+  },
+  {
+    "canonical_hebrew": "נחל תרצה",
+    "canonical_english": "Nahal Tirza",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tirza Stream"
+    ],
+    "site_type": "River",
+    "page_number": 53,
+    "context_summary": "לאורך נחל תרצה הזורם כיום, וכן לאורך בקעת הירדן, נמצאה צפיפות גדולה של אתרים."
+  },
+  {
+    "canonical_hebrew": "בקעת הירדן",
+    "canonical_english": "Jordan Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 53,
+    "context_summary": "לאורך בקעת הירדן, וכן לאורך נחל תרצה, נמצאה צפיפות גדולה של אתרים."
+  },
+  {
+    "canonical_hebrew": "ואדי פארה",
+    "canonical_english": "Wadi Fara",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 53,
+    "context_summary": "בוואדי פארה ובוואדי צווניט נמצאו 4 אתרים."
+  },
+  {
+    "canonical_hebrew": "ואדי צווניט",
+    "canonical_english": "Wadi Suwanit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 53,
+    "context_summary": "בוואדי צווניט ובוואדי פארה נמצאו 4 אתרים."
+  },
+  {
+    "canonical_hebrew": "תל לכיש",
+    "canonical_english": "Tel Lachish",
+    "hebrew_aliases": [
+      "לכיש"
+    ],
+    "english_aliases": [
+      "Lachish"
+    ],
+    "site_type": "Tell",
+    "page_number": 53,
+    "context_summary": "בקרבת תל לכיש נמצאו 5 אתרים, רובם שרידי יישובים, ששכנו בקרבת מעיינות."
+  },
+  {
+    "canonical_hebrew": "נחל הבשור",
+    "canonical_english": "Nahal Besor",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Besor Stream"
+    ],
+    "site_type": "River",
+    "page_number": 53,
+    "context_summary": "לאורך נחל הבשור נמצאו 70 אתרי יישוב, בו מצויים מקורות המים הקבועים היחידים בשפלת הנגב."
+  },
+  {
+    "canonical_hebrew": "שפלת הנגב",
+    "canonical_english": "Negev Lowlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 54,
+    "context_summary": "נחל הבשור מכיל את מקורות המים הקבועים היחידים בכל שפלת הנגב."
+  },
+  {
+    "canonical_hebrew": "בקעת באר שבע",
+    "canonical_english": "Be'er Sheva Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 54,
+    "context_summary": "שתי בארות שנמצאו בחפירות בבקעת באר שבע מעידות על אופי מפעלי המים בתקופה זו, וקיים ריכוז גדול של אתרים כלקוליתיים באזור."
+  },
+  {
+    "canonical_hebrew": "בקעות ערד",
+    "canonical_english": "Arad Valleys",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 54,
+    "context_summary": "ריכוז גדול מאד של אתרים כלקוליתיים בבקעות ערד מאפשר להציע שחבל ארץ זה שפע בארות מים."
+  },
+  {
+    "canonical_hebrew": "עין גדי",
+    "canonical_english": "Ein Gedi",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 54,
+    "context_summary": "הקשר של המקדש הכלקוליתי בעין גדי אל המעיינות שבסביבתו מראה על קדושת המים ופולחנם בתקופה זו."
+  },
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 55,
+    "context_summary": "בתקופת הברונזה הקדומה חל מהפך יישובי גדול בארץ ישראל, עם הקמת ערים מבוצרות."
+  },
+  {
+    "canonical_hebrew": "תל אפק",
+    "canonical_english": "Tel Afek",
+    "hebrew_aliases": [
+      "אפק"
+    ],
+    "english_aliases": [
+      "Afek"
+    ],
+    "site_type": "Tell",
+    "page_number": 55,
+    "context_summary": "בתל אפק נחשפו רק 100 מ\"ר משטח העיר שהשתרעה על כ-120 דונם בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "תל ערד",
+    "canonical_english": "Tel Arad",
+    "hebrew_aliases": [
+      "ערד"
+    ],
+    "english_aliases": [
+      "Arad"
+    ],
+    "site_type": "Tell",
+    "page_number": 55,
+    "context_summary": "בתל ערד נחפר שטח נרחב מהעיר מתקופת הברונזה הקדומה, מה שאפשר לחשוף ולהגדיר את מפעל המים שלה."
+  },
+  {
+    "canonical_hebrew": "א-תל",
+    "canonical_english": "et-Tell",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 55,
+    "context_summary": "בא-תל, המזוהה עם העי, מצויה עיר מתקופת הברונזה הקדומה ובה נחשף מפעל מים."
+  },
+  {
+    "canonical_hebrew": "העי",
+    "canonical_english": "Ai",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 55,
+    "context_summary": "בחפירות בהעי נחשף מפעל מים, כנראה תודות לשטח הגדול שנחפר."
+  },
+  {
+    "canonical_hebrew": "בקעת עובדה",
+    "canonical_english": "Uvda Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 55,
+    "context_summary": "בקצות המצוקים ממערב לערבה, 5-4 ק\"מ ממזרח לבקעת עובדה, נתגלו ארבע בארות חצובות."
+  },
+  {
+    "canonical_hebrew": "ערבה",
+    "canonical_english": "Arava",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 55,
+    "context_summary": "בקצות המצוקים שממערב לערבה, נתגלו בארות בבקעת עובדה."
+  },
+  {
+    "canonical_hebrew": "שחרות",
+    "canonical_english": "Shaharon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 55,
+    "context_summary": "באר אחת שהשתמרה היטב בבקעת עובדה, נמצאת כ-100 מ' מקו המצוקים מצפון לשחרות."
+  },
+  {
+    "canonical_hebrew": "חירבת זירקון",
+    "canonical_english": "Khirbet Ziraqun",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 56,
+    "context_summary": "חירבת זירקון היא יישוב מהתקופה הכלקוליתית והברונזה הקדומה בגלעד, ירדן, שהפך לעיר מבוצרת."
+  },
+  {
+    "canonical_hebrew": "גלעד",
+    "canonical_english": "Gilead",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 56,
+    "context_summary": "חירבת זירקון ממוקמת בגלעד שבירדן, כ-13 ק\"מ מצפון-מזרח לאירביד."
+  },
+  {
+    "canonical_hebrew": "ירדן",
+    "canonical_english": "Jordan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 56,
+    "context_summary": "חירבת זירקון ממוקמת בגלעד שבירדן."
+  },
+  {
+    "canonical_hebrew": "אירביד",
+    "canonical_english": "Irbid",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 56,
+    "context_summary": "האתר חירבת זירקון מצוי כ-13 ק\"מ מצפון-מזרח לאירביד."
+  },
+  {
+    "canonical_hebrew": "ואדי שללה",
+    "canonical_english": "Wadi Shallala",
+    "hebrew_aliases": [
+      "ואדי א-שלאלה"
+    ],
+    "english_aliases": [
+      "Wadi ash-Shallala"
+    ],
+    "site_type": "Valley",
+    "page_number": 56,
+    "context_summary": "העיר חירבת זירקון נבנתה מעל המדרון המערבי של ואדי שללה, ואחד הפירים מוביל לקרקעיתו."
+  },
+  {
+    "canonical_hebrew": "מגידו",
+    "canonical_english": "Megiddo",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 56,
+    "context_summary": "בחירבת זירקון נחשפה במת פולחן עגולה הדומה מאד לזו שבמגידו."
+  },
+  {
+    "canonical_hebrew": "הר מנשה",
+    "canonical_english": "Mount Manasseh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 58,
+    "context_summary": "במחקריו של זרטל בהר מנשה, נעשתה הבחנה בין המושגים \"עין\" ו\"נבע\"."
+  },
+  {
+    "canonical_hebrew": "תל אל-מצלה",
+    "canonical_english": "Tel el-Maslah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 58,
+    "context_summary": "תל אל-מצלה הוא דוגמה ליישוב בהר מנשה שהיה לו קשר לנבעים."
+  },
+  {
+    "canonical_hebrew": "תל אל-מוחפר",
+    "canonical_english": "Tel el-Muhfar",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 58,
+    "context_summary": "תל אל-מוחפר הוא דוגמה ליישוב בהר מנשה שהיה לו קשר לנבעים."
+  },
+  {
+    "canonical_hebrew": "תל דותן",
+    "canonical_english": "Tel Dothan",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Dothan"
+    ],
+    "site_type": "Tell",
+    "page_number": 58,
+    "context_summary": "תל דותן הוא דוגמה ליישוב בהר מנשה שהיה לו קשר לנבעים."
+  },
+  {
+    "canonical_hebrew": "אום אל הווא",
+    "canonical_english": "Umm el-Hawa",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 58,
+    "context_summary": "אום אל הווא הוא דוגמה ליישוב בהר מנשה שהיה לו קשר לנבעים."
+  },
+  {
+    "canonical_hebrew": "נחל שכם",
+    "canonical_english": "Nahal Shechem",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Shechem Stream"
+    ],
+    "site_type": "River",
+    "page_number": 58,
+    "context_summary": "קיימת התאמה רבה בין מיקום האתרים ורצועת המים המערבית ונחל שכם בתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "העמקים המזרחיים",
+    "canonical_english": "Eastern Valleys",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 58,
+    "context_summary": "בסקר הר מנשה ב' נסקרו העמקים המזרחיים וספר המדבר."
+  },
+  {
+    "canonical_hebrew": "ספר המדבר",
+    "canonical_english": "Desert Fringes",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 58,
+    "context_summary": "בסקר הר מנשה ב' נסקרו העמקים המזרחיים וספר המדבר."
+  },
+  {
+    "canonical_hebrew": "ואדי פאו",
+    "canonical_english": "Wadi Fau",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 58,
+    "context_summary": "יישובים קטנים לאורך ואדי פאו (ממזרח לראס ג'דיר) מעלים את ההשערה כי הנחל זרם באופן קבוע בתקופה זו."
+  },
+  {
+    "canonical_hebrew": "ראס ג'דיר",
+    "canonical_english": "Ras Jadir",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 58,
+    "context_summary": "ואדי פאו ממוקם ממזרח לראס ג'דיר."
+  },
+  {
+    "canonical_hebrew": "מפת לכיש",
+    "canonical_english": "Lachish Map",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 59,
+    "context_summary": "בסקר מפת לכיש נמצאו 25 אתרים מתקופת הברונזה הקדומה 3-2, שמיקומם נקבע על פי הקרבה למקורות מים באפיקי נחלים."
+  },
+  {
+    "canonical_hebrew": "נחל אדוריים",
+    "canonical_english": "Nahal Adorayim",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Adorayim Stream"
+    ],
+    "site_type": "River",
+    "page_number": 59,
+    "context_summary": "נחל אדוריים הוא אחד הנחלים באזור לכיש שבהם מיקום האתרים נקבע על פי הקרבה למקורות מים."
+  },
+  {
+    "canonical_hebrew": "נחל נעם",
+    "canonical_english": "Nahal Noam",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Noam Stream"
+    ],
+    "site_type": "River",
+    "page_number": 59,
+    "context_summary": "נחל נעם הוא אחד הנחלים באזור לכיש שבהם מיקום האתרים נקבע על פי הקרבה למקורות מים."
+  },
+  {
+    "canonical_hebrew": "נחל לכיש",
+    "canonical_english": "Nahal Lachish",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Lachish Stream"
+    ],
+    "site_type": "River",
+    "page_number": 59,
+    "context_summary": "נחל לכיש הוא אחד הנחלים באזור לכיש שבהם מיקום האתרים נקבע על פי הקרבה למקורות מים."
+  },
+  {
+    "canonical_hebrew": "נחל מרשה",
+    "canonical_english": "Nahal Maresha",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Maresha Stream"
+    ],
+    "site_type": "River",
+    "page_number": 59,
+    "context_summary": "נחל מרשה הוא אחד הנחלים באזור לכיש שבהם מיקום האתרים נקבע על פי הקרבה למקורות מים."
+  },
+  {
+    "canonical_hebrew": "מערב הר הנגב",
+    "canonical_english": "Western Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 59,
+    "context_summary": "בשטח של כ-450 קמ\"ר במערב הר הנגב נסקרו 180 אתרים מתקופת הברונזה הקדומה."
+  },
+  {
+    "canonical_hebrew": "עין קדיס",
+    "canonical_english": "Ein Qadis",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 59,
+    "context_summary": "תפוצת האתרים במערב הר הנגב היא בשלושה ריכוזים עיקריים, אחד מהם הוא עין קדיס."
+  },
+  {
+    "canonical_hebrew": "עין אל גדירת",
+    "canonical_english": "Ein el-Gudeirat",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 59,
+    "context_summary": "תפוצת האתרים במערב הר הנגב היא בשלושה ריכוזים עיקריים, אחד מהם הוא עין אל גדירת."
+  },
+  {
+    "canonical_hebrew": "הר רמון",
+    "canonical_english": "Mount Ramon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 59,
+    "context_summary": "תפוצת האתרים במערב הר הנגב היא בשלושה ריכוזים עיקריים, אחד מהם הוא הר רמון הסמוך לבאר המים שבנחל חורשה עילי."
+  },
+  {
+    "canonical_hebrew": "נחל חורשה עילי",
+    "canonical_english": "Nahal Horasha Illit",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "River",
+    "page_number": 59,
+    "context_summary": "באר מים בנחל חורשה עילי, הסמוך להר רמון, יתכן וראשיתה בעבר הרחוק."
+  },
+  {
+    "canonical_hebrew": "הר הנגב",
+    "canonical_english": "Negev Highlands",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 59,
+    "context_summary": "במרחב שבין ערד להר הנגב מצויים מקורות מים במרחקים של 10-1 ק\"מ זה מזה."
+  },
+  {
+    "canonical_hebrew": "דרום ארץ ישראל",
+    "canonical_english": "Southern Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 59,
+    "context_summary": "מקורות המים והיישובים הגדולים בקרבתם מהווים אישור להשערה על קיום דרך מדרום ארץ ישראל לדרום סיני."
+  },
+  {
+    "canonical_hebrew": "דרום סיני",
+    "canonical_english": "Southern Sinai",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 59,
+    "context_summary": "קיימת השערה על קיום דרך מדרום ארץ ישראל לדרום סיני דרך מערב הר הנגב."
+  },
+  {
+    "canonical_hebrew": "הר שומרון",
+    "canonical_english": "Mount Samaria",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Samaria Highlands"
+    ],
+    "site_type": "Mountain",
+    "page_number": 59,
+    "context_summary": "העי היא עיר מוקפת חומות עבות המצויה בהר שומרון, כ-6 ק\"מ ממזרח לרמאללה."
+  },
+  {
+    "canonical_hebrew": "רמאללה",
+    "canonical_english": "Ramallah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 59,
+    "context_summary": "העי ממוקמת כ-6 ק\"מ ממזרח לרמאללה."
+  },
+  {
+    "canonical_hebrew": "ואדי אל ג'איה",
+    "canonical_english": "Wadi el-Jaiya",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 59,
+    "context_summary": "הבריכה והמעיין הקטן המצוי בואדי אל ג'איה בעי סיפקו מים לתושבי העיר."
+  }
+]

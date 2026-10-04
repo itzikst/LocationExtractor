@@ -1,0 +1,620 @@
+[
+  {
+    "canonical_hebrew": "ארץ ישראל",
+    "canonical_english": "Land of Israel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 121,
+    "context_summary": "הערים בארץ ישראל ושכנותיה התכוננו למצור ממושך, חוזקו ביצוריהן ונבנו מפעלי מים."
+  },
+  {
+    "canonical_hebrew": "יקנעם",
+    "canonical_english": "Yokneam",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 121,
+    "context_summary": "בצד הצפון-מערבי של העיר יקנעם נמצא שקע סגלגל חצוב בסלע, שלדעת בן-תור הוא חלקו העליון של מפעל מים."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 121,
+    "context_summary": "מפעל המים המשוער ביקנעם דומה למפעל המים של חצור, הן במיקום והן באופי."
+  },
+  {
+    "canonical_hebrew": "תל מגידו",
+    "canonical_english": "Tel Megiddo",
+    "hebrew_aliases": [
+      "מגידו"
+    ],
+    "english_aliases": [
+      "Megiddo"
+    ],
+    "site_type": "Tell",
+    "page_number": 121,
+    "context_summary": "מפעל המים של מגידו נחפר ונחקר בשנות ה-30, וידין הציע תיארוך שונה למערכות המים באתר."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - המערה",
+    "canonical_english": "Megiddo Water System - The Cave",
+    "hebrew_aliases": [
+      "המערה"
+    ],
+    "english_aliases": [
+      "The Cave"
+    ],
+    "site_type": "Cave",
+    "page_number": 121,
+    "context_summary": "המערה (1008) והבאר במגידו התפתחו ממעיין למרגלות התל, שהועמק והורחב עם ירידת מפלס המים."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - הבאר",
+    "canonical_english": "Megiddo Water System - The Well",
+    "hebrew_aliases": [
+      "הבאר"
+    ],
+    "english_aliases": [
+      "The Well"
+    ],
+    "site_type": "Well",
+    "page_number": 121,
+    "context_summary": "המעיין המקורי במגידו הפך לבאר, והתושבים העמיקו אותה כדי לרדוף אחרי מפלס המים היורד."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - ה'גלריה'",
+    "canonical_english": "Megiddo Water System - The 'Gallery'",
+    "hebrew_aliases": [
+      "ה'גלריה'"
+    ],
+    "english_aliases": [
+      "The 'Gallery'"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 121,
+    "context_summary": "ה'גלריה' היא חלק ממפעל המים הראשון במגידו, אך אין לה קשר ישיר למערה ולבאר."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - מערה 1008",
+    "canonical_english": "Megiddo Water System - Cave 1008",
+    "hebrew_aliases": [
+      "מערה 1008"
+    ],
+    "english_aliases": [
+      "Cave 1008"
+    ],
+    "site_type": "Cave",
+    "page_number": 122,
+    "context_summary": "המערה הראשית (1008) במגידו מעמיקה במדרגות חצובות כ-14 מ' עד הבאר, וגובהה הרב נוצר הודות לסלע הקרטון הרך."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - באר 1074",
+    "canonical_english": "Megiddo Water System - Well 1074",
+    "hebrew_aliases": [
+      "הבאר (1074)"
+    ],
+    "english_aliases": [
+      "Well 1074"
+    ],
+    "site_type": "Well",
+    "page_number": 122,
+    "context_summary": "מערה 1008 מעמיקה במדרגות חצובות עד לבאר 1074."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - מערה 1010",
+    "canonical_english": "Megiddo Water System - Cave 1010",
+    "hebrew_aliases": [
+      "מערה 1010"
+    ],
+    "english_aliases": [
+      "Cave 1010"
+    ],
+    "site_type": "Cave",
+    "page_number": 122,
+    "context_summary": "המערה שניטשה (1010) במגידו שימשה לצבירת חומר שנוקה מהמערה הראשית, וחלק עליון שלה שימש כ'עמדת השומר'."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - ה'גלריה' 629",
+    "canonical_english": "Megiddo Water System - The 'Gallery' 629",
+    "hebrew_aliases": [
+      "ה'גלריה' (629)"
+    ],
+    "english_aliases": [
+      "The 'Gallery' (629)"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 122,
+    "context_summary": "ה'גלריה' (629) במגידו הייתה מעבר סתרים צר שהוביל מהעיר החוצה מתחת לחומה, כנראה לכיוון פתח מערה 1008."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - חומה 325",
+    "canonical_english": "Megiddo Water System - Wall 325",
+    "hebrew_aliases": [
+      "חומה 325"
+    ],
+    "english_aliases": [
+      "Wall 325"
+    ],
+    "site_type": "Other",
+    "page_number": 122,
+    "context_summary": "ה'גלריה' עוברת מתחת ליסודות של חומת העיר (חומה 325) במגידו, שתוארכה למאה ה-10 לפנה\"מ."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - הקיר החוסם",
+    "canonical_english": "Megiddo Water System - The Blocking Wall",
+    "hebrew_aliases": [
+      "הקיר החוסם"
+    ],
+    "english_aliases": [
+      "The Blocking Wall"
+    ],
+    "site_type": "Other",
+    "page_number": 122,
+    "context_summary": "ה'גלריה' נאטמה בקיר בעובי 4 מ' אשר נבנה בכניסה אליה מיד מתחת לחומה."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - הפיר",
+    "canonical_english": "Megiddo Water System - The Shaft",
+    "hebrew_aliases": [
+      "הפיר"
+    ],
+    "english_aliases": [
+      "The Shaft"
+    ],
+    "site_type": "Well",
+    "page_number": 123,
+    "context_summary": "מפעל המים השני במגידו מורכב מפיר, מנהרה, מקור מים ומערה, כאשר הפיר הוא מרכיב מרכזי."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - המנהרה",
+    "canonical_english": "Megiddo Water System - The Tunnel",
+    "hebrew_aliases": [
+      "המנהרה"
+    ],
+    "english_aliases": [
+      "The Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 123,
+    "context_summary": "המנהרה היא חלק ממפעל המים השני במגידו, שנועד להכניס את המעיין אל העיר באמצעות פיר ומנהרה."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - גרם מדרגות 965",
+    "canonical_english": "Megiddo Water System - Staircase 965",
+    "hebrew_aliases": [
+      "גרם מדרגות ראשון (965)"
+    ],
+    "english_aliases": [
+      "First Staircase (965)"
+    ],
+    "site_type": "Other",
+    "page_number": 123,
+    "context_summary": "במהלך חפירת הפיר במגידו, נבנה גרם מדרגות ראשון (965) בכדי להגן על העובדים."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - גרם מדרגות 951",
+    "canonical_english": "Megiddo Water System - Staircase 951",
+    "hebrew_aliases": [
+      "גרם מדרגות שני (951)"
+    ],
+    "english_aliases": [
+      "Second Staircase (951)"
+    ],
+    "site_type": "Other",
+    "page_number": 123,
+    "context_summary": "גרם מדרגות שני (951) נבנה בשלב מאוחר יותר על גבי הקיר המקורי בפיר במגידו."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - הקיר החוסם 1007",
+    "canonical_english": "Megiddo Water System - Blocking Wall 1007",
+    "hebrew_aliases": [
+      "הקיר החוסם (1007)"
+    ],
+    "english_aliases": [
+      "Blocking Wall 1007"
+    ],
+    "site_type": "Other",
+    "page_number": 124,
+    "context_summary": "לאחר סיום חציבת המנהרה במגידו, נבנה הקיר החוסם (1007) וכוסה מבחוץ בעפר כדי להסתיר את הכניסה לבאר."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - המנהרה המזרחית 1845",
+    "canonical_english": "Megiddo Water System - Eastern Tunnel 1845",
+    "hebrew_aliases": [
+      "המנהרה המזרחית 1845"
+    ],
+    "english_aliases": [
+      "Eastern Tunnel 1845"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 124,
+    "context_summary": "בשלב מאוחר יותר הוחלט לחצוב תעלה בקרקעית המנהרה במגידו, המכונה המנהרה המזרחית (1845), כדי להוביל את מי הבאר אל תחתית הפיר."
+  },
+  {
+    "canonical_hebrew": "לוכסור",
+    "canonical_english": "Luxor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 125,
+    "context_summary": "מכשירי מדידה כמו פלס ואנך, הדומים לאלו שנמצאו בלוכסור בקבר של הארכיטקט המצרי סנוגים, יכלו לשמש למדידת הפיר במגידו."
+  },
+  {
+    "canonical_hebrew": "מצרים",
+    "canonical_english": "Egypt",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 125,
+    "context_summary": "האמה המצרית שימשה כיחידת מידה אפשרית למדידת הפיר במגידו."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - מערה ראשית 1008",
+    "canonical_english": "Megiddo Water System - Main Cave 1008",
+    "hebrew_aliases": [
+      "מערה ראשית 1008"
+    ],
+    "english_aliases": [
+      "Main Cave 1008"
+    ],
+    "site_type": "Cave",
+    "page_number": 125,
+    "context_summary": "מערה ראשית 1008 במגידו התפתחה באיטיות מתקופה קדומה ובלתי ידועה."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - גלריה 629",
+    "canonical_english": "Megiddo Water System - Gallery 629",
+    "hebrew_aliases": [
+      "גלריה 629"
+    ],
+    "english_aliases": [
+      "Gallery 629"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 125,
+    "context_summary": "גלריה 629 במגידו קדמה לקיר החוסם 1007, וכנראה מתוארכת לראשית המאה ה-12 לפנה\"ס או קודם לכן."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - עמדת השומר 1010",
+    "canonical_english": "Megiddo Water System - Guard Post 1010",
+    "hebrew_aliases": [
+      "עמדת השומר 1010"
+    ],
+    "english_aliases": [
+      "Guard Post 1010"
+    ],
+    "site_type": "Other",
+    "page_number": 125,
+    "context_summary": "עמדת השומר 1010 במגידו מתוארכת לראשית המאה ה-12 לפנה\"מ."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - פיר 925",
+    "canonical_english": "Megiddo Water System - Shaft 925",
+    "hebrew_aliases": [
+      "פיר 925"
+    ],
+    "english_aliases": [
+      "Shaft 925"
+    ],
+    "site_type": "Well",
+    "page_number": 125,
+    "context_summary": "פיר 925 במגידו נבנה בו-זמנית או קודם לקיר החוסם 1007, כנראה באמצע המאה ה-12 לפנה\"מ."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - מנהרה 1000",
+    "canonical_english": "Megiddo Water System - Tunnel 1000",
+    "hebrew_aliases": [
+      "מנהרה 1000"
+    ],
+    "english_aliases": [
+      "Tunnel 1000"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 125,
+    "context_summary": "מנהרה 1000 במגידו נבנתה בו-זמנית או קודם לקיר החוסם 1007, כנראה באמצע המאה ה-12 לפנה\"מ."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - קיר חוסם 1007",
+    "canonical_english": "Megiddo Water System - Blocking Wall 1007",
+    "hebrew_aliases": [
+      "הקיר החוסם 1007"
+    ],
+    "english_aliases": [
+      "Blocking Wall 1007"
+    ],
+    "site_type": "Other",
+    "page_number": 125,
+    "context_summary": "הקיר החוסם 1007 במגידו מתוארך לאמצע המאה ה-12 לפנה\"מ."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - מנהרה מזרחית 1845",
+    "canonical_english": "Megiddo Water System - Eastern Tunnel 1845",
+    "hebrew_aliases": [
+      "המנהרה המזרחית 1845"
+    ],
+    "english_aliases": [
+      "Eastern Tunnel 1845"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 125,
+    "context_summary": "המנהרה המזרחית 1845 במגידו מתוארכת לפני המאה ה-11 לפנה\"ס ואולי גם לפני הקיר החוסם 1007."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - מדרגות בנויות במנהרה המשופעת 1116",
+    "canonical_english": "Megiddo Water System - Built Stairs in Inclined Tunnel 1116",
+    "hebrew_aliases": [
+      "המדרגות הבנויות במנהרה המשופעת 1116"
+    ],
+    "english_aliases": [
+      "Built Stairs in Inclined Tunnel 1116"
+    ],
+    "site_type": "Other",
+    "page_number": 125,
+    "context_summary": "המדרגות הבנויות במנהרה המשופעת 1116 במגידו מתוארכות למאה ה-10 לפנה\"מ, תקופת שלמה."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - מדרגות 951",
+    "canonical_english": "Megiddo Water System - Stairs 951",
+    "hebrew_aliases": [
+      "מדרגות 951"
+    ],
+    "english_aliases": [
+      "Stairs 951"
+    ],
+    "site_type": "Other",
+    "page_number": 125,
+    "context_summary": "מדרגות 951 במגידו מתוארכות למאה ה-7 לפנה\"מ."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - מדרגות 1292",
+    "canonical_english": "Megiddo Water System - Stairs 1292",
+    "hebrew_aliases": [
+      "מדרגות 1292"
+    ],
+    "english_aliases": [
+      "Stairs 1292"
+    ],
+    "site_type": "Other",
+    "page_number": 125,
+    "context_summary": "מדרגות 1292 במגידו מתוארכות לתקופה הפרסית-הלניסטית (המאה ה-4 לפנה\"ס)."
+  },
+  {
+    "canonical_hebrew": "תל מגידו",
+    "canonical_english": "Tel Megiddo",
+    "hebrew_aliases": [
+      "התל"
+    ],
+    "english_aliases": [
+      "The Tell"
+    ],
+    "site_type": "Tell",
+    "page_number": 126,
+    "context_summary": "השימוש במפעל המים במגידו נמשך עד לסוף היישוב בתל, ומדרגות 951 הגיעו לראש התל במפלס של שכבה II."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של מגידו - קיר 667",
+    "canonical_english": "Megiddo Water System - Wall 667",
+    "hebrew_aliases": [
+      "קיר 667"
+    ],
+    "english_aliases": [
+      "Wall 667"
+    ],
+    "site_type": "Other",
+    "page_number": 126,
+    "context_summary": "גרם מדרגות קצר (1292) במגידו היה מגיע לראש קיר 667, ששייך לתקופה הפרסית-הלניסטית."
+  },
+  {
+    "canonical_hebrew": "ממלכת יהודה",
+    "canonical_english": "Kingdom of Judah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 126,
+    "context_summary": "הקרמיקה שנמצאה מתחת לעמדת השומר במגידו מקבילה לזו משכבה VII בתל ומאתרים אחרים המתוארכים היטב בארץ ישראל, כולל ממלכת יהודה."
+  },
+  {
+    "canonical_hebrew": "יבלעם",
+    "canonical_english": "Ibleam",
+    "hebrew_aliases": [
+      "חירבת בלעמה"
+    ],
+    "english_aliases": [
+      "Khirbet Bal'ama"
+    ],
+    "site_type": "Settlement",
+    "page_number": 126,
+    "context_summary": "חירבת בלעמה מזוהה עם יבלעם המקראית, ומצויה במבואותיה הדרום-מערביים של ג'נין."
+  },
+  {
+    "canonical_hebrew": "ג'נין",
+    "canonical_english": "Jenin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 126,
+    "context_summary": "חירבת בלעמה (יבלעם) מצויה במבואותיה הדרום-מערביים של ג'נין."
+  },
+  {
+    "canonical_hebrew": "ביר סינג'יל",
+    "canonical_english": "Bir Sinjil",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 126,
+    "context_summary": "מוצא מפעל המים ביבלעם הוא בביר סינג'יל, שבצדו המזרחי של האתר."
+  },
+  {
+    "canonical_hebrew": "תל יבלעם",
+    "canonical_english": "Tel Ibleam",
+    "hebrew_aliases": [
+      "התל"
+    ],
+    "english_aliases": [
+      "The Tell"
+    ],
+    "site_type": "Tell",
+    "page_number": 126,
+    "context_summary": "מפעל המים ביבלעם נמצא למרגלות תל מתקופת המקרא, והמים זרמו מהמעיין החיצוני אל תוך התל."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של יבלעם - המנהרה",
+    "canonical_english": "Ibleam Water System - The Tunnel",
+    "hebrew_aliases": [
+      "המנהרה"
+    ],
+    "english_aliases": [
+      "The Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 127,
+    "context_summary": "המנהרה ביבלעם חצובה בסלע ועולה לכיוון התל בקטעים אופקיים וביניהם ארבעה קטעי מדרגות."
+  },
+  {
+    "canonical_hebrew": "תל גבעון",
+    "canonical_english": "Tel Gibeon",
+    "hebrew_aliases": [
+      "גבעון"
+    ],
+    "english_aliases": [
+      "Gibeon"
+    ],
+    "site_type": "Tell",
+    "page_number": 127,
+    "context_summary": "המנהרה של גבעון פורסמה לראשונה על-ידי רובינסון שביקר בפתחה ב-1838."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של גבעון - המעיין",
+    "canonical_english": "Gibeon Water System - The Spring",
+    "hebrew_aliases": [
+      "המעיין"
+    ],
+    "english_aliases": [
+      "The Spring"
+    ],
+    "site_type": "Spring",
+    "page_number": 127,
+    "context_summary": "מעיין הנובע בבטן גבעת גבעון זורם עד היום במנהרה אופקית המוליכה אל חדר איגום."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של גבעון - המנהרה",
+    "canonical_english": "Gibeon Water System - The Tunnel",
+    "hebrew_aliases": [
+      "המנהרה"
+    ],
+    "english_aliases": [
+      "The Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 127,
+    "context_summary": "המעיין בגבעון זורם במנהרה אופקית המוליכה אל חדר איגום, וממנו גרם מדרגות עולה במנהרה אלכסונית אל העיר."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של גבעון - חדר איגום",
+    "canonical_english": "Gibeon Water System - Collecting Chamber",
+    "hebrew_aliases": [
+      "חדר איגום"
+    ],
+    "english_aliases": [
+      "Collecting Chamber"
+    ],
+    "site_type": "Other",
+    "page_number": 127,
+    "context_summary": "המעיין בגבעון זורם אל חדר איגום, ממנו יש מוצא חיצון וגרם מדרגות אל העיר."
+  },
+  {
+    "canonical_hebrew": "העיר גבעון",
+    "canonical_english": "Gibeon City",
+    "hebrew_aliases": [
+      "העיר"
+    ],
+    "english_aliases": [
+      "The City"
+    ],
+    "site_type": "Settlement",
+    "page_number": 127,
+    "context_summary": "גרם מדרגות עולה במנהרה אלכסונית אל העיר גבעון ונכנס אליה מבפנים לחומה."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של גבעון - המנהרה המדורגת",
+    "canonical_english": "Gibeon Water System - The Stepped Tunnel",
+    "hebrew_aliases": [
+      "המנהרה המדורגת"
+    ],
+    "english_aliases": [
+      "The Stepped Tunnel"
+    ],
+    "site_type": "Tunnel",
+    "page_number": 128,
+    "context_summary": "אורך המנהרה המדורגת, המובילה מחדר האיגום אל העיר המבוצרת בגבעון, הוא 52 מ'."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של גבעון - הבריכה",
+    "canonical_english": "Gibeon Water System - The Pool",
+    "hebrew_aliases": [
+      "הייבריכה"
+    ],
+    "english_aliases": [
+      "The 'Pool'"
+    ],
+    "site_type": "Pool",
+    "page_number": 128,
+    "context_summary": "ה'בריכה' הגדולה בגבעון, ובה גרם מדרגות לולייני, חצובה בסלע לעומק 24 מ' ומצויה סמוך לחומת העיר."
+  },
+  {
+    "canonical_hebrew": "מפעל המים של גבעון - החומה",
+    "canonical_english": "Gibeon Water System - The Wall",
+    "hebrew_aliases": [
+      "החומה"
+    ],
+    "english_aliases": [
+      "The Wall"
+    ],
+    "site_type": "Other",
+    "page_number": 128,
+    "context_summary": "הקשר הישיר של המנהרה בגבעון עם ביצורי העיר מסייע לתיארוכה, והיא נחצבה בזמן הקמת העיר או קצת מאוחר יותר."
+  },
+  {
+    "canonical_hebrew": "ממלכת יהודה",
+    "canonical_english": "Kingdom of Judah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 128,
+    "context_summary": "שני קנקנים שנמצאו בתחתית ה'בריכה' בגבעון מתוארכים למחצית הראשונה של המאה ה-6 לפנה\"ס, ימיה האחרונים של ממלכת יהודה."
+  },
+  {
+    "canonical_hebrew": "הבריכה אשר בגבעון",
+    "canonical_english": "The Pool in Gibeon",
+    "hebrew_aliases": [
+      "הבריכה אשר בגבעון"
+    ],
+    "english_aliases": [
+      "The Pool in Gibeon"
+    ],
+    "site_type": "Pool",
+    "page_number": 129,
+    "context_summary": "בעמק הפתוח מצפון-מזרח למעיין הכפר בגבעון התגלתה בריכה קדומה, שרובינסון ציין שאפשר שהיא 'הבריכה אשר בגבעון' המקראית."
+  },
+  {
+    "canonical_hebrew": "עמק הפתוח (גבעון)",
+    "canonical_english": "The Open Valley (Gibeon)",
+    "hebrew_aliases": [
+      "העמק הפתוח"
+    ],
+    "english_aliases": [
+      "The Open Valley"
+    ],
+    "site_type": "Valley",
+    "page_number": 129,
+    "context_summary": "בעמק הפתוח אשר מצפון-מזרח למעיין הכפר בגבעון התגלתה בריכה קדומה."
+  }
+]

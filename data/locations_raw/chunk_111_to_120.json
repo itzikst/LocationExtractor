@@ -1,0 +1,424 @@
+[
+  {
+    "canonical_hebrew": "באר שבע",
+    "canonical_english": "Be'er Sheva",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 111,
+    "context_summary": "הבאר העמוקה ביותר בזמנה, הממוקמת בבאר שבע, קשורה למסורת הדתית והפולחנית של העיר ולסיפור באר אברהם."
+  },
+  {
+    "canonical_hebrew": "מדבר באר שבע",
+    "canonical_english": "Be'er Sheva Desert",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 111,
+    "context_summary": "התנ\"ך מזכיר בארות באזור מדבר באר שבע, כולל באר המים שזימן אלוהים להגר וישמעאל."
+  },
+  {
+    "canonical_hebrew": "תל א-סעידיה",
+    "canonical_english": "Tell es-Sa'idiyeh",
+    "hebrew_aliases": [],
+    "english_aliases": [
+      "Tell es-Sa'idiya"
+    ],
+    "site_type": "Tell",
+    "page_number": 111,
+    "context_summary": "תל בבקעת הירדן, מול היישוב ארגמן, בו נחשף גרם מדרגות מונומנטלי כחלק ממפעל מים."
+  },
+  {
+    "canonical_hebrew": "ירדן",
+    "canonical_english": "Jordan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 111,
+    "context_summary": "תל א-סעידיה ממוקם כ-1.8 ק\"מ ממזרח לנהר הירדן."
+  },
+  {
+    "canonical_hebrew": "בקעת הירדן",
+    "canonical_english": "Jordan Valley",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 111,
+    "context_summary": "תל א-סעידיה ממוקם בבקעת הירדן, מול היישוב ארגמן."
+  },
+  {
+    "canonical_hebrew": "ארגמן",
+    "canonical_english": "Argaman",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 111,
+    "context_summary": "תל א-סעידיה ממוקם מול היישוב המודרני ארגמן."
+  },
+  {
+    "canonical_hebrew": "צפון",
+    "canonical_english": "Zaphon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 111,
+    "context_summary": "זיהויו האפשרי של תל א-סעידיה הוא עם העיר צפון הנזכרת בספר שופטים."
+  },
+  {
+    "canonical_hebrew": "צרתן",
+    "canonical_english": "Zarethan",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 111,
+    "context_summary": "זיהויו האפשרי של תל א-סעידיה הוא עם העיר צרתן הנזכרת בספר יהושע ובמלכים א'."
+  },
+  {
+    "canonical_hebrew": "נחל כופרינג'ה",
+    "canonical_english": "Nahal Kufrinjah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 112,
+    "context_summary": "בדיקות שנעשו בעין א-סעידיה שבנחל כופרינג'ה הסמוך הראו כי זהו אחד המעיינות המלוחים ביותר בבקעת הירדן."
+  },
+  {
+    "canonical_hebrew": "עין א-סעידיה",
+    "canonical_english": "Ein es-Sa'idiyeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 112,
+    "context_summary": "בדיקות שנעשו בעין א-סעידיה שבנחל כופרינג'ה הסמוך הראו כי זהו אחד המעיינות המלוחים ביותר בבקעת הירדן."
+  },
+  {
+    "canonical_hebrew": "תענך",
+    "canonical_english": "Ta'anach",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 113,
+    "context_summary": "בקצה הדרומי של תל תענך מצוי 'המבנה בעל צינור הניקוז' המוביל אל בור מים."
+  },
+  {
+    "canonical_hebrew": "שילה",
+    "canonical_english": "Shiloh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 113,
+    "context_summary": "בשילה נחשפו שני בתים מתקופת הברזל 1, ובאחד מהם נמצא בור מים חצוב בסלע ומטויח."
+  },
+  {
+    "canonical_hebrew": "הר אפרים",
+    "canonical_english": "Mount Ephraim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 113,
+    "context_summary": "בהר אפרים, בעי ובח'רבת רדאנה, נמצאו בורות דמויי פעמון מתחת ובסמוך לבתים."
+  },
+  {
+    "canonical_hebrew": "העי",
+    "canonical_english": "Ai",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 113,
+    "context_summary": "בעי ובח'רבת רדאנה נמצאו בורות דמויי פעמון, והמעיין של העי בוואדי אל ג'יה הוא קטן ודל."
+  },
+  {
+    "canonical_hebrew": "חירבת רדאנה",
+    "canonical_english": "Khirbet Raddana",
+    "hebrew_aliases": [
+      "ח'רבת רדאנה"
+    ],
+    "english_aliases": [
+      "Khirbet Raddana"
+    ],
+    "site_type": "Settlement",
+    "page_number": 113,
+    "context_summary": "בח'רבת רדאנה ובעי נמצאו בורות דמויי פעמון, שהיו חיוניים בשל המעיין הקטן והרחוק באזור."
+  },
+  {
+    "canonical_hebrew": "ואדי אל ג'יה",
+    "canonical_english": "Wadi el-Jiyeh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 113,
+    "context_summary": "המעיין של העי, המצוי בוואדי אל ג'יה שמצפון לאתר, שופע ספיקה דלה ביותר."
+  },
+  {
+    "canonical_hebrew": "מעיין של העי",
+    "canonical_english": "Spring of Ai",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 113,
+    "context_summary": "המעיין של העי, בוואדי אל ג'יה, שופע כ-1.2 מ\"ק ליממה, ספיקה דלה ביותר."
+  },
+  {
+    "canonical_hebrew": "ארץ בנימין",
+    "canonical_english": "Land of Benjamin",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 114,
+    "context_summary": "בסקר ארץ בנימין, בחלק המתייחס לדרום מפות רמאללה ואל-בירה וצפון מפת עין כרם, נמצאו 25 אתרים מתקופת הברזל 1 ובכולם אותרו בורות מים."
+  },
+  {
+    "canonical_hebrew": "רמאללה",
+    "canonical_english": "Ramallah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 114,
+    "context_summary": "הסקר מתייחס לדרום מפות רמאללה ואל-בירה וצפון מפת עין כרם."
+  },
+  {
+    "canonical_hebrew": "אל-בירה",
+    "canonical_english": "Al-Bireh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 114,
+    "context_summary": "הסקר מתייחס לדרום מפות רמאללה ואל-בירה וצפון מפת עין כרם."
+  },
+  {
+    "canonical_hebrew": "עין כרם",
+    "canonical_english": "Ein Karem",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 114,
+    "context_summary": "הסקר מתייחס לדרום מפות רמאללה ואל-בירה וצפון מפת עין כרם."
+  },
+  {
+    "canonical_hebrew": "בית שמש",
+    "canonical_english": "Beth Shemesh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 114,
+    "context_summary": "ראשית השימוש בבורות המים בבית שמש יוחסה לתקופת הברונזה המאוחרת, אך נעשה בהם שימוש גם בתקופת הברזל 1."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 114,
+    "context_summary": "שתי אמות מים נתגלו בסקר שביצע סטפנסקי באזור תל חצור, אחת צפונית ואחת דרומית."
+  },
+  {
+    "canonical_hebrew": "נחל חצור",
+    "canonical_english": "Nahal Hazor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 114,
+    "context_summary": "סטפנסקי הציע כי מקור המים לאמות היה מי נגר, אך ייתכן גם ניצול מעיינות במעלה נחל חצור."
+  },
+  {
+    "canonical_hebrew": "נחל דישון",
+    "canonical_english": "Nahal Dishon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Other",
+    "page_number": 114,
+    "context_summary": "סטפנסקי הציע כי מקור המים לאמות היה מי נגר, אך ייתכן גם ניצול מעיינות במעלה נחל דישון."
+  },
+  {
+    "canonical_hebrew": "דור",
+    "canonical_english": "Dor",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 116,
+    "context_summary": "בדור נמצאה באר רבועה בנויה באבני גזית, במידות זהות לבאר בתל גריסה."
+  },
+  {
+    "canonical_hebrew": "גריסה",
+    "canonical_english": "Gerisa",
+    "hebrew_aliases": [
+      "תל גריסה"
+    ],
+    "english_aliases": [
+      "Tel Gerisa"
+    ],
+    "site_type": "Tell",
+    "page_number": 116,
+    "context_summary": "בתל גריסה נמצאה באר רבועה בנויה באבני גזית, במידות זהות לבאר בדור."
+  },
+  {
+    "canonical_hebrew": "מגידו",
+    "canonical_english": "Megiddo",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 116,
+    "context_summary": "מפעל המים בתל א-סעידיה הוא אב-טיפוס למפעל דומה שהוקם במגידו בראשית תקופת הברזל 2."
+  },
+  {
+    "canonical_hebrew": "טירינס",
+    "canonical_english": "Tiryns",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 116,
+    "context_summary": "מפעל המים בתל א-סעידיה דומה מאד למפעל המים של טירינס, המשקף מסורת מיקנית."
+  },
+  {
+    "canonical_hebrew": "תל באר שבע",
+    "canonical_english": "Tel Be'er Sheva",
+    "hebrew_aliases": [
+      "באר שבע"
+    ],
+    "english_aliases": [
+      "Be'er Sheva"
+    ],
+    "site_type": "Tell",
+    "page_number": 116,
+    "context_summary": "הבאר בתל באר שבע היא העמוקה ביותר שנחפרה עד כה בארץ, ומתוארכת לתקופת הברזל 1."
+  },
+  {
+    "canonical_hebrew": "רחובות שבנגב",
+    "canonical_english": "Rehovot in the Negev",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 116,
+    "context_summary": "רק באר אחת המצויה ליד רחובות שבנגב ומתוארכת לתקופה הביזנטית דומה לבאר בתל באר שבע בעומקה."
+  },
+  {
+    "canonical_hebrew": "עין ע'זל",
+    "canonical_english": "Ain Ghazal",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 117,
+    "context_summary": "מתקני מים מטויחים נמצאו בעין ע'זל שבירדן, מהתקופה הניאוליתית הקדם-קרמית."
+  },
+  {
+    "canonical_hebrew": "אתר גילה",
+    "canonical_english": "Gilo site",
+    "hebrew_aliases": [
+      "גילה"
+    ],
+    "english_aliases": [
+      "Gilo"
+    ],
+    "site_type": "Settlement",
+    "page_number": 117,
+    "context_summary": "אתר גילה הוא יישוב מתקופת הברזל 1 שלא נמצאו בו בורות מים, למרות ריחוקו ממקור מים קבוע."
+  },
+  {
+    "canonical_hebrew": "הר מנשה",
+    "canonical_english": "Mount Manasseh",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 117,
+    "context_summary": "זרטל ביצע סקר ארכיאולוגי בהר מנשה ובדק את נושא המים לצריכה פרטית ב-96 אתרי התנחלות."
+  },
+  {
+    "canonical_hebrew": "תל בית מירסים",
+    "canonical_english": "Tel Beit Mirsim",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 118,
+    "context_summary": "בדיקה באתרי התנחלות כגון תל בית מירסים הראתה כי אין בהם בורות מים."
+  },
+  {
+    "canonical_hebrew": "בית אל",
+    "canonical_english": "Bethel",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 118,
+    "context_summary": "בדיקה באתרי התנחלות כגון בית אל הראתה כי אין בהם בורות מים."
+  },
+  {
+    "canonical_hebrew": "תל אל פול",
+    "canonical_english": "Tell el-Ful",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 118,
+    "context_summary": "בדיקה באתרי התנחלות כגון תל אל פול הראתה כי אין בהם בורות מים."
+  },
+  {
+    "canonical_hebrew": "תל פרעה צפון",
+    "canonical_english": "Tell el-Far'ah North",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 118,
+    "context_summary": "בדיקה באתרי התנחלות כגון תל פרעה צפון הראתה כי אין בהם בורות מים."
+  },
+  {
+    "canonical_hebrew": "עזבת צרטה",
+    "canonical_english": "Izbet Sartah",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 118,
+    "context_summary": "בדיקה באתרי התנחלות כגון עזבת צרטה הראתה כי אין בהם בורות מים."
+  },
+  {
+    "canonical_hebrew": "עיבל",
+    "canonical_english": "Ebal",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Mountain",
+    "page_number": 118,
+    "context_summary": "בדיקה באתרי התנחלות כגון עיבל הראתה כי אין בהם בורות מים."
+  },
+  {
+    "canonical_hebrew": "רדנה",
+    "canonical_english": "Raddana",
+    "hebrew_aliases": [
+      "חירבת רדנה"
+    ],
+    "english_aliases": [
+      "Khirbet Raddana"
+    ],
+    "site_type": "Settlement",
+    "page_number": 118,
+    "context_summary": "הבורות בעי וברדנה היו סתומים בעת הביקור במקום, וההתרשמות היא שרק חלקם שימשו לאגירת מים."
+  },
+  {
+    "canonical_hebrew": "גבעון",
+    "canonical_english": "Gibeon",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Settlement",
+    "page_number": 119,
+    "context_summary": "לימוד תוצאות החפירות במפעלי המים של מגידו, גבעון וגזר שנחשפו קודם לכן, סייע בבדיקת המבנים הסמוכים במפעל המים של חצור."
+  },
+  {
+    "canonical_hebrew": "גזר",
+    "canonical_english": "Gezer",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 119,
+    "context_summary": "לימוד תוצאות החפירות במפעלי המים של מגידו, גבעון וגזר שנחשפו קודם לכן, סייע בבדיקת המבנים הסמוכים במפעל המים של חצור."
+  },
+  {
+    "canonical_hebrew": "ואדי וקאץ",
+    "canonical_english": "Wadi Waqqas",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Valley",
+    "page_number": 119,
+    "context_summary": "מדרום לשקע בתל חצור נבעו המעיינות של נחל חצור (ואדי וקאץ), שהצביעו על אפשרות הכנסתם פנימה בעזרת מנהרה תת-קרקעית."
+  }
+]

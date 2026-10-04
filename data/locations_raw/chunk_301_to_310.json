@@ -1,0 +1,296 @@
+[
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 301,
+    "context_summary": "האיור מציג תכנית של בורות מים 9017, 9024 ו-9027 בשטח ד' בתל חצור."
+  },
+  {
+    "canonical_hebrew": "בור 9017 (חצור)",
+    "canonical_english": "Pit 9017 (Hazor)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 301,
+    "context_summary": "האיור מציג תכנית של בור מים 9017 בשטח ד' בתל חצור."
+  },
+  {
+    "canonical_hebrew": "בור 9024 (חצור)",
+    "canonical_english": "Pit 9024 (Hazor)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 301,
+    "context_summary": "האיור מציג תכנית של בור מים 9024 בשטח ד' בתל חצור."
+  },
+  {
+    "canonical_hebrew": "בור 9027 (חצור)",
+    "canonical_english": "Pit 9027 (Hazor)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 301,
+    "context_summary": "האיור מציג תכנית של בור מים 9027 בשטח ד' בתל חצור."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 302,
+    "context_summary": "האיור מציג תכנית של בור מים 7021 בשטח ח' בתל חצור."
+  },
+  {
+    "canonical_hebrew": "בור 7021 (חצור)",
+    "canonical_english": "Pit 7021 (Hazor)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 302,
+    "context_summary": "האיור מציג תכנית של בור מים 7021 בשטח ח' בתל חצור."
+  },
+  {
+    "canonical_hebrew": "תל גזר",
+    "canonical_english": "Tel Gezer",
+    "hebrew_aliases": [
+      "גזר"
+    ],
+    "english_aliases": [
+      "Gezer"
+    ],
+    "site_type": "Tell",
+    "page_number": 303,
+    "context_summary": "האיור מציג תכנית סכמטית של שכבה 10 בתל גזר, הכוללת שני בורות מים."
+  },
+  {
+    "canonical_hebrew": "תל גזר",
+    "canonical_english": "Tel Gezer",
+    "hebrew_aliases": [
+      "גזר"
+    ],
+    "english_aliases": [
+      "Gezer"
+    ],
+    "site_type": "Tell",
+    "page_number": 304,
+    "context_summary": "האיור מציג תכנית מפורטת של שכבה 10 בתל גזר, הכוללת שני בורות מים וחיבור למנהרת מקיאליסטר."
+  },
+  {
+    "canonical_hebrew": "מנהרת מקיאליסטר (גזר)",
+    "canonical_english": "Macalister Tunnel (Gezer)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 304,
+    "context_summary": "האיור מציג תכנית של שכבה 10 בתל גזר, עם פריצה למנהרת מקיאליסטר."
+  },
+  {
+    "canonical_hebrew": "הבאר (גזר)",
+    "canonical_english": "The Well (Gezer)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Well",
+    "page_number": 304,
+    "context_summary": "הבאר מוזכרת במקרא לאיור של תכנית שכבה 10 בתל גזר, כחלק מחדר התנור והבאר."
+  },
+  {
+    "canonical_hebrew": "מיכל מים (גזר)",
+    "canonical_english": "Water Tank (Gezer)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 304,
+    "context_summary": "מיכל מים מוזכר במקרא לאיור של תכנית שכבה 10 בתל גזר."
+  },
+  {
+    "canonical_hebrew": "אתונה",
+    "canonical_english": "Athens",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 305,
+    "context_summary": "האיור מציג תכנית של האקרופוליס באתונה ומיקום המעיין."
+  },
+  {
+    "canonical_hebrew": "האקרופוליס (אתונה)",
+    "canonical_english": "The Acropolis (Athens)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Fortress",
+    "page_number": 305,
+    "context_summary": "האיור מציג תכנית של האקרופוליס באתונה ומיקום המעיין."
+  },
+  {
+    "canonical_hebrew": "המעיין המיקני (אתונה)",
+    "canonical_english": "The Mycenaean Spring (Athens)",
+    "hebrew_aliases": [
+      "המעיין"
+    ],
+    "english_aliases": [],
+    "site_type": "Spring",
+    "page_number": 305,
+    "context_summary": "האיור מציג תכנית של האקרופוליס באתונה ומיקום המעיין, וכן חתך ושחזור של מנהרת המעיין המיקנית."
+  },
+  {
+    "canonical_hebrew": "מנהרת המעיין המיקנית (אתונה)",
+    "canonical_english": "Mycenaean Spring Tunnel (Athens)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tunnel",
+    "page_number": 305,
+    "context_summary": "האיור מציג חתך ושחזור של מנהרת המעיין המיקנית באתונה."
+  },
+  {
+    "canonical_hebrew": "מיקנה",
+    "canonical_english": "Mycenae",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 306,
+    "context_summary": "האיור מציג תכנית של אתר מיקנה, אשר בקצהו הצפוני נוסף מפעל מים, וכן תכנית וצילומים של מפעל המים ובור המים התת-קרקעי."
+  },
+  {
+    "canonical_hebrew": "מפעל המים (מיקנה)",
+    "canonical_english": "Water System (Mycenae)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 306,
+    "context_summary": "האיור מציג תכנית של אתר מיקנה, אשר בקצהו הצפוני נוסף מפעל מים, וכן תכנית וצילומים של מפעל המים."
+  },
+  {
+    "canonical_hebrew": "בור המים התת-קרקעי (מיקנה)",
+    "canonical_english": "Underground Cistern (Mycenae)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Cistern System",
+    "page_number": 306,
+    "context_summary": "האיור מציג תכנית וצילומים של מפעל המים במיקנה, כולל הירידה לבור המים התת-קרקעי."
+  },
+  {
+    "canonical_hebrew": "טירינס",
+    "canonical_english": "Tiryns",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 307,
+    "context_summary": "האיור מציג תכנית של אתר טירינס, אשר בקצהו המערבי מפעלי המים, וכן את המעברים אל מאגרי המים."
+  },
+  {
+    "canonical_hebrew": "מפעלי המים (טירינס)",
+    "canonical_english": "Water Systems (Tiryns)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 307,
+    "context_summary": "האיור מציג תכנית של אתר טירינס, אשר בקצהו המערבי מפעלי המים."
+  },
+  {
+    "canonical_hebrew": "מאגרי המים (טירינס)",
+    "canonical_english": "Water Reservoirs (Tiryns)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 307,
+    "context_summary": "האיור מציג את המעברים אל מאגרי המים בטירינס."
+  },
+  {
+    "canonical_hebrew": "דיר אל-מדינה",
+    "canonical_english": "Deir el-Medina",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 307,
+    "context_summary": "האיור מציג חתך של אזור מפעל המים בדיר אל-מדינה."
+  },
+  {
+    "canonical_hebrew": "מפעל המים (דיר אל-מדינה)",
+    "canonical_english": "Water System (Deir el-Medina)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 307,
+    "context_summary": "האיור מציג חתך של אזור מפעל המים בדיר אל-מדינה."
+  },
+  {
+    "canonical_hebrew": "דיר אל-מדינה",
+    "canonical_english": "Deir el-Medina",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Comparative Site",
+    "page_number": 308,
+    "context_summary": "האיור מציג תכנית וחתך של מפעל המים בדיר אל-מדינה."
+  },
+  {
+    "canonical_hebrew": "מפעל המים (דיר אל-מדינה)",
+    "canonical_english": "Water System (Deir el-Medina)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 308,
+    "context_summary": "האיור מציג תכנית וחתך של מפעל המים בדיר אל-מדינה, המושפע ממי הנילוס."
+  },
+  {
+    "canonical_hebrew": "הנילוס",
+    "canonical_english": "The Nile",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Region",
+    "page_number": 308,
+    "context_summary": "החתך של מפעל המים בדיר אל-מדינה מראה את מפלסו העליון של הנילוס ואת נזילות המים ממנו."
+  },
+  {
+    "canonical_hebrew": "תל חצור",
+    "canonical_english": "Tel Hazor",
+    "hebrew_aliases": [
+      "חצור"
+    ],
+    "english_aliases": [
+      "Hazor"
+    ],
+    "site_type": "Tell",
+    "page_number": 309,
+    "context_summary": "האיור מציג תכנית וחתכים של מאגר המים בתל חצור."
+  },
+  {
+    "canonical_hebrew": "מאגר המים (תל חצור)",
+    "canonical_english": "Water Reservoir (Tel Hazor)",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 309,
+    "context_summary": "האיור מציג תכנית וחתכים של מאגר המים בתל חצור."
+  },
+  {
+    "canonical_hebrew": "תענך",
+    "canonical_english": "Ta'anach",
+    "hebrew_aliases": [],
+    "english_aliases": [],
+    "site_type": "Tell",
+    "page_number": 310,
+    "context_summary": "האיור מציג את מיקום המאגר בתענך ביחס למבנה מהמאה ה-12 לפנה\"ס, וכן תכנית וחתך של מאגר המים."
+  },
+  {
+    "canonical_hebrew": "מאגר המים (תענך)",
+    "canonical_english": "Water Reservoir (Ta'anach)",
+    "hebrew_aliases": [
+      "המאגר"
+    ],
+    "english_aliases": [],
+    "site_type": "Installation",
+    "page_number": 310,
+    "context_summary": "האיור מציג את מיקום המאגר בתענך ביחס למבנה מהמאה ה-12 לפנה\"ס, וכן תכנית וחתך של מאגר המים."
+  }
+]
