@@ -941,6 +941,22 @@ function generateReaderHtml() {
       font-weight: bold;
     }
 
+    .loc-mention-highlight {
+      background-color: #fde047;
+      color: #0f172a;
+      padding: 1px 4px;
+      border-radius: 4px;
+      font-weight: 700;
+      box-shadow: 0 0 0 2px rgba(234, 179, 8, 0.4);
+      display: inline;
+    }
+
+    [data-theme="dark"] .loc-mention-highlight {
+      background-color: #854d0e;
+      color: #fef08a;
+      box-shadow: 0 0 0 2px rgba(250, 204, 21, 0.5);
+    }
+
     /* Toast Notification */
     .toast-notification {
       position: fixed;

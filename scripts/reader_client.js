@@ -101,8 +101,103 @@ const EXCLUDED_TYPES = new Set([
   'sea'
 ]);
 
+let currentActivePageLocations = [];
+let highlightedLocationName = null;
+
+function clearLocationHighlights() {
+  document.querySelectorAll('.loc-mention-highlight').forEach(el => {
+    const parent = el.parentNode;
+    if (parent) {
+      parent.replaceChild(document.createTextNode(el.textContent), el);
+      parent.normalize();
+    }
+  });
+  highlightedLocationName = null;
+}
+
+function highlightLocationMentions(loc) {
+  clearLocationHighlights();
+  if (!loc) return;
+
+  highlightedLocationName = loc.name;
+
+  const rawTerms = [];
+  if (loc.name) rawTerms.push(loc.name);
+  if (loc.heb_aliases) {
+    loc.heb_aliases.split(';').forEach(a => rawTerms.push(a));
+  }
+  if (loc.eng) rawTerms.push(loc.eng);
+  if (loc.eng_aliases) {
+    loc.eng_aliases.split(';').forEach(a => rawTerms.push(a));
+  }
+
+  const terms = [...new Set(rawTerms.map(t => (t || '').trim()).filter(t => t.length >= 2))]
+    .sort((a, b) => b.length - a.length);
+
+  if (terms.length === 0) return;
+
+  const escaped = terms.map(t => t.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')).join('|');
+  const regex = new RegExp('(' + escaped + ')', 'gi');
+
+  const pageContainer = document.getElementById('page-' + activePageNumber);
+  const targetArea = pageContainer ? (pageContainer.querySelector('.page-content') || pageContainer) : document;
+
+  const textNodes = [];
+  const walker = document.createTreeWalker(targetArea, NodeFilter.SHOW_TEXT, {
+    acceptNode: function(node) {
+      if (!node.nodeValue || !node.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
+      const p = node.parentElement;
+      if (p && (p.tagName === 'SCRIPT' || p.tagName === 'STYLE' || p.classList.contains('loc-mention-highlight'))) {
+        return NodeFilter.FILTER_REJECT;
+      }
+      return NodeFilter.FILTER_ACCEPT;
+    }
+  });
+
+  let currentNode;
+  while ((currentNode = walker.nextNode())) {
+    if (regex.test(currentNode.nodeValue)) {
+      textNodes.push(currentNode);
+    }
+  }
+
+  let firstMatch = null;
+  textNodes.forEach(node => {
+    const text = node.nodeValue;
+    const frag = document.createDocumentFragment();
+    let lastIdx = 0;
+    regex.lastIndex = 0;
+    let match;
+
+    while ((match = regex.exec(text)) !== null) {
+      if (match.index > lastIdx) {
+        frag.appendChild(document.createTextNode(text.substring(lastIdx, match.index)));
+      }
+      const mark = document.createElement('mark');
+      mark.className = 'loc-mention-highlight';
+      mark.textContent = match[0];
+      frag.appendChild(mark);
+      if (!firstMatch) firstMatch = mark;
+      lastIdx = regex.lastIndex;
+    }
+
+    if (lastIdx < text.length) {
+      frag.appendChild(document.createTextNode(text.substring(lastIdx)));
+    }
+
+    if (node.parentNode) {
+      node.parentNode.replaceChild(frag, node);
+    }
+  });
+
+  if (firstMatch) {
+    firstMatch.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+}
+
 // Render Locations in Left Sidebar
 function showLocationsForPage(pageNum) {
+  clearLocationHighlights();
   activePageNumber = pageNum;
   const pageLabel = document.getElementById('locCurrentPage');
   if (pageLabel) pageLabel.textContent = pageNum;
@@ -121,6 +216,7 @@ function showLocationsForPage(pageNum) {
 
   if (locList.length === 0) {
     container.innerHTML = '<div class="loc-empty-state">ℹ️ אין אזכורי אתרים בעמוד זה</div>';
+    currentActivePageLocations = [];
     return;
   }
 
@@ -132,6 +228,8 @@ function showLocationsForPage(pageNum) {
            (l.eng_aliases && l.eng_aliases.toLowerCase().includes(filterVal)) ||
            (l.type && l.type.toLowerCase().includes(filterVal));
   });
+
+  currentActivePageLocations = filtered;
 
   if (filtered.length === 0) {
     container.innerHTML = '<div class="loc-empty-state">לא נמצאו אתרים התואמים לסינון</div>';
@@ -166,7 +264,7 @@ function showLocationsForPage(pageNum) {
     }
 
     html += '<div class="loc-card" id="' + cardId + '">' +
-      '<div class="loc-card-header" onclick="toggleLocationCard(\'' + cardId + '\')">' +
+      '<div class="loc-card-header" onclick="toggleLocationCard(\'' + cardId + '\', ' + idx + ')">' +
         '<div class="loc-card-title-group">' +
           '<div class="loc-card-name">' +
             '<span>' + icon + '</span>' +
@@ -195,10 +293,26 @@ function showLocationsForPage(pageNum) {
   container.innerHTML = html;
 }
 
-function toggleLocationCard(cardId) {
+function toggleLocationCard(cardId, idx) {
   const card = document.getElementById(cardId);
-  if (card) {
-    card.classList.toggle('expanded');
+  if (!card) return;
+
+  const wasExpanded = card.classList.contains('expanded');
+
+  // Collapse all other location cards
+  document.querySelectorAll('.loc-card.expanded').forEach(c => {
+    if (c.id !== cardId) c.classList.remove('expanded');
+  });
+
+  if (wasExpanded) {
+    card.classList.remove('expanded');
+    clearLocationHighlights();
+  } else {
+    card.classList.add('expanded');
+    const loc = currentActivePageLocations[idx];
+    if (loc) {
+      highlightLocationMentions(loc);
+    }
   }
 }
 
@@ -281,6 +395,8 @@ window.showLocationsForPage = showLocationsForPage;
 window.toggleLocationCard = toggleLocationCard;
 window.filterLocationsList = filterLocationsList;
 window.handleSearch = handleSearch;
+window.highlightLocationMentions = highlightLocationMentions;
+window.clearLocationHighlights = clearLocationHighlights;
 
 // Initialize on Load
 function initReader() {
