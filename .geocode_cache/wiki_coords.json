@@ -1,0 +1,5390 @@
+{
+  "עין גב": {
+    "lat": 32.78277,
+    "lon": 35.6391,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%92%D7%91",
+    "title": "עין גב"
+  },
+  "תל עין גב": {
+    "lat": 32.78527,
+    "lon": 35.63771,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A2%D7%99%D7%9F_%D7%92%D7%91",
+    "title": "תל עין גב"
+  },
+  "מגדים": {
+    "lat": 32.72981,
+    "lon": 34.95876,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%92%D7%93%D7%99%D7%9D",
+    "title": "מגדים"
+  },
+  "תל סחר": {
+    "lat": 32.72372,
+    "lon": 34.94768,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A1%D7%97%D7%A8",
+    "title": "תל סחר"
+  },
+  "תבה ע'אורא": {
+    "lat": 36.483,
+    "lon": 43.25,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%91%D7%94_%D7%A2%27%D7%90%D7%95%D7%A8%D7%90",
+    "title": "תבה ע'אורא"
+  },
+  "כפר סמיר": {
+    "lat": 32.79971,
+    "lon": 34.95956,
+    "url": "https://he.wikipedia.org/wiki/%D7%9B%D7%A4%D7%A8_%D7%A1%D7%9E%D7%99%D7%A8",
+    "title": "כפר סמיר"
+  },
+  "ירושלים": {
+    "lat": 31.78265,
+    "lon": 35.21933,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D",
+    "title": "ירושלים"
+  },
+  "נתיב הגדוד": {
+    "lat": 31.98885,
+    "lon": 35.44453,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%AA%D7%99%D7%91_%D7%94%D7%92%D7%93%D7%95%D7%93",
+    "title": "נתיב הגדוד"
+  },
+  "יריחו": {
+    "lat": 31.85611,
+    "lon": 35.46306,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%A8%D7%99%D7%97%D7%95",
+    "title": "יריחו"
+  },
+  "תל דן": {
+    "lat": 33.249,
+    "lon": 35.652,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%93%D7%9F",
+    "title": "תל דן"
+  },
+  "תל בית ירח": {
+    "lat": 32.71796,
+    "lon": 35.57186,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%91%D7%99%D7%AA_%D7%99%D7%A8%D7%97",
+    "title": "תל בית ירח"
+  },
+  "תל כברי": {
+    "lat": 33.0084,
+    "lon": 35.1391,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9B%D7%91%D7%A8%D7%99",
+    "title": "תל כברי"
+  },
+  "תל יריחו": {
+    "lat": 31.87172,
+    "lon": 35.44456,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%99%D7%A8%D7%99%D7%97%D7%95",
+    "title": "תל יריחו"
+  },
+  "תל דלית": {
+    "lat": 31.97639,
+    "lon": 34.96944,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%93%D7%9C%D7%99%D7%AA",
+    "title": "תל דלית"
+  },
+  "ערד": {
+    "lat": 31.25893,
+    "lon": 35.21389,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%A8%D7%93",
+    "title": "ערד"
+  },
+  "אתונה": {
+    "lat": 38,
+    "lon": 23.71667,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%AA%D7%95%D7%A0%D7%94",
+    "title": "אתונה"
+  },
+  "אבלה": {
+    "lat": 35.79806,
+    "lon": 36.79861,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%9C%D7%94",
+    "title": "אבלה"
+  },
+  "כברי": {
+    "lat": 33.02102,
+    "lon": 35.14804,
+    "url": "https://he.wikipedia.org/wiki/%D7%9B%D7%91%D7%A8%D7%99",
+    "title": "כברי"
+  },
+  "מיקנה": {
+    "lat": 37.73083,
+    "lon": 22.75611,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%99%D7%A7%D7%A0%D7%94",
+    "title": "מיקנה"
+  },
+  "תל ערד": {
+    "lat": 31.28083,
+    "lon": 35.125,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A2%D7%A8%D7%93",
+    "title": "תל ערד"
+  },
+  "בצרה (ישראל)": {
+    "lat": 32.21329,
+    "lon": 34.87816,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A6%D7%A8%D7%94_(%D7%99%D7%A9%D7%A8%D7%90%D7%9C)",
+    "title": "בצרה (ישראל)"
+  },
+  "עקרון (עיר)": {
+    "lat": 31.77889,
+    "lon": 34.85111,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%A7%D7%A8%D7%95%D7%9F_(%D7%A2%D7%99%D7%A8)",
+    "title": "עקרון (עיר)"
+  },
+  "מארי": {
+    "lat": 34.54944,
+    "lon": 40.89,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%A8%D7%99",
+    "title": "מארי"
+  },
+  "טירינס": {
+    "lat": 37.59944,
+    "lon": 22.79972,
+    "url": "https://he.wikipedia.org/wiki/%D7%98%D7%99%D7%A8%D7%99%D7%A0%D7%A1",
+    "title": "טירינס"
+  },
+  "בית שאן": {
+    "lat": 32.49734,
+    "lon": 35.4978,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA_%D7%A9%D7%90%D7%9F",
+    "title": "בית שאן"
+  },
+  "תל גזר": {
+    "lat": 31.85987,
+    "lon": 34.91964,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%92%D7%96%D7%A8",
+    "title": "תל גזר"
+  },
+  "תל הרור": {
+    "lat": 31.3821,
+    "lon": 34.6065,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%94%D7%A8%D7%95%D7%A8",
+    "title": "תל הרור"
+  },
+  "תל גמה": {
+    "lat": 31.3875,
+    "lon": 34.44472,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%92%D7%9E%D7%94",
+    "title": "תל גמה"
+  },
+  "תל חצור": {
+    "lat": 33.01833,
+    "lon": 35.56917,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%97%D7%A6%D7%95%D7%A8",
+    "title": "תל חצור"
+  },
+  "שעלבים": {
+    "lat": 31.87057,
+    "lon": 34.98379,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%A2%D7%9C%D7%91%D7%99%D7%9D",
+    "title": "שעלבים"
+  },
+  "תל נפוליאון": {
+    "lat": 32.0917,
+    "lon": 34.8075,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A0%D7%A4%D7%95%D7%9C%D7%99%D7%90%D7%95%D7%9F",
+    "title": "תל נפוליאון"
+  },
+  "העיר העתיקה של בית שאן": {
+    "lat": 32.50184,
+    "lon": 35.50156,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A2%D7%99%D7%A8_%D7%94%D7%A2%D7%AA%D7%99%D7%A7%D7%94_%D7%A9%D7%9C_%D7%91%D7%99%D7%AA_%D7%A9%D7%90%D7%9F",
+    "title": "העיר העתיקה של בית שאן"
+  },
+  "באר שבע": {
+    "lat": 31.25311,
+    "lon": 34.78671,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%90%D7%A8_%D7%A9%D7%91%D7%A2",
+    "title": "באר שבע"
+  },
+  "תל מגידו": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "תל לכיש": {
+    "lat": 31.56528,
+    "lon": 34.84917,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9C%D7%9B%D7%99%D7%A9",
+    "title": "תל לכיש"
+  },
+  "שילה (יישוב מקראי)": {
+    "lat": 32.0557,
+    "lon": 35.28954,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%9C%D7%94_(%D7%99%D7%99%D7%A9%D7%95%D7%91_%D7%9E%D7%A7%D7%A8%D7%90%D7%99)",
+    "title": "שילה (יישוב מקראי)"
+  },
+  "נחל לכיש": {
+    "lat": 31.80129,
+    "lon": 34.64172,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C_%D7%9C%D7%9B%D7%99%D7%A9",
+    "title": "נחל לכיש"
+  },
+  "תל באר שבע": {
+    "lat": 31.24472,
+    "lon": 34.84083,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%91%D7%90%D7%A8_%D7%A9%D7%91%D7%A2",
+    "title": "תל באר שבע"
+  },
+  "דיר אל-מדינה": {
+    "lat": 25.72833,
+    "lon": 32.60139,
+    "url": "https://he.wikipedia.org/wiki/%D7%93%D7%99%D7%A8_%D7%90%D7%9C-%D7%9E%D7%93%D7%99%D7%A0%D7%94",
+    "title": "דיר אל-מדינה"
+  },
+  "אשדוד": {
+    "lat": 31.79551,
+    "lon": 34.64966,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A9%D7%93%D7%95%D7%93",
+    "title": "אשדוד"
+  },
+  "בית שמש": {
+    "lat": 31.73683,
+    "lon": 34.98896,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA_%D7%A9%D7%9E%D7%A9",
+    "title": "בית שמש"
+  },
+  "תל דור": {
+    "lat": 32.61743,
+    "lon": 34.91636,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%93%D7%95%D7%A8",
+    "title": "תל דור"
+  },
+  "תל בית שמש": {
+    "lat": 31.75062,
+    "lon": 34.97474,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%91%D7%99%D7%AA_%D7%A9%D7%9E%D7%A9",
+    "title": "תל בית שמש"
+  },
+  "תל יקנעם": {
+    "lat": 32.6641,
+    "lon": 35.10827,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%99%D7%A7%D7%A0%D7%A2%D7%9D",
+    "title": "תל יקנעם"
+  },
+  "תל אשדוד": {
+    "lat": 31.75778,
+    "lon": 34.65861,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%90%D7%A9%D7%93%D7%95%D7%93",
+    "title": "תל אשדוד"
+  },
+  "יבלעם": {
+    "lat": 32.44595,
+    "lon": 35.2926,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%91%D7%9C%D7%A2%D7%9D",
+    "title": "יבלעם"
+  },
+  "תל א-סעידיה": {
+    "lat": 32.32194,
+    "lon": 35.56,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%90-%D7%A1%D7%A2%D7%99%D7%93%D7%99%D7%94",
+    "title": "תל א-סעידיה"
+  },
+  "סעידיה": {
+    "lat": 35.085,
+    "lon": -2.23917,
+    "url": "https://he.wikipedia.org/wiki/%D7%A1%D7%A2%D7%99%D7%93%D7%99%D7%94",
+    "title": "סעידיה"
+  },
+  "העי": {
+    "lat": 31.91618,
+    "lon": 35.26192,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A2%D7%99",
+    "title": "העי"
+  },
+  "תענך": {
+    "lat": 32.52153,
+    "lon": 35.21912,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%A2%D7%A0%D7%9A",
+    "title": "תענך"
+  },
+  "חורבת ראש זית": {
+    "lat": 32.87904,
+    "lon": 35.2287,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A8%D7%90%D7%A9_%D7%96%D7%99%D7%AA",
+    "title": "חורבת ראש זית"
+  },
+  "א-תל": {
+    "lat": 31.91666,
+    "lon": 35.26156,
+    "url": "https://he.wikipedia.org/wiki/%D7%90-%D7%AA%D7%9C",
+    "title": "א-תל"
+  },
+  "עמאן": {
+    "lat": 31.95,
+    "lon": 35.93333,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%90%D7%9F",
+    "title": "עמאן"
+  },
+  "רמת בית שמש": {
+    "lat": 31.70947,
+    "lon": 34.97873,
+    "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%9E%D7%AA_%D7%91%D7%99%D7%AA_%D7%A9%D7%9E%D7%A9",
+    "title": "רמת בית שמש"
+  },
+  "גבעון": {
+    "lat": 31.84808,
+    "lon": 35.18716,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%91%D7%A2%D7%95%D7%9F",
+    "title": "גבעון"
+  },
+  "קומראן": {
+    "lat": 31.7419,
+    "lon": 35.45994,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%9E%D7%A8%D7%90%D7%9F",
+    "title": "קומראן"
+  },
+  "קדש ברנע": {
+    "lat": 30.64833,
+    "lon": 34.42222,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%93%D7%A9_%D7%91%D7%A8%D7%A0%D7%A2",
+    "title": "קדש ברנע"
+  },
+  "תל יזרעאל": {
+    "lat": 32.55785,
+    "lon": 35.32795,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%99%D7%96%D7%A8%D7%A2%D7%90%D7%9C",
+    "title": "תל יזרעאל"
+  },
+  "תל א-נצבה": {
+    "lat": 31.88514,
+    "lon": 35.21642,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%90-%D7%A0%D7%A6%D7%91%D7%94",
+    "title": "תל א-נצבה"
+  },
+  "תל חליף": {
+    "lat": 31.38333,
+    "lon": 34.86564,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%97%D7%9C%D7%99%D7%A3",
+    "title": "תל חליף"
+  },
+  "ארביל": {
+    "lat": 36.19119,
+    "lon": 44.00919,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A8%D7%91%D7%99%D7%9C",
+    "title": "ארביל"
+  },
+  "תל עירא": {
+    "lat": 31.2328,
+    "lon": 34.9867,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A2%D7%99%D7%A8%D7%90",
+    "title": "תל עירא"
+  },
+  "כלח": {
+    "lat": 36.09806,
+    "lon": 43.32889,
+    "url": "https://he.wikipedia.org/wiki/%D7%9B%D7%9C%D7%97",
+    "title": "כלח"
+  },
+  "סאמוס": {
+    "lat": 37.75,
+    "lon": 26.8333,
+    "url": "https://he.wikipedia.org/wiki/%D7%A1%D7%90%D7%9E%D7%95%D7%A1",
+    "title": "סאמוס"
+  },
+  "עוזה": {
+    "lat": 31.59322,
+    "lon": 34.76434,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%95%D7%96%D7%94",
+    "title": "עוזה"
+  },
+  "חורבת עוזה": {
+    "lat": 31.20919,
+    "lon": 35.16567,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A2%D7%95%D7%96%D7%94",
+    "title": "חורבת עוזה"
+  },
+  "מבצר נמרוד": {
+    "lat": 33.25278,
+    "lon": 35.71472,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%91%D7%A6%D7%A8_%D7%A0%D7%9E%D7%A8%D7%95%D7%93",
+    "title": "מבצר נמרוד"
+  },
+  "עזקה": {
+    "lat": 31.70098,
+    "lon": 34.93567,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%96%D7%A7%D7%94",
+    "title": "עזקה"
+  },
+  "עינות ציפורי": {
+    "lat": 32.73364,
+    "lon": 35.27667,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%A0%D7%95%D7%AA_%D7%A6%D7%99%D7%A4%D7%95%D7%A8%D7%99",
+    "title": "עינות ציפורי"
+  },
+  "תל אביב-יפו": {
+    "lat": 32.07632,
+    "lon": 34.78947,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91-%D7%99%D7%A4%D7%95",
+    "title": "תל אביב-יפו"
+  },
+  "עיר דוד": {
+    "lat": 31.77304,
+    "lon": 35.23481,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%A8_%D7%93%D7%95%D7%93",
+    "title": "עיר דוד"
+  },
+  "נקבת השילוח": {
+    "lat": 31.77236,
+    "lon": 35.23567,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%A7%D7%91%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "נקבת השילוח"
+  },
+  "כפר מנחם": {
+    "lat": 31.7298,
+    "lon": 34.83302,
+    "url": "https://he.wikipedia.org/wiki/%D7%9B%D7%A4%D7%A8_%D7%9E%D7%A0%D7%97%D7%9D",
+    "title": "כפר מנחם"
+  },
+  "פרספוליס": {
+    "lat": 29.935,
+    "lon": 52.89,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%A1%D7%A4%D7%95%D7%9C%D7%99%D7%A1",
+    "title": "פרספוליס"
+  },
+  "תל שושן": {
+    "lat": 32.60528,
+    "lon": 35.56444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A9%D7%95%D7%A9%D7%9F",
+    "title": "תל שושן"
+  },
+  "קריית גת": {
+    "lat": 31.6091,
+    "lon": 34.7649,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%99%D7%99%D7%AA_%D7%92%D7%AA",
+    "title": "קריית גת"
+  },
+  "פרגמון": {
+    "lat": 39.12947,
+    "lon": 27.18412,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%92%D7%9E%D7%95%D7%9F",
+    "title": "פרגמון"
+  },
+  "עג'ול": {
+    "lat": 32.02278,
+    "lon": 35.18028,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%92%27%D7%95%D7%9C",
+    "title": "עג'ול"
+  },
+  "גשר בנות יעקב": {
+    "lat": 33.01028,
+    "lon": 35.62829,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%A9%D7%A8_%D7%91%D7%A0%D7%95%D7%AA_%D7%99%D7%A2%D7%A7%D7%91",
+    "title": "גשר בנות יעקב"
+  },
+  "חצבה": {
+    "lat": 30.76806,
+    "lon": 35.27986,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%A6%D7%91%D7%94",
+    "title": "חצבה"
+  },
+  "פיר וורן": {
+    "lat": 31.7731,
+    "lon": 35.2361,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%A8_%D7%95%D7%95%D7%A8%D7%9F",
+    "title": "פיר וורן"
+  },
+  "עין עבדת": {
+    "lat": 30.82639,
+    "lon": 34.76639,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%A2%D7%91%D7%93%D7%AA",
+    "title": "עין עבדת"
+  },
+  "כורסי": {
+    "lat": 32.82609,
+    "lon": 35.65038,
+    "url": "https://he.wikipedia.org/wiki/%D7%9B%D7%95%D7%A8%D7%A1%D7%99",
+    "title": "כורסי"
+  },
+  "מצד חצבה": {
+    "lat": 30.8087,
+    "lon": 35.2459,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A6%D7%93_%D7%97%D7%A6%D7%91%D7%94",
+    "title": "מצד חצבה"
+  },
+  "פצאל": {
+    "lat": 32.04412,
+    "lon": 35.44923,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%A6%D7%90%D7%9C",
+    "title": "פצאל"
+  },
+  "חיפה": {
+    "lat": 32.80375,
+    "lon": 35.00874,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%99%D7%A4%D7%94",
+    "title": "חיפה"
+  },
+  "מערת היונים": {
+    "lat": 32.92009,
+    "lon": 35.21826,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%94%D7%99%D7%95%D7%A0%D7%99%D7%9D",
+    "title": "מערת היונים"
+  },
+  "מעיין אלישע": {
+    "lat": 31.87049,
+    "lon": 35.44476,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%99%D7%99%D7%9F_%D7%90%D7%9C%D7%99%D7%A9%D7%A2",
+    "title": "מעיין אלישע"
+  },
+  "פטרה": {
+    "lat": 30.32861,
+    "lon": 35.44194,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%98%D7%A8%D7%94",
+    "title": "פטרה"
+  },
+  "נווה ים": {
+    "lat": 32.67944,
+    "lon": 34.93064,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%95%D7%95%D7%94_%D7%99%D7%9D",
+    "title": "נווה ים"
+  },
+  "כפר גלים": {
+    "lat": 32.76597,
+    "lon": 34.95898,
+    "url": "https://he.wikipedia.org/wiki/%D7%9B%D7%A4%D7%A8_%D7%92%D7%9C%D7%99%D7%9D",
+    "title": "כפר גלים"
+  },
+  "מוסול": {
+    "lat": 36.36667,
+    "lon": 43.11667,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%95%D7%A1%D7%95%D7%9C",
+    "title": "מוסול"
+  },
+  "תל אפק (אנטיפטריס)": {
+    "lat": 32.105,
+    "lon": 34.93042,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%90%D7%A4%D7%A7_(%D7%90%D7%A0%D7%98%D7%99%D7%A4%D7%98%D7%A8%D7%99%D7%A1)",
+    "title": "תל אפק (אנטיפטריס)"
+  },
+  "שכם": {
+    "lat": 32.22028,
+    "lon": 35.27889,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%9B%D7%9D",
+    "title": "שכם"
+  },
+  "אירביד": {
+    "lat": 32.55556,
+    "lon": 35.85,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%A8%D7%91%D7%99%D7%93",
+    "title": "אירביד"
+  },
+  "רמאללה": {
+    "lat": 31.9,
+    "lon": 35.2,
+    "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%9E%D7%90%D7%9C%D7%9C%D7%94",
+    "title": "רמאללה"
+  },
+  "תל דותן": {
+    "lat": 32.41353,
+    "lon": 35.23986,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%93%D7%95%D7%AA%D7%9F",
+    "title": "תל דותן"
+  },
+  "מחלף שוקת": {
+    "lat": 31.31556,
+    "lon": 34.89231,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%97%D7%9C%D7%A3_%D7%A9%D7%95%D7%A7%D7%AA",
+    "title": "מחלף שוקת"
+  },
+  "עין קדיס": {
+    "lat": 30.64195,
+    "lon": 34.43819,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%A7%D7%93%D7%99%D7%A1",
+    "title": "עין קדיס"
+  },
+  "מרסא מטרוח": {
+    "lat": 31.35278,
+    "lon": 27.23611,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%A1%D7%90_%D7%9E%D7%98%D7%A8%D7%95%D7%97",
+    "title": "מרסא מטרוח"
+  },
+  "חדרה": {
+    "lat": 32.43568,
+    "lon": 34.91851,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%93%D7%A8%D7%94",
+    "title": "חדרה"
+  },
+  "בן שמן": {
+    "lat": 31.95287,
+    "lon": 34.92288,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%9F_%D7%A9%D7%9E%D7%9F",
+    "title": "בן שמן"
+  },
+  "נחל חדרה": {
+    "lat": 32.46444,
+    "lon": 34.88976,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C_%D7%97%D7%93%D7%A8%D7%94",
+    "title": "נחל חדרה"
+  },
+  "תל ירמות": {
+    "lat": 31.7083,
+    "lon": 34.975,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%99%D7%A8%D7%9E%D7%95%D7%AA",
+    "title": "תל ירמות"
+  },
+  "ואדי א-נטוף": {
+    "lat": 31.8713,
+    "lon": 35.25707,
+    "url": "https://he.wikipedia.org/wiki/%D7%95%D7%90%D7%93%D7%99_%D7%90-%D7%A0%D7%98%D7%95%D7%A3",
+    "title": "ואדי א-נטוף"
+  },
+  "גיחון": {
+    "lat": 31.77292,
+    "lon": 35.23638,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%99%D7%97%D7%95%D7%9F",
+    "title": "גיחון"
+  },
+  "בריכת השילוח": {
+    "lat": 31.77056,
+    "lon": 35.235,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%99%D7%9B%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "בריכת השילוח"
+  },
+  "חומס": {
+    "lat": 34.73333,
+    "lon": 36.71667,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%9E%D7%A1",
+    "title": "חומס"
+  },
+  "גן המלך": {
+    "lat": 31.76961,
+    "lon": 35.23592,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%9F_%D7%94%D7%9E%D7%9C%D7%9A",
+    "title": "גן המלך"
+  },
+  "ג'נין": {
+    "lat": 32.45639,
+    "lon": 35.29583,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%27%D7%A0%D7%99%D7%9F",
+    "title": "ג'נין"
+  },
+  "משאבי שדה": {
+    "lat": 31.00327,
+    "lon": 34.78623,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%90%D7%91%D7%99_%D7%A9%D7%93%D7%94",
+    "title": "משאבי שדה"
+  },
+  "שוכה (שפלת יהודה)": {
+    "lat": 31.68249,
+    "lon": 34.97382,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%95%D7%9B%D7%94_(%D7%A9%D7%A4%D7%9C%D7%AA_%D7%99%D7%94%D7%95%D7%93%D7%94)",
+    "title": "שוכה (שפלת יהודה)"
+  },
+  "סאנור": {
+    "lat": 32.35692,
+    "lon": 35.24571,
+    "url": "https://he.wikipedia.org/wiki/%D7%A1%D7%90%D7%A0%D7%95%D7%A8",
+    "title": "סאנור"
+  },
+  "יעבד": {
+    "lat": 32.44613,
+    "lon": 35.17211,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%A2%D7%91%D7%93",
+    "title": "יעבד"
+  },
+  "טנטורה": {
+    "lat": 32.6094,
+    "lon": 34.91768,
+    "url": "https://he.wikipedia.org/wiki/%D7%98%D7%A0%D7%98%D7%95%D7%A8%D7%94",
+    "title": "טנטורה"
+  },
+  "עין כרם": {
+    "lat": 31.76673,
+    "lon": 35.162,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%9B%D7%A8%D7%9D",
+    "title": "עין כרם"
+  },
+  "אל-בירה": {
+    "lat": 31.90514,
+    "lon": 35.21496,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9C-%D7%91%D7%99%D7%A8%D7%94",
+    "title": "אל-בירה"
+  },
+  "גילה": {
+    "lat": 31.73139,
+    "lon": 35.18639,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%99%D7%9C%D7%94",
+    "title": "גילה"
+  },
+  "עזבת צרטה": {
+    "lat": 32.1046,
+    "lon": 34.9645,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%96%D7%91%D7%AA_%D7%A6%D7%A8%D7%98%D7%94",
+    "title": "עזבת צרטה"
+  },
+  "תל אל פול": {
+    "lat": 31.82316,
+    "lon": 35.23105,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%90%D7%9C_%D7%A4%D7%95%D7%9C",
+    "title": "תל אל פול"
+  },
+  "תל בית מירסים": {
+    "lat": 31.45,
+    "lon": 34.91667,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%91%D7%99%D7%AA_%D7%9E%D7%99%D7%A8%D7%A1%D7%99%D7%9D",
+    "title": "תל בית מירסים"
+  },
+  "קברי המלכים": {
+    "lat": 31.78852,
+    "lon": 35.22919,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%91%D7%A8%D7%99_%D7%94%D7%9E%D7%9C%D7%9B%D7%99%D7%9D",
+    "title": "קברי המלכים"
+  },
+  "איסטנבול": {
+    "lat": 41.01224,
+    "lon": 28.97602,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%A1%D7%98%D7%A0%D7%91%D7%95%D7%9C",
+    "title": "איסטנבול"
+  },
+  "שער שכם": {
+    "lat": 31.78164,
+    "lon": 35.2305,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%A2%D7%A8_%D7%A9%D7%9B%D7%9D",
+    "title": "שער שכם"
+  },
+  "עין קובי": {
+    "lat": 31.72599,
+    "lon": 35.11713,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%A7%D7%95%D7%91%D7%99",
+    "title": "עין קובי"
+  },
+  "בריכות שלמה": {
+    "lat": 31.68899,
+    "lon": 35.16982,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%99%D7%9B%D7%95%D7%AA_%D7%A9%D7%9C%D7%9E%D7%94",
+    "title": "בריכות שלמה"
+  },
+  "ג'ית": {
+    "lat": 32.21472,
+    "lon": 35.16972,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%27%D7%99%D7%AA",
+    "title": "ג'ית"
+  },
+  "האקרופוליס באתונה": {
+    "lat": 37.97167,
+    "lon": 23.72611,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%A7%D7%A8%D7%95%D7%A4%D7%95%D7%9C%D7%99%D7%A1_%D7%91%D7%90%D7%AA%D7%95%D7%A0%D7%94",
+    "title": "האקרופוליס באתונה"
+  },
+  "מעיין חרוד": {
+    "lat": 32.54861,
+    "lon": 35.35583,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%99%D7%99%D7%9F_%D7%97%D7%A8%D7%95%D7%93",
+    "title": "מעיין חרוד"
+  },
+  "זירעין": {
+    "lat": 32.5575,
+    "lon": 35.3278,
+    "url": "https://he.wikipedia.org/wiki/%D7%96%D7%99%D7%A8%D7%A2%D7%99%D7%9F",
+    "title": "זירעין"
+  },
+  "עין סמיה": {
+    "lat": 31.98925,
+    "lon": 35.33333,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%A1%D7%9E%D7%99%D7%94",
+    "title": "עין סמיה"
+  },
+  "כפר עציון": {
+    "lat": 31.64987,
+    "lon": 35.11525,
+    "url": "https://he.wikipedia.org/wiki/%D7%9B%D7%A4%D7%A8_%D7%A2%D7%A6%D7%99%D7%95%D7%9F",
+    "title": "כפר עציון"
+  },
+  "שדה בוקר": {
+    "lat": 30.87341,
+    "lon": 34.79318,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%93%D7%94_%D7%91%D7%95%D7%A7%D7%A8",
+    "title": "שדה בוקר"
+  },
+  "חמה (עיר)": {
+    "lat": 35.135,
+    "lon": 36.75,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%9E%D7%94_(%D7%A2%D7%99%D7%A8)",
+    "title": "חמה (עיר)"
+  },
+  "בורות לוץ": {
+    "lat": 30.51333,
+    "lon": 34.60889,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%95%D7%A8%D7%95%D7%AA_%D7%9C%D7%95%D7%A5",
+    "title": "בורות לוץ"
+  },
+  "חורבת רחבה": {
+    "lat": 31.05174,
+    "lon": 35.02883,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A8%D7%97%D7%91%D7%94",
+    "title": "חורבת רחבה"
+  },
+  "ירוחם": {
+    "lat": 30.98796,
+    "lon": 34.929,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%A8%D7%95%D7%97%D7%9D",
+    "title": "ירוחם"
+  },
+  "אל-עין": {
+    "lat": 24.2075,
+    "lon": 55.74472,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9C-%D7%A2%D7%99%D7%9F",
+    "title": "אל-עין"
+  },
+  "אנקרה": {
+    "lat": 39.86667,
+    "lon": 30.86667,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%A7%D7%A8%D7%94",
+    "title": "אנקרה"
+  },
+  "נינוה": {
+    "lat": 36.36667,
+    "lon": 43.15,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%99%D7%A0%D7%95%D7%94",
+    "title": "נינוה"
+  },
+  "ג'רוואן": {
+    "lat": 36.66972,
+    "lon": 43.39361,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%27%D7%A8%D7%95%D7%95%D7%90%D7%9F",
+    "title": "ג'רוואן"
+  },
+  "אשקלון": {
+    "lat": 31.66872,
+    "lon": 34.57407,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A9%D7%A7%D7%9C%D7%95%D7%9F",
+    "title": "אשקלון"
+  },
+  "מידבא": {
+    "lat": 31.71667,
+    "lon": 35.8,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%99%D7%93%D7%91%D7%90",
+    "title": "מידבא"
+  },
+  "תל קדש": {
+    "lat": 33.11164,
+    "lon": 35.52952,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A7%D7%93%D7%A9",
+    "title": "תל קדש"
+  },
+  "תל רחוב": {
+    "lat": 32.45712,
+    "lon": 35.49824,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A8%D7%97%D7%95%D7%91",
+    "title": "תל רחוב"
+  },
+  "תל מלחתה": {
+    "lat": 31.2172,
+    "lon": 35.0258,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%9C%D7%97%D7%AA%D7%94",
+    "title": "תל מלחתה"
+  },
+  "אשקלון (עיר עתיקה)": {
+    "lat": 31.66194,
+    "lon": 34.54611,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A9%D7%A7%D7%9C%D7%95%D7%9F_(%D7%A2%D7%99%D7%A8_%D7%A2%D7%AA%D7%99%D7%A7%D7%94)",
+    "title": "אשקלון (עיר עתיקה)"
+  },
+  "רחובות": {
+    "lat": 31.89169,
+    "lon": 34.80785,
+    "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%97%D7%95%D7%91%D7%95%D7%AA",
+    "title": "רחובות"
+  },
+  "תל צפית": {
+    "lat": 31.69937,
+    "lon": 34.84669,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A6%D7%A4%D7%99%D7%AA",
+    "title": "תל צפית"
+  },
+  "עכו": {
+    "lat": 32.9281,
+    "lon": 35.08437,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%9B%D7%95",
+    "title": "עכו"
+  },
+  "צידון": {
+    "lat": 33.56083,
+    "lon": 35.37194,
+    "url": "https://he.wikipedia.org/wiki/%D7%A6%D7%99%D7%93%D7%95%D7%9F",
+    "title": "צידון"
+  },
+  "רומא": {
+    "lat": 41.89306,
+    "lon": 12.48278,
+    "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%95%D7%9E%D7%90",
+    "title": "רומא"
+  },
+  "תל עכו": {
+    "lat": 32.92111,
+    "lon": 35.08833,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A2%D7%9B%D7%95",
+    "title": "תל עכו"
+  },
+  "הכפר הנאוליתי בעתלית-ים": {
+    "lat": 32.71083,
+    "lon": 34.93515,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%9B%D7%A4%D7%A8_%D7%94%D7%A0%D7%90%D7%95%D7%9C%D7%99%D7%AA%D7%99_%D7%91%D7%A2%D7%AA%D7%9C%D7%99%D7%AA-%D7%99%D7%9D",
+    "title": "הכפר הנאוליתי בעתלית-ים"
+  },
+  "חורבת רומא": {
+    "lat": 32.78892,
+    "lon": 35.29321,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A8%D7%95%D7%9E%D7%90",
+    "title": "חורבת רומא"
+  },
+  "עפרה": {
+    "lat": 31.95209,
+    "lon": 35.26611,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%A4%D7%A8%D7%94",
+    "title": "עפרה"
+  },
+  "מכמש": {
+    "lat": 31.87195,
+    "lon": 35.27607,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%9B%D7%9E%D7%A9",
+    "title": "מכמש"
+  },
+  "רנתיס": {
+    "lat": 32.02806,
+    "lon": 35.01944,
+    "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%A0%D7%AA%D7%99%D7%A1",
+    "title": "רנתיס"
+  },
+  "אשדוד ים": {
+    "lat": 31.78028,
+    "lon": 34.62222,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A9%D7%93%D7%95%D7%93_%D7%99%D7%9D",
+    "title": "אשדוד ים"
+  },
+  "פילוס": {
+    "lat": 36.91233,
+    "lon": 21.69607,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%9C%D7%95%D7%A1",
+    "title": "פילוס"
+  },
+  "תל עירני": {
+    "lat": 31.61209,
+    "lon": 34.78622,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A2%D7%99%D7%A8%D7%A0%D7%99",
+    "title": "תל עירני"
+  },
+  "עין ע'זאל": {
+    "lat": 32.63194,
+    "lon": 34.96736,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%A2%27%D7%96%D7%90%D7%9C",
+    "title": "עין ע'זאל"
+  },
+  "תל עיטון": {
+    "lat": 31.49033,
+    "lon": 34.92837,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A2%D7%99%D7%98%D7%95%D7%9F",
+    "title": "תל עיטון"
+  },
+  "צפת": {
+    "lat": 32.96476,
+    "lon": 35.50458,
+    "url": "https://he.wikipedia.org/wiki/%D7%A6%D7%A4%D7%AA",
+    "title": "צפת"
+  },
+  "עזה": {
+    "lat": 31.5075,
+    "lon": 34.45972,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%96%D7%94",
+    "title": "עזה"
+  },
+  "קוניטרה": {
+    "lat": 33.11667,
+    "lon": 35.81667,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%A0%D7%99%D7%98%D7%A8%D7%94",
+    "title": "קוניטרה"
+  },
+  "חולון": {
+    "lat": 32.01686,
+    "lon": 34.77916,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%9C%D7%95%D7%9F",
+    "title": "חולון"
+  },
+  "אל-ואד": {
+    "lat": 33.12231,
+    "lon": 7.18318,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9C-%D7%95%D7%90%D7%93",
+    "title": "אל-ואד"
+  },
+  "מערת הנחל": {
+    "lat": 32.67076,
+    "lon": 34.96626,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%94%D7%A0%D7%97%D7%9C",
+    "title": "מערת הנחל"
+  },
+  "נחל עמוד": {
+    "lat": 32.88092,
+    "lon": 35.50326,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C_%D7%A2%D7%9E%D7%95%D7%93",
+    "title": "נחל עמוד"
+  },
+  "מערת תנור": {
+    "lat": 32.6705,
+    "lon": 34.9655,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%AA%D7%A0%D7%95%D7%A8",
+    "title": "מערת תנור"
+  },
+  "מערת כבארה": {
+    "lat": 32.55772,
+    "lon": 34.93667,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%9B%D7%91%D7%90%D7%A8%D7%94",
+    "title": "מערת כבארה"
+  },
+  "מערת ספונים": {
+    "lat": 32.73611,
+    "lon": 34.97694,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%A1%D7%A4%D7%95%D7%A0%D7%99%D7%9D",
+    "title": "מערת ספונים"
+  },
+  "מערת הגדי": {
+    "lat": 32.62586,
+    "lon": 34.95852,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%94%D7%92%D7%93%D7%99",
+    "title": "מערת הגדי"
+  },
+  "מערת רקפת": {
+    "lat": 32.65404,
+    "lon": 35.0774,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%A8%D7%A7%D7%A4%D7%AA",
+    "title": "מערת רקפת"
+  },
+  "מערת עמוד": {
+    "lat": 32.87227,
+    "lon": 35.50168,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%A2%D7%9E%D7%95%D7%93",
+    "title": "מערת עמוד"
+  },
+  "כפר דרום": {
+    "lat": 31.40361,
+    "lon": 34.35528,
+    "url": "https://he.wikipedia.org/wiki/%D7%9B%D7%A4%D7%A8_%D7%93%D7%A8%D7%95%D7%9D",
+    "title": "כפר דרום"
+  },
+  "אל-ח'יאם": {
+    "lat": 33.32717,
+    "lon": 35.6111,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9C-%D7%97%27%D7%99%D7%90%D7%9D",
+    "title": "אל-ח'יאם"
+  },
+  "אילת": {
+    "lat": 29.55392,
+    "lon": 34.94422,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%9C%D7%AA",
+    "title": "אילת"
+  },
+  "שטח C": {
+    "lat": 32,
+    "lon": 35.41667,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%98%D7%97_C",
+    "title": "שטח C"
+  },
+  "קריית שמונה": {
+    "lat": 33.21163,
+    "lon": 35.5732,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%99%D7%99%D7%AA_%D7%A9%D7%9E%D7%95%D7%A0%D7%94",
+    "title": "קריית שמונה"
+  },
+  "ראש פינה": {
+    "lat": 32.96908,
+    "lon": 35.54246,
+    "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%90%D7%A9_%D7%A4%D7%99%D7%A0%D7%94",
+    "title": "ראש פינה"
+  },
+  "עין איתמר": {
+    "lat": 31.74096,
+    "lon": 35.14698,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%90%D7%99%D7%AA%D7%9E%D7%A8",
+    "title": "עין איתמר"
+  },
+  "מנהרות הכותל": {
+    "lat": 31.77698,
+    "lon": 35.23447,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%94%D7%A8%D7%95%D7%AA_%D7%94%D7%9B%D7%95%D7%AA%D7%9C",
+    "title": "מנהרות הכותל"
+  },
+  "אורפה": {
+    "lat": 37.15,
+    "lon": 38.8,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A8%D7%A4%D7%94",
+    "title": "אורפה"
+  },
+  "טביליסי": {
+    "lat": 41.7225,
+    "lon": 44.7925,
+    "url": "https://he.wikipedia.org/wiki/%D7%98%D7%91%D7%99%D7%9C%D7%99%D7%A1%D7%99",
+    "title": "טביליסי"
+  },
+  "באקו": {
+    "lat": 40.36667,
+    "lon": 49.83333,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%90%D7%A7%D7%95",
+    "title": "באקו"
+  },
+  "טרבזון": {
+    "lat": 41.00639,
+    "lon": 39.73056,
+    "url": "https://he.wikipedia.org/wiki/%D7%98%D7%A8%D7%91%D7%96%D7%95%D7%9F",
+    "title": "טרבזון"
+  },
+  "ארזורום": {
+    "lat": 39.91667,
+    "lon": 41.28333,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A8%D7%96%D7%95%D7%A8%D7%95%D7%9D",
+    "title": "ארזורום"
+  },
+  "אראכ": {
+    "lat": 34.053,
+    "lon": 49.4121,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A8%D7%90%D7%9B",
+    "title": "אראכ"
+  },
+  "ירוואן": {
+    "lat": 40.18333,
+    "lon": 44.51667,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%A8%D7%95%D7%95%D7%90%D7%9F",
+    "title": "ירוואן"
+  },
+  "עתלית": {
+    "lat": 32.69101,
+    "lon": 34.94266,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%AA%D7%9C%D7%99%D7%AA",
+    "title": "עתלית"
+  },
+  "מבצר עתלית": {
+    "lat": 32.70528,
+    "lon": 34.93389,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%91%D7%A6%D7%A8_%D7%A2%D7%AA%D7%9C%D7%99%D7%AA",
+    "title": "מבצר עתלית"
+  },
+  "אוס": {
+    "lat": 51.76667,
+    "lon": 5.51667,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A1",
+    "title": "אוס"
+  },
+  "Çatalhöyük": {
+    "lat": 37.66667,
+    "lon": 32.82806,
+    "url": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk",
+    "title": "Çatalhöyük"
+  },
+  "Atlit Yam": {
+    "lat": 32.71083,
+    "lon": 34.93515,
+    "url": "https://en.wikipedia.org/wiki/Atlit_Yam",
+    "title": "Atlit Yam"
+  },
+  "Hacilar": {
+    "lat": 37.58483,
+    "lon": 30.08447,
+    "url": "https://en.wikipedia.org/wiki/Hacilar",
+    "title": "Hacilar"
+  },
+  "Qanawat": {
+    "lat": 32.75556,
+    "lon": 36.61667,
+    "url": "https://en.wikipedia.org/wiki/Qanawat",
+    "title": "Qanawat"
+  },
+  "Ein Gev": {
+    "lat": 32.78278,
+    "lon": 35.63972,
+    "url": "https://en.wikipedia.org/wiki/Ein_Gev",
+    "title": "Ein Gev"
+  },
+  "Tepe Gawra": {
+    "lat": 36.49556,
+    "lon": 43.26028,
+    "url": "https://en.wikipedia.org/wiki/Tepe_Gawra",
+    "title": "Tepe Gawra"
+  },
+  "Megadim": {
+    "lat": 32.72917,
+    "lon": 34.95917,
+    "url": "https://en.wikipedia.org/wiki/Megadim",
+    "title": "Megadim"
+  },
+  "Netiv HaGdud": {
+    "lat": 31.98833,
+    "lon": 35.44472,
+    "url": "https://en.wikipedia.org/wiki/Netiv_HaGdud",
+    "title": "Netiv HaGdud"
+  },
+  "Jerusalem": {
+    "lat": 31.77889,
+    "lon": 35.22556,
+    "url": "https://en.wikipedia.org/wiki/Jerusalem",
+    "title": "Jerusalem"
+  },
+  "Jericho": {
+    "lat": 31.85611,
+    "lon": 35.46,
+    "url": "https://en.wikipedia.org/wiki/Jericho",
+    "title": "Jericho"
+  },
+  "Dan (ancient city)": {
+    "lat": 33.249,
+    "lon": 35.652,
+    "url": "https://en.wikipedia.org/wiki/Dan_(ancient_city)",
+    "title": "Dan (ancient city)"
+  },
+  "Qatna": {
+    "lat": 34.835,
+    "lon": 36.86583,
+    "url": "https://en.wikipedia.org/wiki/Qatna",
+    "title": "Qatna"
+  },
+  "Metzer": {
+    "lat": 32.44,
+    "lon": 35.0475,
+    "url": "https://en.wikipedia.org/wiki/Metzer",
+    "title": "Metzer"
+  },
+  "Tel Kabri": {
+    "lat": 33.00838,
+    "lon": 35.13908,
+    "url": "https://en.wikipedia.org/wiki/Tel_Kabri",
+    "title": "Tel Kabri"
+  },
+  "Tell es-Sultan": {
+    "lat": 31.87111,
+    "lon": 35.44389,
+    "url": "https://en.wikipedia.org/wiki/Tell_es-Sultan",
+    "title": "Tell es-Sultan"
+  },
+  "Athens": {
+    "lat": 37.98417,
+    "lon": 23.72806,
+    "url": "https://en.wikipedia.org/wiki/Athens",
+    "title": "Athens"
+  },
+  "Mycenae": {
+    "lat": 37.73028,
+    "lon": 22.7575,
+    "url": "https://en.wikipedia.org/wiki/Mycenae",
+    "title": "Mycenae"
+  },
+  "Tel Lachish": {
+    "lat": 31.565,
+    "lon": 34.84889,
+    "url": "https://en.wikipedia.org/wiki/Tel_Lachish",
+    "title": "Tel Lachish"
+  },
+  "Tiryns": {
+    "lat": 37.59944,
+    "lon": 22.8,
+    "url": "https://en.wikipedia.org/wiki/Tiryns",
+    "title": "Tiryns"
+  },
+  "Ebla": {
+    "lat": 35.798,
+    "lon": 36.798,
+    "url": "https://en.wikipedia.org/wiki/Ebla",
+    "title": "Ebla"
+  },
+  "Arad, Israel": {
+    "lat": 31.26111,
+    "lon": 35.21528,
+    "url": "https://en.wikipedia.org/wiki/Arad,_Israel",
+    "title": "Arad, Israel"
+  },
+  "Beit She'an": {
+    "lat": 32.5,
+    "lon": 35.5,
+    "url": "https://en.wikipedia.org/wiki/Beit_She%27an",
+    "title": "Beit She'an"
+  },
+  "Busaira, Jordan": {
+    "lat": 30.73889,
+    "lon": 35.60722,
+    "url": "https://en.wikipedia.org/wiki/Busaira,_Jordan",
+    "title": "Busaira, Jordan"
+  },
+  "Bosra": {
+    "lat": 32.51833,
+    "lon": 36.48056,
+    "url": "https://en.wikipedia.org/wiki/Bosra",
+    "title": "Bosra"
+  },
+  "Tel Megiddo": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://en.wikipedia.org/wiki/Tel_Megiddo",
+    "title": "Tel Megiddo"
+  },
+  "Ashdod": {
+    "lat": 31.8,
+    "lon": 34.65,
+    "url": "https://en.wikipedia.org/wiki/Ashdod",
+    "title": "Ashdod"
+  },
+  "Beersheba": {
+    "lat": 31.2522,
+    "lon": 34.7867,
+    "url": "https://en.wikipedia.org/wiki/Beersheba",
+    "title": "Beersheba"
+  },
+  "Beit Shemesh": {
+    "lat": 31.74556,
+    "lon": 34.98667,
+    "url": "https://en.wikipedia.org/wiki/Beit_Shemesh",
+    "title": "Beit Shemesh"
+  },
+  "Deir el-Medina": {
+    "lat": 25.7283,
+    "lon": 32.6014,
+    "url": "https://en.wikipedia.org/wiki/Deir_el-Medina",
+    "title": "Deir el-Medina"
+  },
+  "Tel Dor": {
+    "lat": 32.6175,
+    "lon": 34.9175,
+    "url": "https://en.wikipedia.org/wiki/Tel_Dor",
+    "title": "Tel Dor"
+  },
+  "Tel Yokneam": {
+    "lat": 32.66417,
+    "lon": 35.10175,
+    "url": "https://en.wikipedia.org/wiki/Tel_Yokneam",
+    "title": "Tel Yokneam"
+  },
+  "Tel Beit Shemesh": {
+    "lat": 31.75056,
+    "lon": 34.975,
+    "url": "https://en.wikipedia.org/wiki/Tel_Beit_Shemesh",
+    "title": "Tel Beit Shemesh"
+  },
+  "Ashdod (ancient city)": {
+    "lat": 31.75361,
+    "lon": 34.66167,
+    "url": "https://en.wikipedia.org/wiki/Ashdod_(ancient_city)",
+    "title": "Ashdod (ancient city)"
+  },
+  "Amman": {
+    "lat": 31.94972,
+    "lon": 35.93278,
+    "url": "https://en.wikipedia.org/wiki/Amman",
+    "title": "Amman"
+  },
+  "Anathoth": {
+    "lat": 31.8141,
+    "lon": 35.2647,
+    "url": "https://en.wikipedia.org/wiki/Anathoth",
+    "title": "Anathoth"
+  },
+  "Kadesh (biblical)": {
+    "lat": 30.6425,
+    "lon": 34.41361,
+    "url": "https://en.wikipedia.org/wiki/Kadesh_(biblical)",
+    "title": "Kadesh (biblical)"
+  },
+  "Heshbon": {
+    "lat": 31.80083,
+    "lon": 35.80889,
+    "url": "https://en.wikipedia.org/wiki/Heshbon",
+    "title": "Heshbon"
+  },
+  "Ta'anakh": {
+    "lat": 32.55347,
+    "lon": 35.27092,
+    "url": "https://en.wikipedia.org/wiki/Ta%27anakh",
+    "title": "Ta'anakh"
+  },
+  "Ti'inik": {
+    "lat": 32.51972,
+    "lon": 35.22111,
+    "url": "https://en.wikipedia.org/wiki/Ti%27inik",
+    "title": "Ti'inik"
+  },
+  "Qumran": {
+    "lat": 31.74083,
+    "lon": 35.45861,
+    "url": "https://en.wikipedia.org/wiki/Qumran",
+    "title": "Qumran"
+  },
+  "Aroer": {
+    "lat": 31.4672,
+    "lon": 35.5633,
+    "url": "https://en.wikipedia.org/wiki/Aroer",
+    "title": "Aroer"
+  },
+  "Toprakkale (castle)": {
+    "lat": 38.52056,
+    "lon": 43.40389,
+    "url": "https://en.wikipedia.org/wiki/Toprakkale_(castle)",
+    "title": "Toprakkale (castle)"
+  },
+  "Al Jib": {
+    "lat": 31.85139,
+    "lon": 35.18444,
+    "url": "https://en.wikipedia.org/wiki/Al_Jib",
+    "title": "Al Jib"
+  },
+  "Erbil": {
+    "lat": 36.19119,
+    "lon": 44.00919,
+    "url": "https://en.wikipedia.org/wiki/Erbil",
+    "title": "Erbil"
+  },
+  "Horvat Uza": {
+    "lat": 31.20917,
+    "lon": 35.16556,
+    "url": "https://en.wikipedia.org/wiki/Horvat_Uza",
+    "title": "Horvat Uza"
+  },
+  "Tel Halif": {
+    "lat": 31.38306,
+    "lon": 34.86614,
+    "url": "https://en.wikipedia.org/wiki/Tel_Halif",
+    "title": "Tel Halif"
+  },
+  "Tel Ira": {
+    "lat": 31.23252,
+    "lon": 34.98726,
+    "url": "https://en.wikipedia.org/wiki/Tel_Ira",
+    "title": "Tel Ira"
+  },
+  "Tel Aviv": {
+    "lat": 32.08,
+    "lon": 34.78,
+    "url": "https://en.wikipedia.org/wiki/Tel_Aviv",
+    "title": "Tel Aviv"
+  },
+  "Susa": {
+    "lat": 32.19056,
+    "lon": 48.25778,
+    "url": "https://en.wikipedia.org/wiki/Susa",
+    "title": "Susa"
+  },
+  "Persepolis": {
+    "lat": 29.935,
+    "lon": 52.89,
+    "url": "https://en.wikipedia.org/wiki/Persepolis",
+    "title": "Persepolis"
+  },
+  "Ecbatana": {
+    "lat": 34.80639,
+    "lon": 48.51611,
+    "url": "https://en.wikipedia.org/wiki/Ecbatana",
+    "title": "Ecbatana"
+  },
+  "Nimrud": {
+    "lat": 36.09806,
+    "lon": 43.32889,
+    "url": "https://en.wikipedia.org/wiki/Nimrud",
+    "title": "Nimrud"
+  },
+  "Azekah": {
+    "lat": 31.70028,
+    "lon": 34.93583,
+    "url": "https://en.wikipedia.org/wiki/Azekah",
+    "title": "Azekah"
+  },
+  "Sepphoris": {
+    "lat": 32.74556,
+    "lon": 35.27861,
+    "url": "https://en.wikipedia.org/wiki/Sepphoris",
+    "title": "Sepphoris"
+  },
+  "Samos": {
+    "lat": 37.75,
+    "lon": 26.83333,
+    "url": "https://en.wikipedia.org/wiki/Samos",
+    "title": "Samos"
+  },
+  "Tunnel of Eupalinos": {
+    "lat": 37.694,
+    "lon": 26.93,
+    "url": "https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos",
+    "title": "Tunnel of Eupalinos"
+  },
+  "Siloam tunnel": {
+    "lat": 31.77236,
+    "lon": 35.23567,
+    "url": "https://en.wikipedia.org/wiki/Siloam_tunnel",
+    "title": "Siloam tunnel"
+  },
+  "Pergamon": {
+    "lat": 39.1325,
+    "lon": 27.18417,
+    "url": "https://en.wikipedia.org/wiki/Pergamon",
+    "title": "Pergamon"
+  },
+  "Haifa": {
+    "lat": 32.81917,
+    "lon": 34.99917,
+    "url": "https://en.wikipedia.org/wiki/Haifa",
+    "title": "Haifa"
+  },
+  "Kiryat Gat": {
+    "lat": 31.60611,
+    "lon": 34.77167,
+    "url": "https://en.wikipedia.org/wiki/Kiryat_Gat",
+    "title": "Kiryat Gat"
+  },
+  "Azraq, Jordan": {
+    "lat": 31.83417,
+    "lon": 36.815,
+    "url": "https://en.wikipedia.org/wiki/Azraq,_Jordan",
+    "title": "Azraq, Jordan"
+  },
+  "Warren's Shaft": {
+    "lat": 31.77309,
+    "lon": 35.23607,
+    "url": "https://en.wikipedia.org/wiki/Warren%27s_Shaft",
+    "title": "Warren's Shaft"
+  },
+  "Hatzeva": {
+    "lat": 30.76778,
+    "lon": 35.28028,
+    "url": "https://en.wikipedia.org/wiki/Hatzeva",
+    "title": "Hatzeva"
+  },
+  "Daughters of Jacob Bridge": {
+    "lat": 33.01028,
+    "lon": 35.62829,
+    "url": "https://en.wikipedia.org/wiki/Daughters_of_Jacob_Bridge",
+    "title": "Daughters of Jacob Bridge"
+  },
+  "Ajjul": {
+    "lat": 32.02278,
+    "lon": 35.18028,
+    "url": "https://en.wikipedia.org/wiki/Ajjul",
+    "title": "Ajjul"
+  },
+  "Ein Avdat": {
+    "lat": 30.82639,
+    "lon": 34.76667,
+    "url": "https://en.wikipedia.org/wiki/Ein_Avdat",
+    "title": "Ein Avdat"
+  },
+  "Baysamun": {
+    "lat": 33.0975,
+    "lon": 35.58167,
+    "url": "https://en.wikipedia.org/wiki/Baysamun",
+    "title": "Baysamun"
+  },
+  "Tigris": {
+    "lat": 31.005,
+    "lon": 47.44194,
+    "url": "https://en.wikipedia.org/wiki/Tigris",
+    "title": "Tigris"
+  },
+  "Tel Dothan": {
+    "lat": 32.41353,
+    "lon": 35.23986,
+    "url": "https://en.wikipedia.org/wiki/Tel_Dothan",
+    "title": "Tel Dothan"
+  },
+  "Mosul": {
+    "lat": 36.34167,
+    "lon": 43.12917,
+    "url": "https://en.wikipedia.org/wiki/Mosul",
+    "title": "Mosul"
+  },
+  "Nablus": {
+    "lat": 32.22111,
+    "lon": 35.26083,
+    "url": "https://en.wikipedia.org/wiki/Nablus",
+    "title": "Nablus"
+  },
+  "Shechem": {
+    "lat": 32.21362,
+    "lon": 35.28199,
+    "url": "https://en.wikipedia.org/wiki/Shechem",
+    "title": "Shechem"
+  },
+  "Gilgal": {
+    "lat": 32.033,
+    "lon": 35.4757,
+    "url": "https://en.wikipedia.org/wiki/Gilgal",
+    "title": "Gilgal"
+  },
+  "Irbid": {
+    "lat": 32.55,
+    "lon": 35.85,
+    "url": "https://en.wikipedia.org/wiki/Irbid",
+    "title": "Irbid"
+  },
+  "Burdur": {
+    "lat": 37.71944,
+    "lon": 30.28333,
+    "url": "https://en.wikipedia.org/wiki/Burdur",
+    "title": "Burdur"
+  },
+  "Khosr River": {
+    "lat": 36.34528,
+    "lon": 43.14083,
+    "url": "https://en.wikipedia.org/wiki/Khosr_River",
+    "title": "Khosr River"
+  },
+  "Sakaka, Saudi Arabia": {
+    "lat": 29.96972,
+    "lon": 40.2,
+    "url": "https://en.wikipedia.org/wiki/Sakaka,_Saudi_Arabia",
+    "title": "Sakaka, Saudi Arabia"
+  },
+  "Pool of Siloam": {
+    "lat": 31.77056,
+    "lon": 35.235,
+    "url": "https://en.wikipedia.org/wiki/Pool_of_Siloam",
+    "title": "Pool of Siloam"
+  },
+  "Hadera": {
+    "lat": 32.45,
+    "lon": 34.91667,
+    "url": "https://en.wikipedia.org/wiki/Hadera",
+    "title": "Hadera"
+  },
+  "Ben Shemen": {
+    "lat": 31.95389,
+    "lon": 34.925,
+    "url": "https://en.wikipedia.org/wiki/Ben_Shemen",
+    "title": "Ben Shemen"
+  },
+  "Gihon Spring": {
+    "lat": 31.77306,
+    "lon": 35.23639,
+    "url": "https://en.wikipedia.org/wiki/Gihon_Spring",
+    "title": "Gihon Spring"
+  },
+  "Hadera Stream": {
+    "lat": 32.42536,
+    "lon": 34.99021,
+    "url": "https://en.wikipedia.org/wiki/Hadera_Stream",
+    "title": "Hadera Stream"
+  },
+  "Silwan": {
+    "lat": 31.77,
+    "lon": 35.237,
+    "url": "https://en.wikipedia.org/wiki/Silwan",
+    "title": "Silwan"
+  },
+  "Fahma": {
+    "lat": 32.38333,
+    "lon": 35.17944,
+    "url": "https://en.wikipedia.org/wiki/Fahma",
+    "title": "Fahma"
+  },
+  "Bareket": {
+    "lat": 32.015,
+    "lon": 34.94417,
+    "url": "https://en.wikipedia.org/wiki/Bareket",
+    "title": "Bareket"
+  },
+  "Jarmuth": {
+    "lat": 31.70833,
+    "lon": 34.975,
+    "url": "https://en.wikipedia.org/wiki/Jarmuth",
+    "title": "Jarmuth"
+  },
+  "Shabtin": {
+    "lat": 31.97389,
+    "lon": 35.04972,
+    "url": "https://en.wikipedia.org/wiki/Shabtin",
+    "title": "Shabtin"
+  },
+  "Jenin": {
+    "lat": 32.46111,
+    "lon": 35.3,
+    "url": "https://en.wikipedia.org/wiki/Jenin",
+    "title": "Jenin"
+  },
+  "Homs": {
+    "lat": 34.73083,
+    "lon": 36.70944,
+    "url": "https://en.wikipedia.org/wiki/Homs",
+    "title": "Homs"
+  },
+  "Mashabei Sadeh": {
+    "lat": 31.00389,
+    "lon": 34.78833,
+    "url": "https://en.wikipedia.org/wiki/Mashabei_Sadeh",
+    "title": "Mashabei Sadeh"
+  },
+  "Leontopolis (Heliopolis)": {
+    "lat": 30.29339,
+    "lon": 31.33261,
+    "url": "https://en.wikipedia.org/wiki/Leontopolis_(Heliopolis)",
+    "title": "Leontopolis (Heliopolis)"
+  },
+  "Acropolis of Athens": {
+    "lat": 37.97167,
+    "lon": 23.72611,
+    "url": "https://en.wikipedia.org/wiki/Acropolis_of_Athens",
+    "title": "Acropolis of Athens"
+  },
+  "Zaretan": {
+    "lat": 32.0958,
+    "lon": 35.4614,
+    "url": "https://en.wikipedia.org/wiki/Zaretan",
+    "title": "Zaretan"
+  },
+  "Treasury of Atreus": {
+    "lat": 37.72682,
+    "lon": 22.75387,
+    "url": "https://en.wikipedia.org/wiki/Treasury_of_Atreus",
+    "title": "Treasury of Atreus"
+  },
+  "Al-Bireh": {
+    "lat": 31.90528,
+    "lon": 35.215,
+    "url": "https://en.wikipedia.org/wiki/Al-Bireh",
+    "title": "Al-Bireh"
+  },
+  "Gilo": {
+    "lat": 31.73139,
+    "lon": 35.18639,
+    "url": "https://en.wikipedia.org/wiki/Gilo",
+    "title": "Gilo"
+  },
+  "Ya'bad": {
+    "lat": 32.44667,
+    "lon": 35.17028,
+    "url": "https://en.wikipedia.org/wiki/Ya%27bad",
+    "title": "Ya'bad"
+  },
+  "Tantura": {
+    "lat": 32.60944,
+    "lon": 34.91778,
+    "url": "https://en.wikipedia.org/wiki/Tantura",
+    "title": "Tantura"
+  },
+  "Anabta": {
+    "lat": 32.30722,
+    "lon": 35.11694,
+    "url": "https://en.wikipedia.org/wiki/Anabta",
+    "title": "Anabta"
+  },
+  "Argaman": {
+    "lat": 32.1725,
+    "lon": 35.52194,
+    "url": "https://en.wikipedia.org/wiki/Argaman",
+    "title": "Argaman"
+  },
+  "Jebel Aqra": {
+    "lat": 35.9525,
+    "lon": 35.96931,
+    "url": "https://en.wikipedia.org/wiki/Jebel_Aqra",
+    "title": "Jebel Aqra"
+  },
+  "Luxor": {
+    "lat": 25.69667,
+    "lon": 32.64444,
+    "url": "https://en.wikipedia.org/wiki/Luxor",
+    "title": "Luxor"
+  },
+  "Istanbul": {
+    "lat": 41.01361,
+    "lon": 28.955,
+    "url": "https://en.wikipedia.org/wiki/Istanbul",
+    "title": "Istanbul"
+  },
+  "Solomon's Pools": {
+    "lat": 31.68958,
+    "lon": 35.16753,
+    "url": "https://en.wikipedia.org/wiki/Solomon%27s_Pools",
+    "title": "Solomon's Pools"
+  },
+  "Ein Rogel": {
+    "lat": 31.7677,
+    "lon": 35.2355,
+    "url": "https://en.wikipedia.org/wiki/Ein_Rogel",
+    "title": "Ein Rogel"
+  },
+  "Damascus Gate": {
+    "lat": 31.78164,
+    "lon": 35.2305,
+    "url": "https://en.wikipedia.org/wiki/Damascus_Gate",
+    "title": "Damascus Gate"
+  },
+  "Sde Boker": {
+    "lat": 30.87361,
+    "lon": 34.79306,
+    "url": "https://en.wikipedia.org/wiki/Sde_Boker",
+    "title": "Sde Boker"
+  },
+  "Kfar Etzion": {
+    "lat": 31.64889,
+    "lon": 35.11528,
+    "url": "https://en.wikipedia.org/wiki/Kfar_Etzion",
+    "title": "Kfar Etzion"
+  },
+  "Zir'in": {
+    "lat": 32.5575,
+    "lon": 35.32778,
+    "url": "https://en.wikipedia.org/wiki/Zir%27in",
+    "title": "Zir'in"
+  },
+  "Hamat": {
+    "lat": 34.28333,
+    "lon": 35.68333,
+    "url": "https://en.wikipedia.org/wiki/Hamat",
+    "title": "Hamat"
+  },
+  "Ein Harod": {
+    "lat": 32.56028,
+    "lon": 35.39083,
+    "url": "https://en.wikipedia.org/wiki/Ein_Harod",
+    "title": "Ein Harod"
+  },
+  "Nurit": {
+    "lat": 32.54083,
+    "lon": 35.35972,
+    "url": "https://en.wikipedia.org/wiki/Nurit",
+    "title": "Nurit"
+  },
+  "Ein Samiya": {
+    "lat": 31.98917,
+    "lon": 35.33333,
+    "url": "https://en.wikipedia.org/wiki/Ein_Samiya",
+    "title": "Ein Samiya"
+  },
+  "Ankara": {
+    "lat": 39.92889,
+    "lon": 32.85472,
+    "url": "https://en.wikipedia.org/wiki/Ankara",
+    "title": "Ankara"
+  },
+  "Megara": {
+    "lat": 37.99639,
+    "lon": 23.34444,
+    "url": "https://en.wikipedia.org/wiki/Megara",
+    "title": "Megara"
+  },
+  "Nineveh": {
+    "lat": 36.35944,
+    "lon": 43.15278,
+    "url": "https://en.wikipedia.org/wiki/Nineveh",
+    "title": "Nineveh"
+  },
+  "Gomel": {
+    "lat": 52.44528,
+    "lon": 30.98417,
+    "url": "https://en.wikipedia.org/wiki/Gomel",
+    "title": "Gomel"
+  },
+  "Yeruham": {
+    "lat": 30.98861,
+    "lon": 34.92806,
+    "url": "https://en.wikipedia.org/wiki/Yeruham",
+    "title": "Yeruham"
+  },
+  "Madaba": {
+    "lat": 31.71667,
+    "lon": 35.8,
+    "url": "https://en.wikipedia.org/wiki/Madaba",
+    "title": "Madaba"
+  },
+  "Hınıs": {
+    "lat": 39.35861,
+    "lon": 41.70028,
+    "url": "https://en.wikipedia.org/wiki/H%C4%B1n%C4%B1s",
+    "title": "Hınıs"
+  },
+  "Van Fortress": {
+    "lat": 38.5025,
+    "lon": 43.34,
+    "url": "https://en.wikipedia.org/wiki/Van_Fortress",
+    "title": "Van Fortress"
+  },
+  "Tuşba": {
+    "lat": 38.51778,
+    "lon": 43.43444,
+    "url": "https://en.wikipedia.org/wiki/Tu%C5%9Fba",
+    "title": "Tuşba"
+  },
+  "Jerwan": {
+    "lat": 36.66972,
+    "lon": 43.39361,
+    "url": "https://en.wikipedia.org/wiki/Jerwan",
+    "title": "Jerwan"
+  },
+  "Rome": {
+    "lat": 41.89333,
+    "lon": 12.48278,
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "title": "Rome"
+  },
+  "Sidon": {
+    "lat": 33.56056,
+    "lon": 35.37583,
+    "url": "https://en.wikipedia.org/wiki/Sidon",
+    "title": "Sidon"
+  },
+  "Ashkelon": {
+    "lat": 31.66667,
+    "lon": 34.56667,
+    "url": "https://en.wikipedia.org/wiki/Ashkelon",
+    "title": "Ashkelon"
+  },
+  "Olynthus": {
+    "lat": 40.296,
+    "lon": 23.354,
+    "url": "https://en.wikipedia.org/wiki/Olynthus",
+    "title": "Olynthus"
+  },
+  "Medinet Habu": {
+    "lat": 25.71972,
+    "lon": 32.60083,
+    "url": "https://en.wikipedia.org/wiki/Medinet_Habu",
+    "title": "Medinet Habu"
+  },
+  "Aqua Appia": {
+    "lat": 41.88944,
+    "lon": 12.51111,
+    "url": "https://en.wikipedia.org/wiki/Aqua_Appia",
+    "title": "Aqua Appia"
+  },
+  "Yodfat": {
+    "lat": 32.83694,
+    "lon": 35.27361,
+    "url": "https://en.wikipedia.org/wiki/Yodfat",
+    "title": "Yodfat"
+  },
+  "Teleilat el-Ghassul": {
+    "lat": 31.8,
+    "lon": 35.6,
+    "url": "https://en.wikipedia.org/wiki/Teleilat_el-Ghassul",
+    "title": "Teleilat el-Ghassul"
+  },
+  "Aqua Marcia": {
+    "lat": 41.8468,
+    "lon": 12.5633,
+    "url": "https://en.wikipedia.org/wiki/Aqua_Marcia",
+    "title": "Aqua Marcia"
+  },
+  "Beirut": {
+    "lat": 33.89806,
+    "lon": 35.50583,
+    "url": "https://en.wikipedia.org/wiki/Beirut",
+    "title": "Beirut"
+  },
+  "Pylos": {
+    "lat": 36.91389,
+    "lon": 21.69639,
+    "url": "https://en.wikipedia.org/wiki/Pylos",
+    "title": "Pylos"
+  },
+  "Michmas": {
+    "lat": 31.8719,
+    "lon": 35.2761,
+    "url": "https://en.wikipedia.org/wiki/Michmas",
+    "title": "Michmas"
+  },
+  "Ashdod-Yam": {
+    "lat": 31.78028,
+    "lon": 34.62139,
+    "url": "https://en.wikipedia.org/wiki/Ashdod-Yam",
+    "title": "Ashdod-Yam"
+  },
+  "Mar Saba": {
+    "lat": 31.705,
+    "lon": 35.33111,
+    "url": "https://en.wikipedia.org/wiki/Mar_Saba",
+    "title": "Mar Saba"
+  },
+  "Qibya": {
+    "lat": 31.9775,
+    "lon": 35.00972,
+    "url": "https://en.wikipedia.org/wiki/Qibya",
+    "title": "Qibya"
+  },
+  "Eilat": {
+    "lat": 29.55694,
+    "lon": 34.95167,
+    "url": "https://en.wikipedia.org/wiki/Eilat",
+    "title": "Eilat"
+  },
+  "Holon": {
+    "lat": 32.01667,
+    "lon": 34.76667,
+    "url": "https://en.wikipedia.org/wiki/Holon",
+    "title": "Holon"
+  },
+  "Safed": {
+    "lat": 32.96583,
+    "lon": 35.49833,
+    "url": "https://en.wikipedia.org/wiki/Safed",
+    "title": "Safed"
+  },
+  "Umm Khalid": {
+    "lat": 32.32917,
+    "lon": 34.86528,
+    "url": "https://en.wikipedia.org/wiki/Umm_Khalid",
+    "title": "Umm Khalid"
+  },
+  "Quneitra": {
+    "lat": 33.12556,
+    "lon": 35.82389,
+    "url": "https://en.wikipedia.org/wiki/Quneitra",
+    "title": "Quneitra"
+  },
+  "El Wad": {
+    "lat": 32.67069,
+    "lon": 34.96633,
+    "url": "https://en.wikipedia.org/wiki/El_Wad",
+    "title": "El Wad"
+  },
+  "Kebara Cave": {
+    "lat": 32.55828,
+    "lon": 34.93731,
+    "url": "https://en.wikipedia.org/wiki/Kebara_Cave",
+    "title": "Kebara Cave"
+  },
+  "Kfar Darom": {
+    "lat": 31.40139,
+    "lon": 34.36,
+    "url": "https://en.wikipedia.org/wiki/Kfar_Darom",
+    "title": "Kfar Darom"
+  },
+  "Tabun Cave": {
+    "lat": 32.6705,
+    "lon": 34.9655,
+    "url": "https://en.wikipedia.org/wiki/Tabun_Cave",
+    "title": "Tabun Cave"
+  },
+  "Area C": {
+    "lat": 32,
+    "lon": 35.41667,
+    "url": "https://en.wikipedia.org/wiki/Area_C",
+    "title": "Area C"
+  },
+  "Kiryat Shmona": {
+    "lat": 33.2075,
+    "lon": 35.56972,
+    "url": "https://en.wikipedia.org/wiki/Kiryat_Shmona",
+    "title": "Kiryat Shmona"
+  },
+  "Rosh Pinna": {
+    "lat": 32.97,
+    "lon": 35.54222,
+    "url": "https://en.wikipedia.org/wiki/Rosh_Pinna",
+    "title": "Rosh Pinna"
+  },
+  "Ayelet HaShahar": {
+    "lat": 33.02278,
+    "lon": 35.5775,
+    "url": "https://en.wikipedia.org/wiki/Ayelet_HaShahar",
+    "title": "Ayelet HaShahar"
+  },
+  "English Channel": {
+    "lat": 50.2,
+    "lon": -2,
+    "url": "https://en.wikipedia.org/wiki/English_Channel",
+    "title": "English Channel"
+  },
+  "Western Wall Tunnel": {
+    "lat": 31.777,
+    "lon": 35.2345,
+    "url": "https://en.wikipedia.org/wiki/Western_Wall_Tunnel",
+    "title": "Western Wall Tunnel"
+  },
+  "Baku": {
+    "lat": 40.37556,
+    "lon": 49.8325,
+    "url": "https://en.wikipedia.org/wiki/Baku",
+    "title": "Baku"
+  },
+  "Yerevan": {
+    "lat": 40.17778,
+    "lon": 44.51278,
+    "url": "https://en.wikipedia.org/wiki/Yerevan",
+    "title": "Yerevan"
+  },
+  "Tbilisi": {
+    "lat": 41.7225,
+    "lon": 44.7925,
+    "url": "https://en.wikipedia.org/wiki/Tbilisi",
+    "title": "Tbilisi"
+  },
+  "Batumi": {
+    "lat": 41.64583,
+    "lon": 41.64167,
+    "url": "https://en.wikipedia.org/wiki/Batumi",
+    "title": "Batumi"
+  },
+  "Trabzon": {
+    "lat": 41.005,
+    "lon": 39.7225,
+    "url": "https://en.wikipedia.org/wiki/Trabzon",
+    "title": "Trabzon"
+  },
+  "Urfa": {
+    "lat": 37.15833,
+    "lon": 38.79167,
+    "url": "https://en.wikipedia.org/wiki/Urfa",
+    "title": "Urfa"
+  },
+  "Dur-Sharrukin": {
+    "lat": 36.50944,
+    "lon": 43.22944,
+    "url": "https://en.wikipedia.org/wiki/Dur-Sharrukin",
+    "title": "Dur-Sharrukin"
+  },
+  "Erzurum": {
+    "lat": 39.90861,
+    "lon": 41.27694,
+    "url": "https://en.wikipedia.org/wiki/Erzurum",
+    "title": "Erzurum"
+  },
+  "Akdamar Island": {
+    "lat": 38.34167,
+    "lon": 43.03528,
+    "url": "https://en.wikipedia.org/wiki/Akdamar_Island",
+    "title": "Akdamar Island"
+  },
+  "Balawat": {
+    "lat": 36.22944,
+    "lon": 43.40333,
+    "url": "https://en.wikipedia.org/wiki/Balawat",
+    "title": "Balawat"
+  },
+  "Pythagoreion": {
+    "lat": 37.69083,
+    "lon": 26.94333,
+    "url": "https://en.wikipedia.org/wiki/Pythagoreion",
+    "title": "Pythagoreion"
+  },
+  "אמת מים": {
+    "lat": 31.77115,
+    "lon": 35.22545,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%9E%D7%94_%D7%94%D7%AA%D7%97%D7%AA%D7%95%D7%A0%D7%94",
+    "title": "האמה התחתונה"
+  },
+  "באר": {
+    "lat": 31.25311,
+    "lon": 34.78671,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%90%D7%A8_%D7%A9%D7%91%D7%A2",
+    "title": "באר שבע"
+  },
+  "בארות שרשרת": {
+    "lat": 31.40453,
+    "lon": 34.60297,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%A8%D7%A9%D7%A8%D7%AA_(%D7%9E%D7%95%D7%A9%D7%91)",
+    "title": "שרשרת (מושב)"
+  },
+  "בור": {
+    "lat": 41.00806,
+    "lon": 28.97778,
+    "url": "https://en.wikipedia.org/wiki/Basilica_Cistern",
+    "title": "Basilica Cistern"
+  },
+  "בריכה וסכר": {
+    "lat": 31.78139,
+    "lon": 35.23583,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%99%D7%9B%D7%95%D7%AA_%D7%94%D7%A6%D7%90%D7%9F",
+    "title": "בריכות הצאן"
+  },
+  "מאגר תת קרקעי": {
+    "lat": 38.0437,
+    "lon": -97.8676,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%95%D7%96%D7%99%D7%90%D7%95%D7%9F_%D7%94%D7%9E%D7%9C%D7%97_%D7%94%D7%AA%D7%AA-%D7%A7%D7%A8%D7%A7%D7%A2%D7%99_%D7%A9%D7%9C_%D7%A7%D7%A0%D7%96%D7%A1",
+    "title": "מוזיאון המלח התת-קרקעי של קנזס"
+  },
+  "מעיין חתום": {
+    "lat": 32.26549,
+    "lon": 35.20128,
+    "url": "https://he.wikipedia.org/wiki/%D7%90-%D7%A0%D7%90%D7%A7%D7%95%D7%A8%D7%94_(%D7%A0%D7%A4%D7%AA_%D7%A9%D7%9B%D7%9D)",
+    "title": "א-נאקורה (נפת שכם)"
+  },
+  "מפעל מים החצוב אל מי תהום": {
+    "lat": 36.3,
+    "lon": -112.75,
+    "url": "https://en.wikipedia.org/wiki/Grand_Canyon",
+    "title": "Grand Canyon"
+  },
+  "נחל/נהר": {
+    "lat": 32.90914,
+    "lon": 35.08132,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C_%D7%A0%D7%A2%D7%9E%D7%9F",
+    "title": "נחל נעמן"
+  },
+  "תמילה": {
+    "lat": 30.93779,
+    "lon": 35.04107,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%99%D7%A8%D7%A7%D7%A2%D7%9D",
+    "title": "עין ירקעם"
+  },
+  "אבן חוף": {
+    "lat": 50.31667,
+    "lon": 11.91667,
+    "url": "https://en.wikipedia.org/wiki/Hof,_Bavaria",
+    "title": "Hof, Bavaria"
+  },
+  "ביידא": {
+    "lat": 32.76639,
+    "lon": 21.74167,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9C-%D7%91%D7%99%D7%99%D7%93%D7%90_(%D7%9C%D7%95%D7%91)",
+    "title": "אל-ביידא (לוב)"
+  },
+  "גלגל I": {
+    "lat": 32.033,
+    "lon": 35.4757,
+    "url": "https://en.wikipedia.org/wiki/Gilgal",
+    "title": "Gilgal"
+  },
+  "הצ'ילר": {
+    "lat": 37.66667,
+    "lon": 32.82806,
+    "url": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk",
+    "title": "Çatalhöyük"
+  },
+  "חורבת בתר": {
+    "lat": 32.90481,
+    "lon": 35.67543,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%91%D7%AA%D7%A8%D7%94",
+    "title": "חורבת בתרה"
+  },
+  "טפה גאורה": {
+    "lat": 36.483,
+    "lon": 43.25,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%91%D7%94_%D7%A2%27%D7%90%D7%95%D7%A8%D7%90",
+    "title": "תבה ע'אורא"
+  },
+  "כפר גלים צפון": {
+    "lat": 32.76597,
+    "lon": 34.95898,
+    "url": "https://he.wikipedia.org/wiki/%D7%9B%D7%A4%D7%A8_%D7%92%D7%9C%D7%99%D7%9D",
+    "title": "כפר גלים"
+  },
+  "עתלית ים": {
+    "lat": 32.71083,
+    "lon": 34.93515,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%9B%D7%A4%D7%A8_%D7%94%D7%A0%D7%90%D7%95%D7%9C%D7%99%D7%AA%D7%99_%D7%91%D7%A2%D7%AA%D7%9C%D7%99%D7%AA-%D7%99%D7%9D",
+    "title": "הכפר הנאוליתי בעתלית-ים"
+  },
+  "ראג'אג'יל": {
+    "lat": 29.8125,
+    "lon": 40.22,
+    "url": "https://en.wikipedia.org/wiki/Columns_of_Rajajil",
+    "title": "Columns of Rajajil"
+  },
+  "ג'ווה": {
+    "lat": 42.3904,
+    "lon": 43.9223,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%A4%D7%AA_%D7%92%27%D7%95%D7%95%D7%94",
+    "title": "נפת ג'ווה"
+  },
+  "הער": {
+    "lat": 31.77667,
+    "lon": 35.23417,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A2%D7%99%D7%A8_%D7%94%D7%A2%D7%AA%D7%99%D7%A7%D7%94",
+    "title": "העיר העתיקה"
+  },
+  "מצר": {
+    "lat": -62.5333,
+    "lon": -59.9167,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A6%D7%A8_%D7%9E%D7%A7%D7%A4%D7%A8%D7%9C%D7%9F",
+    "title": "מצר מקפרלן"
+  },
+  "קטנה": {
+    "lat": 34.835,
+    "lon": 36.86583,
+    "url": "https://en.wikipedia.org/wiki/Qatna",
+    "title": "Qatna"
+  },
+  "בוצרה": {
+    "lat": 32.21329,
+    "lon": 34.87816,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A6%D7%A8%D7%94_(%D7%99%D7%A9%D7%A8%D7%90%D7%9C)",
+    "title": "בצרה (ישראל)"
+  },
+  "תל בית שאן": {
+    "lat": 32.50184,
+    "lon": 35.50156,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A2%D7%99%D7%A8_%D7%94%D7%A2%D7%AA%D7%99%D7%A7%D7%94_%D7%A9%D7%9C_%D7%91%D7%99%D7%AA_%D7%A9%D7%90%D7%9F",
+    "title": "העיר העתיקה של בית שאן"
+  },
+  "תל גריסה": {
+    "lat": 32.0917,
+    "lon": 34.8075,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A0%D7%A4%D7%95%D7%9C%D7%99%D7%90%D7%95%D7%9F",
+    "title": "תל נפוליאון"
+  },
+  "תל נאמי": {
+    "lat": 32.105,
+    "lon": 34.93042,
+    "url": "https://en.wikipedia.org/wiki/Antipatris",
+    "title": "Antipatris"
+  },
+  "דיר אל מדינה": {
+    "lat": 25.72833,
+    "lon": 32.60139,
+    "url": "https://he.wikipedia.org/wiki/%D7%93%D7%99%D7%A8_%D7%90%D7%9C-%D7%9E%D7%93%D7%99%D7%A0%D7%94",
+    "title": "דיר אל-מדינה"
+  },
+  "חירבת רדאנה": {
+    "lat": 31.915,
+    "lon": 35.24972,
+    "url": "https://en.wikipedia.org/wiki/Khirbet_el-Maqatir",
+    "title": "Khirbet el-Maqatir"
+  },
+  "שילה": {
+    "lat": 32.0557,
+    "lon": 35.28954,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%9C%D7%94_(%D7%99%D7%99%D7%A9%D7%95%D7%91_%D7%9E%D7%A7%D7%A8%D7%90%D7%99)",
+    "title": "שילה (יישוב מקראי)"
+  },
+  "תל א-סעידיה (ירדן)": {
+    "lat": 32.32194,
+    "lon": 35.56,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%90-%D7%A1%D7%A2%D7%99%D7%93%D7%99%D7%94",
+    "title": "תל א-סעידיה"
+  },
+  "תל יבלעם": {
+    "lat": 32.44595,
+    "lon": 35.2926,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%91%D7%9C%D7%A2%D7%9D",
+    "title": "יבלעם"
+  },
+  "תל עי": {
+    "lat": 31.91618,
+    "lon": 35.26192,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A2%D7%99",
+    "title": "העי"
+  },
+  "תל תענך": {
+    "lat": 32.52153,
+    "lon": 35.21912,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%A2%D7%A0%D7%9A",
+    "title": "תענך"
+  },
+  "ח'רבת בנת בר": {
+    "lat": 33.22917,
+    "lon": 35.41667,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%27%D7%A8%D7%91%D7%AA_%D7%A1%D7%9C%D7%9D",
+    "title": "ח'רבת סלם"
+  },
+  "חורבת דיר א-סיד (ענתות?)": {
+    "lat": 31.825,
+    "lon": 35.24167,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%A1%D7%92%D7%AA_%D7%96%D7%90%D7%91",
+    "title": "פסגת זאב"
+  },
+  "חורבת טוב": {
+    "lat": 31.655,
+    "lon": 34.9375,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%9E%D7%93%D7%A8%D7%A1",
+    "title": "חורבת מדרס"
+  },
+  "חורבת שילחה": {
+    "lat": 32.86472,
+    "lon": 35.53611,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%9E%D7%A0%D7%99%D7%9D",
+    "title": "חורבת מנים"
+  },
+  "חירבת אבו א-טווין": {
+    "lat": 31.66638,
+    "lon": 35.08924,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%27%D7%A8%D7%91%D7%AA_%D7%90%D7%91%D7%95_%D7%98%D7%95%D7%99%D7%9F",
+    "title": "ח'רבת אבו טוין"
+  },
+  "חירבת מרגימה": {
+    "lat": 31.75161,
+    "lon": 35.14165,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%99%D7%A0%D7%93%D7%91",
+    "title": "עמינדב"
+  },
+  "חשבון": {
+    "lat": 31.80083,
+    "lon": 35.80889,
+    "url": "https://en.wikipedia.org/wiki/Heshbon",
+    "title": "Heshbon"
+  },
+  "תל בית מרסים": {
+    "lat": 31.45,
+    "lon": 34.91667,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%91%D7%99%D7%AA_%D7%9E%D7%99%D7%A8%D7%A1%D7%99%D7%9D",
+    "title": "תל בית מירסים"
+  },
+  "תל גבעון": {
+    "lat": 31.84808,
+    "lon": 35.18716,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%91%D7%A2%D7%95%D7%9F",
+    "title": "גבעון"
+  },
+  "תל ערוער": {
+    "lat": 31.15851,
+    "lon": 35.02342,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%A8%D7%A2%D7%A8%D7%94_%D7%91%D7%A0%D7%92%D7%91",
+    "title": "ערערה בנגב"
+  },
+  "אום אל ביארה": {
+    "lat": 30.32861,
+    "lon": 35.44194,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%98%D7%A8%D7%94",
+    "title": "פטרה"
+  },
+  "ארבילו": {
+    "lat": 36.56,
+    "lon": 43.44,
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Gaugamela",
+    "title": "Battle of Gaugamela"
+  },
+  "גיית": {
+    "lat": 31.6091,
+    "lon": 34.7649,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%99%D7%99%D7%AA_%D7%92%D7%AA",
+    "title": "קריית גת"
+  },
+  "טופראק קלה": {
+    "lat": 38.52056,
+    "lon": 43.40389,
+    "url": "https://en.wikipedia.org/wiki/Toprakkale_(castle)",
+    "title": "Toprakkale (castle)"
+  },
+  "מידאס סיטי": {
+    "lat": 39.2,
+    "lon": 30.71667,
+    "url": "https://en.wikipedia.org/wiki/Yaz%C4%B1l%C4%B1,_Han",
+    "title": "Yazılı, Han"
+  },
+  "מנהרת אופלינוס": {
+    "lat": 37.694,
+    "lon": 26.93,
+    "url": "https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos",
+    "title": "Tunnel of Eupalinos"
+  },
+  "מנהרת נגוב": {
+    "lat": 36.1703,
+    "lon": 43.5412,
+    "url": "https://en.wikipedia.org/wiki/Khazir_River",
+    "title": "Khazir River"
+  },
+  "נמרוד": {
+    "lat": 33.2454,
+    "lon": 35.7512,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%9E%D7%A8%D7%95%D7%93_(%D7%99%D7%99%D7%A9%D7%95%D7%91)",
+    "title": "נמרוד (יישוב)"
+  },
+  "קנאוואט": {
+    "lat": 32.75556,
+    "lon": 36.61667,
+    "url": "https://en.wikipedia.org/wiki/Qanawat",
+    "title": "Qanawat"
+  },
+  "תושפה": {
+    "lat": 38.5,
+    "lon": 43.3425,
+    "url": "https://en.wikipedia.org/wiki/Tushpa",
+    "title": "Tushpa"
+  },
+  "מערת נחל קנה": {
+    "lat": 32.15994,
+    "lon": 35.10584,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA_%D7%98%D7%91%D7%A2_%D7%A0%D7%97%D7%9C_%D7%A7%D7%A0%D7%94",
+    "title": "שמורת טבע נחל קנה"
+  },
+  "סוסיתא": {
+    "lat": 32.77889,
+    "lon": 35.65944,
+    "url": "https://he.wikipedia.org/wiki/%D7%A1%D7%95%D7%A1%D7%99%D7%AA%D7%90_(%D7%90%D7%AA%D7%A8_%D7%90%D7%A8%D7%9B%D7%90%D7%95%D7%9C%D7%95%D7%92%D7%99)",
+    "title": "סוסיתא (אתר ארכאולוגי)"
+  },
+  "ציפורי": {
+    "lat": 32.75306,
+    "lon": 35.27917,
+    "url": "https://he.wikipedia.org/wiki/%D7%A6%D7%99%D7%A4%D7%95%D7%A8%D7%99_(%D7%99%D7%99%D7%A9%D7%95%D7%91_%D7%A2%D7%AA%D7%99%D7%A7)",
+    "title": "ציפורי (יישוב עתיק)"
+  },
+  "חורבת אבו חוף": {
+    "lat": 32.55103,
+    "lon": 34.95153,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A2%D7%9C%D7%A7",
+    "title": "חורבת עלק"
+  },
+  "חירבת בנת-בר": {
+    "lat": 32.05421,
+    "lon": 35.05664,
+    "url": "https://he.wikipedia.org/wiki/%D7%A6%D7%A8%D7%93%D7%94",
+    "title": "צרדה"
+  },
+  "חירבת רדנה": {
+    "lat": 33.0076,
+    "lon": 35.594,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%99%D7%A8%D7%93%D7%94",
+    "title": "חורבת ירדה"
+  },
+  "תל אביב": {
+    "lat": 32.07632,
+    "lon": 34.78947,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91-%D7%99%D7%A4%D7%95",
+    "title": "תל אביב-יפו"
+  },
+  "אל-בצה": {
+    "lat": 51.81528,
+    "lon": 24.95278,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%A6%D7%95%D7%AA_%D7%A4%D7%A8%D7%99%D7%A4%D7%99%D7%90%D7%98",
+    "title": "ביצות פריפיאט"
+  },
+  "אקבאטאנה": {
+    "lat": 36.86667,
+    "lon": 39.03333,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%91_%D7%97%D7%A8%D7%9F",
+    "title": "קרב חרן"
+  },
+  "נקבת חזקיהו": {
+    "lat": 31.77236,
+    "lon": 35.23567,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%A7%D7%91%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "נקבת השילוח"
+  },
+  "שושן": {
+    "lat": 32.18922,
+    "lon": 48.25778,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%95%D7%A9%D7%9F_(%D7%A2%D7%99%D7%A8)",
+    "title": "שושן (עיר)"
+  },
+  "קרית גת": {
+    "lat": 31.6091,
+    "lon": 34.7649,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%99%D7%99%D7%AA_%D7%92%D7%AA",
+    "title": "קריית גת"
+  },
+  "ראס גידר": {
+    "lat": 31.77137,
+    "lon": 35.24358,
+    "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%90%D7%A1_%D7%90%D7%9C-%D7%A2%D7%9E%D7%95%D7%93",
+    "title": "ראס אל-עמוד"
+  },
+  "חורבת בורק": {
+    "lat": 32.67495,
+    "lon": 34.93989,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%99%D7%97%27_%D7%91%D7%A8%D7%90%D7%A7",
+    "title": "שייח' בראק"
+  },
+  "כפר עג'ול": {
+    "lat": 32.02278,
+    "lon": 35.18028,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%92%27%D7%95%D7%9C",
+    "title": "עג'ול"
+  },
+  "חורבת זיכרין": {
+    "lat": 31.66306,
+    "lon": 35.12333,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%A8%D7%91%D7%AA_%D7%91%D7%99%D7%AA_%D7%96%D7%9B%D7%A8%D7%99%D7%94",
+    "title": "חרבת בית זכריה"
+  },
+  "חורבת לבד": {
+    "lat": 31.68914,
+    "lon": 35.02132,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%91%D7%99%D7%AA_%D7%94%D7%91%D7%93",
+    "title": "חורבת בית הבד"
+  },
+  "מנהרת המעיין בגבעון": {
+    "lat": 31.77236,
+    "lon": 35.23567,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%A7%D7%91%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "נקבת השילוח"
+  },
+  "תל גרר": {
+    "lat": 31.3912,
+    "lon": 34.6816,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A9%D7%A8%D7%A2",
+    "title": "תל שרע"
+  },
+  "תל סעידיה": {
+    "lat": 32.32194,
+    "lon": 35.56,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%90-%D7%A1%D7%A2%D7%99%D7%93%D7%99%D7%94",
+    "title": "תל א-סעידיה"
+  },
+  "בארות מים": {
+    "lat": 31.96405,
+    "lon": 34.80494,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A6%D7%90%D7%A0%D7%95_%D7%9E%D7%99%D7%9D_(%D7%91%D7%90%D7%A8)",
+    "title": "מצאנו מים (באר)"
+  },
+  "באר התורכית בנחל חורשה עילי": {
+    "lat": 31.92821,
+    "lon": 34.86638,
+    "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%9E%D7%9C%D7%94",
+    "title": "רמלה"
+  },
+  "עין ע'זל": {
+    "lat": 31.988,
+    "lon": 35.976,
+    "url": "https://en.wikipedia.org/wiki/Ayn_Ghazal_statues",
+    "title": "Ayn Ghazal statues"
+  },
+  "תעלת השקיה": {
+    "lat": 15.88222,
+    "lon": 77.82889,
+    "url": "https://en.wikipedia.org/wiki/K._C._Canal",
+    "title": "K. C. Canal"
+  },
+  "אזרק": {
+    "lat": 31.83333,
+    "lon": 36.81667,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9C-%D7%90%D7%96%D7%A8%D7%A7",
+    "title": "אל-אזרק"
+  },
+  "בארי (אבן אל-גאזי)": {
+    "lat": 36.89103,
+    "lon": 38.35361,
+    "url": "https://en.wikipedia.org/wiki/Kobani",
+    "title": "Kobani"
+  },
+  "בייסמון": {
+    "lat": 33.0975,
+    "lon": 35.58167,
+    "url": "https://en.wikipedia.org/wiki/Baysamun",
+    "title": "Baysamun"
+  },
+  "בריכה (אבן אל-גאזי)": {
+    "lat": 34.55444,
+    "lon": 38.26278,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%A8%D7%99%D7%94_%D7%A9%D7%9C_%D7%90%D7%9C-%D7%9C%D7%90%D7%AA",
+    "title": "האריה של אל-לאת"
+  },
+  "מעיינות עינן": {
+    "lat": 32.10442,
+    "lon": 34.92678,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%99%D7%99%D7%A0%D7%95%D7%AA_%D7%A8%D7%90%D7%A9_%D7%94%D7%A2%D7%99%D7%9F",
+    "title": "מעיינות ראש העין"
+  },
+  "עין יפתחאל": {
+    "lat": 32.7554,
+    "lon": 35.2277,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%A4%D7%AA%D7%97%D7%90%D7%9C_(%D7%90%D7%AA%D7%A8_%D7%90%D7%A8%D7%9B%D7%90%D7%95%D7%9C%D7%95%D7%92%D7%99)",
+    "title": "יפתחאל (אתר ארכאולוגי)"
+  },
+  "תעלות מלאכותיות (אבן אל-גאזי)": {
+    "lat": 24.2075,
+    "lon": 55.74472,
+    "url": "https://en.wikipedia.org/wiki/Al_Ain",
+    "title": "Al Ain"
+  },
+  "אגם (Ibaba)": {
+    "lat": 14.52337,
+    "lon": 121.15363,
+    "url": "https://en.wikipedia.org/wiki/Angono",
+    "title": "Angono"
+  },
+  "Ibaba": {
+    "lat": -9.4,
+    "lon": 33.35,
+    "url": "https://en.wikipedia.org/wiki/Ibaba",
+    "title": "Ibaba"
+  },
+  "בורות מים (ביידא)": {
+    "lat": 31.9775,
+    "lon": 35.00972,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%91%D7%99%D7%94",
+    "title": "קיביה"
+  },
+  "ביר אבו רוג'ה": {
+    "lat": 32.45639,
+    "lon": 35.29583,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%27%D7%A0%D7%99%D7%9F",
+    "title": "ג'נין"
+  },
+  "גלגל": {
+    "lat": 32.033,
+    "lon": 35.4757,
+    "url": "https://en.wikipedia.org/wiki/Gilgal",
+    "title": "Gilgal"
+  },
+  "בור מלבני (כפר סמיר)": {
+    "lat": 32.79971,
+    "lon": 34.95956,
+    "url": "https://he.wikipedia.org/wiki/%D7%9B%D7%A4%D7%A8_%D7%A1%D7%9E%D7%99%D7%A8",
+    "title": "כפר סמיר"
+  },
+  "בורות (חוף הכרמל)": {
+    "lat": 32.64186,
+    "lon": 34.92422,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A3_%D7%93%D7%95%D7%A8-%D7%94%D7%91%D7%95%D7%A0%D7%99%D7%9D",
+    "title": "חוף דור-הבונים"
+  },
+  "בורות עגולים (כפר גלים צפון)": {
+    "lat": 32.71083,
+    "lon": 34.93515,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%9B%D7%A4%D7%A8_%D7%94%D7%A0%D7%90%D7%95%D7%9C%D7%99%D7%AA%D7%99_%D7%91%D7%A2%D7%AA%D7%9C%D7%99%D7%AA-%D7%99%D7%9D",
+    "title": "הכפר הנאוליתי בעתלית-ים"
+  },
+  "תל חריז": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "באר רבועה (הצ'ילר II)": {
+    "lat": 39.9575,
+    "lon": 26.23889,
+    "url": "https://en.wikipedia.org/wiki/Troy",
+    "title": "Troy"
+  },
+  "בורדור": {
+    "lat": 37,
+    "lon": 34,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%99%D7%9D_%D7%94%D7%AA%D7%99%D7%9B%D7%95%D7%9F_(%D7%9E%D7%97%D7%95%D7%96)",
+    "title": "הים התיכון (מחוז)"
+  },
+  "נהר החידקל": {
+    "lat": 38.43333,
+    "lon": 39.77278,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%99%D7%93%D7%A7%D7%9C",
+    "title": "חידקל"
+  },
+  "נהר חוסר": {
+    "lat": 31.8165,
+    "lon": -114.80284,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%9C%D7%95%D7%A8%D7%93%D7%95_(%D7%A0%D7%94%D7%A8)",
+    "title": "קולורדו (נהר)"
+  },
+  "קוכהופן": {
+    "lat": 48.14111,
+    "lon": 11.57806,
+    "url": "https://en.wikipedia.org/wiki/Munich_Residenz",
+    "title": "Munich Residenz"
+  },
+  "להב": {
+    "lat": 31.37833,
+    "lon": 34.87028,
+    "url": "https://en.wikipedia.org/wiki/Lahav",
+    "title": "Lahav"
+  },
+  "סככה": {
+    "lat": 29.96972,
+    "lon": 40.2,
+    "url": "https://en.wikipedia.org/wiki/Sakaka,_Saudi_Arabia",
+    "title": "Sakaka, Saudi Arabia"
+  },
+  "ראגאיג'יל": {
+    "lat": 29.8125,
+    "lon": 40.22,
+    "url": "https://en.wikipedia.org/wiki/Columns_of_Rajajil",
+    "title": "Columns of Rajajil"
+  },
+  "עין גדי": {
+    "lat": 31.46667,
+    "lon": 35.39444,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%92%D7%93%D7%99_(%D7%A9%D7%9E%D7%95%D7%A8%D7%94)",
+    "title": "עין גדי (שמורה)"
+  },
+  "תל אפק": {
+    "lat": 32.105,
+    "lon": 34.93042,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%90%D7%A4%D7%A7_(%D7%90%D7%A0%D7%98%D7%99%D7%A4%D7%98%D7%A8%D7%99%D7%A1)",
+    "title": "תל אפק (אנטיפטריס)"
+  },
+  "אום אל הווא": {
+    "lat": 32.51913,
+    "lon": 35.15165,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%9D_%D7%90%D7%9C-%D7%A4%D7%97%D7%9D",
+    "title": "אום אל-פחם"
+  },
+  "נחל שכם": {
+    "lat": 32.39613,
+    "lon": 34.8657,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C_%D7%90%D7%9C%D7%9B%D7%A1%D7%A0%D7%93%D7%A8",
+    "title": "נחל אלכסנדר"
+  },
+  "ראס ג'דיר": {
+    "lat": 32.3116,
+    "lon": 35.4124,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A8_%D7%92%D7%93%D7%99%D7%A8",
+    "title": "הר גדיר"
+  },
+  "תל אל-מצלה": {
+    "lat": 31.82316,
+    "lon": 35.23105,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%90%D7%9C_%D7%A4%D7%95%D7%9C",
+    "title": "תל אל פול"
+  },
+  "עין אל גדירת": {
+    "lat": 24.2075,
+    "lon": 55.74472,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9C-%D7%A2%D7%99%D7%9F",
+    "title": "אל-עין"
+  },
+  "מרסה מטרוח שבמצרים": {
+    "lat": 31.35278,
+    "lon": 27.23611,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%A1%D7%90_%D7%9E%D7%98%D7%A8%D7%95%D7%97",
+    "title": "מרסא מטרוח"
+  },
+  "ערד החדשה": {
+    "lat": 31.28083,
+    "lon": 35.125,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A2%D7%A8%D7%93",
+    "title": "תל ערד"
+  },
+  "צומת שוקת": {
+    "lat": 31.31556,
+    "lon": 34.89231,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%97%D7%9C%D7%A3_%D7%A9%D7%95%D7%A7%D7%AA",
+    "title": "מחלף שוקת"
+  },
+  "מרסה מטרוח": {
+    "lat": 31.35278,
+    "lon": 27.23611,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%A1%D7%90_%D7%9E%D7%98%D7%A8%D7%95%D7%97",
+    "title": "מרסא מטרוח"
+  },
+  "ואדי רג'יל": {
+    "lat": 32.335,
+    "lon": 37.00333,
+    "url": "https://en.wikipedia.org/wiki/Jawa,_Jordan",
+    "title": "Jawa, Jordan"
+  },
+  "נווה יטבתה": {
+    "lat": 29.89076,
+    "lon": 35.05739,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A6%D7%95%D7%93%D7%AA_%D7%99%D7%98%D7%91%D7%AA%D7%94_%D7%9E%D7%AA%D7%A7%D7%95%D7%A4%D7%AA_%D7%94%D7%91%D7%A8%D7%96%D7%9C",
+    "title": "מצודת יטבתה מתקופת הברזל"
+  },
+  "בזריה": {
+    "lat": 26,
+    "lon": 76.35,
+    "url": "https://en.wikipedia.org/wiki/Sawai_Madhopur",
+    "title": "Sawai Madhopur"
+  },
+  "ברקת": {
+    "lat": 32.015,
+    "lon": 34.94417,
+    "url": "https://en.wikipedia.org/wiki/Bareket",
+    "title": "Bareket"
+  },
+  "מידיא": {
+    "lat": 32,
+    "lon": -6,
+    "url": "https://en.wikipedia.org/wiki/Morocco",
+    "title": "Morocco"
+  },
+  "פחמה": {
+    "lat": 32.38333,
+    "lon": 35.1795,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%97%D7%9E%D7%94_(%D7%9B%D7%A4%D7%A8)",
+    "title": "פחמה (כפר)"
+  },
+  "שבתין": {
+    "lat": 31.97389,
+    "lon": 35.04972,
+    "url": "https://en.wikipedia.org/wiki/Shabtin",
+    "title": "Shabtin"
+  },
+  "תל ליד בזריה": {
+    "lat": 32.0917,
+    "lon": 34.8075,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A0%D7%A4%D7%95%D7%9C%D7%99%D7%90%D7%95%D7%9F",
+    "title": "תל נפוליאון"
+  },
+  "תל מצפון לפחמה": {
+    "lat": 32.51913,
+    "lon": 35.15165,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%9D_%D7%90%D7%9C-%D7%A4%D7%97%D7%9D",
+    "title": "אום אל-פחם"
+  },
+  "עין א-נטוף": {
+    "lat": 31.8713,
+    "lon": 35.25707,
+    "url": "https://he.wikipedia.org/wiki/%D7%95%D7%90%D7%93%D7%99_%D7%90-%D7%A0%D7%98%D7%95%D7%A3",
+    "title": "ואדי א-נטוף"
+  },
+  "בארות": {
+    "lat": 32.04086,
+    "lon": 34.91043,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%90%D7%A8%D7%95%D7%AA_%D7%99%D7%A6%D7%97%D7%A7",
+    "title": "בארות יצחק"
+  },
+  "ליש": {
+    "lat": 33.249,
+    "lon": 35.652,
+    "url": "https://en.wikipedia.org/wiki/Dan_(ancient_city)",
+    "title": "Dan (ancient city)"
+  },
+  "עין גיח": {
+    "lat": 32.96025,
+    "lon": 35.0951,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9E%D7%AA_%D7%A2%D7%9B%D7%95",
+    "title": "אמת עכו"
+  },
+  "עין שפע": {
+    "lat": 31.46667,
+    "lon": 35.39444,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%92%D7%93%D7%99_(%D7%A9%D7%9E%D7%95%D7%A8%D7%94)",
+    "title": "עין גדי (שמורה)"
+  },
+  "תל זרעה": {
+    "lat": 32.65095,
+    "lon": 35.28641,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%96%D7%A8%D7%A2",
+    "title": "מזרע"
+  },
+  "בולען תל דן": {
+    "lat": 31.92778,
+    "lon": 35.07111,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%9C%D7%A2%D7%99%D7%9F",
+    "title": "בלעין"
+  },
+  "בית מרחץ בתל דן": {
+    "lat": 32.71796,
+    "lon": 35.57186,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%91%D7%99%D7%AA_%D7%99%D7%A8%D7%97",
+    "title": "תל בית ירח"
+  },
+  "מעיינות הדן": {
+    "lat": 31.91637,
+    "lon": 35.14002,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%91%D7%95%D7%91%D7%99%D7%9F",
+    "title": "עין בובין"
+  },
+  "נימפיאון בתל דן": {
+    "lat": 31.77698,
+    "lon": 35.23447,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%94%D7%A8%D7%95%D7%AA_%D7%94%D7%9B%D7%95%D7%AA%D7%9C",
+    "title": "מנהרות הכותל"
+  },
+  "תעלה בתל דן": {
+    "lat": 33.24727,
+    "lon": 35.65327,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA_%D7%AA%D7%9C_%D7%93%D7%9F",
+    "title": "שמורת תל דן"
+  },
+  "מי יריחו": {
+    "lat": 31.85611,
+    "lon": 35.46306,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%A8%D7%99%D7%97%D7%95",
+    "title": "יריחו"
+  },
+  "מעיין הגיחון": {
+    "lat": 31.77292,
+    "lon": 35.23638,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%99%D7%97%D7%95%D7%9F",
+    "title": "גיחון"
+  },
+  "עין השילוח": {
+    "lat": 31.77056,
+    "lon": 35.235,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%99%D7%9B%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "בריכת השילוח"
+  },
+  "עין אום דרג": {
+    "lat": 32.8497,
+    "lon": 35.738,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%A7%D7%A9%D7%AA%D7%95%D7%AA",
+    "title": "עין קשתות"
+  },
+  "עין התנין": {
+    "lat": 32.5475,
+    "lon": 34.915,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C_%D7%AA%D7%A0%D7%99%D7%A0%D7%99%D7%9D",
+    "title": "נחל תנינים"
+  },
+  "תעלה I (גיחון)": {
+    "lat": 31.77309,
+    "lon": 35.23607,
+    "url": "https://en.wikipedia.org/wiki/Warren%27s_Shaft",
+    "title": "Warren's Shaft"
+  },
+  "המגדל (גיחון)": {
+    "lat": 31.77306,
+    "lon": 35.23639,
+    "url": "https://en.wikipedia.org/wiki/Gihon_Spring",
+    "title": "Gihon Spring"
+  },
+  "המנהרה (פיר וורן)": {
+    "lat": 31.7731,
+    "lon": 35.2361,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%A8_%D7%95%D7%95%D7%A8%D7%9F",
+    "title": "פיר וורן"
+  },
+  "תעלה II (גיחון)": {
+    "lat": 31.77236,
+    "lon": 35.23567,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%A7%D7%91%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "נקבת השילוח"
+  },
+  "תעלה III (גיחון)": {
+    "lat": 31.77309,
+    "lon": 35.23607,
+    "url": "https://en.wikipedia.org/wiki/Warren%27s_Shaft",
+    "title": "Warren's Shaft"
+  },
+  "המערה הדרומית (גיחון)": {
+    "lat": 31.77236,
+    "lon": 35.23567,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%A7%D7%91%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "נקבת השילוח"
+  },
+  "בריכה הישנה (ירושלים)": {
+    "lat": 31.77056,
+    "lon": 35.235,
+    "url": "https://en.wikipedia.org/wiki/Pool_of_Siloam",
+    "title": "Pool of Siloam"
+  },
+  "בירכת אל-חמרה": {
+    "lat": 31.77056,
+    "lon": 35.235,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%99%D7%9B%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "בריכת השילוח"
+  },
+  "ניקבת חזקיהו": {
+    "lat": 31.77236,
+    "lon": 35.23567,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%A7%D7%91%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "נקבת השילוח"
+  },
+  "תל משריפה": {
+    "lat": 34.835,
+    "lon": 36.86583,
+    "url": "https://en.wikipedia.org/wiki/Qatna",
+    "title": "Qatna"
+  },
+  "מפעל המים של גבעון": {
+    "lat": 31.84925,
+    "lon": 35.17104,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%97%D7%A0%D7%94_%D7%92%D7%91%D7%A2%D7%95%D7%9F",
+    "title": "מחנה גבעון"
+  },
+  "מפעל מים בתל גריסה": {
+    "lat": 32.0917,
+    "lon": 34.8075,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A0%D7%A4%D7%95%D7%9C%D7%99%D7%90%D7%95%D7%9F",
+    "title": "תל נפוליאון"
+  },
+  "תל-אביב": {
+    "lat": 32.07632,
+    "lon": 34.78947,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%90%D7%91%D7%99%D7%91-%D7%99%D7%A4%D7%95",
+    "title": "תל אביב-יפו"
+  },
+  "מפעל מים בתל גזר": {
+    "lat": 31.85987,
+    "lon": 34.91964,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%92%D7%96%D7%A8",
+    "title": "תל גזר"
+  },
+  "מעיין הגיחון בירושלים": {
+    "lat": 31.77292,
+    "lon": 35.23638,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%99%D7%97%D7%95%D7%9F",
+    "title": "גיחון"
+  },
+  "באר בתל נאמי": {
+    "lat": 31.73421,
+    "lon": 34.72305,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%90%D7%A8_%D7%98%D7%95%D7%91%D7%99%D7%94",
+    "title": "באר טוביה"
+  },
+  "מפעל מים בחצור": {
+    "lat": 32.98207,
+    "lon": 35.54358,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%A6%D7%95%D7%A8_%D7%94%D7%92%D7%9C%D7%99%D7%9C%D7%99%D7%AA",
+    "title": "חצור הגלילית"
+  },
+  "מפעל מים במגידו": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "עין אל-קובי": {
+    "lat": 31.72599,
+    "lon": 35.11713,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%A7%D7%95%D7%91%D7%99",
+    "title": "עין קובי"
+  },
+  "באר בלכיש": {
+    "lat": 31.51497,
+    "lon": 34.93599,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%A7%D7%A3",
+    "title": "שקף"
+  },
+  "באר בתל הרור": {
+    "lat": 31.3821,
+    "lon": 34.6065,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%94%D7%A8%D7%95%D7%A8",
+    "title": "תל הרור"
+  },
+  "קרית-גת": {
+    "lat": 31.6091,
+    "lon": 34.7649,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%99%D7%99%D7%AA_%D7%92%D7%AA",
+    "title": "קריית גת"
+  },
+  "באר באבלה": {
+    "lat": 31.2618,
+    "lon": 34.8092,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%91%D7%90%D7%A8_%D7%A9%D7%91%D7%A2_%E2%80%93_%D7%A6%D7%A4%D7%95%D7%9F_/_%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%94",
+    "title": "תחנת הרכבת באר שבע – צפון / אוניברסיטה"
+  },
+  "באר בבוצרה": {
+    "lat": 32.51833,
+    "lon": 36.48056,
+    "url": "https://en.wikipedia.org/wiki/Bosra",
+    "title": "Bosra"
+  },
+  "נחל טובס": {
+    "lat": 32.3378,
+    "lon": 35.5125,
+    "url": "https://en.wikipedia.org/wiki/Wadi_el_Maleh",
+    "title": "Wadi el Maleh"
+  },
+  "נחל מליח": {
+    "lat": 32.32914,
+    "lon": 35.47861,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%9E%D7%90%D7%9D_%D7%90%D7%9C-%D7%9E%D7%9C%D7%99%D7%97",
+    "title": "חמאם אל-מליח"
+  },
+  "באר רסיסים": {
+    "lat": 33.233,
+    "lon": 35.74926,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A4%D7%9C_%D7%A8%D7%A1%D7%99%D7%A1%D7%99%D7%9D",
+    "title": "מפל רסיסים"
+  },
+  "תל אל-יהודייה": {
+    "lat": 32.03083,
+    "lon": 34.89028,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%94%D7%95%D7%93%D7%99%D7%99%D7%94_(%D7%A2%D7%91%D7%90%D7%A1%D7%99%D7%99%D7%94)",
+    "title": "יהודייה (עבאסייה)"
+  },
+  "אל ח'שנה": {
+    "lat": 32.38631,
+    "lon": 35.48197,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%93%D7%9C%D7%94",
+    "title": "ברדלה"
+  },
+  "חירבת זעתרה": {
+    "lat": 31.67545,
+    "lon": 35.25549,
+    "url": "https://he.wikipedia.org/wiki/%D7%96%D7%A2%D7%AA%D7%A8%D7%94",
+    "title": "זעתרה"
+  },
+  "חירבת מסעוד": {
+    "lat": 31.75694,
+    "lon": 35.14889,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9C-%D7%92%27%D7%95%D7%A8%D7%94_(%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D)",
+    "title": "אל-ג'ורה (ירושלים)"
+  },
+  "חירבת רס כור": {
+    "lat": 35.70778,
+    "lon": 39.83361,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%A7%D7%99%D7%A4%D7%AA_%D7%94%D7%9B%D7%95%D7%A8_%D7%94%D7%92%D7%A8%D7%A2%D7%99%D7%A0%D7%99_%D7%91%D7%A1%D7%95%D7%A8%D7%99%D7%94",
+    "title": "תקיפת הכור הגרעיני בסוריה"
+  },
+  "כפר חרס": {
+    "lat": 32.11861,
+    "lon": 35.15694,
+    "url": "https://en.wikipedia.org/wiki/Kifl_Haris",
+    "title": "Kifl Haris"
+  },
+  "כפר לבד": {
+    "lat": 32.29751,
+    "lon": 35.10938,
+    "url": "https://he.wikipedia.org/wiki/%D7%9B%D7%A4%D7%A8_%D7%90-%D7%9C%D7%91%D7%93",
+    "title": "כפר א-לבד"
+  },
+  "סנור": {
+    "lat": 32.35692,
+    "lon": 35.24571,
+    "url": "https://he.wikipedia.org/wiki/%D7%A1%D7%90%D7%A0%D7%95%D7%A8",
+    "title": "סאנור"
+  },
+  "ענבתה": {
+    "lat": 32.30722,
+    "lon": 35.11694,
+    "url": "https://en.wikipedia.org/wiki/Anabta",
+    "title": "Anabta"
+  },
+  "שכה": {
+    "lat": 31.68249,
+    "lon": 34.97382,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%95%D7%9B%D7%94_(%D7%A9%D7%A4%D7%9C%D7%AA_%D7%99%D7%94%D7%95%D7%93%D7%94)",
+    "title": "שוכה (שפלת יהודה)"
+  },
+  "אקרופוליס של אתונה": {
+    "lat": 37.97167,
+    "lon": 23.72611,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%A7%D7%A8%D7%95%D7%A4%D7%95%D7%9C%D7%99%D7%A1_%D7%91%D7%90%D7%AA%D7%95%D7%A0%D7%94",
+    "title": "האקרופוליס באתונה"
+  },
+  "אוצר אטריאוסי": {
+    "lat": 37.72682,
+    "lon": 22.75387,
+    "url": "https://en.wikipedia.org/wiki/Treasury_of_Atreus",
+    "title": "Treasury of Atreus"
+  },
+  "כפר הפועלים, דיר אל מדינה": {
+    "lat": 25.72833,
+    "lon": 32.60139,
+    "url": "https://he.wikipedia.org/wiki/%D7%93%D7%99%D7%A8_%D7%90%D7%9C-%D7%9E%D7%93%D7%99%D7%A0%D7%94",
+    "title": "דיר אל-מדינה"
+  },
+  "מנהרת המים בחצור": {
+    "lat": 32.98206,
+    "lon": 35.55833,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%A0%D7%AA_%D7%94%D7%A8%D7%9B%D7%91%D7%AA_%D7%A6%D7%97%22%D7%A8",
+    "title": "תחנת הרכבת צח\"ר"
+  },
+  "מפעל המים בתענך": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "העולם המיקני": {
+    "lat": 51.50139,
+    "lon": -0.17889,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A7%D7%95%D7%9C%D7%92%27_%D7%94%D7%9E%D7%9C%D7%9B%D7%95%D7%AA%D7%99_%D7%9C%D7%90%D7%9E%D7%A0%D7%95%D7%AA",
+    "title": "הקולג' המלכותי לאמנות"
+  },
+  "באר תל גריסה": {
+    "lat": 32.0917,
+    "lon": 34.8075,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A0%D7%A4%D7%95%D7%9C%D7%99%D7%90%D7%95%D7%9F",
+    "title": "תל נפוליאון"
+  },
+  "באר תל באר שבע": {
+    "lat": 31.25311,
+    "lon": 34.78671,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%90%D7%A8_%D7%A9%D7%91%D7%A2",
+    "title": "באר שבע"
+  },
+  "ארגמן": {
+    "lat": 32.17247,
+    "lon": 35.52199,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A8%D7%92%D7%9E%D7%9F_(%D7%9E%D7%95%D7%A9%D7%91)",
+    "title": "ארגמן (מושב)"
+  },
+  "צפון": {
+    "lat": 54.6075,
+    "lon": -6.6925,
+    "url": "https://he.wikipedia.org/wiki/%D7%A6%D7%A4%D7%95%D7%9F_%D7%90%D7%99%D7%A8%D7%9C%D7%A0%D7%93",
+    "title": "צפון אירלנד"
+  },
+  "צרתן": {
+    "lat": 32.0958,
+    "lon": 35.4614,
+    "url": "https://en.wikipedia.org/wiki/Zaretan",
+    "title": "Zaretan"
+  },
+  "נחל כופרינג'ה": {
+    "lat": 32.31722,
+    "lon": 35.57,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A7%D7%A2%D7%AA_%D7%94%D7%99%D7%A8%D7%93%D7%9F",
+    "title": "בקעת הירדן"
+  },
+  "מעיין של העי": {
+    "lat": 31.98925,
+    "lon": 35.33333,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%A1%D7%9E%D7%99%D7%94",
+    "title": "עין סמיה"
+  },
+  "נחל דישון": {
+    "lat": 33.06791,
+    "lon": 35.48695,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA_%D7%A0%D7%97%D7%9C_%D7%93%D7%99%D7%A9%D7%95%D7%9F",
+    "title": "שמורת נחל דישון"
+  },
+  "רחובות שבנגב": {
+    "lat": 31.0317,
+    "lon": 34.565,
+    "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%97%D7%95%D7%91%D7%95%D7%AA_%D7%91%D7%A0%D7%92%D7%91",
+    "title": "רחובות בנגב"
+  },
+  "אתר גילה": {
+    "lat": 31.73139,
+    "lon": 35.18639,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%99%D7%9C%D7%94",
+    "title": "גילה"
+  },
+  "תל פרעה צפון": {
+    "lat": 32.0917,
+    "lon": 34.8075,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A0%D7%A4%D7%95%D7%9C%D7%99%D7%90%D7%95%D7%9F",
+    "title": "תל נפוליאון"
+  },
+  "מפעל המים של מגידו - ה'גלריה": {
+    "lat": 31.859,
+    "lon": 34.919,
+    "url": "https://en.wikipedia.org/wiki/Gezer",
+    "title": "Gezer"
+  },
+  "מפעל המים של מגידו - הבאר": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "מפעל המים של מגידו - המערה": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "מפעל המים של מגידו - באר 1074": {
+    "lat": 32.67076,
+    "lon": 34.96626,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%94%D7%A0%D7%97%D7%9C",
+    "title": "מערת הנחל"
+  },
+  "מפעל המים של מגידו - הקיר החוסם": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "מפעל המים של מגידו - חומה 325": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "מפעל המים של מגידו - מערה 1010": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "מפעל המים של מגידו - גרם מדרגות 965": {
+    "lat": 31,
+    "lon": 35,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%90%D7%95%D7%92%D7%A8%D7%A4%D7%99%D7%94_%D7%A9%D7%9C_%D7%90%D7%A8%D7%A5_%D7%99%D7%A9%D7%A8%D7%90%D7%9C",
+    "title": "גאוגרפיה של ארץ ישראל"
+  },
+  "מפעל המים של מגידו - המנהרה": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "מפעל המים של מגידו - הפיר": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "מפעל המים של מגידו - המנהרה המזרחית 1845": {
+    "lat": 53.13528,
+    "lon": 23.14556,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%90%D7%9C%D7%99%D7%A1%D7%98%D7%95%D7%A7",
+    "title": "ביאליסטוק"
+  },
+  "מפעל המים של מגידו - הקיר החוסם 1007": {
+    "lat": 31,
+    "lon": 35,
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "title": "Israel"
+  },
+  "לוכסור": {
+    "lat": 25.69667,
+    "lon": 32.64444,
+    "url": "https://en.wikipedia.org/wiki/Luxor",
+    "title": "Luxor"
+  },
+  "מפעל המים של מגידו - גלריה 629": {
+    "lat": 53.13528,
+    "lon": 23.14556,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%90%D7%9C%D7%99%D7%A1%D7%98%D7%95%D7%A7",
+    "title": "ביאליסטוק"
+  },
+  "מפעל המים של מגידו - מדרגות בנויות במנהרה המשופעת 1116": {
+    "lat": 32.80375,
+    "lon": 35.00874,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%99%D7%A4%D7%94",
+    "title": "חיפה"
+  },
+  "מפעל המים של מגידו - מנהרה 1000": {
+    "lat": 32.09996,
+    "lon": 34.77781,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C_%D7%94%D7%99%D7%A8%D7%A7%D7%95%D7%9F",
+    "title": "נחל הירקון"
+  },
+  "מפעל המים של מגידו - מנהרה מזרחית 1845": {
+    "lat": 53.13528,
+    "lon": 23.14556,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%90%D7%9C%D7%99%D7%A1%D7%98%D7%95%D7%A7",
+    "title": "ביאליסטוק"
+  },
+  "מפעל המים של מגידו - עמדת השומר 1010": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "מפעל המים של מגידו - פיר 925": {
+    "lat": 31.85987,
+    "lon": 34.91964,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%92%D7%96%D7%A8",
+    "title": "תל גזר"
+  },
+  "מפעל המים של מגידו - קיר חוסם 1007": {
+    "lat": 31,
+    "lon": 35,
+    "url": "https://en.wikipedia.org/wiki/Israel",
+    "title": "Israel"
+  },
+  "ביר סינג'יל": {
+    "lat": 32.03314,
+    "lon": 35.26432,
+    "url": "https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%A0%D7%92%27%D7%99%D7%9C",
+    "title": "סינג'יל"
+  },
+  "מפעל המים של מגידו - קיר 667": {
+    "lat": 33.1,
+    "lon": 44.1,
+    "url": "https://en.wikipedia.org/wiki/Akkadian_Empire",
+    "title": "Akkadian Empire"
+  },
+  "העיר גבעון": {
+    "lat": 31.84808,
+    "lon": 35.18716,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%91%D7%A2%D7%95%D7%9F",
+    "title": "גבעון"
+  },
+  "מפעל המים של גבעון - המנהרה": {
+    "lat": 31.77236,
+    "lon": 35.23567,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%A7%D7%91%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "נקבת השילוח"
+  },
+  "מפעל המים של גבעון - המעיין": {
+    "lat": 31.2,
+    "lon": 35.36389,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%91%D7%95%D7%A7%D7%A7",
+    "title": "עין בוקק"
+  },
+  "מפעל המים של גבעון - חדר איגום": {
+    "lat": 31.92665,
+    "lon": 35.13296,
+    "url": "https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%9C%D7%91_(%D7%99%D7%99%D7%A9%D7%95%D7%91)",
+    "title": "דולב (יישוב)"
+  },
+  "מפעל המים של יבלעם - המנהרה": {
+    "lat": 32.44595,
+    "lon": 35.2926,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%91%D7%9C%D7%A2%D7%9D",
+    "title": "יבלעם"
+  },
+  "מפעל המים של גבעון - הבריכה": {
+    "lat": 31.84925,
+    "lon": 35.17104,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%97%D7%A0%D7%94_%D7%92%D7%91%D7%A2%D7%95%D7%9F",
+    "title": "מחנה גבעון"
+  },
+  "מפעל המים של גבעון - החומה": {
+    "lat": 31.85987,
+    "lon": 34.91964,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%92%D7%96%D7%A8",
+    "title": "תל גזר"
+  },
+  "מפעל המים של גבעון - המנהרה המדורגת": {
+    "lat": 31.77304,
+    "lon": 35.23481,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%A8_%D7%93%D7%95%D7%93",
+    "title": "עיר דוד"
+  },
+  "הבריכה אשר בגבעון": {
+    "lat": 31.84808,
+    "lon": 35.18716,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%91%D7%A2%D7%95%D7%9F",
+    "title": "גבעון"
+  },
+  "מפעל המים בגבעון": {
+    "lat": 31.84925,
+    "lon": 35.17104,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%97%D7%A0%D7%94_%D7%92%D7%91%D7%A2%D7%95%D7%9F",
+    "title": "מחנה גבעון"
+  },
+  "התעלה החשמונאית": {
+    "lat": 31.77698,
+    "lon": 35.23447,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%94%D7%A8%D7%95%D7%AA_%D7%94%D7%9B%D7%95%D7%AA%D7%9C",
+    "title": "מנהרות הכותל"
+  },
+  "גבעת עיר דוד": {
+    "lat": 31.77453,
+    "lon": 35.23509,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%A0%D7%99%D7%95%D7%9F_%D7%92%D7%91%D7%A2%D7%AA%D7%99_(%D7%A2%D7%99%D7%A8_%D7%93%D7%95%D7%93)",
+    "title": "חניון גבעתי (עיר דוד)"
+  },
+  "מוזיאון הארכיאולוגי באיסטנבול": {
+    "lat": 41.01167,
+    "lon": 28.98139,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%90%D7%95%D7%A0%D7%99%D7%9D_%D7%9C%D7%90%D7%A8%D7%9B%D7%90%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94_%D7%A9%D7%9C_%D7%90%D7%99%D7%A1%D7%98%D7%A0%D7%91%D7%95%D7%9C",
+    "title": "המוזיאונים לארכאולוגיה של איסטנבול"
+  },
+  "תעלת השילוח": {
+    "lat": 31.77056,
+    "lon": 35.235,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%99%D7%9B%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "בריכת השילוח"
+  },
+  "מנהרת אופלינוס בסמוס": {
+    "lat": 37.694,
+    "lon": 26.93,
+    "url": "https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos",
+    "title": "Tunnel of Eupalinos"
+  },
+  "החדר העגול": {
+    "lat": 43.67812,
+    "lon": -79.40934,
+    "url": "https://he.wikipedia.org/wiki/%D7%98%D7%99%D7%A8%D7%AA_%D7%A7%D7%90%D7%A1%D7%94_%D7%9C%D7%95%D7%9E%D7%94",
+    "title": "טירת קאסה לומה"
+  },
+  "הבריכה העליונה": {
+    "lat": 31.77717,
+    "lon": 35.22911,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%99%D7%9B%D7%AA_%D7%97%D7%96%D7%A7%D7%99%D7%94%D7%95",
+    "title": "בריכת חזקיהו"
+  },
+  "הבריכה העשויה": {
+    "lat": 32.9288,
+    "lon": 35.85479,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%99%D7%9B%D7%AA_%D7%90%D7%95%D7%A8%D7%97%D7%94",
+    "title": "בריכת אורחה"
+  },
+  "הבריכה התחתונה": {
+    "lat": 32.84132,
+    "lon": 35.51166,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%A0%D7%95%D7%9F",
+    "title": "עין נון"
+  },
+  "עיר יבוס": {
+    "lat": 31.77304,
+    "lon": 35.23481,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%A8_%D7%93%D7%95%D7%93",
+    "title": "עיר דוד"
+  },
+  "ביר איוב": {
+    "lat": 31.7677,
+    "lon": 35.2355,
+    "url": "https://en.wikipedia.org/wiki/Ein_Rogel",
+    "title": "Ein Rogel"
+  },
+  "כתובת השילוח": {
+    "lat": 31.77236,
+    "lon": 35.23567,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%A7%D7%91%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "נקבת השילוח"
+  },
+  "עין רוגלי": {
+    "lat": 31.7677,
+    "lon": 35.2355,
+    "url": "https://en.wikipedia.org/wiki/Ein_Rogel",
+    "title": "Ein Rogel"
+  },
+  "תעלת המים החשמונאית": {
+    "lat": 31.77115,
+    "lon": 35.22545,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%9E%D7%94_%D7%94%D7%AA%D7%97%D7%AA%D7%95%D7%A0%D7%94",
+    "title": "האמה התחתונה"
+  },
+  "תעלת העודפים": {
+    "lat": 41.3837,
+    "lon": -73.6299,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%92%D7%A8_%D7%93%D7%99%D7%91%D7%A8%D7%98%D7%99%D7%A0%D7%92",
+    "title": "מאגר דיברטינג"
+  },
+  "מצודת המכבים": {
+    "lat": 31.77262,
+    "lon": 35.23594,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A6%D7%95%D7%93%D7%AA_%D7%94%D7%97%D7%A7%D7%A8%D7%90",
+    "title": "מצודת החקרא"
+  },
+  "עיטם המקראית": {
+    "lat": 31.08,
+    "lon": 34.14,
+    "url": "https://en.wikipedia.org/wiki/El_Gorah",
+    "title": "El Gorah"
+  },
+  "עין עטן": {
+    "lat": 32.5603,
+    "lon": 35.3908,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%97%D7%A8%D7%95%D7%93",
+    "title": "עין חרוד"
+  },
+  "תצורת עמינדב": {
+    "lat": 31.77028,
+    "lon": 35.19722,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%9B%D7%95%D7%9F_%D7%9C%D7%9E%D7%93%D7%A2%D7%99_%D7%9B%D7%93%D7%95%D7%A8_%D7%94%D7%90%D7%A8%D7%A5",
+    "title": "המכון למדעי כדור הארץ"
+  },
+  "אקרופוליס": {
+    "lat": 31.9525,
+    "lon": 35.94,
+    "url": "https://en.wikipedia.org/wiki/Philadelphia_(Amman)",
+    "title": "Philadelphia (Amman)"
+  },
+  "עין חסבאן": {
+    "lat": 31.80083,
+    "lon": 35.80889,
+    "url": "https://en.wikipedia.org/wiki/Heshbon",
+    "title": "Heshbon"
+  },
+  "בארות ערוער": {
+    "lat": 31.46583,
+    "lon": 35.57333,
+    "url": "https://en.wikipedia.org/wiki/Wadi_Mujib",
+    "title": "Wadi Mujib"
+  },
+  "כבול המקראית": {
+    "lat": 32.87904,
+    "lon": 35.2287,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A8%D7%90%D7%A9_%D7%96%D7%99%D7%AA",
+    "title": "חורבת ראש זית"
+  },
+  "עין קדיראת": {
+    "lat": 30.64806,
+    "lon": 34.42278,
+    "url": "https://en.wikipedia.org/wiki/Tell_el-Qudeirat",
+    "title": "Tell el-Qudeirat"
+  },
+  "ביר אס-סוויד": {
+    "lat": 31.24667,
+    "lon": 34.85611,
+    "url": "https://en.wikipedia.org/wiki/Tel_Sheva",
+    "title": "Tel Sheva"
+  },
+  "זרעין": {
+    "lat": 32.5575,
+    "lon": 35.3278,
+    "url": "https://he.wikipedia.org/wiki/%D7%96%D7%99%D7%A8%D7%A2%D7%99%D7%9F",
+    "title": "זירעין"
+  },
+  "מעיין יזרעאל": {
+    "lat": 32.55785,
+    "lon": 35.32795,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%99%D7%96%D7%A8%D7%A2%D7%90%D7%9C",
+    "title": "תל יזרעאל"
+  },
+  "נורית": {
+    "lat": 32.54078,
+    "lon": 35.35976,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%95%D7%A8%D7%99%D7%AA_(%D7%99%D7%99%D7%A9%D7%95%D7%91)",
+    "title": "נורית (יישוב)"
+  },
+  "עין אלמייתה": {
+    "lat": 32.55972,
+    "lon": 35.33778,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%99%D7%96%D7%A8%D7%A2%D7%90%D7%9C",
+    "title": "עין יזרעאל"
+  },
+  "בור 40": {
+    "lat": 41.00806,
+    "lon": 28.97778,
+    "url": "https://en.wikipedia.org/wiki/Basilica_Cistern",
+    "title": "Basilica Cistern"
+  },
+  "בור מס' 2": {
+    "lat": 41.00806,
+    "lon": 28.97778,
+    "url": "https://en.wikipedia.org/wiki/Basilica_Cistern",
+    "title": "Basilica Cistern"
+  },
+  "בור מס' 20": {
+    "lat": 41.00725,
+    "lon": 28.9726,
+    "url": "https://en.wikipedia.org/wiki/Theodosius_Cistern",
+    "title": "Theodosius Cistern"
+  },
+  "בור מס' 51": {
+    "lat": 38.02806,
+    "lon": 22.8525,
+    "url": "https://en.wikipedia.org/wiki/Heraion_of_Perachora",
+    "title": "Heraion of Perachora"
+  },
+  "בור מס' 52": {
+    "lat": 49.04472,
+    "lon": 7.77194,
+    "url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Fleckenstein",
+    "title": "Château de Fleckenstein"
+  },
+  "בור מס' 53": {
+    "lat": 12.7743,
+    "lon": 45.029,
+    "url": "https://en.wikipedia.org/wiki/Cisterns_of_Tawila",
+    "title": "Cisterns of Tawila"
+  },
+  "חורבת מרגמה": {
+    "lat": 31.71152,
+    "lon": 35.04634,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%97%D7%A0%D7%95%D7%AA",
+    "title": "חורבת חנות"
+  },
+  "קלע": {
+    "lat": 33.13148,
+    "lon": 35.684,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%9C%D7%A2_%D7%90%D7%9C%D7%95%D7%9F",
+    "title": "קלע אלון"
+  },
+  "אמציה": {
+    "lat": 31.53259,
+    "lon": 34.91372,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9E%D7%A6%D7%99%D7%94_(%D7%9E%D7%95%D7%A9%D7%91)",
+    "title": "אמציה (מושב)"
+  },
+  "מערת אבו טבק": {
+    "lat": 32.726,
+    "lon": 35,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C_%D7%90%D7%95%D7%A8%D7%9F",
+    "title": "נחל אורן"
+  },
+  "ח'רבת אל-מכרי": {
+    "lat": 32.677,
+    "lon": 35.07053,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%9B%D7%A8%D7%9A",
+    "title": "חורבת כרך"
+  },
+  "ייסככה": {
+    "lat": 31.71972,
+    "lon": 35.36556,
+    "url": "https://en.wikipedia.org/wiki/Hyrcania_(fortress)",
+    "title": "Hyrcania (fortress)"
+  },
+  "ייעיר מלחי": {
+    "lat": 50.95236,
+    "lon": 1.85333,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%95%D7%A2%D7%99_%D7%94%D7%A2%D7%99%D7%A8_%D7%A7%D7%90%D7%9C%D7%94",
+    "title": "שועי העיר קאלה"
+  },
+  "כרם א-סמרא": {
+    "lat": 31.71058,
+    "lon": 35.36325,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A7%D7%A2%D7%AA_%D7%94%D7%95%D7%A8%D7%A7%D7%A0%D7%99%D7%94",
+    "title": "בקעת הורקניה"
+  },
+  "מע'איר א-טבקה": {
+    "lat": 31.52389,
+    "lon": 34.96889,
+    "url": "https://en.wikipedia.org/wiki/As_Simiya",
+    "title": "As Simiya"
+  },
+  "באר משש": {
+    "lat": 31.273,
+    "lon": 34.81117,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%9B%D7%95%D7%A0%D7%AA_%D7%A8%D7%9E%D7%95%D7%AA_(%D7%91%D7%90%D7%A8_%D7%A9%D7%91%D7%A2)",
+    "title": "שכונת רמות (באר שבע)"
+  },
+  "חורבת חלוקים": {
+    "lat": 30.90767,
+    "lon": 34.85345,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%94%D7%A8%D7%95%D7%A2%D7%94",
+    "title": "חורבת הרועה"
+  },
+  "חמת": {
+    "lat": 35.135,
+    "lon": 36.75,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%9E%D7%94_(%D7%A2%D7%99%D7%A8)",
+    "title": "חמה (עיר)"
+  },
+  "אתר הרועה": {
+    "lat": 30.90767,
+    "lon": 34.85345,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%94%D7%A8%D7%95%D7%A2%D7%94",
+    "title": "חורבת הרועה"
+  },
+  "חורבת משורה": {
+    "lat": 32.97231,
+    "lon": 35.57436,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A9%D7%95%D7%A8%D7%94",
+    "title": "חורבת שורה"
+  },
+  "חורבת רמת בוקר": {
+    "lat": 32.54797,
+    "lon": 34.94425,
+    "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%9E%D7%AA_%D7%94%D7%A0%D7%93%D7%99%D7%91",
+    "title": "רמת הנדיב"
+  },
+  "חורבת רתמה": {
+    "lat": 32.71394,
+    "lon": 35.01588,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A8%D7%A7%D7%99%D7%AA",
+    "title": "חורבת רקית"
+  },
+  "מצד נחל בוקר": {
+    "lat": 32.09996,
+    "lon": 34.77781,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C_%D7%94%D7%99%D7%A8%D7%A7%D7%95%D7%9F",
+    "title": "נחל הירקון"
+  },
+  "מצודת הר חמת": {
+    "lat": 33.11472,
+    "lon": 35.55611,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A6%D7%95%D7%93%D7%AA_%D7%9B%22%D7%97",
+    "title": "מצודת כ\"ח"
+  },
+  "מצודת חתירה": {
+    "lat": 31.18444,
+    "lon": 35.705,
+    "url": "https://he.wikipedia.org/wiki/%D7%9B%D7%A8%D7%9B",
+    "title": "כרכ"
+  },
+  "מצודת נחל אלה": {
+    "lat": 33.11472,
+    "lon": 35.55611,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A6%D7%95%D7%93%D7%AA_%D7%9B%22%D7%97",
+    "title": "מצודת כ\"ח"
+  },
+  "מצודת נחל יתר": {
+    "lat": 51.5082,
+    "lon": -0.0762,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A6%D7%95%D7%93%D7%AA_%D7%9C%D7%95%D7%A0%D7%93%D7%95%D7%9F",
+    "title": "מצודת לונדון"
+  },
+  "מצורת נחל עקרב": {
+    "lat": 30.90667,
+    "lon": 35.13167,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%9C%D7%94_%D7%A2%D7%A7%D7%A8%D7%91%D7%99%D7%9D",
+    "title": "מעלה עקרבים"
+  },
+  "ציוושטפה": {
+    "lat": 36.26215,
+    "lon": 46.68781,
+    "url": "https://en.wikipedia.org/wiki/Ziwiyeh_Castle",
+    "title": "Ziwiyeh Castle"
+  },
+  "ואן קלה": {
+    "lat": 51,
+    "lon": 1.5,
+    "url": "https://en.wikipedia.org/wiki/Strait_of_Dover",
+    "title": "Strait of Dover"
+  },
+  "עיר ואן": {
+    "lat": 49.56444,
+    "lon": 3.62056,
+    "url": "https://he.wikipedia.org/wiki/%D7%9C%D7%90%D7%9F_(%D7%A2%D7%99%D7%A8)",
+    "title": "לאן (עיר)"
+  },
+  "רוסהינילי": {
+    "lat": 38.52056,
+    "lon": 43.40389,
+    "url": "https://en.wikipedia.org/wiki/Toprakkale_(castle)",
+    "title": "Toprakkale (castle)"
+  },
+  "מפעל המים של אירביל": {
+    "lat": 32.81891,
+    "lon": 35.59003,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%9B%D7%A0%D7%A8%D7%AA",
+    "title": "הכנרת"
+  },
+  "אסקי מוסול": {
+    "lat": 36.63028,
+    "lon": 42.82306,
+    "url": "https://en.wikipedia.org/wiki/Mosul_Dam",
+    "title": "Mosul Dam"
+  },
+  "חינס": {
+    "lat": 28.9625,
+    "lon": -13.55056,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A8%D7%A1%D7%99%D7%A4%D7%94",
+    "title": "ארסיפה"
+  },
+  "נהר אטרוש": {
+    "lat": 36.66972,
+    "lon": 43.39361,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%27%D7%A8%D7%95%D7%95%D7%90%D7%9F",
+    "title": "ג'רוואן"
+  },
+  "נהר גומל": {
+    "lat": 52.41667,
+    "lon": 30.98333,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%95%D7%9E%D7%9C",
+    "title": "הומל"
+  },
+  "תעלת חינס": {
+    "lat": 37,
+    "lon": -6.5,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A4%D7%90%D7%A8%D7%A7_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99_%D7%93%D7%95%D7%A0%D7%99%D7%90%D7%A0%D7%94",
+    "title": "הפארק הלאומי דוניאנה"
+  },
+  "מגרה": {
+    "lat": 37.99639,
+    "lon": 23.34444,
+    "url": "https://en.wikipedia.org/wiki/Megara",
+    "title": "Megara"
+  },
+  "סמוס": {
+    "lat": 37.75,
+    "lon": 26.8333,
+    "url": "https://he.wikipedia.org/wiki/%D7%A1%D7%90%D7%9E%D7%95%D7%A1",
+    "title": "סאמוס"
+  },
+  "מדבא": {
+    "lat": 31.71667,
+    "lon": 35.8,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%99%D7%93%D7%91%D7%90",
+    "title": "מידבא"
+  },
+  "מנהרת חזקיהו": {
+    "lat": 31.77236,
+    "lon": 35.23567,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%A7%D7%91%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "נקבת השילוח"
+  },
+  "נבו": {
+    "lat": 31.76667,
+    "lon": 35.725,
+    "url": "https://en.wikipedia.org/wiki/Mount_Nebo",
+    "title": "Mount Nebo"
+  },
+  "קדש בגליל": {
+    "lat": 33.11164,
+    "lon": 35.52952,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A7%D7%93%D7%A9",
+    "title": "תל קדש"
+  },
+  "רחוב": {
+    "lat": 31.7839,
+    "lon": 35.2233,
+    "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%97%D7%95%D7%91_%D7%94%D7%A0%D7%91%D7%99%D7%90%D7%99%D7%9D",
+    "title": "רחוב הנביאים"
+  },
+  "עשק": {
+    "lat": 33.26722,
+    "lon": 35.22417,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A9%D7%95%D7%A7",
+    "title": "מעשוק"
+  },
+  "שבעה": {
+    "lat": 31.78037,
+    "lon": 35.21927,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C%D7%AA_%D7%A9%D7%91%D7%A2%D7%94",
+    "title": "נחלת שבעה"
+  },
+  "אבו-חוף": {
+    "lat": 24.46667,
+    "lon": 54.36667,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%95_%D7%93%D7%90%D7%91%D7%99",
+    "title": "אבו דאבי"
+  },
+  "אירביל": {
+    "lat": 36.19119,
+    "lon": 44.00919,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A8%D7%91%D7%99%D7%9C",
+    "title": "ארביל"
+  },
+  "חי טוב": {
+    "lat": -64.79917,
+    "lon": -61.88972,
+    "url": "https://en.wikipedia.org/wiki/Hitov_Spur",
+    "title": "Hitov Spur"
+  },
+  "מדינת הבו": {
+    "lat": 25.71972,
+    "lon": 32.60083,
+    "url": "https://en.wikipedia.org/wiki/Medinet_Habu",
+    "title": "Medinet Habu"
+  },
+  "מידס סיטי": {
+    "lat": 39.2,
+    "lon": 30.71667,
+    "url": "https://en.wikipedia.org/wiki/Yaz%C4%B1l%C4%B1,_Han",
+    "title": "Yazılı, Han"
+  },
+  "תל גימה": {
+    "lat": 31.3875,
+    "lon": 34.44472,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%92%D7%9E%D7%94",
+    "title": "תל גמה"
+  },
+  "ארמון סנחריב": {
+    "lat": 36.35944,
+    "lon": 43.15278,
+    "url": "https://en.wikipedia.org/wiki/Nineveh",
+    "title": "Nineveh"
+  },
+  "גבעון הבריכה": {
+    "lat": 31.84808,
+    "lon": 35.18716,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%91%D7%A2%D7%95%D7%9F",
+    "title": "גבעון"
+  },
+  "גבעון המנהרה": {
+    "lat": 31.8475,
+    "lon": 35.18639,
+    "url": "https://en.wikipedia.org/wiki/Gibeon_(ancient_city)",
+    "title": "Gibeon (ancient city)"
+  },
+  "מגידו \"הגלריה": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "ירושלים נקבת חזקיהו": {
+    "lat": 31.77236,
+    "lon": 35.23567,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%A7%D7%91%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "נקבת השילוח"
+  },
+  "ירושלים פיר \"וורן": {
+    "lat": 31.7731,
+    "lon": 35.2361,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%A8_%D7%95%D7%95%D7%A8%D7%9F",
+    "title": "פיר וורן"
+  },
+  "עין קודיראת": {
+    "lat": 30.64833,
+    "lon": 34.42222,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%93%D7%A9_%D7%91%D7%A8%D7%A0%D7%A2",
+    "title": "קדש ברנע"
+  },
+  "חירבת אבו-טווין": {
+    "lat": 32.671,
+    "lon": 35.04,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A1%D7%95%D7%9E%D7%A7%D7%94",
+    "title": "חורבת סומקה"
+  },
+  "תולילאת עיסול": {
+    "lat": 31.8,
+    "lon": 35.6,
+    "url": "https://en.wikipedia.org/wiki/Teleilat_el-Ghassul",
+    "title": "Teleilat el-Ghassul"
+  },
+  "אולינתוס": {
+    "lat": 40.296,
+    "lon": 23.354,
+    "url": "https://en.wikipedia.org/wiki/Olynthus",
+    "title": "Olynthus"
+  },
+  "אקווה מרקיה": {
+    "lat": 41.8975,
+    "lon": 12.51028,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%A2%D7%A8_%D7%98%D7%99%D7%91%D7%95%D7%A8%D7%98%D7%99%D7%A0%D7%94",
+    "title": "שער טיבורטינה"
+  },
+  "תעלת סנחריב": {
+    "lat": 36.66972,
+    "lon": 43.39361,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%27%D7%A8%D7%95%D7%95%D7%90%D7%9F",
+    "title": "ג'רוואן"
+  },
+  "עתלית-ים": {
+    "lat": 32.71083,
+    "lon": 34.93515,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%9B%D7%A4%D7%A8_%D7%94%D7%A0%D7%90%D7%95%D7%9C%D7%99%D7%AA%D7%99_%D7%91%D7%A2%D7%AA%D7%9C%D7%99%D7%AA-%D7%99%D7%9D",
+    "title": "הכפר הנאוליתי בעתלית-ים"
+  },
+  "נביעות הירקון": {
+    "lat": 32.09996,
+    "lon": 34.77781,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C_%D7%94%D7%99%D7%A8%D7%A7%D7%95%D7%9F",
+    "title": "נחל הירקון"
+  },
+  "עיר-דוד": {
+    "lat": 31.77304,
+    "lon": 35.23481,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%A8_%D7%93%D7%95%D7%93",
+    "title": "עיר דוד"
+  },
+  "מנהרות הכותל המערבי": {
+    "lat": 31.77698,
+    "lon": 35.23447,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%94%D7%A8%D7%95%D7%AA_%D7%94%D7%9B%D7%95%D7%AA%D7%9C",
+    "title": "מנהרות הכותל"
+  },
+  "תל באר-שבע": {
+    "lat": 31.24472,
+    "lon": 34.84083,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%91%D7%90%D7%A8_%D7%A9%D7%91%D7%A2",
+    "title": "תל באר שבע"
+  },
+  "עבוד": {
+    "lat": 32.015,
+    "lon": 35.06806,
+    "url": "https://en.wikipedia.org/wiki/Aboud",
+    "title": "Aboud"
+  },
+  "קיביא": {
+    "lat": 32.00744,
+    "lon": 35.11509,
+    "url": "https://he.wikipedia.org/wiki/%D7%9B%D7%91%D7%99%D7%A9_465",
+    "title": "כביש 465"
+  },
+  "חירבת אבו-תוין": {
+    "lat": 31.66638,
+    "lon": 35.08924,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%27%D7%A8%D7%91%D7%AA_%D7%90%D7%91%D7%95_%D7%98%D7%95%D7%99%D7%9F",
+    "title": "ח'רבת אבו טוין"
+  },
+  "ענתות": {
+    "lat": 31.81412,
+    "lon": 35.26473,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%A0%D7%AA%D7%95%D7%AA_(%D7%90%D7%AA%D7%A8_%D7%9E%D7%A7%D7%A8%D7%90%D7%99)",
+    "title": "ענתות (אתר מקראי)"
+  },
+  "רבת עמון": {
+    "lat": 31.95,
+    "lon": 35.93333,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%90%D7%9F",
+    "title": "עמאן"
+  },
+  "אל בירה": {
+    "lat": 31.90514,
+    "lon": 35.21496,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9C-%D7%91%D7%99%D7%A8%D7%94",
+    "title": "אל-בירה"
+  },
+  "דיר מר-סבא": {
+    "lat": 31.705,
+    "lon": 35.331,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%96%D7%A8_%D7%9E%D7%A8_%D7%A1%D7%91%D7%90",
+    "title": "מנזר מר סבא"
+  },
+  "צפורי": {
+    "lat": 32.74556,
+    "lon": 35.27861,
+    "url": "https://en.wikipedia.org/wiki/Sepphoris",
+    "title": "Sepphoris"
+  },
+  "רמאלה": {
+    "lat": 31.9,
+    "lon": 35.2,
+    "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%9E%D7%90%D7%9C%D7%9C%D7%94",
+    "title": "רמאללה"
+  },
+  "אם אל-ביארה": {
+    "lat": 30.32861,
+    "lon": 35.44194,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%98%D7%A8%D7%94",
+    "title": "פטרה"
+  },
+  "אשדוד-ים": {
+    "lat": 31.78028,
+    "lon": 34.62222,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A9%D7%93%D7%95%D7%93_%D7%99%D7%9D",
+    "title": "אשדוד ים"
+  },
+  "מישע": {
+    "lat": 31.75158,
+    "lon": 34.9656,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%A9%D7%A2%D7%99",
+    "title": "ישעי"
+  },
+  "עיר סורית-פלשתית": {
+    "lat": 31.7,
+    "lon": 34.847,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%AA_(%D7%A2%D7%99%D7%A8_%D7%A2%D7%AA%D7%99%D7%A7%D7%94)",
+    "title": "גת (עיר עתיקה)"
+  },
+  "ערד הקדומה": {
+    "lat": 31.28083,
+    "lon": 35.125,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A2%D7%A8%D7%93",
+    "title": "תל ערד"
+  },
+  "האקרופוליס האתונאי": {
+    "lat": 37.97167,
+    "lon": 23.72611,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%A7%D7%A8%D7%95%D7%A4%D7%95%D7%9C%D7%99%D7%A1_%D7%91%D7%90%D7%AA%D7%95%D7%A0%D7%94",
+    "title": "האקרופוליס באתונה"
+  },
+  "קוקהובן": {
+    "lat": 51.08333,
+    "lon": 6.31667,
+    "url": "https://en.wikipedia.org/wiki/Erkelenz",
+    "title": "Erkelenz"
+  },
+  "בירד": {
+    "lat": 31.90528,
+    "lon": 35.215,
+    "url": "https://en.wikipedia.org/wiki/Al-Bireh",
+    "title": "Al-Bireh"
+  },
+  "משריפה-קטנה": {
+    "lat": -27.6,
+    "lon": -144.33333,
+    "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%A4%D7%94_%D7%90%D7%99%D7%98%D7%99",
+    "title": "רפה איטי"
+  },
+  "טושפה": {
+    "lat": 38.63333,
+    "lon": 42.81667,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%9E%D7%AA_%D7%95%D7%90%D7%9F",
+    "title": "ימת ואן"
+  },
+  "עכו-פטולמאיס": {
+    "lat": 32.9281,
+    "lon": 35.08437,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%9B%D7%95",
+    "title": "עכו"
+  },
+  "עין שמש (בית שמש)": {
+    "lat": 31.73683,
+    "lon": 34.98896,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA_%D7%A9%D7%9E%D7%A9",
+    "title": "בית שמש"
+  },
+  "מיקנאי": {
+    "lat": 60.55444,
+    "lon": -151.25833,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%A0%D7%90%D7%99_(%D7%A2%D7%99%D7%A8)",
+    "title": "קינאי (עיר)"
+  },
+  "תל אל-מוע'ייר": {
+    "lat": 32.01944,
+    "lon": 35.34611,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9C-%D7%9E%D7%95%D7%A2%27%D7%99%D7%99%D7%A8_(%D7%A0%D7%A4%D7%AA_%D7%A8%D7%9E%D7%90%D7%9C%D7%9C%D7%94)",
+    "title": "אל-מוע'ייר (נפת רמאללה)"
+  },
+  "אום אל-ביארה": {
+    "lat": 30.32861,
+    "lon": 35.44194,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%98%D7%A8%D7%94",
+    "title": "פטרה"
+  },
+  "חצ'ילר": {
+    "lat": 37.58483,
+    "lon": 30.08447,
+    "url": "https://en.wikipedia.org/wiki/Hacilar",
+    "title": "Hacilar"
+  },
+  "תל א-נסבה": {
+    "lat": 32.78556,
+    "lon": 35.25694,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%97%D7%A0%D7%AA%D7%95%D7%9F",
+    "title": "תל חנתון"
+  },
+  "חירבת בלעמה": {
+    "lat": 32.44595,
+    "lon": 35.2926,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%91%D7%9C%D7%A2%D7%9D",
+    "title": "יבלעם"
+  },
+  "עופל": {
+    "lat": 31.77417,
+    "lon": 35.23611,
+    "url": "https://en.wikipedia.org/wiki/Ophel",
+    "title": "Ophel"
+  },
+  "רג'אג'יל": {
+    "lat": 29.8125,
+    "lon": 40.22,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%95%D7%93%D7%99_%D7%A8%D7%92%27%D7%90%D7%92%27%D7%99%D7%9C",
+    "title": "עמודי רג'אג'יל"
+  },
+  "מצודת אצבוע": {
+    "lat": 32.68403,
+    "lon": 35.6654,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%9E%D7%AA_%D7%92%D7%93%D7%A8",
+    "title": "חמת גדר"
+  },
+  "ג'ארוון": {
+    "lat": 36.66972,
+    "lon": 43.39361,
+    "url": "https://en.wikipedia.org/wiki/Jerwan",
+    "title": "Jerwan"
+  },
+  "נינווה": {
+    "lat": 36.36667,
+    "lon": 43.15,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%99%D7%A0%D7%95%D7%94",
+    "title": "נינוה"
+  },
+  "מדכה": {
+    "lat": 31.71667,
+    "lon": 35.8,
+    "url": "https://en.wikipedia.org/wiki/Madaba",
+    "title": "Madaba"
+  },
+  "סמעאן": {
+    "lat": 33.04848,
+    "lon": 35.30979,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%A1%D7%95%D7%98%D7%94",
+    "title": "פסוטה"
+  },
+  "מערות הר סדום": {
+    "lat": 31.07194,
+    "lon": 35.39694,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A8_%D7%A1%D7%93%D7%95%D7%9D",
+    "title": "הר סדום"
+  },
+  "מנהרות גבעון": {
+    "lat": 31.8475,
+    "lon": 35.18639,
+    "url": "https://en.wikipedia.org/wiki/Gibeon_(ancient_city)",
+    "title": "Gibeon (ancient city)"
+  },
+  "מעיין הבתולה": {
+    "lat": 32.70671,
+    "lon": 35.30156,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%99%D7%99%D7%9F_%D7%9E%D7%A8%D7%99%D7%9D_(%D7%A0%D7%A6%D7%A8%D7%AA)",
+    "title": "מעיין מרים (נצרת)"
+  },
+  "עין אל-בלד בגבעון": {
+    "lat": 32.76917,
+    "lon": 35.04232,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%A9%D7%A8_(%D7%A2%D7%99%D7%A8)",
+    "title": "נשר (עיר)"
+  },
+  "טירה": {
+    "lat": 32.23367,
+    "lon": 34.95321,
+    "url": "https://he.wikipedia.org/wiki/%D7%98%D7%99%D7%A8%D7%94_(%D7%A2%D7%99%D7%A8)",
+    "title": "טירה (עיר)"
+  },
+  "מערת אבן אצבע": {
+    "lat": 43.37694,
+    "lon": -4.11975,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%90%D7%9C%D7%98%D7%90%D7%9E%D7%99%D7%A8%D7%94",
+    "title": "מערת אלטאמירה"
+  },
+  "מערת אל-ואד": {
+    "lat": 32.67076,
+    "lon": 34.96626,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%94%D7%A0%D7%97%D7%9C",
+    "title": "מערת הנחל"
+  },
+  "מערת דת-עקב": {
+    "lat": 31.75583,
+    "lon": 35.02333,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%94%D7%A0%D7%98%D7%99%D7%A4%D7%99%D7%9D_(%D7%A9%D7%95%D7%A8%D7%A7)",
+    "title": "מערת הנטיפים (שורק)"
+  },
+  "מערת טאבון": {
+    "lat": 32.6705,
+    "lon": 34.9655,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%AA%D7%A0%D7%95%D7%A8",
+    "title": "מערת תנור"
+  },
+  "מערת סח'ול": {
+    "lat": 32.62586,
+    "lon": 34.95852,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%94%D7%92%D7%93%D7%99",
+    "title": "מערת הגדי"
+  },
+  "מערת שקבא": {
+    "lat": 31.98755,
+    "lon": 35.03866,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%95%D7%A7%D7%91%D7%90",
+    "title": "שוקבא"
+  },
+  "עבידיה": {
+    "lat": 32.68861,
+    "lon": 35.56194,
+    "url": "https://en.wikipedia.org/wiki/Ubeidiya_prehistoric_site",
+    "title": "Ubeidiya prehistoric site"
+  },
+  "אם חאלד": {
+    "lat": 32.32889,
+    "lon": 34.86528,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%9D_%D7%97%27%D7%90%D7%9C%D7%93",
+    "title": "אום ח'אלד"
+  },
+  "חופית": {
+    "lat": 32.38583,
+    "lon": 34.87417,
+    "url": "https://en.wikipedia.org/wiki/Hofit",
+    "title": "Hofit"
+  },
+  "חפצי-בה": {
+    "lat": 32.51859,
+    "lon": 35.42571,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%A4%D7%A6%D7%99-%D7%91%D7%94_(%D7%A7%D7%99%D7%91%D7%95%D7%A5)",
+    "title": "חפצי-בה (קיבוץ)"
+  },
+  "מערת א-נאקה": {
+    "lat": 31.57056,
+    "lon": 35.23278,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%A8%D7%91_%D7%90-%D7%A8%D7%A9%D7%90%D7%99%D7%93%D7%94",
+    "title": "ערב א-רשאידה"
+  },
+  "מערת אל-חיאם": {
+    "lat": 33.32717,
+    "lon": 35.6111,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9C-%D7%97%27%D7%99%D7%90%D7%9D",
+    "title": "אל-ח'יאם"
+  },
+  "מערת אמירה": {
+    "lat": 32.8558,
+    "lon": 35.52721,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%96%D7%95%D7%98%D7%99%D7%99%D7%94",
+    "title": "מערת זוטייה"
+  },
+  "מערת עריף": {
+    "lat": 30.50278,
+    "lon": 34.63917,
+    "url": "https://en.wikipedia.org/wiki/Negev_Mountains",
+    "title": "Negev Mountains"
+  },
+  "ראש חורשה": {
+    "lat": 32.57917,
+    "lon": 34.99436,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA_%D7%94%D7%A8_%D7%97%D7%95%D7%A8%D7%A9%D7%9F",
+    "title": "שמורת הר חורשן"
+  },
+  "באר 1 W באבן אל-גאזי": {
+    "lat": 39.75,
+    "lon": 39.5,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A8%D7%96%D7%99%D7%A0%D7%92%27%D7%90%D7%9F",
+    "title": "ארזינג'אן"
+  },
+  "תליילאת ע'סול": {
+    "lat": 31.8,
+    "lon": 35.6,
+    "url": "https://en.wikipedia.org/wiki/Teleilat_el-Ghassul",
+    "title": "Teleilat el-Ghassul"
+  },
+  "הבאר בחציילר VI": {
+    "lat": 39.9575,
+    "lon": 26.23889,
+    "url": "https://en.wikipedia.org/wiki/Troy",
+    "title": "Troy"
+  },
+  "חציילר VI": {
+    "lat": 37.58483,
+    "lon": 30.08447,
+    "url": "https://en.wikipedia.org/wiki/Hacilar",
+    "title": "Hacilar"
+  },
+  "הבאר והכפר בחציילר": {
+    "lat": 36.95056,
+    "lon": 37.41944,
+    "url": "https://en.wikipedia.org/wiki/%C5%9Eahinbey,_O%C4%9Fuzeli",
+    "title": "Şahinbey, Oğuzeli"
+  },
+  "חציילר": {
+    "lat": 37.58483,
+    "lon": 30.08447,
+    "url": "https://en.wikipedia.org/wiki/Hacilar",
+    "title": "Hacilar"
+  },
+  "הבאר באבו חוף": {
+    "lat": 28.89158,
+    "lon": 33.1842,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%95_%D7%A8%D7%95%D7%93%D7%A1",
+    "title": "אבו רודס"
+  },
+  "באר (מס' 38) בחורבת בתר": {
+    "lat": 31.25311,
+    "lon": 34.78671,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%90%D7%A8_%D7%A9%D7%91%D7%A2",
+    "title": "באר שבע"
+  },
+  "הבאר בטפה גאורה": {
+    "lat": 36.49556,
+    "lon": 43.26028,
+    "url": "https://en.wikipedia.org/wiki/Tepe_Gawra",
+    "title": "Tepe Gawra"
+  },
+  "תל המצודות (ערד)": {
+    "lat": 31.28083,
+    "lon": 35.125,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A2%D7%A8%D7%93",
+    "title": "תל ערד"
+  },
+  "בריכת המים בערד": {
+    "lat": 31.93169,
+    "lon": 34.87095,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%99%D7%9B%D7%AA_%D7%94%D7%A7%D7%A9%D7%AA%D7%95%D7%AA",
+    "title": "בריכת הקשתות"
+  },
+  "מערכת המים של ג'ווה": {
+    "lat": -9.18611,
+    "lon": 159.895,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A7%D7%A8%D7%91_%D7%94%D7%99%D7%9E%D7%99_%D7%A2%D7%9C_%D7%92%D7%95%D7%95%D7%93%D7%9C%D7%A7%D7%A0%D7%9C",
+    "title": "הקרב הימי על גוודלקנל"
+  },
+  "בור המים בתל דלית": {
+    "lat": 31.97639,
+    "lon": 34.96944,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%93%D7%9C%D7%99%D7%AA",
+    "title": "תל דלית"
+  },
+  "המנהרה בתל בית ירח": {
+    "lat": 32.71796,
+    "lon": 35.57186,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%91%D7%99%D7%AA_%D7%99%D7%A8%D7%97",
+    "title": "תל בית ירח"
+  },
+  "מפעל המים בתל ירמות": {
+    "lat": 31.85987,
+    "lon": 34.91964,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%92%D7%96%D7%A8",
+    "title": "תל גזר"
+  },
+  "מקורות המים בתל דן": {
+    "lat": 32.06722,
+    "lon": 34.78111,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A7%D7%95%D7%A8%D7%95%D7%AA",
+    "title": "מקורות"
+  },
+  "הבולען בתל דן": {
+    "lat": 31.92778,
+    "lon": 35.07111,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%9C%D7%A2%D7%99%D7%9F",
+    "title": "בלעין"
+  },
+  "מוצא הבולען בתל דן": {
+    "lat": 31.92778,
+    "lon": 35.07111,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%9C%D7%A2%D7%99%D7%9F",
+    "title": "בלעין"
+  },
+  "מנהרות מעיין הגיחון": {
+    "lat": 31.77292,
+    "lon": 35.23638,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%99%D7%97%D7%95%D7%9F",
+    "title": "גיחון"
+  },
+  "אקוודוקט": {
+    "lat": 41.05926,
+    "lon": 14.40204,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A7%D7%95%D7%95%D7%93%D7%95%D7%A7%D7%98_%D7%95%D7%A0%D7%95%D7%95%D7%99%D7%98%D7%9C%D7%99",
+    "title": "אקוודוקט ונוויטלי"
+  },
+  "בריכה חצובה בסלע": {
+    "lat": 31.68899,
+    "lon": 35.16982,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%99%D7%9B%D7%95%D7%AA_%D7%A9%D7%9C%D7%9E%D7%94",
+    "title": "בריכות שלמה"
+  },
+  "בריכת החצובה": {
+    "lat": 31.77778,
+    "lon": 35.22056,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%99%D7%9B%D7%AA_%D7%9E%D7%9E%D7%99%D7%9C%D7%90",
+    "title": "בריכת ממילא"
+  },
+  "מגדל הבריכה": {
+    "lat": 31.96389,
+    "lon": 34.805,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%92%D7%93%D7%9C_%D7%94%D7%9E%D7%99%D7%9D_%D7%91%D7%A8%D7%90%D7%A9%D7%95%D7%9F_%D7%9C%D7%A6%D7%99%D7%95%D7%9F",
+    "title": "מגדל המים בראשון לציון"
+  },
+  "מגדל המעיין": {
+    "lat": 32.50333,
+    "lon": 35.45028,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%9E%D7%92%D7%93%D7%9C",
+    "title": "עין מגדל"
+  },
+  "מערכת הובלת מים": {
+    "lat": 41.2823,
+    "lon": -73.6679,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9E%D7%AA_%D7%94%D7%9E%D7%99%D7%9D_%D7%A9%D7%9C_%D7%93%D7%9C%D7%90%D7%95%D7%95%D7%A8",
+    "title": "אמת המים של דלאוור"
+  },
+  "מערכת מים": {
+    "lat": 51.82,
+    "lon": 10.34,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%A0%D7%99%D7%94%D7%95%D7%9C_%D7%94%D7%9E%D7%99%D7%9D_%D7%91%D7%94%D7%A8%D7%99_%D7%94%D7%94%D7%90%D7%A8%D7%A5",
+    "title": "מערכת ניהול המים בהרי ההארץ"
+  },
+  "מערכת פיר וורן": {
+    "lat": 31.7731,
+    "lon": 35.2361,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%A8_%D7%95%D7%95%D7%A8%D7%9F",
+    "title": "פיר וורן"
+  },
+  "קמרונות אבן": {
+    "lat": 55.94944,
+    "lon": -3.18722,
+    "url": "https://en.wikipedia.org/wiki/Edinburgh_Vaults",
+    "title": "Edinburgh Vaults"
+  },
+  "שטח F": {
+    "lat": 33.257,
+    "lon": 35.58,
+    "url": "https://en.wikipedia.org/wiki/Abel-beth-maachah",
+    "title": "Abel-beth-maachah"
+  },
+  "שטח tt": {
+    "lat": 54.16722,
+    "lon": -4.47889,
+    "url": "https://en.wikipedia.org/wiki/Isle_of_Man_TT",
+    "title": "Isle of Man TT"
+  },
+  "המנהרה בפיר וורן": {
+    "lat": 31.7731,
+    "lon": 35.2361,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%99%D7%A8_%D7%95%D7%95%D7%A8%D7%9F",
+    "title": "פיר וורן"
+  },
+  "מפעל המים (תל גריסה)": {
+    "lat": 32.0917,
+    "lon": 34.8075,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A0%D7%A4%D7%95%D7%9C%D7%99%D7%90%D7%95%D7%9F",
+    "title": "תל נפוליאון"
+  },
+  "באר המים (תל נאמי)": {
+    "lat": 31.73421,
+    "lon": 34.72305,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%90%D7%A8_%D7%98%D7%95%D7%91%D7%99%D7%94",
+    "title": "באר טוביה"
+  },
+  "התל הצפון-מערבי (בוצרה)": {
+    "lat": 33.11528,
+    "lon": 35.55611,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%93%D7%A8_%D7%94%D7%A6%D7%A4%D7%95%D7%9F",
+    "title": "גדר הצפון"
+  },
+  "מיכל מים (גזר)": {
+    "lat": 31.9275,
+    "lon": 34.8625,
+    "url": "https://en.wikipedia.org/wiki/Ramla",
+    "title": "Ramla"
+  },
+  "מנהרת מקיאליסטר (גזר)": {
+    "lat": 31.859,
+    "lon": 34.919,
+    "url": "https://en.wikipedia.org/wiki/Gezer",
+    "title": "Gezer"
+  },
+  "המעיין המיקני (אתונה)": {
+    "lat": 37.97167,
+    "lon": 23.72611,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%90%D7%A7%D7%A8%D7%95%D7%A4%D7%95%D7%9C%D7%99%D7%A1_%D7%91%D7%90%D7%AA%D7%95%D7%A0%D7%94",
+    "title": "האקרופוליס באתונה"
+  },
+  "מנהרת המעיין המיקנית (אתונה)": {
+    "lat": 37.97167,
+    "lon": 23.72611,
+    "url": "https://en.wikipedia.org/wiki/Acropolis_of_Athens",
+    "title": "Acropolis of Athens"
+  },
+  "בור המים התת-קרקעי (מיקנה)": {
+    "lat": 37.73083,
+    "lon": 22.75611,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%99%D7%A7%D7%A0%D7%94",
+    "title": "מיקנה"
+  },
+  "מפעלי המים (טירינס)": {
+    "lat": 54.98333,
+    "lon": 73.36667,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%9E%D7%A1%D7%A7",
+    "title": "אומסק"
+  },
+  "מאגר המים (תל חצור)": {
+    "lat": 31.28083,
+    "lon": 35.125,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A2%D7%A8%D7%93",
+    "title": "תל ערד"
+  },
+  "בור מים מס' 1": {
+    "lat": 31.77889,
+    "lon": 35.22556,
+    "url": "https://en.wikipedia.org/wiki/Jerusalem",
+    "title": "Jerusalem"
+  },
+  "בור מים מס' 15": {
+    "lat": 31.77889,
+    "lon": 35.22556,
+    "url": "https://en.wikipedia.org/wiki/Jerusalem",
+    "title": "Jerusalem"
+  },
+  "בור מים מס' 17": {
+    "lat": 31.77889,
+    "lon": 35.22556,
+    "url": "https://en.wikipedia.org/wiki/Jerusalem",
+    "title": "Jerusalem"
+  },
+  "בור מים מס' 18": {
+    "lat": 31.77889,
+    "lon": 35.22556,
+    "url": "https://en.wikipedia.org/wiki/Jerusalem",
+    "title": "Jerusalem"
+  },
+  "בור מים מס' 19": {
+    "lat": 31.77889,
+    "lon": 35.22556,
+    "url": "https://en.wikipedia.org/wiki/Jerusalem",
+    "title": "Jerusalem"
+  },
+  "בריכה מטויחת בתוך הארמון": {
+    "lat": 31.874,
+    "lon": 35.43133,
+    "url": "https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%A7",
+    "title": "דוק"
+  },
+  "הרציף העתיק של דור": {
+    "lat": 36.50953,
+    "lon": 43.22931,
+    "url": "https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%A8_%D7%A9%D7%A8%D7%95%D7%9B%D7%99%D7%9F",
+    "title": "דור שרוכין"
+  },
+  "הרציף": {
+    "lat": 51.4965,
+    "lon": -0.12455,
+    "url": "https://he.wikipedia.org/wiki/%D7%A8%D7%A6%D7%99%D7%A3_%D7%94%D7%AA%D7%9E%D7%96%D7%94",
+    "title": "רציף התמזה"
+  },
+  "תעלת הניקוז": {
+    "lat": 53.064,
+    "lon": -1.48262,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%A2%D7%9C%D7%AA_%D7%A7%D7%A8%D7%95%D7%9E%D7%A4%D7%95%D7%A8%D7%93",
+    "title": "תעלת קרומפורד"
+  },
+  "הבאר בתל באר שבע": {
+    "lat": 31.25311,
+    "lon": 34.78671,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%90%D7%A8_%D7%A9%D7%91%D7%A2",
+    "title": "באר שבע"
+  },
+  "הארמון המערבי בתל א-סעידיה": {
+    "lat": 32.8249,
+    "lon": 34.9553,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A9%D7%A7%D7%9E%D7%95%D7%A0%D7%94",
+    "title": "תל שקמונה"
+  },
+  "מפעל המים בתל א-סעידיה": {
+    "lat": 32.51327,
+    "lon": 34.89683,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9E%D7%95%D7%AA_%D7%94%D7%9E%D7%99%D7%9D_%D7%A9%D7%9C_%D7%A7%D7%99%D7%A1%D7%A8%D7%99%D7%94",
+    "title": "אמות המים של קיסריה"
+  },
+  "מתקני המים בארמון המערבי בתל א-סעידיה": {
+    "lat": 32.8249,
+    "lon": 34.9553,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A9%D7%A7%D7%9E%D7%95%D7%A0%D7%94",
+    "title": "תל שקמונה"
+  },
+  "בור מים בשילה": {
+    "lat": 30.86547,
+    "lon": 34.75096,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A6%D7%93_%D7%9E%D7%90%D7%92%D7%95%D7%A8%D7%94",
+    "title": "מצד מאגורה"
+  },
+  "בור מים בתענך": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "בורות המים ברדאנה": {
+    "lat": 31.915,
+    "lon": 35.24972,
+    "url": "https://en.wikipedia.org/wiki/Khirbet_el-Maqatir",
+    "title": "Khirbet el-Maqatir"
+  },
+  "בורות מים בהעי": {
+    "lat": 43.9862,
+    "lon": 11.3039,
+    "url": "https://en.wikipedia.org/wiki/Convent_of_Bosco_ai_Frati",
+    "title": "Convent of Bosco ai Frati"
+  },
+  "אילת השחר": {
+    "lat": 29.55889,
+    "lon": 34.93917,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%A9%D7%99%D7%91%D7%AA_%D7%90%D7%99%D7%99%D7%9C%D7%AA_%D7%94%D7%A9%D7%97%D7%A8",
+    "title": "ישיבת איילת השחר"
+  },
+  "אמת המים הצפונית בתל חצור": {
+    "lat": 31.83944,
+    "lon": 34.82167,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A1%D7%99%D7%A1_%D7%AA%D7%9C_%D7%A0%D7%95%D7%A3",
+    "title": "בסיס תל נוף"
+  },
+  "אמת מים בנויה בנחל חצור": {
+    "lat": 32.5336,
+    "lon": 34.9267,
+    "url": "https://en.wikipedia.org/wiki/Tel_Mevorakh",
+    "title": "Tel Mevorakh"
+  },
+  "התעלה החצובה הדרומית בתל חצור": {
+    "lat": 32.8249,
+    "lon": 34.9553,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A9%D7%A7%D7%9E%D7%95%D7%A0%D7%94",
+    "title": "תל שקמונה"
+  },
+  "התעלה החצובה הצפונית בתל חצור": {
+    "lat": 32.80083,
+    "lon": 35.01917,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%90%D7%91%D7%95_%D7%94%D7%95%D7%90%D7%9D",
+    "title": "תל אבו הואם"
+  },
+  "מעיין ליד תל חצור": {
+    "lat": 33.01833,
+    "lon": 35.56917,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%97%D7%A6%D7%95%D7%A8",
+    "title": "תל חצור"
+  },
+  "מערות דרוזים": {
+    "lat": 32.82982,
+    "lon": 34.96959,
+    "url": "https://en.wikipedia.org/wiki/Cave_of_Elijah",
+    "title": "Cave of Elijah"
+  },
+  "נחל מכברם": {
+    "lat": 33.06951,
+    "lon": 35.32457,
+    "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%9E%D7%95%D7%A8%D7%AA_%D7%A0%D7%97%D7%9C_%D7%A9%D7%A8%D7%9A",
+    "title": "שמורת נחל שרך"
+  },
+  "נחל קבעת": {
+    "lat": 32.67083,
+    "lon": 34.96611,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%97%D7%9C_%D7%9E%D7%A2%D7%A8%D7%95%D7%AA",
+    "title": "נחל מערות"
+  },
+  "עין עקר": {
+    "lat": 31.76673,
+    "lon": 35.162,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%9B%D7%A8%D7%9D",
+    "title": "עין כרם"
+  },
+  "קרית שמונה": {
+    "lat": 33.21163,
+    "lon": 35.5732,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%99%D7%99%D7%AA_%D7%A9%D7%9E%D7%95%D7%A0%D7%94",
+    "title": "קריית שמונה"
+  },
+  "אמת המים הדרומית בתל חצור": {
+    "lat": 31.83944,
+    "lon": 34.82167,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A1%D7%99%D7%A1_%D7%AA%D7%9C_%D7%A0%D7%95%D7%A3",
+    "title": "בסיס תל נוף"
+  },
+  "אמת מים בנויה מחוליות בתל חצור": {
+    "lat": 32.50556,
+    "lon": 35.44778,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%9F_%D7%94%D7%A9%D7%9C%D7%95%D7%A9%D7%94",
+    "title": "גן השלושה"
+  },
+  "מפעל המים בתל חצור": {
+    "lat": 32.98207,
+    "lon": 35.54358,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%A6%D7%95%D7%A8_%D7%94%D7%92%D7%9C%D7%99%D7%9C%D7%99%D7%AA",
+    "title": "חצור הגלילית"
+  },
+  "מפעל המים של תל חצור": {
+    "lat": 32.98207,
+    "lon": 35.54358,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%A6%D7%95%D7%A8_%D7%94%D7%92%D7%9C%D7%99%D7%9C%D7%99%D7%AA",
+    "title": "חצור הגלילית"
+  },
+  "מפעל המים של תל יקנעם": {
+    "lat": 32.6641,
+    "lon": 35.10827,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%99%D7%A7%D7%A0%D7%A2%D7%9D",
+    "title": "תל יקנעם"
+  },
+  "מפעל המים של תל מגידו": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "מפעל המים של יבלעם": {
+    "lat": 32.44595,
+    "lon": 35.2926,
+    "url": "https://he.wikipedia.org/wiki/%D7%99%D7%91%D7%9C%D7%A2%D7%9D",
+    "title": "יבלעם"
+  },
+  "עין אל-בלד": {
+    "lat": 31.74096,
+    "lon": 35.14698,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%9F_%D7%90%D7%99%D7%AA%D7%9E%D7%A8",
+    "title": "עין איתמר"
+  },
+  "חדר האיגום בגבעון": {
+    "lat": 31.92665,
+    "lon": 35.13296,
+    "url": "https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%9C%D7%91_(%D7%99%D7%99%D7%A9%D7%95%D7%91)",
+    "title": "דולב (יישוב)"
+  },
+  "מפעל המים הראשון בגבעון": {
+    "lat": 31.84925,
+    "lon": 35.17104,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%97%D7%A0%D7%94_%D7%92%D7%91%D7%A2%D7%95%D7%9F",
+    "title": "מחנה גבעון"
+  },
+  "תעלת ההזנה בגבעון": {
+    "lat": 32.20714,
+    "lon": 35.26568,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A8_%D7%92%D7%A8%D7%99%D7%96%D7%99%D7%9D",
+    "title": "הר גריזים"
+  },
+  "הבריכה בגבעון": {
+    "lat": 31.84808,
+    "lon": 35.18716,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%91%D7%A2%D7%95%D7%9F",
+    "title": "גבעון"
+  },
+  "בירכת אל חמרה": {
+    "lat": 31.77056,
+    "lon": 35.235,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%99%D7%9B%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "בריכת השילוח"
+  },
+  "הבריכה של בליס": {
+    "lat": 31.77056,
+    "lon": 35.235,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%A8%D7%99%D7%9B%D7%AA_%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97",
+    "title": "בריכת השילוח"
+  },
+  "שלוש הבריכות": {
+    "lat": 31.68958,
+    "lon": 35.16753,
+    "url": "https://en.wikipedia.org/wiki/Solomon%27s_Pools",
+    "title": "Solomon's Pools"
+  },
+  "מנהרת הכותל": {
+    "lat": 31.77698,
+    "lon": 35.23447,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%94%D7%A8%D7%95%D7%AA_%D7%94%D7%9B%D7%95%D7%AA%D7%9C",
+    "title": "מנהרות הכותל"
+  },
+  "מאגר המים של מגידו": {
+    "lat": 32.58528,
+    "lon": 35.18444,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95",
+    "title": "תל מגידו"
+  },
+  "מאגר המים של בית שמש": {
+    "lat": 31.78194,
+    "lon": 35.15417,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%92%D7%A8_%D7%91%D7%99%D7%AA_%D7%96%D7%99%D7%AA",
+    "title": "מאגר בית זית"
+  },
+  "מפעל המים של גזר": {
+    "lat": 31.85987,
+    "lon": 34.91964,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%92%D7%96%D7%A8",
+    "title": "תל גזר"
+  },
+  "מאגר המים בבית שמש": {
+    "lat": 31.78194,
+    "lon": 35.15417,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%92%D7%A8_%D7%91%D7%99%D7%AA_%D7%96%D7%99%D7%AA",
+    "title": "מאגר בית זית"
+  },
+  "תעלת המים בבית שמש": {
+    "lat": 44.198,
+    "lon": 28.3983,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%A2%D7%9C%D7%AA_%D7%93%D7%A0%D7%95%D7%91%D7%94%E2%80%93%D7%94%D7%99%D7%9D_%D7%94%D7%A9%D7%97%D7%95%D7%A8",
+    "title": "תעלת דנובה–הים השחור"
+  },
+  "מאגר המים בעיטם": {
+    "lat": 31.68958,
+    "lon": 35.16753,
+    "url": "https://en.wikipedia.org/wiki/Solomon%27s_Pools",
+    "title": "Solomon's Pools"
+  },
+  "מאגר המים בעמאן": {
+    "lat": 31.95,
+    "lon": 35.93333,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%9E%D7%90%D7%9F",
+    "title": "עמאן"
+  },
+  "מאגר המים בבאר שבע": {
+    "lat": 31.23764,
+    "lon": 34.78739,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA_%D7%92%D7%90%D7%94_%D7%91%D7%91%D7%90%D7%A8_%D7%A9%D7%91%D7%A2",
+    "title": "בית גאה בבאר שבע"
+  },
+  "הבאר בערד": {
+    "lat": 31.25893,
+    "lon": 35.21389,
+    "url": "https://he.wikipedia.org/wiki/%D7%A2%D7%A8%D7%93",
+    "title": "ערד"
+  },
+  "תעלת המים": {
+    "lat": 62.8,
+    "lon": 34.8,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%A2%D7%9C%D7%AA_%D7%94%D7%99%D7%9D_%D7%94%D7%9C%D7%91%D7%9F%E2%80%93%D7%94%D7%99%D7%9D_%D7%94%D7%91%D7%9C%D7%98%D7%99",
+    "title": "תעלת הים הלבן–הים הבלטי"
+  },
+  "חומת המצודה": {
+    "lat": 28.65583,
+    "lon": 77.24028,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%A6%D7%95%D7%93%D7%94_%D7%94%D7%90%D7%93%D7%95%D7%9E%D7%94_%D7%91%D7%93%D7%9C%D7%94%D7%99",
+    "title": "המצודה האדומה בדלהי"
+  },
+  "מאגר המים המזרחי": {
+    "lat": 41.39704,
+    "lon": -73.59124,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%92%D7%A8_%D7%94%D7%A2%D7%A0%D7%A3_%D7%94%D7%9E%D7%96%D7%A8%D7%97%D7%99",
+    "title": "מאגר הענף המזרחי"
+  },
+  "מצודת חורבת טוב": {
+    "lat": 51.5082,
+    "lon": -0.0762,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A6%D7%95%D7%93%D7%AA_%D7%9C%D7%95%D7%A0%D7%93%D7%95%D7%9F",
+    "title": "מצודת לונדון"
+  },
+  "המצודה האמצעית": {
+    "lat": 51.5082,
+    "lon": -0.0762,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A6%D7%95%D7%93%D7%AA_%D7%9C%D7%95%D7%A0%D7%93%D7%95%D7%9F",
+    "title": "מצודת לונדון"
+  },
+  "בורות המים": {
+    "lat": 41.00806,
+    "lon": 28.97778,
+    "url": "https://en.wikipedia.org/wiki/Basilica_Cistern",
+    "title": "Basilica Cistern"
+  },
+  "בור מס' 40": {
+    "lat": 41.00806,
+    "lon": 28.97778,
+    "url": "https://en.wikipedia.org/wiki/Basilica_Cistern",
+    "title": "Basilica Cistern"
+  },
+  "בור 147": {
+    "lat": 41.01028,
+    "lon": 28.93472,
+    "url": "https://en.wikipedia.org/wiki/Cistern_of_Mocius",
+    "title": "Cistern of Mocius"
+  },
+  "בור 148": {
+    "lat": 55.29979,
+    "lon": 38.3903,
+    "url": "https://he.wikipedia.org/wiki/%D7%98%D7%99%D7%A1%D7%94_703_%D7%A9%D7%9C_%D7%A1%D7%A8%D7%90%D7%98%D7%95%D7%91_%D7%90%D7%99%D7%99%D7%A8%D7%9C%D7%99%D7%99%D7%A0%D7%A1",
+    "title": "טיסה 703 של סראטוב איירליינס"
+  },
+  "בור 152": {
+    "lat": 36.51957,
+    "lon": 28.92265,
+    "url": "https://he.wikipedia.org/wiki/%D7%98%D7%99%D7%A1%D7%94_152_%D7%A9%D7%9C_%D7%90%D7%99%D7%99%D7%A8_%D7%A4%D7%A8%D7%90%D7%A0%D7%A1",
+    "title": "טיסה 152 של אייר פראנס"
+  },
+  "בור 163": {
+    "lat": 37.44444,
+    "lon": 35.81028,
+    "url": "https://en.wikipedia.org/wiki/Sis_(ancient_city)",
+    "title": "Sis (ancient city)"
+  },
+  "בור 170": {
+    "lat": 41.01028,
+    "lon": 28.93472,
+    "url": "https://en.wikipedia.org/wiki/Cistern_of_Mocius",
+    "title": "Cistern of Mocius"
+  },
+  "בור 171": {
+    "lat": 30.58894,
+    "lon": 34.69053,
+    "url": "https://he.wikipedia.org/wiki/%D7%9B%D7%91%D7%99%D7%A9_171",
+    "title": "כביש 171"
+  },
+  "בור 173": {
+    "lat": -37.81361,
+    "lon": 144.96306,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%9C%D7%91%D7%95%D7%A8%D7%9F",
+    "title": "מלבורן"
+  },
+  "בור 183": {
+    "lat": 44.75029,
+    "lon": 19.69073,
+    "url": "https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%9C%D7%90%D7%92_183",
+    "title": "דולאג 183"
+  },
+  "בור 220": {
+    "lat": 32.7788,
+    "lon": 34.99652,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA_%D7%91%D7%99%D7%A8%D7%9D",
+    "title": "בית בירם"
+  },
+  "בור 231": {
+    "lat": 31.74083,
+    "lon": 35.45861,
+    "url": "https://en.wikipedia.org/wiki/Qumran",
+    "title": "Qumran"
+  },
+  "בור 276": {
+    "lat": -65.0833,
+    "lon": -61.6667,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%97%D7%95%D7%9F_%D7%90%D7%95%D7%95%D7%A0%D7%A1_(%D7%90%D7%A8%D7%A5_%D7%92%D7%A8%D7%94%D7%90%D7%9D)",
+    "title": "קרחון אוונס (ארץ גרהאם)"
+  },
+  "בור 363": {
+    "lat": 33.375,
+    "lon": 43.71667,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%91%D7%90%D7%A8",
+    "title": "אנבאר"
+  },
+  "ממגורה 275": {
+    "lat": 31.79472,
+    "lon": 34.62806,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%99%D7%A0%D7%94_%D7%90%D7%A9%D7%93%D7%95%D7%93",
+    "title": "מרינה אשדוד"
+  },
+  "בור המים מס' 21": {
+    "lat": 38.02806,
+    "lon": 22.8525,
+    "url": "https://en.wikipedia.org/wiki/Heraion_of_Perachora",
+    "title": "Heraion of Perachora"
+  },
+  "הבור הקטן": {
+    "lat": 31.95922,
+    "lon": 35.26664,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%91%D7%95%D7%A8_%D7%94%D7%A1%D7%99%D7%A0%D7%99",
+    "title": "הבור הסיני"
+  },
+  "בור פתוח רדוד מס' 121 (נחל בוקר)": {
+    "lat": 36.06,
+    "lon": -107.97,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A4%D7%90%D7%A8%D7%A7_%D7%94%D7%94%D7%99%D7%A1%D7%98%D7%95%D7%A8%D7%99_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99_%D7%A9%D7%9C_%D7%AA%D7%A8%D7%91%D7%95%D7%AA_%D7%A6%27%D7%90%D7%A7%D7%95",
+    "title": "הפארק ההיסטורי הלאומי של תרבות צ'אקו"
+  },
+  "הבריכה הגדולה (ג'ית)": {
+    "lat": 32.21849,
+    "lon": 35.16021,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%93%D7%95%D7%9E%D7%99%D7%9D",
+    "title": "קדומים"
+  },
+  "אייאניס": {
+    "lat": 48.69028,
+    "lon": 6.18333,
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%90%D7%A0%D7%A1%D7%99",
+    "title": "נאנסי"
+  },
+  "אקדמר": {
+    "lat": 38.34167,
+    "lon": 43.03528,
+    "url": "https://en.wikipedia.org/wiki/Akdamar_Island",
+    "title": "Akdamar Island"
+  },
+  "אראק": {
+    "lat": 34.053,
+    "lon": 49.4121,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A8%D7%90%D7%9B",
+    "title": "אראכ"
+  },
+  "באתום": {
+    "lat": 41.64583,
+    "lon": 41.64167,
+    "url": "https://en.wikipedia.org/wiki/Batumi",
+    "title": "Batumi"
+  },
+  "הוסאפ": {
+    "lat": 38.31722,
+    "lon": 43.80167,
+    "url": "https://en.wikipedia.org/wiki/Ho%C5%9Fap_Castle",
+    "title": "Hoşap Castle"
+  },
+  "טוספה": {
+    "lat": 38.51778,
+    "lon": 43.43444,
+    "url": "https://en.wikipedia.org/wiki/Tu%C5%9Fba",
+    "title": "Tuşba"
+  },
+  "רוסאחינילי": {
+    "lat": 38.52056,
+    "lon": 43.40389,
+    "url": "https://en.wikipedia.org/wiki/Toprakkale_(castle)",
+    "title": "Toprakkale (castle)"
+  },
+  "הארמון הצפון מערבי (נמרוד)": {
+    "lat": 33.25278,
+    "lon": 35.71472,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%91%D7%A6%D7%A8_%D7%A0%D7%9E%D7%A8%D7%95%D7%93",
+    "title": "מבצר נמרוד"
+  },
+  "אימגור אנליל": {
+    "lat": 36.21667,
+    "lon": 43.41667,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%9C%D7%90%D7%95%D7%95%D7%90%D7%AA",
+    "title": "בלאוואת"
+  },
+  "חזור": {
+    "lat": 19.15278,
+    "lon": 77.31861,
+    "url": "https://en.wikipedia.org/wiki/Hazur_Sahib",
+    "title": "Hazur Sahib"
+  },
+  "כלחו": {
+    "lat": 36.09806,
+    "lon": 43.32889,
+    "url": "https://en.wikipedia.org/wiki/Nimrud",
+    "title": "Nimrud"
+  },
+  "תרביצו": {
+    "lat": 36.415,
+    "lon": 43.11972,
+    "url": "https://en.wikipedia.org/wiki/Tarbi%E1%B9%A3u",
+    "title": "Tarbiṣu"
+  },
+  "אמת המים לנמרוד": {
+    "lat": 36.35944,
+    "lon": 43.15278,
+    "url": "https://en.wikipedia.org/wiki/Nineveh",
+    "title": "Nineveh"
+  },
+  "תל אבו שיטה": {
+    "lat": 32.80083,
+    "lon": 35.01917,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%90%D7%91%D7%95_%D7%94%D7%95%D7%90%D7%9D",
+    "title": "תל אבו הואם"
+  },
+  "תל עקוב": {
+    "lat": 31.69937,
+    "lon": 34.84669,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%A6%D7%A4%D7%99%D7%AA",
+    "title": "תל צפית"
+  },
+  "תעלת נמרוד": {
+    "lat": 37.92703,
+    "lon": 22.99462,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%A2%D7%9C%D7%AA_%D7%A7%D7%95%D7%A8%D7%99%D7%A0%D7%AA%D7%95%D7%A1",
+    "title": "תעלת קורינתוס"
+  },
+  "אטרוש": {
+    "lat": 36.66972,
+    "lon": 43.39361,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%27%D7%A8%D7%95%D7%95%D7%90%D7%9F",
+    "title": "ג'רוואן"
+  },
+  "חורסאבאד": {
+    "lat": 35.45667,
+    "lon": 43.2625,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%A9%D7%95%D7%A8_(%D7%A2%D7%99%D7%A8)",
+    "title": "אשור (עיר)"
+  },
+  "טרביצו": {
+    "lat": 36.415,
+    "lon": 43.11972,
+    "url": "https://en.wikipedia.org/wiki/Tarbi%E1%B9%A3u",
+    "title": "Tarbiṣu"
+  },
+  "קיסירי": {
+    "lat": 32.5011,
+    "lon": 34.8923,
+    "url": "https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%A1%D7%A8%D7%99%D7%94",
+    "title": "קיסריה"
+  },
+  "פיתגוריון": {
+    "lat": 37.69,
+    "lon": 26.94256,
+    "url": "https://he.wikipedia.org/wiki/%D7%94%D7%A4%D7%99%D7%AA%D7%92%D7%95%D7%A8%D7%99%D7%95%D7%9F_%D7%91%D7%A1%D7%90%D7%9E%D7%95%D7%A1",
+    "title": "הפיתגוריון בסאמוס"
+  },
+  "ח' בתר": {
+    "lat": 31.73001,
+    "lon": 35.13565,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA%D7%A8",
+    "title": "ביתר"
+  },
+  "אל-ביארה": {
+    "lat": 30.32861,
+    "lon": 35.44194,
+    "url": "https://he.wikipedia.org/wiki/%D7%A4%D7%98%D7%A8%D7%94",
+    "title": "פטרה"
+  },
+  "אנו טווין": {
+    "lat": 46.28333,
+    "lon": 21.01667,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%98%D7%95%D7%A0%D7%99%D7%94",
+    "title": "בטוניה"
+  },
+  "ראס א-זית": {
+    "lat": 33.101,
+    "lon": 35.444,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%A8%D7%95%D7%9F_%D7%90-%D7%A8%D7%90%D7%A1",
+    "title": "מארון א-ראס"
+  },
+  "רדום ס": {
+    "lat": 37.6625,
+    "lon": -121.87472,
+    "url": "https://en.wikipedia.org/wiki/Pleasanton,_California",
+    "title": "Pleasanton, California"
+  },
+  "ח' טוב": {
+    "lat": 31.74083,
+    "lon": 35.45861,
+    "url": "https://en.wikipedia.org/wiki/Qumran",
+    "title": "Qumran"
+  },
+  "תל נצבה": {
+    "lat": 31.88514,
+    "lon": 35.21642,
+    "url": "https://he.wikipedia.org/wiki/%D7%AA%D7%9C_%D7%90-%D7%A0%D7%A6%D7%91%D7%94",
+    "title": "תל א-נצבה"
+  },
+  "עפק": {
+    "lat": 32.08083,
+    "lon": 34.95694,
+    "url": "https://en.wikipedia.org/wiki/Migdal_Afek",
+    "title": "Migdal Afek"
+  },
+  "אגמי סיחה": {
+    "lat": 39.91139,
+    "lon": 116.38056,
+    "url": "https://he.wikipedia.org/wiki/%D7%92%27%D7%95%D7%A0%D7%92%D7%A0%D7%A0%D7%94%D7%90%D7%99",
+    "title": "ג'ונגננהאי"
+  },
+  "אגמי רוסה": {
+    "lat": 55.76389,
+    "lon": 37.59194,
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%92%D7%9E%D7%99_%D7%94%D7%A4%D7%98%D7%A8%D7%99%D7%90%D7%A8%D7%9A",
+    "title": "אגמי הפטריארך"
+  },
+  "ארמון נמרוד": {
+    "lat": 33.25278,
+    "lon": 35.71472,
+    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%91%D7%A6%D7%A8_%D7%A0%D7%9E%D7%A8%D7%95%D7%93",
+    "title": "מבצר נמרוד"
+  },
+  "טופרק קאלה": {
+    "lat": 41.68333,
+    "lon": 60.75,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%A8%D7%95%D7%A0%D7%99",
+    "title": "בירוני"
+  },
+  "מנהרת אופלינוס בסאמוס": {
+    "lat": 37.694,
+    "lon": 26.93,
+    "url": "https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos",
+    "title": "Tunnel of Eupalinos"
+  },
+  "מנהרת נגב": {
+    "lat": 31.31406,
+    "lon": 34.59461,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA_%D7%94%D7%97%D7%95%D7%9C%D7%99%D7%9D_%D7%A2%D7%93%D7%99_%D7%A0%D7%92%D7%91",
+    "title": "בית החולים עדי נגב"
+  },
+  "עיר מידאס": {
+    "lat": 39.2,
+    "lon": 30.71667,
+    "url": "https://en.wikipedia.org/wiki/Yaz%C4%B1l%C4%B1,_Han",
+    "title": "Yazılı, Han"
+  },
+  "קנאווט": {
+    "lat": 32.75556,
+    "lon": 36.61667,
+    "url": "https://en.wikipedia.org/wiki/Qanawat",
+    "title": "Qanawat"
+  },
+  "חורבת אבו א-תוין": {
+    "lat": 31.66638,
+    "lon": 35.08924,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%27%D7%A8%D7%91%D7%AA_%D7%90%D7%91%D7%95_%D7%98%D7%95%D7%99%D7%9F",
+    "title": "ח'רבת אבו טוין"
+  },
+  "חורבת אל-חוח (עיטם)": {
+    "lat": 35.38028,
+    "lon": 92.43917,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%97_%D7%A9%D7%99%D7%9C",
+    "title": "חוח שיל"
+  },
+  "חורבת אל-קאיק (גובה בית שמש)": {
+    "lat": 31.71863,
+    "lon": 35.00066,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%96%D7%A0%D7%95%D7%97",
+    "title": "חורבת זנוח"
+  },
+  "חורבת בנאת בר": {
+    "lat": 31.655,
+    "lon": 34.9375,
+    "url": "https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%9E%D7%93%D7%A8%D7%A1",
+    "title": "חורבת מדרס"
+  },
+  "בוסרה (סוריה)": {
+    "lat": 32.51667,
+    "lon": 36.48333,
+    "url": "https://he.wikipedia.org/wiki/%D7%91%D7%95%D7%A1%D7%A8%D7%94",
+    "title": "בוסרה"
+  },
+  "ג'אווה (ירדן)": {
+    "lat": 32.335,
+    "lon": 37.00333,
+    "url": "https://en.wikipedia.org/wiki/Jawa,_Jordan",
+    "title": "Jawa, Jordan"
+  },
+  "מזר": {
+    "lat": 32.44,
+    "lon": 35.0475,
+    "url": "https://en.wikipedia.org/wiki/Metzer",
+    "title": "Metzer"
+  },
+  "תפה גאורה": {
+    "lat": 36.49556,
+    "lon": 43.26028,
+    "url": "https://en.wikipedia.org/wiki/Tepe_Gawra",
+    "title": "Tepe Gawra"
+  }
+}

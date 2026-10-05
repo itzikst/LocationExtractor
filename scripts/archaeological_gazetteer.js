@@ -35,6 +35,15 @@ function parseGridRef(gridStr) {
 // 2. Comprehensive Master Registry of Authoritative Archaeological Coordinates (124 Unique Physical Sites)
 // 100% complete coverage of physical water installations from Dr. Zvika Tzuk's PhD dissertation
 const MASTER_ARCHAEOLOGICAL_GAZETTEER = {
+  'ein_gev': {
+    name: 'Ein Gev IX',
+    hebName: 'עין גב',
+    lat: 32.78440,
+    lon: 35.64200,
+    source: 'Bar-Yosef 1970; Dissertation §2.1, pp. 43-44',
+    tier: 'Tier 1: High Precision (Pinpoint Well/Installation < 50m)',
+    notes: 'Ein Gev IX (Eastern shore of Sea of Galilee) Epi-Paleolithic/Natufian spring depression & settlement'
+  },
   'atlit_yam': {
     name: 'Atlit-Yam',
     hebName: 'עתלית ים',
