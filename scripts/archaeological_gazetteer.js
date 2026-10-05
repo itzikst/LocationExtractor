@@ -15,20 +15,43 @@ function icsToWgs84(east, north) {
 
 function parseGridRef(gridStr) {
   if (!gridStr) return null;
-  const clean = gridStr.replace(/\D/g, '');
-  let east, north;
-  if (clean.length === 10) {
-    east = parseInt(clean.slice(0, 5), 10);
-    north = parseInt(clean.slice(5, 10), 10);
-  } else if (clean.length === 8) {
-    east = parseInt(clean.slice(0, 4), 10) * 10;
-    north = parseInt(clean.slice(4, 8), 10) * 10;
-  } else if (clean.length === 6) {
-    east = parseInt(clean.slice(0, 3), 10) * 1000;
-    north = parseInt(clean.slice(3, 6), 10) * 1000;
+  const sepMatch = String(gridStr).trim().match(/^([0-9]{3,6})\s*[\/\-–\.]\s*([0-9]{3,6})$/);
+  let cleanE = '';
+  let cleanN = '';
+  
+  if (sepMatch) {
+    cleanE = sepMatch[1];
+    cleanN = sepMatch[2];
   } else {
-    return null;
+    const clean = String(gridStr).replace(/\D/g, '');
+    if (clean.length === 6) {
+      cleanE = clean.slice(0, 3);
+      cleanN = clean.slice(3, 6);
+    } else if (clean.length === 8) {
+      cleanE = clean.slice(0, 4);
+      cleanN = clean.slice(4, 8);
+    } else if (clean.length === 10) {
+      cleanE = clean.slice(0, 5);
+      cleanN = clean.slice(5, 10);
+    } else if (clean.length === 12) {
+      cleanE = clean.slice(0, 6);
+      cleanN = clean.slice(6, 12);
+    } else {
+      return null;
+    }
   }
+
+  let east = parseInt(cleanE, 10);
+  let north = parseInt(cleanN, 10);
+
+  if (cleanE.length === 3) east *= 1000;
+  else if (cleanE.length === 4) east *= 100;
+  else if (cleanE.length === 5) east *= 10;
+
+  if (cleanN.length === 3) north *= 1000;
+  else if (cleanN.length === 4) north *= 100;
+  else if (cleanN.length === 5) north *= 10;
+
   return icsToWgs84(east, north);
 }
 

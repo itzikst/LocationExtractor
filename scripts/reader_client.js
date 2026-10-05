@@ -195,6 +195,47 @@ function highlightLocationMentions(loc) {
   }
 }
 
+function formatSourceBadge(source) {
+  if (!source) return '';
+  const s = String(source).trim();
+  if (s.toLowerCase() === 'phd') {
+    return '<span class="loc-source-pill source-phd" title="מקור הקואורדינטות: עבודת הדוקטורט (צוק 2000)">PhD</span>';
+  }
+  if (s.toLowerCase() === 'iaa') {
+    return '<span class="loc-source-pill source-iaa" title="מקור הקואורדינטות: סקר רשות העתיקות">IAA</span>';
+  }
+  if (s.startsWith('http')) {
+    let articleName = 'ויקיפדיה';
+    try {
+      const parts = s.split('/');
+      const last = decodeURIComponent(parts[parts.length - 1]).replace(/_/g, ' ');
+      if (last) articleName = last;
+    } catch(e) {}
+    return '<a href="' + s + '" target="_blank" rel="noopener" class="loc-source-pill source-wiki" title="מקור הקואורדינטות: ויקיפדיה (' + articleName + ')" onclick="event.stopPropagation()">🌐 ' + articleName + ' ↗</a>';
+  }
+  return '<span class="loc-source-pill" title="מקור: ' + s + '">' + s + '</span>';
+}
+
+function formatSourceDetail(source) {
+  if (!source) return 'לא צוין';
+  const s = String(source).trim();
+  if (s.toLowerCase() === 'phd') {
+    return '<span>עבודת הדוקטורט (ד"ר צביקה צוק 2000) / רשת ישראל</span>';
+  }
+  if (s.toLowerCase() === 'iaa') {
+    return '<span>מאגר אתרי סקר רשות העתיקות (IAA Archaeological Survey)</span>';
+  }
+  if (s.startsWith('http')) {
+    let articleName = s;
+    try {
+      const parts = s.split('/');
+      articleName = decodeURIComponent(parts[parts.length - 1]).replace(/_/g, ' ');
+    } catch(e) {}
+    return '<a href="' + s + '" target="_blank" rel="noopener" class="loc-source-link">🌐 ויקיפדיה: ' + articleName + ' ↗</a>';
+  }
+  return '<span>' + s + '</span>';
+}
+
 // Render Locations in Left Sidebar
 function showLocationsForPage(pageNum) {
   clearLocationHighlights();
@@ -226,7 +267,8 @@ function showLocationsForPage(pageNum) {
            (l.eng && l.eng.toLowerCase().includes(filterVal)) ||
            (l.heb_aliases && l.heb_aliases.toLowerCase().includes(filterVal)) ||
            (l.eng_aliases && l.eng_aliases.toLowerCase().includes(filterVal)) ||
-           (l.type && l.type.toLowerCase().includes(filterVal));
+           (l.type && l.type.toLowerCase().includes(filterVal)) ||
+           (l.coord_source && l.coord_source.toLowerCase().includes(filterVal));
   });
 
   currentActivePageLocations = filtered;
@@ -250,17 +292,30 @@ function showLocationsForPage(pageNum) {
       }).join(' ');
     }
 
+    // Coordinates and Map link
+    let coordsHeaderHtml = '';
+    let mapUrl = '';
+    if (loc.lat && loc.lon) {
+      mapUrl = loc.map_url || ('https://www.google.com/maps?q=' + loc.lat + ',' + loc.lon + '&ll=' + loc.lat + ',' + loc.lon + '&z=17');
+      const sourceBadge = formatSourceBadge(loc.coord_source);
+      coordsHeaderHtml = '<div class="loc-coords-row">' +
+        '<a href="' + mapUrl + '" target="_blank" rel="noopener" class="loc-coords-chip" title="פתח מיקום ב-Google Maps (זום 17)" onclick="event.stopPropagation()">' +
+          '📍 ' + loc.lat + ', ' + loc.lon + ' ↗' +
+        '</a>' +
+        sourceBadge +
+      '</div>';
+    }
+
     // External IAA Links
-    let iaaLinksHtml = '';
+    let extLinksHtml = '';
     if (loc.iaa_url) {
-      iaaLinksHtml += '<a href="' + loc.iaa_url + '" target="_blank" rel="noopener" class="loc-btn-link iaa-link" title="פתח כרטיס אתר בסקר רשות העתיקות">🏛️ סקר רשות העתיקות ↗</a>';
+      extLinksHtml += '<a href="' + loc.iaa_url + '" target="_blank" rel="noopener" class="loc-btn-link iaa-link" title="פתח כרטיס אתר בסקר רשות העתיקות">🏛️ סקר רשות העתיקות ↗</a>';
     }
     if (loc.iaa_eng_url) {
-      iaaLinksHtml += '<a href="' + loc.iaa_eng_url + '" target="_blank" rel="noopener" class="loc-btn-link iaa-link" title="Open site in IAA English Survey">🌐 IAA English ↗</a>';
+      extLinksHtml += '<a href="' + loc.iaa_eng_url + '" target="_blank" rel="noopener" class="loc-btn-link iaa-link" title="Open site in IAA English Survey">🌐 IAA English ↗</a>';
     }
-    if (loc.lat && loc.lon) {
-      const mapUrl = 'https://www.google.com/maps?q=' + loc.lat + ',' + loc.lon;
-      iaaLinksHtml += '<a href="' + mapUrl + '" target="_blank" rel="noopener" class="loc-btn-link" title="הצג מיקום במפה (' + loc.lat + ', ' + loc.lon + ')">🗺️ מפה (' + loc.lat + ', ' + loc.lon + ') ↗</a>';
+    if (loc.lat && loc.lon && mapUrl) {
+      extLinksHtml += '<a href="' + mapUrl + '" target="_blank" rel="noopener" class="loc-btn-link map-btn-link" title="הצג מיקום ב-Google Maps (זום 17)">🗺️ Google Maps (זום 17) ↗</a>';
     }
 
     html += '<div class="loc-card" id="' + cardId + '">' +
@@ -271,6 +326,7 @@ function showLocationsForPage(pageNum) {
             '<span>' + loc.name + '</span>' +
           '</div>' +
           (loc.eng ? '<div class="loc-card-eng">' + loc.eng + '</div>' : '') +
+          coordsHeaderHtml +
         '</div>' +
         '<div style="display:flex; align-items:center; gap:6px;">' +
           '<span class="loc-type-badge">' + loc.type + '</span>' +
@@ -278,6 +334,9 @@ function showLocationsForPage(pageNum) {
         '</div>' +
       '</div>' +
       '<div class="loc-details-body">' +
+        (loc.lat && loc.lon ? '<div class="loc-detail-row"><span class="loc-detail-label">קואורדינטות (WGS84)</span><span class="loc-detail-value"><a href="' + mapUrl + '" target="_blank" rel="noopener" class="loc-coords-btn" title="פתח ב-Google Maps (זום 17)">📍 ' + loc.lat + ', ' + loc.lon + ' &nbsp;[פתח מפה בזום 17 ↗]</a></span></div>' : '') +
+        (loc.coord_source ? '<div class="loc-detail-row"><span class="loc-detail-label">מקור הקואורדינטות</span><span class="loc-detail-value">' + formatSourceDetail(loc.coord_source) + '</span></div>' : '') +
+        (loc.num_candidates && loc.num_candidates > 1 ? '<div class="loc-detail-row"><span class="loc-detail-label">בקרת איכות ואימות</span><span class="loc-detail-value">נבחנו ' + loc.num_candidates + ' אפשרויות זיהוי (הקואורדינטה המדויקת ביותר נבחרה)</span></div>' : '') +
         (loc.eng ? '<div class="loc-detail-row"><span class="loc-detail-label">שם באנגלית</span><span class="loc-detail-value">' + loc.eng + '</span></div>' : '') +
         (loc.heb_aliases ? '<div class="loc-detail-row"><span class="loc-detail-label">שמות נרדפים בעברית</span><span class="loc-detail-value">' + loc.heb_aliases + '</span></div>' : '') +
         (loc.eng_aliases ? '<div class="loc-detail-row"><span class="loc-detail-label">שמות נרדפים באנגלית</span><span class="loc-detail-value">' + loc.eng_aliases + '</span></div>' : '') +
@@ -285,7 +344,7 @@ function showLocationsForPage(pageNum) {
         '<div class="loc-detail-row"><span class="loc-detail-label">הופעה ראשונה בחיבור</span><span class="loc-detail-value"><a href="#page-' + loc.first_page + '" onclick="navigateToPage(' + loc.first_page + '); return false;" class="loc-page-chip">עמוד ' + loc.first_page + '</a></span></div>' +
         '<div class="loc-detail-row"><span class="loc-detail-label">כל העמודים שבהם מוזכר (' + (loc.pages ? loc.pages.length : 0) + ')</span><div class="loc-page-badges-container">' + pageChipsHtml + '</div></div>' +
         (loc.iaa_map ? '<div class="loc-detail-row"><span class="loc-detail-label">מפת סקר רשות העתיקות</span><span class="loc-detail-value">' + loc.iaa_map + (loc.iaa_id ? ' (מספר אתר: ' + loc.iaa_id + ')' : '') + '</span></div>' : '') +
-        (iaaLinksHtml ? '<div class="loc-detail-row" style="margin-top: 6px;"><span class="loc-detail-label">קישורים ומפות</span><div class="loc-links-group">' + iaaLinksHtml + '</div></div>' : '') +
+        (extLinksHtml ? '<div class="loc-detail-row" style="margin-top: 6px;"><span class="loc-detail-label">קישורים ומפות</span><div class="loc-links-group">' + extLinksHtml + '</div></div>' : '') +
       '</div>' +
     '</div>';
   });

@@ -1,8 +1,67 @@
-import { readFileSync, writeFileSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { execSync } from 'node:child_process';
+import { parseGridRef } from './archaeological_gazetteer.js';
 
 const OUTPUT_PREFIX = 'gs://tsvika/output/';
+
+// Load verified geocoded dataset (778 unique locations with coordinates and sources)
+function loadGeocodedMap() {
+  const csvPath = join(process.cwd(), 'data', 'geocoded_locations.csv');
+  const geocodedMap = new Map();
+  if (!existsSync(csvPath)) return geocodedMap;
+
+  const csvLines = readFileSync(csvPath, 'utf-8').split('\n').filter(l => l.trim());
+  for (let i = 1; i < csvLines.length; i++) {
+    const line = csvLines[i];
+    const m = line.match(/^"([^"]+)","([^"]+)","([^"]+)",(\d+),(true|false),"([^"]+)"/);
+    if (m) {
+      const [, name, coords, source, num, isBest, mapUrl] = m;
+      if (isBest === 'true') {
+        const [lat, lon] = coords.split(',').map(s => s.trim());
+        geocodedMap.set(name.trim(), {
+          lat: Number(lat),
+          lon: Number(lon),
+          source: source.trim(),
+          numCandidates: parseInt(num, 10),
+          mapUrl: mapUrl.trim()
+        });
+      }
+    }
+  }
+  return geocodedMap;
+}
+
+// Convert all in-text occurrences of Israeli Grid coordinates to clickable Google Maps links (zoom 17)
+export function linkifyIsraeliGridCoords(html) {
+  if (!html) return '';
+
+  // 1. Repair split between נ.צ. and coordinates across </p><p...> tags
+  let processed = html.replace(
+    /((?:ב|ל)?נ[\.״\"\'\s]*[י]?[\.״\"\'\s]*[צץ][\.״\"\'\s]*(?:(?:\.U\.T\.M|\.UTM|UTM)[\.\s]*)?[:\-]?)\s*<\/p>\s*<p[^>]*>\s*([0-9]{3,6}(?:[\.\/\-–\s]+[0-9]{3,6})|[0-9]{6,10})/gi,
+    '$1 $2'
+  );
+
+  // 2. Comprehensive regex matching Israeli Grid coordinates
+  const gridRegex = /((?:ב|ל)?נ[\.״\"\'\s]*[י]?[\.״\"\'\s]*[צץ][\.״\"\'\s]*(?:(?:\.U\.T\.M|\.UTM|UTM)[\.\s]*)?[:\-]?\s*)([0-9]{3,6}(?:[\.\/\-–\s]+[0-9]{3,6})|[0-9]{6,10})/gi;
+
+  processed = processed.replace(gridRegex, (match, prefix, numStr) => {
+    const geo = parseGridRef(numStr);
+    if (!geo) return match;
+
+    const mapUrl = `https://www.google.com/maps?q=${geo.lat},${geo.lon}&ll=${geo.lat},${geo.lon}&z=17`;
+    const cleanPrefix = prefix.trim();
+    const cleanNum = numStr.trim();
+    const isBeth = cleanPrefix.startsWith('ב');
+    const isLamed = cleanPrefix.startsWith('ל');
+    const prefixLetter = isBeth ? 'ב' : (isLamed ? 'ל' : '');
+    const mainPrefix = prefixLetter ? cleanPrefix.slice(1).trim() : cleanPrefix;
+
+    return `${prefixLetter}<a href="${mapUrl}" target="_blank" rel="noopener" class="grid-coord-link" title="רשת ישראל נ.צ. ${cleanNum} (WGS84: ${geo.lat}, ${geo.lon}) - פתח ב-Google Maps (זום 17)">📍 ${mainPrefix} ${cleanNum} ↗</a>`;
+  });
+
+  return processed;
+}
 
 export const VERIFIED_TOC = [
   { level: 1, title: 'שער ומידע ביבליוגרפי', page: 1, id: 'front-matter' },
@@ -116,6 +175,8 @@ export const VERIFIED_TOC = [
 function generateReaderHtml() {
   const sortedPages = JSON.parse(readFileSync(join(process.cwd(), 'data', 'post_processed_pages.json'), 'utf-8'));
   const locationsData = JSON.parse(readFileSync(join(process.cwd(), 'data', 'locations_dissertation.json'), 'utf-8'));
+  const geocodedMap = loadGeocodedMap();
+  console.log(`Loaded ${geocodedMap.size} verified geocoded entries for Left Sidebar.`);
   const totalPages = 446;
 
   const EXCLUDED_TYPES = new Set([
@@ -139,6 +200,15 @@ function generateReaderHtml() {
     const typeLower = (loc.site_type || '').toLowerCase().trim();
     if (EXCLUDED_TYPES.has(typeLower)) continue;
 
+    // Enrich with verified geocoded coordinates & source
+    const nameTrim = (loc.location_name || '').trim();
+    const geo = geocodedMap.get(nameTrim);
+    let lat = geo ? geo.lat : (loc.latitude || '');
+    let lon = geo ? geo.lon : (loc.longitude || '');
+    let source = geo ? geo.source : (lat && lon ? 'IAA' : '');
+    let mapUrl = geo ? geo.mapUrl : (lat && lon ? `https://www.google.com/maps?q=${lat},${lon}&ll=${lat},${lon}&z=17` : '');
+    let numCandidates = geo ? geo.numCandidates : 1;
+
     if (Array.isArray(loc.all_pages)) {
       for (const p of loc.all_pages) {
         if (locationsByPage[p]) {
@@ -154,8 +224,11 @@ function generateReaderHtml() {
             iaa_id: loc.iaa_site_id || '',
             iaa_url: loc.iaa_portal_url || '',
             iaa_eng_url: loc.iaa_eng_portal_url || '',
-            lat: loc.latitude || '',
-            lon: loc.longitude || ''
+            lat,
+            lon,
+            coord_source: source,
+            map_url: mapUrl,
+            num_candidates: numCandidates
           });
         }
       }
@@ -180,6 +253,8 @@ function generateReaderHtml() {
     });
 
     const pageLocCount = locationsByPage[p.page_number]?.length || 0;
+    const rawContent = p.clean_html || p.clean_markdown || '';
+    const contentWithGridLinks = linkifyIsraeliGridCoords(rawContent);
 
     pagesHtml += `
     <article id="page-${p.page_number}" class="page-container ${langClass}" dir="${textDir}" data-page="${p.page_number}">
@@ -200,7 +275,7 @@ function generateReaderHtml() {
         </div>
       </header>
       <div class="page-content">
-        ${p.clean_html || p.clean_markdown}
+        ${contentWithGridLinks}
       </div>
       <footer class="page-footer">
         <span>— עמוד ${p.page_number} מתוך ${totalPages} —</span>
@@ -709,6 +784,153 @@ function generateReaderHtml() {
     .loc-btn-link.iaa-link:hover {
       background: #0284c7;
       color: #fff;
+    }
+    .loc-btn-link.map-btn-link {
+      color: #047857;
+      border-color: #a7f3d0;
+      background: #ecfdf5;
+    }
+    .loc-btn-link.map-btn-link:hover {
+      background: #059669;
+      color: #fff;
+    }
+
+    /* Coordinate and Source Badges in Left Sidebar */
+    .loc-coords-row {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-top: 5px;
+    }
+    .loc-coords-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      background: var(--accent-soft);
+      color: var(--accent-color);
+      border: 1px solid rgba(2, 132, 199, 0.28);
+      font-size: 11px;
+      font-weight: 700;
+      padding: 1px 7px;
+      border-radius: 4px;
+      text-decoration: none;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace;
+      direction: ltr;
+      transition: all 0.15s ease;
+    }
+    .loc-coords-chip:hover {
+      background: var(--accent-color);
+      color: #ffffff;
+      border-color: var(--accent-color);
+      box-shadow: 0 1px 3px rgba(2, 132, 199, 0.3);
+    }
+    .loc-source-pill {
+      font-size: 10.5px;
+      font-weight: 600;
+      padding: 1px 6px;
+      border-radius: 4px;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 2px;
+    }
+    .loc-source-pill.source-phd {
+      background: #ecfdf5;
+      color: #047857;
+      border: 1px solid #a7f3d0;
+    }
+    [data-theme="dark"] .loc-source-pill.source-phd {
+      background: rgba(16, 185, 129, 0.15);
+      color: #34d399;
+      border-color: rgba(16, 185, 129, 0.3);
+    }
+    .loc-source-pill.source-iaa {
+      background: #fffbeb;
+      color: #b45309;
+      border: 1px solid #fde68a;
+    }
+    [data-theme="dark"] .loc-source-pill.source-iaa {
+      background: rgba(245, 158, 11, 0.15);
+      color: #fbbf24;
+      border-color: rgba(245, 158, 11, 0.3);
+    }
+    .loc-source-pill.source-wiki {
+      background: #f5f3ff;
+      color: #6d28d9;
+      border: 1px solid #ddd6fe;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .loc-source-pill.source-wiki:hover {
+      background: #6d28d9;
+      color: #ffffff;
+    }
+    [data-theme="dark"] .loc-source-pill.source-wiki {
+      background: rgba(139, 92, 246, 0.15);
+      color: #a78bfa;
+      border-color: rgba(139, 92, 246, 0.3);
+    }
+    .loc-coords-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 4px 10px;
+      border-radius: 5px;
+      font-size: 12px;
+      font-weight: 700;
+      text-decoration: none;
+      background: var(--accent-soft);
+      color: var(--accent-color);
+      border: 1px solid rgba(2, 132, 199, 0.25);
+      transition: all 0.15s;
+    }
+    .loc-coords-btn:hover {
+      background: var(--accent-color);
+      color: #ffffff;
+    }
+    .loc-source-link {
+      color: #6d28d9;
+      text-decoration: underline;
+      font-weight: 600;
+    }
+    [data-theme="dark"] .loc-source-link {
+      color: #a78bfa;
+    }
+
+    /* In-Text Israeli Grid Coordinate Links */
+    .grid-coord-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      background: rgba(2, 132, 199, 0.08);
+      color: var(--accent-color);
+      border: 1px solid rgba(2, 132, 199, 0.28);
+      padding: 1px 7px;
+      border-radius: 5px;
+      font-weight: 700;
+      font-size: 0.92em;
+      text-decoration: none;
+      font-family: inherit;
+      transition: all 0.18s ease;
+      vertical-align: baseline;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+    }
+    .grid-coord-link:hover {
+      background: var(--accent-color);
+      color: #ffffff !important;
+      border-color: var(--accent-color);
+      box-shadow: 0 2px 6px rgba(2, 132, 199, 0.35);
+      transform: translateY(-1px);
+    }
+    [data-theme="dark"] .grid-coord-link {
+      background: rgba(56, 189, 248, 0.12);
+      color: #38bdf8;
+      border-color: rgba(56, 189, 248, 0.3);
+    }
+    [data-theme="dark"] .grid-coord-link:hover {
+      background: #0284c7;
+      color: #ffffff !important;
     }
 
     /* Main Reading Content Area */
