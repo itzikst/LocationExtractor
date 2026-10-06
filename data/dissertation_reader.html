@@ -21255,7 +21255,15 @@ function highlightLocationMentions(loc) {
   });
 
   if (firstMatch) {
-    firstMatch.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    const rect = firstMatch.getBoundingClientRect();
+    const headerHeight = 70;
+    const isVisible = (rect.top >= headerHeight && rect.bottom <= (window.innerHeight - 30));
+
+    if (!isVisible) {
+      isUserNavigating = true;
+      firstMatch.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      setTimeout(() => { isUserNavigating = false; }, 800);
+    }
   }
 }
 
@@ -21443,24 +21451,36 @@ function filterLocationsList() {
   showLocationsForPage(activePageNumber);
 }
 
-// Scroll Observer: Dynamically sync Left Sidebar with the page in view
-const observerOptions = {
-  root: null,
-  rootMargin: '-20% 0px -60% 0px',
-  threshold: 0
-};
+// Active Page Focal Spy: Dynamically sync Left Sidebar with the page in focal reading view
+let scrollTicking = false;
 
-const pageObserver = new IntersectionObserver((entries) => {
+function updateActivePageFromScroll() {
   if (isUserNavigating) return;
-  entries.forEach(entry => {
-    if (entry.isIntersecting) {
-      const pageNum = parseInt(entry.target.getAttribute('data-page'), 10);
+
+  const pages = document.querySelectorAll('.page-container');
+  const focalY = 120; // 120px from top of viewport (directly beneath 64px header)
+
+  for (const page of pages) {
+    const rect = page.getBoundingClientRect();
+    if (rect.top <= focalY && rect.bottom > focalY) {
+      const pageNum = parseInt(page.getAttribute('data-page'), 10);
       if (pageNum && pageNum !== activePageNumber) {
         showLocationsForPage(pageNum);
       }
+      return;
     }
-  });
-}, observerOptions);
+  }
+}
+
+function handleWindowScroll() {
+  if (!scrollTicking) {
+    window.requestAnimationFrame(() => {
+      updateActivePageFromScroll();
+      scrollTicking = false;
+    });
+    scrollTicking = true;
+  }
+}
 
 // Live search highlight across all pages
 let searchDebounce = null;
@@ -21498,7 +21518,12 @@ function handleSearch() {
 
     countSpan.textContent = matchesCount > 0 ? (matchesCount + ' תוצאות') : 'לא נמצאו תוצאות';
     if (firstMatch) {
-      firstMatch.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      const rect = firstMatch.getBoundingClientRect();
+      if (rect.top < 70 || rect.bottom > (window.innerHeight - 30)) {
+        isUserNavigating = true;
+        firstMatch.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        setTimeout(() => { isUserNavigating = false; }, 800);
+      }
     }
   }, 300);
 }
@@ -21523,7 +21548,7 @@ window.clearLocationHighlights = clearLocationHighlights;
 
 // Initialize on Load
 function initReader() {
-  document.querySelectorAll('.page-container').forEach(p => pageObserver.observe(p));
+  window.addEventListener('scroll', handleWindowScroll, { passive: true });
 
   const hash = window.location.hash;
   let initPage = 1;
