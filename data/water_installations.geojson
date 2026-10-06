@@ -1428,15 +1428,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.56828,
-          33.01843
+          35.56806,
+          33.01764
         ]
       },
       "properties": {
         "location name": "Tel Hazor",
         "location_name_he": "תל חצור",
-        "latitude": 33.01843,
-        "longitude": 35.56828,
+        "latitude": 33.01764,
+        "longitude": 35.56806,
         "start year": -2200,
         "end time": -1550,
         "title": "Water_Tunnel_Shaft",
@@ -1757,15 +1757,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.56828,
-          33.01843
+          35.56806,
+          33.01764
         ]
       },
       "properties": {
         "location name": "Tel Hazor",
         "location_name_he": "תל חצור",
-        "latitude": 33.01843,
-        "longitude": 35.56828,
+        "latitude": 33.01764,
+        "longitude": 35.56806,
         "start year": -1550,
         "end time": -1200,
         "title": "Water_Reservoir",
@@ -2006,15 +2006,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.56828,
-          33.01843
+          35.56806,
+          33.01764
         ]
       },
       "properties": {
         "location name": "Tel Hazor",
         "location_name_he": "תל חצור",
-        "latitude": 33.01843,
-        "longitude": 35.56828,
+        "latitude": 33.01764,
+        "longitude": 35.56806,
         "start year": -1200,
         "end time": -1000,
         "title": "Aqueduct_Channel",
@@ -2457,15 +2457,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.16428,
-          31.20598
+          35.16567,
+          31.20919
         ]
       },
       "properties": {
         "location name": "Horbat Uza",
         "location_name_he": "חורבת עוזה",
-        "latitude": 31.20598,
-        "longitude": 35.16428,
+        "latitude": 31.20919,
+        "longitude": 35.16567,
         "start year": -1000,
         "end time": -586,
         "title": "Aqueduct_Channel",
@@ -3820,15 +3820,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.56828,
-          33.01843
+          35.56806,
+          33.01764
         ]
       },
       "properties": {
         "location name": "Tel Hazor",
         "location_name_he": "תל חצור",
-        "latitude": 33.01843,
-        "longitude": 35.56828,
+        "latitude": 33.01764,
+        "longitude": 35.56806,
         "start year": -1000,
         "end time": -586,
         "title": "Water_Tunnel_Shaft",

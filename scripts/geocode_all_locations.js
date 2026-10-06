@@ -178,9 +178,11 @@ const COMPREHENSIVE_ARCHAEOLOGICAL_DIRECTORY = {
   'ביר אל-עבהרה': { coords: '31.24472, 34.84139', source: 'PhD', notes: 'Tel Beersheba deep well' },
   'לחי ראי': { coords: '30.85000, 34.40000', source: 'https://he.wikipedia.org/wiki/%D7%91%D7%90%D7%A8_%D7%9C%D7%97%D7%99_%D7%A8%D7%90%D7%99', notes: 'Beer Lahai Roi in Negev' },
   'שטנה': { coords: '31.38000, 34.60000', source: 'PhD', notes: 'Sitnah well in Gerar valley' },
-  'דיר גריסה': { coords: '32.09100, 34.80500', source: 'PhD', notes: 'Deir Gerisa near Tel Gerisa' },
-  'חרי טוב': { coords: '31.24000, 34.90000', source: 'PhD', notes: 'Horbat Tov in Negev' },
-  'אום אל ביארה': { coords: '30.32083, 35.43750', source: 'PhD', notes: 'Umm el-Biyara fortress, Petra, Jordan' },
+  'חורבת טוב': { coords: '31.32771, 35.14949', source: 'PhD', notes: 'Horbat Tov Iron Age fortress and well (נ.צ. 16430818 / 16430819)' },
+  'מצודת חורבת טוב': { coords: '31.32771, 35.14949', source: 'PhD', notes: 'Horbat Tov Iron Age fortress and well (נ.צ. 16430818)' },
+  'חרי טוב': { coords: '31.32771, 35.14949', source: 'PhD', notes: 'Horbat Tov in Negev' },
+  'אתר קלע': { coords: '32.05449, 35.08647', source: 'PhD', notes: 'Site of Qal\'a in Samaria (נ.צ. 15841624)' },
+  'קלע': { coords: '32.05449, 35.08647', source: 'PhD', notes: 'Site of Qal\'a in Samaria (נ.צ. 15841624)' },
   'אום אל-ביארה': { coords: '30.32083, 35.43750', source: 'PhD', notes: 'Umm el-Biyara fortress, Petra, Jordan' },
   'מעיין דיבדיבה': { coords: '31.84830, 35.18670', source: 'PhD', notes: 'Dibdiba Spring at Gibeon (el-Jib)' },
   'רבי': { coords: '32.75000, 35.50000', source: 'https://survey.iaa.org.il/', notes: 'Horbat Rabbi in Lower Galilee' },
@@ -249,15 +251,16 @@ function resolveParentSiteCoords(name) {
   if (name.includes('טירינס')) return { coords: '37.59944, 22.79972', source: 'https://en.wikipedia.org/wiki/Tiryns', notes: 'Water system at Tiryns' };
   if (name.includes('זירקון')) return { coords: '32.53333, 35.91667', source: 'https://en.wikipedia.org/wiki/Khirbet_ez-Zeraqon', notes: 'Water system at Khirbet ez-Zeraqon' };
   if (name.includes('ג\'ווה') || name.includes('גווה') || name.includes('גיווה')) return { coords: '32.33611, 37.03472', source: 'https://en.wikipedia.org/wiki/Jawa,_Jordan', notes: 'Water pool at Jawa' };
-  if (name.includes('חצור')) return { coords: '33.01750, 35.56833', source: 'PhD', notes: 'Installation at Tel Hazor' };
+  if (name.includes('חצור')) return { coords: '33.01764, 35.56806', source: 'PhD', notes: 'Iron Age water system at Tel Hazor' };
   if (name.includes('תל דן') || name.includes('בדן') || (name.includes('הדן') && !name.includes('ירדן'))) {
     return { coords: '33.24889, 35.65222', source: 'PhD', notes: 'Water installation at Tel Dan' };
   }
   if (name.includes('מגידו')) return { coords: '32.58556, 35.18472', source: 'PhD', notes: 'Water installation at Tel Megiddo' };
   if (name.includes('גזר')) return { coords: '31.86000, 34.92500', source: 'PhD', notes: 'Water system at Tel Gezer' };
   if (name.includes('בית שמש')) return { coords: '31.75000, 34.98500', source: 'PhD', notes: 'Water system at Tel Beit Shemesh' };
-  if (name.includes('לכיש')) return { coords: '31.56500, 34.84900', source: 'PhD', notes: 'Water system at Tel Lachish' };
-  if (name.includes('עוזה')) return { coords: '31.14440, 35.18060', source: 'PhD', notes: 'Water system at Horbat Uza' };
+  if (name.includes('עוזה')) return { coords: '31.20919, 35.16567', source: 'PhD', notes: 'Water system and fortress at Horbat Uza' };
+  if (name.includes('טוב') && !name.includes('טובס')) return { coords: '31.32771, 35.14949', source: 'PhD', notes: 'Fortress and well at Horbat Tov' };
+  if (name.includes('קלע') && !name.includes('מורטקה') && !name.includes('אלון')) return { coords: '32.05449, 35.08647', source: 'PhD', notes: 'Site of Qal\'a in Samaria' };
   if (name.includes('רדום')) return { coords: '31.13890, 35.18890', source: 'PhD', notes: 'Water system at Horbat Radum' };
   if (name.includes('קדש ברנע')) return { coords: '30.64806, 34.42194', source: 'PhD', notes: 'Fortress water conduit at Kadesh Barnea' };
   if (name.includes('אשדוד')) return { coords: '31.75139, 34.65472', source: 'PhD', notes: 'Installation at Tel Ashdod' };

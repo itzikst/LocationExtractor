@@ -28,6 +28,8 @@ function normalizeSiteName(name, heb) {
   if (lower.includes('yokneam') || cleanHeb.includes('יקנעם')) return { eng: 'Tel Yokneam', heb: 'תל יקנעם', key: 'yokneam' };
   if (lower.includes('ibleam') || lower.includes('bel\'ameh') || cleanHeb.includes('יבלעם')) return { eng: 'Ibleam (Khirbet Bel\'ameh)', heb: 'יבלעם (ח\'רבת בלעמה)', key: 'ibleam' };
   if (lower.includes('uza') || cleanHeb.includes('עוזה')) return { eng: 'Horbat Uza', heb: 'חורבת עוזה', key: 'uza' };
+  if (lower.includes('tov') || cleanHeb.includes('טוב')) return { eng: 'Horbat Tov', heb: 'חורבת טוב', key: 'tov' };
+  if (lower.includes('qala') || cleanHeb.includes('קלע')) return { eng: 'Site of Qal\'a', heb: 'אתר קלע', key: 'qala' };
   if (lower.includes('radum') || cleanHeb.includes('רדום')) return { eng: 'Horbat Radum', heb: 'חורבת רדום', key: 'radum' };
   if (lower.includes('halif') || cleanHeb.includes('חליף')) return { eng: 'Tel Halif', heb: 'תל חליף', key: 'halif' };
   if (lower.includes('beit mirsim') || cleanHeb.includes('בית מרסים')) return { eng: 'Tel Beit Mirsim', heb: 'תל בית מרסים', key: 'beit_mirsim' };

@@ -1977,8 +1977,8 @@
     "iaa_site_id": "703",
     "iaa_portal_url": "https://survey.iaa.org.il/#/MapSurvey/2/site/703",
     "iaa_eng_portal_url": "https://survey.iaa.org.il//index_Eng.html#/MapSurvey/2/site/703",
-    "latitude": "33.01843",
-    "longitude": "35.56828",
+    "latitude": "33.01764",
+    "longitude": "35.56806",
     "all_pages": [
       10,
       11,
@@ -2668,8 +2668,8 @@
     "iaa_site_id": "",
     "iaa_portal_url": "",
     "iaa_eng_portal_url": "",
-    "latitude": "31.00039",
-    "longitude": "35.08892",
+    "latitude": "31.32771",
+    "longitude": "35.14949",
     "all_pages": [
       12,
       16,
@@ -3283,8 +3283,8 @@
     "iaa_site_id": "2612",
     "iaa_portal_url": "https://survey.iaa.org.il/#/MapSurvey/15/site/2612",
     "iaa_eng_portal_url": "https://survey.iaa.org.il//index_Eng.html#/MapSurvey/15/site/2612",
-    "latitude": "31.20598",
-    "longitude": "35.16428",
+    "latitude": "31.20919",
+    "longitude": "35.16567",
     "all_pages": [
       13,
       16,
@@ -11737,8 +11737,8 @@
     "iaa_site_id": "23562",
     "iaa_portal_url": "https://survey.iaa.org.il/#/MapSurvey/2170/site/23562",
     "iaa_eng_portal_url": "https://survey.iaa.org.il//index_Eng.html#/MapSurvey/2170/site/23562",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "32.05449",
+    "longitude": "35.08647",
     "all_pages": [
       162,
       207,
@@ -14199,8 +14199,8 @@
     "iaa_site_id": "",
     "iaa_portal_url": "",
     "iaa_eng_portal_url": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.32771",
+    "longitude": "35.14949",
     "all_pages": [
       191
     ]
@@ -14218,8 +14218,8 @@
     "iaa_site_id": "",
     "iaa_portal_url": "",
     "iaa_eng_portal_url": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.32771",
+    "longitude": "35.14949",
     "all_pages": [
       191
     ]
@@ -20251,8 +20251,8 @@
     "iaa_site_id": "",
     "iaa_portal_url": "",
     "iaa_eng_portal_url": "",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "31.32771",
+    "longitude": "35.14949",
     "all_pages": [
       374
     ]
@@ -21760,8 +21760,8 @@
     "iaa_site_id": "",
     "iaa_portal_url": "",
     "iaa_eng_portal_url": "",
-    "latitude": "31.00039",
-    "longitude": "35.08892",
+    "latitude": "31.32771",
+    "longitude": "35.14949",
     "all_pages": [
       413
     ]

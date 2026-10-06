@@ -484,11 +484,11 @@ const MASTER_ARCHAEOLOGICAL_GAZETTEER = {
   'tel_hazor': {
     name: 'Tel Hazor',
     hebName: 'תל חצור',
-    lat: 33.01843,
-    lon: 35.56828,
-    source: 'Yadin 1972; IAA Grid 203500/269300; Dissertation §2.9.2, pp. 118-121',
+    lat: 33.01764,
+    lon: 35.56806,
+    source: 'Yadin 1972; Area L Water Shaft; Dissertation §2.9.2, pp. 118-121',
     tier: 'Tier 1: High Precision (Pinpoint Well/Installation < 50m)',
-    notes: 'Tel Hazor monumental 40m deep vertical shaft and 25m stepped tunnel'
+    notes: 'Tel Hazor monumental Iron Age water system (Area L 40m deep vertical shaft and 25m stepped tunnel)'
   },
   'tel_kabri': {
     name: 'Tel Kabri',
@@ -727,11 +727,29 @@ const MASTER_ARCHAEOLOGICAL_GAZETTEER = {
   'horbat_uza': {
     name: 'Horbat Uza',
     hebName: 'חורבת עוזה',
-    lat: 31.20598,
-    lon: 35.16428,
-    source: 'Beit-Arieh 2007; IAA Grid 165700/068300; Dissertation §2.9.34, pp. 168-169',
+    lat: 31.20919,
+    lon: 35.16567,
+    source: 'Beit-Arieh 2007; IAA Site 2612; Dissertation §2.9.34, pp. 164-165',
     tier: 'Tier 1: High Precision (Pinpoint Well/Installation < 50m)',
-    notes: 'Horbat Uza fortress gate channel, slope cisterns, and southern wadi cistern complex'
+    notes: 'Horbat Uza Iron Age II fortress gate channel and slope cisterns (wadi cisterns 300m south at 31.20598, 35.16428)'
+  },
+  'horbat_tov': {
+    name: 'Horbat Tov',
+    hebName: 'חורבת טוב',
+    lat: 31.32771,
+    lon: 35.14949,
+    source: 'Dissertation §2.9.16, pp. 154-155 (נ.צ. 16430818 / 16430819)',
+    tier: 'Tier 1: High Precision (Pinpoint Well/Installation < 50m)',
+    notes: 'Horbat Tov Iron Age fortress (נ.צ. 16430818) and well in Nahal Tov bed (נ.צ. 16430819)'
+  },
+  'qala': {
+    name: 'Site of Qal\'a',
+    hebName: 'אתר קלע',
+    lat: 32.05449,
+    lon: 35.08647,
+    source: 'Dissertation §2.9.21, p. 158 (נ.צ. 15841624); Eitam 1980',
+    tier: 'Tier 1: High Precision (Pinpoint Well/Installation < 50m)',
+    notes: 'Site of Qal\'a (Samaria / Nahal Shiloh region) Iron II olive oil center with rock-cut cisterns'
   },
   'ibleam_khirbet_bel_ameh': {
     name: 'Ibleam (Khirbet Bel\'ameh)',
