@@ -484,8 +484,8 @@ const MASTER_ARCHAEOLOGICAL_GAZETTEER = {
   'tel_hazor': {
     name: 'Tel Hazor',
     hebName: 'תל חצור',
-    lat: 33.01685,
-    lon: 35.56635,
+    lat: 33.016567,
+    lon: 35.567483,
     source: 'Yadin 1972; Area L Water Shaft; Dissertation §2.9.2, pp. 118-121',
     tier: 'Tier 1: High Precision (Pinpoint Well/Installation < 50m)',
     notes: 'Tel Hazor monumental Iron Age water system (Area L 40m deep vertical shaft and 25m stepped tunnel)'

@@ -1428,15 +1428,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.56635,
-          33.01685
+          35.567483,
+          33.016567
         ]
       },
       "properties": {
         "location name": "Tel Hazor",
         "location_name_he": "תל חצור",
-        "latitude": 33.01685,
-        "longitude": 35.56635,
+        "latitude": 33.016567,
+        "longitude": 35.567483,
         "start year": -2200,
         "end time": -1550,
         "title": "Water_Tunnel_Shaft",
@@ -1757,15 +1757,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.56635,
-          33.01685
+          35.567483,
+          33.016567
         ]
       },
       "properties": {
         "location name": "Tel Hazor",
         "location_name_he": "תל חצור",
-        "latitude": 33.01685,
-        "longitude": 35.56635,
+        "latitude": 33.016567,
+        "longitude": 35.567483,
         "start year": -1550,
         "end time": -1200,
         "title": "Water_Reservoir",
@@ -2006,15 +2006,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.56635,
-          33.01685
+          35.567483,
+          33.016567
         ]
       },
       "properties": {
         "location name": "Tel Hazor",
         "location_name_he": "תל חצור",
-        "latitude": 33.01685,
-        "longitude": 35.56635,
+        "latitude": 33.016567,
+        "longitude": 35.567483,
         "start year": -1200,
         "end time": -1000,
         "title": "Aqueduct_Channel",
@@ -3820,15 +3820,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.56635,
-          33.01685
+          35.567483,
+          33.016567
         ]
       },
       "properties": {
         "location name": "Tel Hazor",
         "location_name_he": "תל חצור",
-        "latitude": 33.01685,
-        "longitude": 35.56635,
+        "latitude": 33.016567,
+        "longitude": 35.567483,
         "start year": -1000,
         "end time": -586,
         "title": "Water_Tunnel_Shaft",
