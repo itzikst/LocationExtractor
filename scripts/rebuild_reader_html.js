@@ -33,6 +33,7 @@ function loadGeocodedMap() {
 }
 
 // Convert all in-text occurrences of Israeli Grid coordinates to clickable Google Maps links (zoom 17)
+// Preserves original text exactly, wrapping it in an href with light yellow background highlight
 export function linkifyIsraeliGridCoords(html) {
   if (!html) return '';
 
@@ -50,14 +51,8 @@ export function linkifyIsraeliGridCoords(html) {
     if (!geo) return match;
 
     const mapUrl = `https://www.google.com/maps?q=${geo.lat},${geo.lon}&ll=${geo.lat},${geo.lon}&z=17`;
-    const cleanPrefix = prefix.trim();
-    const cleanNum = numStr.trim();
-    const isBeth = cleanPrefix.startsWith('ב');
-    const isLamed = cleanPrefix.startsWith('ל');
-    const prefixLetter = isBeth ? 'ב' : (isLamed ? 'ל' : '');
-    const mainPrefix = prefixLetter ? cleanPrefix.slice(1).trim() : cleanPrefix;
 
-    return `${prefixLetter}<a href="${mapUrl}" target="_blank" rel="noopener" class="grid-coord-link" title="רשת ישראל נ.צ. ${cleanNum} (WGS84: ${geo.lat}, ${geo.lon}) - פתח ב-Google Maps (זום 17)">📍 ${mainPrefix} ${cleanNum} ↗</a>`;
+    return `<a href="${mapUrl}" target="_blank" rel="noopener" class="grid-coord-link" title="רשת ישראל: ${match.trim()} (WGS84: ${geo.lat}, ${geo.lon}) — פתח ב-Google Maps (זום 17)">${match}</a>`;
   });
 
   return processed;
@@ -898,39 +893,36 @@ function generateReaderHtml() {
       color: #a78bfa;
     }
 
-    /* In-Text Israeli Grid Coordinate Links */
+    /* In-Text Israeli Grid Coordinate Links (Light Yellow Background Highlight) */
     .grid-coord-link {
-      display: inline-flex;
-      align-items: center;
-      gap: 3px;
-      background: rgba(2, 132, 199, 0.08);
-      color: var(--accent-color);
-      border: 1px solid rgba(2, 132, 199, 0.28);
-      padding: 1px 7px;
-      border-radius: 5px;
+      background-color: #fef08a;
+      color: #713f12;
+      border-bottom: 2px solid #eab308;
+      padding: 0 4px;
+      border-radius: 3px;
       font-weight: 700;
-      font-size: 0.92em;
       text-decoration: none;
-      font-family: inherit;
-      transition: all 0.18s ease;
-      vertical-align: baseline;
-      box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+      transition: all 0.15s ease;
+      cursor: pointer;
+      display: inline;
     }
     .grid-coord-link:hover {
-      background: var(--accent-color);
-      color: #ffffff !important;
-      border-color: var(--accent-color);
-      box-shadow: 0 2px 6px rgba(2, 132, 199, 0.35);
-      transform: translateY(-1px);
+      background-color: #fde047;
+      color: #451a03;
+      border-bottom-color: #ca8a04;
+      box-shadow: 0 1px 4px rgba(234, 179, 8, 0.4);
+      text-decoration: underline;
     }
     [data-theme="dark"] .grid-coord-link {
-      background: rgba(56, 189, 248, 0.12);
-      color: #38bdf8;
-      border-color: rgba(56, 189, 248, 0.3);
+      background-color: #78350f;
+      color: #fef08a;
+      border-bottom: 2px solid #ca8a04;
     }
     [data-theme="dark"] .grid-coord-link:hover {
-      background: #0284c7;
-      color: #ffffff !important;
+      background-color: #92400e;
+      color: #fef9c3;
+      border-bottom-color: #eab308;
+      box-shadow: 0 1px 4px rgba(202, 138, 4, 0.5);
     }
 
     /* Main Reading Content Area */
