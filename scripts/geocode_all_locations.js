@@ -250,8 +250,16 @@ function resolveParentSiteCoords(name) {
   if (name.includes('מיקנה')) return { coords: '37.73083, 22.75611', source: 'https://en.wikipedia.org/wiki/Mycenae', notes: 'Water system at Mycenae' };
   if (name.includes('טירינס')) return { coords: '37.59944, 22.79972', source: 'https://en.wikipedia.org/wiki/Tiryns', notes: 'Water system at Tiryns' };
   if (name.includes('זירקון')) return { coords: '32.53333, 35.91667', source: 'https://en.wikipedia.org/wiki/Khirbet_ez-Zeraqon', notes: 'Water system at Khirbet ez-Zeraqon' };
-  if (name.includes('ג\'ווה') || name.includes('גווה') || name.includes('גיווה')) return { coords: '32.33611, 37.03472', source: 'https://en.wikipedia.org/wiki/Jawa,_Jordan', notes: 'Water pool at Jawa' };
-  if (name.includes('חצור')) return { coords: '33.01764, 35.56806', source: 'PhD', notes: 'Iron Age water system at Tel Hazor' };
+  if (name.includes('אמת המים הדרומית') || name.includes('התעלה החצובה הדרומית') || name.includes('בנחל חצור')) {
+    return { coords: '33.00715, 35.55645', source: 'PhD', notes: 'Southern aqueduct of Tel Hazor (נ.צ. 20240/26805)' };
+  }
+  if (name.includes('מחוליות') || name.includes('מעיין ליד תל חצור')) {
+    return { coords: '33.01770, 35.55703', source: 'PhD', notes: 'Northern aqueduct Segment IV of Tel Hazor (נ.צ. 20245/26922)' };
+  }
+  if (name.includes('אמת המים הצפונית') || name.includes('התעלה החצובה הצפונית')) {
+    return { coords: '33.01915, 35.54889', source: 'PhD', notes: 'Northern aqueduct of Tel Hazor (נ.צ. 20169/26938)' };
+  }
+  if (name.includes('חצור')) return { coords: '33.01685, 35.56635', source: 'PhD', notes: 'Iron Age water system at Tel Hazor (Area L shaft)' };
   if (name.includes('תל דן') || name.includes('בדן') || (name.includes('הדן') && !name.includes('ירדן'))) {
     return { coords: '33.24889, 35.65222', source: 'PhD', notes: 'Water installation at Tel Dan' };
   }

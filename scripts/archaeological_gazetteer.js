@@ -484,11 +484,38 @@ const MASTER_ARCHAEOLOGICAL_GAZETTEER = {
   'tel_hazor': {
     name: 'Tel Hazor',
     hebName: 'תל חצור',
-    lat: 33.01764,
-    lon: 35.56806,
+    lat: 33.01685,
+    lon: 35.56635,
     source: 'Yadin 1972; Area L Water Shaft; Dissertation §2.9.2, pp. 118-121',
     tier: 'Tier 1: High Precision (Pinpoint Well/Installation < 50m)',
     notes: 'Tel Hazor monumental Iron Age water system (Area L 40m deep vertical shaft and 25m stepped tunnel)'
+  },
+  'hazor_northern_aqueduct_west': {
+    name: 'Tel Hazor Northern Aqueduct (West)',
+    hebName: 'אמת המים הצפונית בתל חצור (קטע מערבי)',
+    lat: 33.01915,
+    lon: 35.54889,
+    source: 'Stepansky 1996; Dissertation Fig. 142 (נ.צ. 20169/26938)',
+    tier: 'Tier 1: High Precision (Pinpoint Well/Installation < 50m)',
+    notes: 'Tel Hazor northern rock-cut aqueduct channel (western section, נ.צ. 20169/26938)'
+  },
+  'hazor_northern_aqueduct_east': {
+    name: 'Tel Hazor Northern Aqueduct (Segment IV)',
+    hebName: 'אמת מים בנויה מחוליות בתל חצור (התעלה הצפונית)',
+    lat: 33.01770,
+    lon: 35.55703,
+    source: 'Stepansky 1996; Dissertation Fig. 142/144 (נ.צ. 20245/26922)',
+    tier: 'Tier 1: High Precision (Pinpoint Well/Installation < 50m)',
+    notes: 'Tel Hazor northern built link aqueduct channel (Segment IV, נ.צ. 20245/26922)'
+  },
+  'hazor_southern_aqueduct': {
+    name: 'Tel Hazor Southern Aqueduct (Nahal Hazor)',
+    hebName: 'אמת המים הדרומית בתל חצור (נחל חצור)',
+    lat: 33.00715,
+    lon: 35.55645,
+    source: 'Stepansky 1996; Dissertation Fig. 143 (נ.צ. 20240/26805)',
+    tier: 'Tier 1: High Precision (Pinpoint Well/Installation < 50m)',
+    notes: 'Tel Hazor southern rock-cut aqueduct channel in Nahal Hazor (נ.צ. 20240/26805)'
   },
   'tel_kabri': {
     name: 'Tel Kabri',
